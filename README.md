@@ -10,6 +10,7 @@
 - 네이버 블로그: https://blog.naver.com/miso-clinic
 - 영어 블로그: https://misoclinic.blogspot.com/ · https://misoclinic.substack.com/
 - LinkedIn: https://www.linkedin.com/in/chihak-lee-56188093
+- ORCID: https://orcid.org/0009-0000-7472-8617 · 데이터셋 DOI: https://doi.org/10.5281/zenodo.24431123
 
 ---
 
