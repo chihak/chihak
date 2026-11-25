@@ -1472,5 +1472,73 @@ Appelle les urgences s'il ne se réveille pas en une minute, ne respire pas, est
 ```
 - Tags: `失神, 応急手当, 意識を失う, 足を上げる, めまい, 健康, sketch clinic`
 
+### ep23-severe-bleeding — English
+- File: `ep23-severe-bleeding/ep23-severe-bleeding-en.mp4`
+- Video language: English
+- Subtitles file: `ep23-severe-bleeding/ep23-severe-bleeding-en.srt` (Subtitles → Add language: English → Upload file → With timing)
+- Title: `Severe Bleeding? What to Do (First Aid Steps) #Shorts`
+- Description:
+```
+For heavy bleeding, call emergency services, press hard and firmly on the wound with a clean cloth or gauze, and keep pressing. If blood soaks through, add more cloth on top instead of removing it. Lay the person down and raise the injured limb if you can.
+Don't pull out objects stuck in the wound, peek, or stop pressing.
+Get medical help for any wound that bleeds heavily, spurts, or won't stop after 10 minutes of pressure.
+
+Educational only — not medical advice. If you have symptoms, see a healthcare professional.
+
+#Shorts #FirstAid #Bleeding #SketchClinic
+```
+- Tags: `severe bleeding, first aid, how to stop bleeding, direct pressure, bleeding wound, emergency, wound care, cut, health, sketch clinic`
+
+### ep23-severe-bleeding — Spanish  *(Phase 2 — only if the user asks)*
+- File: `ep23-severe-bleeding/ep23-severe-bleeding-es.mp4`
+- Video language: Spanish
+- Subtitles file: `ep23-severe-bleeding/ep23-severe-bleeding-es.srt` (Subtitles → Add language: Spanish → Upload file → With timing)
+- Title: `¿Sangrado grave? Qué hacer (primeros auxilios) #Shorts`
+- Description:
+```
+Ante un sangrado abundante, llama a emergencias, presiona fuerte y sin soltar la herida con un paño limpio o gasa y sigue presionando. Si la sangre empapa el paño, añade más encima en lugar de quitarlo. Acuesta a la persona y eleva la extremidad herida si puedes.
+No saques objetos clavados en la herida, no mires ni dejes de presionar.
+Busca atención médica si una herida sangra mucho, sale a chorros o no para tras 10 minutos de presión.
+
+Solo con fines educativos; no es consejo médico. Si tienes síntomas, consulta a un profesional de la salud.
+
+#Shorts #PrimerosAuxilios #Sangrado #SketchClinic
+```
+- Tags: `sangrado grave, primeros auxilios, cómo detener una hemorragia, presión directa, herida, emergencia, corte, salud, sketch clinic`
+
+### ep23-severe-bleeding — French  *(Phase 2 — only if the user asks)*
+- File: `ep23-severe-bleeding/ep23-severe-bleeding-fr.mp4`
+- Video language: French
+- Subtitles file: `ep23-severe-bleeding/ep23-severe-bleeding-fr.srt` (Subtitles → Add language: French → Upload file → With timing)
+- Title: `Saignement grave ? Les bons gestes (premiers secours) #Shorts`
+- Description:
+```
+En cas de saignement important, appelle les urgences, appuie fort et sans relâcher sur la plaie avec un linge propre ou une compresse, et continue. Si le sang traverse, ajoute un linge par-dessus au lieu de l'enlever. Allonge la personne et surélève le membre blessé si possible.
+Ne retire pas un objet planté dans la plaie, ne regarde pas sous le linge et n'arrête pas d'appuyer.
+Cherche une aide médicale si une plaie saigne beaucoup, gicle ou ne s'arrête pas après 10 minutes de pression.
+
+À but éducatif uniquement — pas un avis médical. Si tu as des symptômes, consulte un professionnel de santé.
+
+#Shorts #PremiersSecours #Saignement #SketchClinic
+```
+- Tags: `saignement grave, premiers secours, arrêter une hémorragie, compression directe, plaie, urgence, coupure, santé, sketch clinic`
+
+### ep23-severe-bleeding — Japanese  *(Phase 2 — only if the user asks)*
+- File: `ep23-severe-bleeding/ep23-severe-bleeding-ja.mp4`
+- Video language: Japanese
+- Subtitles file: `ep23-severe-bleeding/ep23-severe-bleeding-ja.srt` (Subtitles → Add language: Japanese → Upload file → With timing)
+- Title: `ひどい出血のときは？応急手当の手順 #Shorts`
+- Description:
+```
+大量に出血しているときは、救急車を呼び、清潔な布やガーゼで傷を強く押さえ続けます。血がしみても布ははがさず、上から重ねます。できれば横にして、けがをした手足を高くします。
+傷に刺さった物は抜かず、のぞいたり押さえるのをやめたりしないでください。
+大量に出る、噴き出す、10分押さえても止まらない出血は医療機関を受診してください。
+
+教育目的の情報であり、医療アドバイスではありません。症状がある場合は医療機関を受診してください。
+
+#Shorts #応急手当 #出血 #SketchClinic
+```
+- Tags: `出血, 応急手当, 止血, 圧迫, けが, 健康, sketch clinic`
+
 ## Step 3 — Report back
 Send the user: channel URL, and a table of episode → video URL (all Private).

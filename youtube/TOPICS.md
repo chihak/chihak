@@ -26,7 +26,7 @@ Covered by ep01-ep20: stroke, heart attack, leg cramps, knuckle cracking, hiccup
 - todo: Food poisoning - fluids and warning signs
 - todo: Why do we get a sore throat? When to see a doctor
 - todo: Cold vs flu vs COVID - differences and red flags
-- in progress: ep23-severe-bleeding - Severe bleeding - direct pressure
+- done: ep23-severe-bleeding - Severe bleeding - direct pressure
 - todo: Seizure first aid
 - todo: Low blood sugar signs (hypoglycaemia) and what to do
 - todo: Why do we get goosebumps from music (frisson)?
