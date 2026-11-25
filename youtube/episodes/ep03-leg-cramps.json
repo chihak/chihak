@@ -1,0 +1,126 @@
+{
+  "id": "ep03-leg-cramps",
+  "title": {
+    "en": "Why Do Legs *Cramp* at Night?",
+    "es": "¿Por qué dan *calambres* de noche?",
+    "fr": "Pourquoi des *crampes* la nuit ?",
+    "ja": "夜中に*足がつる*のはなぜ？"
+  },
+  "steps": 4,
+  "stepsFrom": 2,
+  "coverTime": 4.5,
+  "scenes": [
+    {
+      "dur": 5,
+      "caption": {
+        "en": "Ever woken up at night with a *rock-hard* calf that won't let go?",
+        "es": "¿Te ha despertado de noche una pantorrilla *dura como piedra*?",
+        "fr": "Réveillé la nuit par un mollet *dur comme de la pierre* ?",
+        "ja": "夜中、ふくらはぎが*カチカチ*になって目が覚めたことは？"
+      },
+      "svg": "<path class='d' data-s='0' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 170 640 L 170 1060 M 170 840 L 900 840 L 900 910 L 170 910 M 900 910 L 900 1060'/><ellipse class='d' data-s='0.3' data-d='0.5' cx='275' cy='805' rx='75' ry='30' fill='none' stroke='#1d1d1d' stroke-width='9'/><circle class='d' data-s='0.5' data-d='0.5' cx='285' cy='740' r='50' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='0.7' data-d='0.7' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 330 840 C 360 720 520 700 640 750 L 650 840'/><path class='d' data-s='1.0' data-d='0.7' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 640 765 L 790 778 L 855 815 L 845 832 L 790 822 C 760 836 700 846 650 830'/><path class='d' data-s='1.5' data-d='0.5' fill='none' stroke='#e63946' stroke-width='10' d='M 735 610 L 695 690 L 740 685 L 700 765'/><path class='p' data-s='1.9' data-d='0.4' fill='none' stroke='#e63946' stroke-width='8' d='M 640 680 L 620 650 M 800 690 L 825 660 M 820 740 L 860 735'/><path class='d' data-s='0.4' data-d='0.7' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 470 470 A 60 60 0 1 0 540 580 A 48 48 0 1 1 470 470 Z'/><path class='p' data-s='0.9' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='6' d='M 330 500 L 330 540 M 310 520 L 350 520 M 620 480 L 620 510 M 605 495 L 635 495'/>",
+      "texts": [
+        { "x": 540, "y": 1190, "size": 96, "color": "#e63946", "s": 2.0,
+          "t": { "en": "OUCH!", "es": "¡AY!", "fr": "AÏE !", "ja": "いたっ！" } }
+      ]
+    },
+    {
+      "dur": 5.5,
+      "caption": {
+        "en": "A cramp is a muscle that suddenly *tightens* and won't relax. Often there's no clear cause.",
+        "es": "Un calambre es un músculo que se *contrae* de golpe y no se relaja. A menudo, sin causa clara.",
+        "fr": "Une crampe, c'est un muscle qui se *contracte* d'un coup et ne se relâche pas. Souvent sans cause claire.",
+        "ja": "筋肉が急に*縮んで*戻らなくなる状態。はっきりした原因がないことも多いです。"
+      },
+      "svg": "<path class='d' data-s='0' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 170 600 L 270 600 C 360 530 720 530 810 600 L 910 600 M 270 600 C 360 670 720 670 810 600'/><path class='d' data-s='0.6' data-d='0.6' fill='none' stroke='#888' stroke-width='6' d='M 340 590 L 740 590 M 340 612 L 740 612'/><path class='d' data-s='1.2' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 540 690 L 540 770 M 512 742 L 540 772 L 568 742'/><path class='f' data-s='2.0' data-d='0.5' data-o='0.35' fill='#e63946' opacity='0' d='M 400 920 C 430 790 650 790 680 920 C 650 1050 430 1050 400 920 Z'/><path class='d' data-s='1.6' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 290 920 L 400 920 C 430 790 650 790 680 920 L 790 920 M 400 920 C 430 1050 650 1050 680 920'/><path class='d' data-s='2.4' data-d='0.5' fill='none' stroke='#e63946' stroke-width='8' d='M 470 770 L 485 740 L 500 770 L 515 740 L 530 770 M 560 770 L 575 740 L 590 770 L 605 740 L 620 770'/><path class='d' data-s='2.6' data-d='0.5' fill='none' stroke='#e63946' stroke-width='9' d='M 180 870 L 270 900 M 250 870 L 272 900 L 240 914 M 900 870 L 810 900 M 830 870 L 808 900 L 840 914'/>",
+      "texts": [
+        { "x": 540, "y": 1190, "size": 92, "color": "#e63946", "s": 2.6,
+          "t": { "en": "STUCK TIGHT", "es": "CONTRAÍDO", "fr": "CONTRACTÉ", "ja": "縮んだまま" } }
+      ]
+    },
+    {
+      "dur": 4.4, "step": 1,
+      "caption": {
+        "en": "*1* — Tired, *overworked* muscles, like after exercise or a long day on your feet.",
+        "es": "*1* — Músculos *cansados*, tras el ejercicio o un largo día de pie.",
+        "fr": "*1* — Muscles *fatigués*, après le sport ou une longue journée debout.",
+        "ja": "*1* 運動や立ちっぱなしで*疲れた*筋肉"
+      },
+      "svg": "<circle class='d' data-s='0' data-d='0.5' cx='520' cy='560' r='55' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='0.3' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 515 615 L 480 830 M 505 680 L 420 760 L 380 700 M 505 680 L 600 740 L 650 680 M 480 830 L 390 910 L 350 1030 M 480 830 L 580 930 L 560 1060'/><path class='d' data-s='0.8' data-d='0.6' fill='none' stroke='#888' stroke-width='7' d='M 200 620 L 300 620 M 180 700 L 300 700 M 210 780 L 300 780'/><path class='d' data-s='0' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='6' d='M 220 1080 Q 540 1060 860 1080'/><path class='d' data-s='1.2' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 720 520 H 880 V 600 H 720 Z M 880 545 H 898 V 575 H 880'/><path class='p' data-s='1.7' data-d='0.4' fill='#e63946' d='M 734 534 H 764 V 586 H 734 Z'/><path class='p' data-s='2.0' data-d='0.4' fill='#d9d9d9' stroke='#1d1d1d' stroke-width='6' d='M 620 520 C 604 546 598 560 598 572 a 22 22 0 0 0 44 0 C 642 560 636 546 620 520 Z'/><path class='d' data-s='2.2' data-d='0.5' fill='none' stroke='#e63946' stroke-width='8' d='M 610 905 L 640 885 M 615 935 L 655 935 M 600 960 L 630 985'/>",
+      "texts": [
+        { "x": 540, "y": 1210, "size": 82, "sizeJa": 92, "color": "#e63946", "s": 0.5,
+          "t": { "en": "TIRED MUSCLES", "es": "MÚSCULO CANSADO", "fr": "MUSCLES FATIGUÉS", "ja": "筋肉の疲れ" } }
+      ]
+    },
+    {
+      "dur": 4.4, "step": 2,
+      "caption": {
+        "en": "*2* — Sitting for a long time, or legs in an *awkward position*.",
+        "es": "*2* — Estar sentado mucho tiempo o con las piernas en *mala postura*.",
+        "fr": "*2* — Rester assis longtemps, ou les jambes dans une *mauvaise position*.",
+        "ja": "*2* 長時間座りっぱなし、*無理な姿勢*"
+      },
+      "svg": "<path class='d' data-s='0' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 650 600 L 650 880 L 420 880 M 440 880 L 440 1080 M 640 880 L 640 1080'/><circle class='d' data-s='0.4' data-d='0.5' cx='585' cy='620' r='55' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='0.7' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 590 675 L 600 860 L 420 860 L 400 1070 L 330 1070 M 595 740 L 500 800 L 450 770'/><circle class='d' data-s='1.2' data-d='0.7' cx='280' cy='640' r='100' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='1.6' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='7' d='M 280 555 L 280 572 M 365 640 L 348 640 M 280 725 L 280 708 M 195 640 L 212 640'/><path class='d' data-s='1.9' data-d='0.6' fill='none' stroke='#e63946' stroke-width='10' d='M 280 640 L 280 575 M 280 640 L 335 670'/><path class='d' data-s='2.4' data-d='0.7' fill='none' stroke='#e63946' stroke-width='8' d='M 740 620 A 80 80 0 1 1 760 760 M 760 760 L 735 740 M 760 760 L 770 730'/><path class='d' data-s='2.4' data-d='0.5' fill='none' stroke='#e63946' stroke-width='8' d='M 340 960 L 310 940 M 345 990 L 305 995 M 360 1015 L 335 1040'/>",
+      "texts": [
+        { "x": 540, "y": 1210, "size": 89, "sizeJa": 92, "color": "#e63946", "s": 0.5,
+          "t": { "en": "LONG SITTING", "es": "HORAS SENTADO", "fr": "ASSIS LONGTEMPS", "ja": "同じ姿勢が続く" } }
+      ]
+    },
+    {
+      "dur": 4.4, "step": 3,
+      "caption": {
+        "en": "*3* — Not drinking enough: being *dehydrated*.",
+        "es": "*3* — No beber suficiente agua: *deshidratación*.",
+        "fr": "*3* — Ne pas boire assez : la *déshydratation*.",
+        "ja": "*3* 水分不足（*脱水*）"
+      },
+      "svg": "<path class='d' data-s='0' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 330 560 L 370 1070 L 590 1070 L 630 560'/><path class='f' data-s='0.8' data-d='0.5' data-o='0.4' fill='#888' opacity='0' d='M 362 980 L 370 1070 L 590 1070 L 598 980 Z'/><path class='d' data-s='0.8' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='7' d='M 362 980 Q 420 965 480 980 T 598 980'/><path class='d' data-s='1.3' data-d='0.7' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 790 560 C 750 630 710 680 710 740 a 80 80 0 0 0 160 0 C 870 680 830 630 790 560 Z'/><path class='d' data-s='2.0' data-d='0.6' fill='none' stroke='#e63946' stroke-width='12' d='M 790 880 L 790 1050 M 750 1010 L 790 1052 L 830 1010'/><path class='d' data-s='2.4' data-d='0.4' fill='none' stroke='#888' stroke-width='6' d='M 440 640 L 460 900'/>",
+      "texts": [
+        { "x": 540, "y": 1210, "size": 92, "color": "#e63946", "s": 0.5,
+          "t": { "en": "DEHYDRATION", "es": "DESHIDRATACIÓN", "fr": "DÉSHYDRATATION", "ja": "水分不足" } }
+      ]
+    },
+    {
+      "dur": 4.4, "step": 4,
+      "caption": {
+        "en": "*4* — Some *medicines*, pregnancy, and getting older.",
+        "es": "*4* — Algunos *medicamentos*, el embarazo y la edad.",
+        "fr": "*4* — Certains *médicaments*, la grossesse et l'âge.",
+        "ja": "*4* 一部の*薬*、妊娠、加齢"
+      },
+      "svg": "<g transform='rotate(-35 330 800)'><path class='d' data-s='0' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 270 740 H 390 A 60 60 0 0 1 390 860 H 270 A 60 60 0 0 1 270 740 Z'/><path class='f' data-s='0.7' data-d='0.5' data-o='0.85' fill='#e63946' opacity='0' d='M 330 745 H 390 A 55 55 0 0 1 390 855 H 330 Z'/><path class='d' data-s='0.6' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 330 740 V 860'/></g><circle class='d' data-s='0.8' data-d='0.5' cx='720' cy='560' r='55' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='1.1' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 715 615 L 700 900 M 712 690 C 840 720 850 870 702 880 M 705 680 L 640 800 M 700 900 L 660 1080 M 700 900 L 750 1080'/><path class='p' data-s='2.0' data-d='0.4' fill='#e63946' stroke='none' d='M 770 800 C 745 785 742 760 758 756 C 766 754 770 760 770 765 C 770 760 774 754 782 756 C 798 760 795 785 770 800 Z'/>",
+      "texts": [
+        { "x": 540, "y": 1210, "size": 58, "sizeJa": 92, "color": "#e63946", "s": 0.5,
+          "t": { "en": "MEDS · PREGNANCY", "es": "FÁRMACOS · EMBARAZO", "fr": "MÉDICAMENTS · GROSSESSE", "ja": "薬・妊娠・加齢" } }
+      ]
+    },
+    {
+      "dur": 5.5,
+      "caption": {
+        "en": "Quick relief: straighten your leg and pull your toes *toward you*. Hold, then massage.",
+        "es": "Alivio rápido: estira la pierna y tira de los dedos del pie *hacia ti*. Mantén y masajea.",
+        "fr": "Pour soulager : tends la jambe et tire tes orteils *vers toi*. Tiens, puis masse.",
+        "ja": "応急法：脚を伸ばし、つま先を*手前に*引いてキープ。その後マッサージ。"
+      },
+      "svg": "<path class='d' data-s='0' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='6' d='M 150 930 Q 540 915 930 930'/><path class='d' data-s='0.2' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 170 760 L 470 775 L 760 795 M 170 890 L 470 880 C 560 915 690 900 760 865'/><path class='f' data-s='0.6' data-d='0.4' data-o='0.5' fill='none' stroke='#888' stroke-width='9' stroke-dasharray='18 16' opacity='0' d='M 760 795 L 890 840 L 880 868 L 760 865'/><path class='d' data-s='1.2' data-d='0.7' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 760 795 L 770 650 Q 775 625 800 632 L 815 700 Q 830 800 790 880 L 760 865'/><path class='d' data-s='1.9' data-d='0.7' fill='none' stroke='#e63946' stroke-width='10' d='M 910 790 Q 920 660 830 590 M 830 590 L 868 588 M 830 590 L 845 625'/><path class='d' data-s='2.3' data-d='0.8' fill='none' stroke='#888' stroke-width='8' d='M 790 640 L 600 520'/><circle class='d' data-s='2.6' data-d='0.4' cx='585' cy='510' r='22' fill='none' stroke='#1d1d1d' stroke-width='8'/><path class='p' data-s='3.0' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='7' d='M 540 935 Q 560 960 580 935 M 610 940 Q 630 965 650 940'/>",
+      "texts": [
+        { "x": 540, "y": 1190, "size": 96, "color": "#e63946", "s": 1.8,
+          "t": { "en": "STRETCH", "es": "ESTIRA", "fr": "ÉTIRE", "ja": "ストレッチ" } }
+      ]
+    },
+    {
+      "dur": 5.5,
+      "caption": {
+        "en": "See a doctor if cramps are frequent or severe, or come with *swelling*, redness or weakness.",
+        "es": "Consulta al médico si son frecuentes o intensos, o hay *hinchazón*, enrojecimiento o debilidad.",
+        "fr": "Consulte si elles sont fréquentes ou fortes, ou avec *gonflement*, rougeur ou faiblesse.",
+        "ja": "頻繁・強い痛み、または*腫れ*・赤み・脱力があれば受診を。"
+      },
+      "svg": "<path class='d' data-s='0' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 380 520 L 380 680 C 380 800 560 800 560 680 L 560 520'/><path class='d' data-s='0.3' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 350 520 L 410 520 M 530 520 L 590 520'/><path class='d' data-s='0.8' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 470 775 C 470 930 560 1010 660 990 C 760 970 770 860 760 800'/><circle class='d' data-s='1.5' data-d='0.5' cx='760' cy='750' r='52' fill='none' stroke='#1d1d1d' stroke-width='10'/><circle class='p' data-s='1.9' data-d='0.3' cx='760' cy='750' r='20' fill='#e63946'/><path class='d' data-s='2.2' data-d='0.7' fill='none' stroke='#e63946' stroke-width='10' d='M 230 1060 L 300 940 L 370 1060 Z'/><path class='p' data-s='2.8' data-d='0.3' fill='none' stroke='#e63946' stroke-width='10' d='M 300 975 L 300 1015 M 300 1040 L 300 1042'/>",
+      "texts": [
+        { "x": 540, "y": 1190, "size": 92, "color": "#e63946", "s": 2.0,
+          "t": { "en": "SEE A DOCTOR", "es": "VE AL MÉDICO", "fr": "CONSULTE", "ja": "受診しよう" } }
+      ]
+    }
+  ]
+}

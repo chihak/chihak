@@ -1,0 +1,218 @@
+{
+ "id": "ep06-eye-twitch",
+ "title": {
+  "en": "Why Does Your *Eyelid* Twitch?",
+  "es": "¿Por qué te tiembla el *párpado*?",
+  "fr": "Pourquoi la *paupière* saute ?",
+  "ja": "*まぶた*がピクピクするのはなぜ？"
+ },
+ "steps": 4,
+ "stepsFrom": 2,
+ "coverTime": 4.5,
+ "scenes": [
+  {
+   "dur": 5,
+   "caption": {
+    "en": "Eyelid *twitching* all by itself? You’re not alone — it’s *very common*.",
+    "es": "¿Te *tiembla* el párpado solo? No eres el único: es *muy común*.",
+    "fr": "Ta paupière *saute* toute seule ? C’est *très fréquent*.",
+    "ja": "まぶたが勝手に*ピクピク*…？実は*よくあること*なんです。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 240 780 Q 540 540 840 780 Q 540 1020 240 780 Z'/><circle class='d' data-s='0.6' data-d='0.5' cx='540' cy='780' r='105' fill='none' stroke='#1d1d1d' stroke-width='10'/><circle class='p' data-s='0.9' data-d='0.4' cx='540' cy='780' r='45' fill='#1d1d1d'/><path class='d' data-s='0.4' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='7' d='M 270 720 Q 540 500 810 720'/><path class='d' data-s='0.6' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='7' d='M 330 650 L 305 610 M 440 590 L 430 545 M 540 570 L 540 525 M 640 590 L 650 545 M 750 650 L 775 610'/><path class='d' data-s='1.4' data-d='0.5' fill='none' stroke='#e63946' stroke-width='9' d='M 330 960 Q 540 1080 750 960'/><path class='d' data-s='1.6' data-d='0.5' fill='none' stroke='#e63946' stroke-width='9' d='M 400 1030 Q 540 1110 680 1030'/><path class='d' data-s='1.8' data-d='0.4' fill='none' stroke='#e63946' stroke-width='8' d='M 190 820 L 160 790 L 200 770 L 170 740'/><path class='d' data-s='1.9' data-d='0.4' fill='none' stroke='#e63946' stroke-width='8' d='M 890 820 L 920 790 L 880 770 L 910 740'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1205,
+     "size": 96,
+     "color": "#e63946",
+     "s": 2.2,
+     "t": {
+      "en": "TWITCH!",
+      "es": "¡TIEMBLA!",
+      "fr": "ÇA SAUTE !",
+      "ja": "ピクピク！"
+     }
+    }
+   ]
+  },
+  {
+   "dur": 5.5,
+   "caption": {
+    "en": "It’s called *myokymia*: tiny, involuntary flickers of the *eyelid muscle*.",
+    "es": "Se llama *mioquimia*: pequeñas contracciones involuntarias del *músculo del párpado*.",
+    "fr": "Ça s’appelle la *myokymie* : de petites contractions involontaires du *muscle de la paupière*.",
+    "ja": "これは*眼瞼ミオキミア*。まぶたの筋肉が勝手に小さく*けいれん*する状態です。"
+   },
+   "svg": "<path class='f' data-s='0.1' data-d='0.6' data-o='0.3' fill='none' stroke='#e63946' stroke-width='60' opacity='0' d='M 270 800 a 270 190 0 1 0 540 0 a 270 190 0 1 0 -540 0 Z'/><path class='d' data-s='0.2' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 354 800 Q 540 651 726 800 Q 540 949 354 800 Z'/><circle class='d' data-s='0.8' data-d='0.5' cx='540' cy='800' r='65' fill='none' stroke='#1d1d1d' stroke-width='10'/><circle class='p' data-s='1.1' data-d='0.4' cx='540' cy='800' r='28' fill='#1d1d1d'/><path class='d' data-s='0.9' data-d='0.8' fill='none' stroke='#e63946' stroke-width='8' d='M 250 800 a 290 210 0 1 0 580 0 a 290 210 0 1 0 -580 0'/><path class='d' data-s='1.0' data-d='0.8' fill='none' stroke='#e63946' stroke-width='6' d='M 290 800 a 250 170 0 1 0 500 0 a 250 170 0 1 0 -500 0'/><path class='d' data-s='1.8' data-d='0.4' fill='none' stroke='#e63946' stroke-width='9' d='M 830 560 L 790 620 L 840 620 L 800 690'/><path class='d' data-s='2.0' data-d='0.4' fill='none' stroke='#e63946' stroke-width='9' d='M 250 560 L 290 620 L 240 620 L 280 690'/><path class='d' data-s='2.3' data-d='0.5' fill='none' stroke='#e63946' stroke-width='8' d='M 540 1080 L 540 1030 M 551 1041 L 540 1022 L 529 1041'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 96,
+     "color": "#e63946",
+     "s": 1.4,
+     "t": {
+      "en": "MYOKYMIA",
+      "es": "MIOQUIMIA",
+      "fr": "MYOKYMIE",
+      "ja": "ミオキミア"
+     }
+    }
+   ]
+  },
+  {
+   "dur": 4.5,
+   "step": 1,
+   "caption": {
+    "en": "*1* — Stress: one of the most common triggers.",
+    "es": "*1* — Estrés: uno de los desencadenantes más comunes.",
+    "fr": "*1* — Le stress : l’un des déclencheurs les plus fréquents.",
+    "ja": "*1* ストレス：最もよくある原因のひとつ"
+   },
+   "svg": "<circle class='d' data-s='0' data-d='0.7' cx='540' cy='880' r='150' fill='none' stroke='#1d1d1d' stroke-width='10'/><circle class='p' data-s='0.6' data-d='0.4' cx='490' cy='870' r='14' fill='#1d1d1d'/><circle class='p' data-s='0.65' data-d='0.4' cx='590' cy='870' r='14' fill='#1d1d1d'/><path class='d' data-s='0.7' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 445 820 L 510 840 M 635 820 L 570 840'/><path class='d' data-s='0.9' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 470 960 Q 490 940 510 960 Q 530 980 550 960 Q 570 940 590 960 Q 600 970 612 962'/><path class='d' data-s='0.2' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 400 600 C 370 545 440 505 480 535 C 500 480 600 480 615 535 C 660 505 725 545 690 600 C 720 645 680 670 640 660 L 440 660 C 385 670 365 630 400 600 Z'/><path class='d' data-s='1.1' data-d='0.4' fill='none' stroke='#e63946' stroke-width='9' d='M 430 670 L 400 720 L 440 720 L 410 780'/><path class='d' data-s='1.2' data-d='0.4' fill='none' stroke='#e63946' stroke-width='9' d='M 650 670 L 620 720 L 660 720 L 630 780'/><path class='p' data-s='1.5' data-d='0.3' fill='#e63946' d='M 720 820 C 700 860 700 880 720 885 C 740 880 740 860 720 820 Z'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 96,
+     "color": "#e63946",
+     "s": 0.5,
+     "t": {
+      "en": "STRESS",
+      "es": "ESTRÉS",
+      "fr": "STRESS",
+      "ja": "ストレス"
+     }
+    }
+   ]
+  },
+  {
+   "dur": 4.5,
+   "step": 2,
+   "caption": {
+    "en": "*2* — Being tired and *not sleeping enough*.",
+    "es": "*2* — El cansancio y *dormir poco*.",
+    "fr": "*2* — La fatigue et le *manque de sommeil*.",
+    "ja": "*2* 疲れと*睡眠不足*"
+   },
+   "svg": "<circle class='d' data-s='0' data-d='0.7' cx='540' cy='880' r='150' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='0.6' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 460 865 Q 490 880 520 865 M 560 865 Q 590 880 620 865'/><path class='d' data-s='0.7' data-d='0.3' fill='none' stroke='#888' stroke-width='6' d='M 465 900 Q 490 912 515 900 M 565 900 Q 590 912 615 900'/><ellipse class='d' data-s='0.9' data-d='0.4' cx='540' cy='965' rx='26' ry='32' fill='none' stroke='#1d1d1d' stroke-width='9'/><path class='d' data-s='0.3' data-d='0.8' fill='none' stroke='#e63946' stroke-width='9' d='M 800 470 A 95 95 0 1 0 840 640 A 75 75 0 1 1 800 470 Z'/><path class='d' data-s='1.1' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 620 640 L 660 640 L 620 680 L 660 680'/><path class='d' data-s='1.3' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 680 560 L 735 560 L 680 615 L 735 615'/><path class='d' data-s='1.5' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='7' d='M 560 700 L 588 700 L 560 728 L 588 728'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 96,
+     "color": "#e63946",
+     "s": 0.5,
+     "t": {
+      "en": "SLEEP",
+      "es": "SUEÑO",
+      "fr": "SOMMEIL",
+      "ja": "睡眠不足"
+     }
+    }
+   ]
+  },
+  {
+   "dur": 4.5,
+   "step": 3,
+   "caption": {
+    "en": "*3* — Too much *caffeine*: coffee, energy drinks.",
+    "es": "*3* — Demasiada *cafeína*: café, bebidas energéticas.",
+    "fr": "*3* — Trop de *caféine* : café, boissons énergisantes.",
+    "ja": "*3* *カフェイン*のとりすぎ（コーヒー、エナジードリンク）"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 370 700 L 395 1000 Q 400 1040 440 1040 L 620 1040 Q 660 1040 665 1000 L 690 700 Z'/><path class='d' data-s='0.6' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 685 760 C 800 760 800 920 668 920'/><path class='d' data-s='0.8' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 300 1090 Q 530 1130 760 1090'/><path class='d' data-s='0.7' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='7' d='M 377 760 Q 530 785 683 760'/><path class='d' data-s='1.0' data-d='0.6' fill='none' stroke='#888' stroke-width='8' d='M 470 660 C 440 620 500 590 470 540 M 540 660 C 510 610 570 580 540 520 M 610 660 C 580 620 640 590 610 540'/><path class='d' data-s='1.5' data-d='0.4' fill='none' stroke='#e63946' stroke-width='8' d='M 300 760 L 260 740 M 300 830 L 250 830 M 300 900 L 260 920 M 800 640 L 840 610 M 830 980 L 870 1000'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 96,
+     "color": "#e63946",
+     "s": 0.5,
+     "t": {
+      "en": "CAFFEINE",
+      "es": "CAFEÍNA",
+      "fr": "CAFÉINE",
+      "ja": "カフェイン"
+     }
+    }
+   ]
+  },
+  {
+   "dur": 4.5,
+   "step": 4,
+   "caption": {
+    "en": "*4* — Eye strain from *screens*, and *dry eyes*.",
+    "es": "*4* — Vista cansada por las *pantallas* y *ojos secos*.",
+    "fr": "*4* — Yeux fatigués par les *écrans*, et *yeux secs*.",
+    "ja": "*4* *画面*による目の疲れや*ドライアイ*"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 300 730 L 780 730 L 780 1000 L 300 1000 Z'/><path class='d' data-s='0.5' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 300 1000 L 240 1060 L 840 1060 L 780 1000'/><path class='d' data-s='0.3' data-d='0.7' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 400 560 Q 540 470 680 560 Q 540 650 400 560 Z'/><circle class='d' data-s='0.8' data-d='0.3' cx='540' cy='560' r='38' fill='none' stroke='#1d1d1d' stroke-width='8'/><circle class='p' data-s='1.0' data-d='0.4' cx='540' cy='560' r='16' fill='#1d1d1d'/><path class='d' data-s='1.1' data-d='0.5' fill='none' stroke='#e63946' stroke-width='7' stroke-dasharray='12 12' d='M 470 720 L 500 640 M 540 720 L 540 640 M 610 720 L 580 640'/><path class='d' data-s='0.6' data-d='0.5' fill='none' stroke='#888' stroke-width='7' d='M 350 790 L 600 790 M 350 850 L 700 850 M 350 910 L 560 910'/><path class='d' data-s='1.5' data-d='0.5' fill='none' stroke='#e63946' stroke-width='9' d='M 820 470 C 790 530 780 560 820 575 C 860 560 850 530 820 470 Z'/><path class='d' data-s='1.9' data-d='0.3' fill='none' stroke='#e63946' stroke-width='8' d='M 790 610 L 850 670 M 850 610 L 790 670'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 84,
+     "color": "#e63946",
+     "s": 0.5,
+     "t": {
+      "en": "EYE STRAIN",
+      "es": "VISTA CANSADA",
+      "fr": "YEUX FATIGUÉS",
+      "ja": "目の疲れ"
+     }
+    }
+   ]
+  },
+  {
+   "dur": 5.5,
+   "caption": {
+    "en": "It’s usually *harmless* and fades on its own. More sleep and less caffeine can help.",
+    "es": "Suele ser *inofensivo* y se quita solo. Dormir más y tomar menos cafeína puede ayudar.",
+    "fr": "C’est généralement *bénin* et ça passe tout seul. Mieux dormir et moins de caféine peut aider.",
+    "ja": "たいていは*心配なく*、自然に治まります。睡眠を増やし、カフェインを控えるのも◎"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 300 520 A 95 95 0 1 0 340 690 A 75 75 0 1 1 300 520 Z'/><path class='d' data-s='0.3' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 640 560 L 655 740 Q 658 770 690 770 L 790 770 Q 822 770 825 740 L 840 560 Z'/><path class='d' data-s='0.8' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 835 600 C 900 600 900 700 828 700'/><path class='d' data-s='1.1' data-d='0.4' fill='none' stroke='#e63946' stroke-width='10' d='M 610 520 L 880 800 M 880 520 L 610 800'/><path class='d' data-s='1.8' data-d='0.6' fill='none' stroke='#e63946' stroke-width='22' d='M 400 950 L 500 1050 L 700 840'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 72,
+     "color": "#e63946",
+     "s": 2.2,
+     "t": {
+      "en": "USUALLY HARMLESS",
+      "es": "SUELE SER BENIGNO",
+      "fr": "SOUVENT BÉNIN",
+      "ja": "たいてい無害"
+     }
+    }
+   ]
+  },
+  {
+   "dur": 6,
+   "caption": {
+    "en": "See a doctor if it lasts *weeks*, the eyelid *fully closes*, or other parts of the *face* twitch.",
+    "es": "Consulta al médico si dura *semanas*, el párpado *se cierra del todo* u otras partes de la *cara* tiemblan.",
+    "fr": "Consulte si ça dure *des semaines*, si la paupière *se ferme complètement* ou si d’autres zones du *visage* tressautent.",
+    "ja": "*数週間*続く、まぶたが*完全に閉じる*、*顔の他の部分*もピクつくなら受診を。"
+   },
+   "svg": "<circle class='d' data-s='0' data-d='0.9' cx='540' cy='810' r='240' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='0.5' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 300 760 Q 360 560 540 560 Q 720 560 780 760'/><path class='d' data-s='0.8' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 420 770 Q 460 790 500 770'/><path class='d' data-s='0.8' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='6' d='M 405 745 L 430 760 M 515 745 L 490 760'/><circle class='p' data-s='0.9' data-d='0.4' cx='630' cy='770' r='20' fill='#1d1d1d'/><path class='d' data-s='1.0' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 460 920 Q 540 945 600 920 L 625 900'/><path class='d' data-s='1.6' data-d='0.4' fill='none' stroke='#e63946' stroke-width='8' d='M 340 720 Q 320 770 340 820 M 365 860 Q 390 890 420 880'/><path class='d' data-s='1.9' data-d='0.4' fill='none' stroke='#e63946' stroke-width='8' d='M 650 880 Q 690 870 700 930 M 670 960 L 700 990'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 92,
+     "color": "#e63946",
+     "s": 2.2,
+     "t": {
+      "en": "SEE A DOCTOR",
+      "es": "VE AL MÉDICO",
+      "fr": "VA CONSULTER",
+      "ja": "受診を"
+     }
+    }
+   ]
+  }
+ ]
+}
