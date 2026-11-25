@@ -3,7 +3,7 @@
  "title": {
   "en": "Nosebleed? Do *THIS*, Not That",
   "es": "¿Sangra la nariz? Haz *ESTO*",
-  "fr": "Saignement de nez : fais *ÇA*",
+  "fr": "Saignement de nez : les *bons gestes*",
   "ja": "鼻血の*正しい*止め方"
  },
  "steps": 3,
@@ -18,11 +18,11 @@
     "fr": "Saignement de nez : tête *en arrière* ou *en avant* ? Beaucoup se trompent.",
     "ja": "鼻血のとき、頭は*後ろ*？*前*？ 間違えている人が多いんです。"
    },
-   "svg": "<g transform='translate(320 800) scale(0.62) rotate(-28) translate(-575 -705)'><path class='d' data-s='0' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='16'  d='M 480 920 L 470 830 C 400 760 400 560 540 520 C 640 490 700 560 700 630 L 705 670 L 750 740 L 705 755 L 710 790 L 700 810 L 708 830 C 705 870 670 880 630 870 L 620 920'/><circle class='p' data-s='0.8' data-d='0.3' cx='650' cy='640' r='13' fill='#1d1d1d'/><path class='d' data-s='1.4' data-d='0.6' fill='none' stroke='#e63946' stroke-width='14'  d='M 712 748 C 650 760 610 790 600 850 L 590 905'/></g><g transform='translate(760 800) scale(0.62) rotate(22) translate(-575 -705)'><path class='d' data-s='0.4' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='16'  d='M 480 920 L 470 830 C 400 760 400 560 540 520 C 640 490 700 560 700 630 L 705 670 L 750 740 L 705 755 L 710 790 L 700 810 L 708 830 C 705 870 670 880 630 870 L 620 920'/><circle class='p' data-s='1.2000000000000002' data-d='0.3' cx='650' cy='640' r='13' fill='#1d1d1d'/></g><path class='p' data-s='1.6' data-d='0.4' fill='#e63946' d='M 850 840 C 850 840 834 862 834 872 A 16 16 0 0 0 866 872 C 866 862 850 840 850 840 Z'/><path class='p' data-s='1.9' data-d='0.4' fill='#e63946' d='M 852 905 C 852 905 836 927 836 937 A 16 16 0 0 0 868 937 C 868 927 852 905 852 905 Z'/><path class='d' data-s='2.2' data-d='0.5' fill='none' stroke='#e63946' stroke-width='14'  d='M 250 480 L 390 620 M 390 480 L 250 620'/><path class='d' data-s='2.5' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='14'  d='M 690 550 L 740 600 L 840 470'/>",
+   "svg": "<g transform='translate(300 830) scale(0.85) rotate(-28) translate(-575 -705)'><path class='d' data-s='0' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='16'  d='M 480 920 L 470 830 C 400 760 400 560 540 520 C 640 490 700 560 700 630 L 705 670 L 750 740 L 705 755 L 710 790 L 700 810 L 708 830 C 705 870 670 880 630 870 L 620 920'/><circle class='p' data-s='0.8' data-d='0.3' cx='650' cy='640' r='13' fill='#1d1d1d'/><path class='d' data-s='1.4' data-d='0.6' fill='none' stroke='#e63946' stroke-width='14'  d='M 712 748 C 650 760 610 790 600 850 L 590 905'/></g><g transform='translate(780 830) scale(0.85) rotate(22) translate(-575 -705)'><path class='d' data-s='0.4' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='16'  d='M 480 920 L 470 830 C 400 760 400 560 540 520 C 640 490 700 560 700 630 L 705 670 L 750 740 L 705 755 L 710 790 L 700 810 L 708 830 C 705 870 670 880 630 870 L 620 920'/><circle class='p' data-s='1.2000000000000002' data-d='0.3' cx='650' cy='640' r='13' fill='#1d1d1d'/></g><path class='p' data-s='1.6' data-d='0.4' fill='#e63946' d='M 902 925 C 902 925 884 950 884 962 A 18 18 0 0 0 920 962 C 920 950 902 925 902 925 Z'/><path class='p' data-s='1.9' data-d='0.4' fill='#e63946' d='M 904 1000 C 904 1000 886 1025 886 1037 A 18 18 0 0 0 922 1037 C 922 1025 904 1000 904 1000 Z'/><path class='d' data-s='2.2' data-d='0.5' fill='none' stroke='#e63946' stroke-width='14'  d='M 230 470 L 350 590 M 350 470 L 230 590'/><path class='d' data-s='2.5' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='14'  d='M 700 530 L 750 580 L 850 450'/><path class='d' data-s='0.2' data-d='0.6' fill='none' stroke='#bbb' stroke-width='5'  d='M 540 500 V 1100'/>",
    "texts": [
     {
      "x": 540,
-     "y": 1200,
+     "y": 1210,
      "size": 96,
      "color": "#e63946",
      "s": 2.8,
@@ -48,7 +48,7 @@
     {
      "x": 540,
      "y": 1190,
-     "size": 90,
+     "size": 84,
      "color": "#e63946",
      "s": 2.6,
      "maxW": 900,
@@ -82,7 +82,7 @@
      "t": {
       "en": "LEAN FORWARD",
       "es": "HACIA ADELANTE",
-      "fr": "PENCHE-TOI EN AVANT",
+      "fr": "EN AVANT",
       "ja": "前かがみ"
      }
     }
@@ -114,12 +114,12 @@
      }
     },
     {
-     "x": 830,
-     "y": 1000,
-     "size": 48,
+     "x": 540,
+     "y": 975,
+     "size": 46,
      "color": "#e63946",
      "s": 1.4,
-     "maxW": 230,
+     "maxW": 300,
      "t": {
       "en": "SOFT",
       "es": "BLANDA",
@@ -130,14 +130,14 @@
     {
      "x": 540,
      "y": 1200,
-     "size": 88,
+     "size": 84,
      "color": "#e63946",
      "s": 2.4,
      "maxW": 900,
      "t": {
-      "en": "PINCH THE SOFT PART",
+      "en": "PINCH SOFT PART",
       "es": "APRIETA LO BLANDO",
-      "fr": "PINCE LA PARTIE MOLLE",
+      "fr": "PARTIE MOLLE",
       "ja": "小鼻をつまむ"
      }
     }
@@ -150,7 +150,7 @@
     "en": "*3* — Hold for *10–15 minutes* without letting go. Breathe through your mouth.",
     "es": "*3* — Mantén *10–15 minutos* sin soltar. Respira por la boca.",
     "fr": "*3* — Tiens *10 à 15 minutes* sans relâcher. Respire par la bouche.",
-    "ja": "*3* *10〜15分*、離さずにつまみ続けて。息は口で。"
+    "ja": "*3* そのまま*10〜15分*キープ。途中で離さず、息は口で。"
    },
    "svg": "<circle class='d' data-s='0' data-d='0.8' cx='380' cy='770' r='190' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='0.6' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 350 560 H 410 M 380 560 V 580'/><path class='d' data-s='0.7' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='8'  d='M 380 615 L 380 640 M 535 770 L 510 770 M 380 925 L 380 900 M 225 770 L 250 770'/><path class='f' data-s='1.0' data-d='1.2' data-o='0.85' d='M 380 770 L 380 600 A 170 170 0 0 1 550 770 Z' fill='#e63946' opacity='0' /><path class='d' data-s='0.9' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 380 770 L 380 640'/><path class='d' data-s='1.9' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 380 770 L 500 770'/><circle class='d' data-s='1.4' data-d='0.6' cx='770' cy='700' r='100' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='1.8' data-d='0.2' fill='none' stroke='#1d1d1d' stroke-width='12'  d='M 730 670 L 730 680 M 810 670 L 810 680'/><ellipse class='p' data-s='2.0' data-d='0.3' cx='770' cy='740' rx='26' ry='20' fill='#1d1d1d'/><path class='d' data-s='2.4' data-d='0.8' fill='none' stroke='#888' stroke-width='7'  d='M 740 840 q 15 30 0 60 q -15 30 0 60 M 800 840 q 15 30 0 60 q -15 30 0 60'/>",
    "texts": [
@@ -177,7 +177,7 @@
     "fr": "*Ne* penche *pas* la tête en arrière : le sang coule dans la gorge et peut faire vomir.",
     "ja": "上を向くのは*NG*。血がのどに流れ、吐き気の原因になります。"
    },
-   "svg": "<g transform='translate(470 830) scale(0.9) rotate(-30) translate(-575 -705)'><path class='d' data-s='0' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='16'  d='M 480 920 L 470 830 C 400 760 400 560 540 520 C 640 490 700 560 700 630 L 705 670 L 750 740 L 705 755 L 710 790 L 700 810 L 708 830 C 705 870 670 880 630 870 L 620 920'/><circle class='p' data-s='0.8' data-d='0.3' cx='650' cy='640' r='13' fill='#1d1d1d'/><path class='d' data-s='1.4' data-d='0.8' fill='none' stroke='#e63946' stroke-width='14'  d='M 712 748 C 650 760 610 790 600 850 L 592 905 M 568 880 L 592 910 L 616 880'/></g><circle class='d' data-s='2.0' data-d='0.6' cx='800' cy='560' r='90' fill='none' stroke='#e63946' stroke-width='12'/><path class='d' data-s='2.5' data-d='0.3' fill='none' stroke='#e63946' stroke-width='12'  d='M 737 497 L 863 623'/><path class='d' data-s='2.3' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='8'  d='M 770 540 L 830 500 M 770 600 L 830 560'/>",
+   "svg": "<g transform='translate(450 850) scale(1.05) rotate(-30) translate(-575 -705)'><path class='d' data-s='0' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='16'  d='M 480 920 L 470 830 C 400 760 400 560 540 520 C 640 490 700 560 700 630 L 705 670 L 750 740 L 705 755 L 710 790 L 700 810 L 708 830 C 705 870 670 880 630 870 L 620 920'/><circle class='p' data-s='0.8' data-d='0.3' cx='650' cy='640' r='13' fill='#1d1d1d'/><path class='d' data-s='1.4' data-d='0.8' fill='none' stroke='#e63946' stroke-width='14'  d='M 712 748 C 650 760 610 790 600 850 L 592 905 M 568 880 L 592 910 L 616 880'/></g><path class='d' data-s='2.2' data-d='0.5' fill='none' stroke='#e63946' stroke-width='16'  d='M 730 480 L 870 620 M 870 480 L 730 620'/>",
    "texts": [
     {
      "x": 540,
@@ -201,14 +201,14 @@
     "en": "Get urgent care if it lasts *20+ minutes* with pressure, follows a head injury, or is very heavy.",
     "es": "Busca atención urgente si dura *más de 20 min* con presión, tras un golpe en la cabeza o si es muy abundante.",
     "fr": "Urgences si ça saigne *plus de 20 min* malgré la pression, après un coup à la tête, ou si c'est très abondant.",
-    "ja": "圧迫しても*20分以上*止まらない、頭を打った後、出血がとても多いときは救急へ。"
+    "ja": "圧迫しても*20分以上*止まらない、頭を打った、出血が多い→すぐ救急へ。"
    },
-   "svg": "<circle class='d' data-s='0' data-d='0.7' cx='240' cy='680' r='105' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='0.5' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='9'  d='M 215 560 H 265 M 240 560 V 575'/><circle class='d' data-s='0.8' data-d='0.6' cx='540' cy='690' r='95' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='1.3' data-d='0.4' fill='none' stroke='#bbb' stroke-width='30'  d='M 470 620 L 600 585'/><path class='d' data-s='1.6' data-d='0.2' fill='none' stroke='#888' stroke-width='5'  d='M 520 590 v 30 M 550 582 v 30'/><path class='d' data-s='1.7' data-d='0.4' fill='none' stroke='#e63946' stroke-width='8'  d='M 640 560 l 25 -25 M 655 600 l 35 -5 M 625 530 l 5 -35'/><path class='p' data-s='1.9' data-d='0.4' fill='#e63946' d='M 800 580 C 800 580 752 644 752 676 A 48 48 0 0 0 848 676 C 848 644 800 580 800 580 Z'/><path class='p' data-s='2.1' data-d='0.4' fill='#e63946' d='M 860 660 C 860 660 824 708 824 732 A 36 36 0 0 0 896 732 C 896 708 860 660 860 660 Z'/><path class='p' data-s='2.3' data-d='0.4' fill='#e63946' d='M 770 720 C 770 720 740 760 740 780 A 30 30 0 0 0 800 780 C 800 760 770 720 770 720 Z'/><path class='d' data-s='2.4' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='8'  d='M 220 995 c -10 30 20 70 50 80 l 20 -25 l -25 -25 l -15 10 c -10 -5 -20 -20 -20 -35 l 15 -10 l -10 -30 Z'/>",
+   "svg": "<circle class='d' data-s='0' data-d='0.7' cx='240' cy='680' r='105' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='0.5' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='9'  d='M 215 560 H 265 M 240 560 V 575'/><circle class='d' data-s='0.8' data-d='0.6' cx='540' cy='690' r='95' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='1.3' data-d='0.4' fill='none' stroke='#bbb' stroke-width='30'  d='M 470 620 L 600 585'/><path class='d' data-s='1.6' data-d='0.2' fill='none' stroke='#888' stroke-width='5'  d='M 520 590 v 30 M 550 582 v 30'/><path class='d' data-s='1.7' data-d='0.4' fill='none' stroke='#e63946' stroke-width='8'  d='M 640 560 l 25 -25 M 655 600 l 35 -5 M 625 530 l 5 -35'/><path class='p' data-s='1.9' data-d='0.4' fill='#e63946' d='M 800 580 C 800 580 752 644 752 676 A 48 48 0 0 0 848 676 C 848 644 800 580 800 580 Z'/><path class='p' data-s='2.1' data-d='0.4' fill='#e63946' d='M 860 660 C 860 660 824 708 824 732 A 36 36 0 0 0 896 732 C 896 708 860 660 860 660 Z'/><path class='p' data-s='2.3' data-d='0.4' fill='#e63946' d='M 770 720 C 770 720 740 760 740 780 A 30 30 0 0 0 800 780 C 800 760 770 720 770 720 Z'/>",
    "texts": [
     {
      "x": 240,
      "y": 700,
-     "size": 48,
+     "size": 44,
      "color": "#e63946",
      "s": 0.6,
      "maxW": 170,
@@ -220,12 +220,12 @@
      }
     },
     {
-     "x": 240,
-     "y": 850,
-     "size": 34,
+     "x": 230,
+     "y": 860,
+     "size": 30,
      "color": "#1d1d1d",
      "s": 0.7,
-     "maxW": 290,
+     "maxW": 340,
      "t": {
       "en": "WITH PRESSURE",
       "es": "CON PRESIÓN",
@@ -235,11 +235,11 @@
     },
     {
      "x": 540,
-     "y": 850,
-     "size": 34,
+     "y": 860,
+     "size": 30,
      "color": "#1d1d1d",
      "s": 1.2,
-     "maxW": 290,
+     "maxW": 340,
      "t": {
       "en": "HEAD INJURY",
       "es": "GOLPE EN LA CABEZA",
@@ -248,12 +248,12 @@
      }
     },
     {
-     "x": 830,
-     "y": 850,
-     "size": 34,
+     "x": 850,
+     "y": 860,
+     "size": 30,
      "color": "#1d1d1d",
      "s": 2.0,
-     "maxW": 290,
+     "maxW": 340,
      "t": {
       "en": "VERY HEAVY",
       "es": "MUY ABUNDANTE",
@@ -262,12 +262,12 @@
      }
     },
     {
-     "x": 580,
+     "x": 540,
      "y": 1050,
-     "size": 66,
+     "size": 72,
      "color": "#e63946",
      "s": 2.5,
-     "maxW": 560,
+     "maxW": 800,
      "t": {
       "en": "911 · 999 · 112",
       "es": "112 · 911",
@@ -284,8 +284,8 @@
      "maxW": 900,
      "t": {
       "en": "GET HELP",
-      "es": "PIDE AYUDA",
-      "fr": "APPELLE À L'AIDE",
+      "es": "URGENCIAS",
+      "fr": "URGENCES",
       "ja": "救急へ"
      }
     }

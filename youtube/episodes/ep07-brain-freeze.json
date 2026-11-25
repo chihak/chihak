@@ -1,0 +1,200 @@
+{
+ "id": "ep07-brain-freeze",
+ "title": {
+  "en": "What Is *Brain Freeze*?",
+  "es": "¿Por qué duele la cabeza con el *helado*?",
+  "fr": "Pourquoi la glace fait *mal à la tête* ?",
+  "ja": "*アイスクリーム頭痛*の正体"
+ },
+ "coverTime": 10.5,
+ "scenes": [
+  {
+   "dur": 5.5,
+   "caption": {
+    "en": "Brain freeze has a real medical name: *sphenopalatine ganglioneuralgia*.",
+    "es": "El “cerebro congelado” tiene nombre médico: *ganglioneuralgia esfenopalatina*.",
+    "fr": "Le mal de tête de la glace a un vrai nom : *ganglioneuralgie sphénopalatine*.",
+    "ja": "アイスクリーム頭痛の医学名は「*蝶口蓋神経節神経痛*」。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.7' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 210 760 C 190 630 430 630 410 760'/><path class='d' data-s='0.4' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 210 760 Q 235 790 260 760 Q 285 790 310 760 Q 335 790 360 760 Q 385 790 410 760'/><path class='d' data-s='0.6' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 222 778 L 310 1090 L 398 778'/><path class='d' data-s='0.9' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='6' d='M 250 840 L 360 810 M 268 910 L 375 855 M 360 810 L 250 840 M 240 810 L 350 900'/><path class='d' data-s='1.1' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 392 775 Q 400 810 390 830'/><circle class='d' data-s='0.8' data-d='0.8' cx='670' cy='820' r='170' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='1.4' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 590 790 L 630 810 L 590 830 M 750 790 L 710 810 L 750 830'/><path class='d' data-s='1.6' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 610 905 Q 630 885 650 905 Q 670 925 690 905 Q 710 885 730 905'/><path class='f' data-s='1.8' data-d='0.4' data-o='0.35' fill='#e63946' opacity='0' d='M 560 715 a 110 38 0 1 0 220 0 a 110 38 0 1 0 -220 0 Z'/><path class='d' data-s='2.0' data-d='0.35' fill='none' stroke='#e63946' stroke-width='9' d='M 600 620 L 575 570 L 610 570 L 585 510'/><path class='d' data-s='2.15' data-d='0.35' fill='none' stroke='#e63946' stroke-width='9' d='M 680 600 L 665 545 L 700 545 L 685 480'/><path class='d' data-s='2.3' data-d='0.35' fill='none' stroke='#e63946' stroke-width='9' d='M 760 620 L 775 570 L 740 570 L 765 510'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1215,
+     "size": 96,
+     "color": "#e63946",
+     "s": 2.5,
+     "t": {
+      "en": "OUCH!",
+      "es": "¡AY!",
+      "fr": "AÏE !",
+      "ja": "キーン！"
+     }
+    }
+   ]
+  },
+  {
+   "dur": 5.5,
+   "caption": {
+    "en": "It starts when something very cold touches the *roof of your mouth*.",
+    "es": "Empieza cuando algo muy frío toca el *paladar*.",
+    "fr": "Tout commence quand quelque chose de très froid touche le *palais*.",
+    "ja": "とても冷たいものが*上あご*に触れると始まります。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='1.2' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 400 1130 C 395 1050 330 1010 315 900 C 290 700 410 560 570 555 C 720 552 800 650 805 760 L 850 860 L 805 880 L 812 920 L 795 935 L 810 955 C 812 1000 780 1020 735 1015 C 715 1015 700 1030 700 1060 L 700 1130'/><path class='d' data-s='0.6' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='8.0' d='M 480 830 C 440 830 440 900 480 905'/><circle class='p' data-s='0.8' data-d='0.4' cx='735' cy='760' r='14' fill='#1d1d1d'/><path class='d' data-s='1.3' data-d='0.6' fill='none' stroke='#e63946' stroke-width='14' d='M 585 905 Q 700 878 795 928'/><path class='d' data-s='1.0' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 865 900 L 925 890 L 935 950 L 875 960 Z'/><path class='d' data-s='1.6' data-d='0.4' fill='none' stroke='#e63946' stroke-width='6' d='M 860 925 L 830 925 M 865 945 L 835 950'/><path class='d' data-s='1.8' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='7' d='M 838 1060 L 922 1060 M 859 1024 L 901 1096 M 901 1024 L 859 1096'/><path class='d' data-s='2.0' data-d='0.5' fill='none' stroke='#e63946' stroke-width='8' d='M 640 1100 Q 640 1000 680 930 M 684 948 L 684 924 L 664 937'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1215,
+     "size": 92,
+     "color": "#e63946",
+     "s": 2.2,
+     "t": {
+      "en": "ROOF OF MOUTH",
+      "es": "PALADAR",
+      "fr": "PALAIS",
+      "ja": "上あご"
+     }
+    }
+   ]
+  },
+  {
+   "dur": 6,
+   "caption": {
+    "en": "The cold makes blood vessels there *narrow*, then quickly *widen* again.",
+    "es": "El frío *estrecha* los vasos sanguíneos de esa zona, que luego se *dilatan* de golpe.",
+    "fr": "Le froid *resserre* les vaisseaux sanguins, puis ils se *dilatent* très vite.",
+    "ja": "冷たさで血管が*縮み*、そのあと急に*広がり*ます。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='7' d='M 150 560 L 240 560 M 172 521 L 218 599 M 218 521 L 172 599'/><path class='d' data-s='0.2' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 280 500 C 450 500 500 545 590 545 C 680 545 730 500 900 500'/><path class='d' data-s='0.3' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 280 620 C 450 620 500 575 590 575 C 680 575 730 620 900 620'/><path class='d' data-s='0.8' data-d='0.4' fill='none' stroke='#e63946' stroke-width='7' d='M 590 470 L 590 520 M 580 512 L 590 530 L 600 512 M 590 650 L 590 600 M 600 608 L 590 590 L 580 608'/><path class='d' data-s='2.3' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 540 735 L 540 800 M 528 789 L 540 810 L 552 789'/><path class='d' data-s='2.6' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 180 900 C 380 900 440 830 540 830 C 640 830 700 900 900 900'/><path class='d' data-s='2.7' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 180 1020 C 380 1020 440 1090 540 1090 C 640 1090 700 1020 900 1020'/><path class='d' data-s='3.2' data-d='0.4' fill='none' stroke='#e63946' stroke-width='7' d='M 540 860 L 540 800 M 550 808 L 540 790 L 530 808 M 540 1060 L 540 1120 M 530 1112 L 540 1130 L 550 1112'/><circle class='p' data-s='3.3' data-d='0.4' cx='260' cy='960' r='16' fill='#e63946'/><circle class='p' data-s='3.3699999999999997' data-d='0.4' cx='340' cy='960' r='16' fill='#e63946'/><circle class='p' data-s='3.44' data-d='0.4' cx='430' cy='960' r='16' fill='#e63946'/><circle class='p' data-s='3.51' data-d='0.4' cx='650' cy='960' r='16' fill='#e63946'/><circle class='p' data-s='3.58' data-d='0.4' cx='740' cy='960' r='16' fill='#e63946'/><circle class='p' data-s='3.65' data-d='0.4' cx='820' cy='960' r='16' fill='#e63946'/>",
+   "texts": [
+    {
+     "x": 590,
+     "y": 700,
+     "size": 64,
+     "color": "#e63946",
+     "s": 1.2,
+     "t": {
+      "en": "NARROW",
+      "es": "SE ESTRECHAN",
+      "fr": "RESSERRÉS",
+      "ja": "縮む"
+     }
+    },
+    {
+     "x": 540,
+     "y": 1210,
+     "size": 80,
+     "color": "#e63946",
+     "s": 3.6,
+     "t": {
+      "en": "WIDEN!",
+      "es": "¡SE DILATAN!",
+      "fr": "DILATÉS !",
+      "ja": "広がる！"
+     }
+    }
+   ]
+  },
+  {
+   "dur": 5.5,
+   "caption": {
+    "en": "Nerves sense the sudden change and send a *pain signal* to the brain.",
+    "es": "Los nervios detectan el cambio brusco y envían una *señal de dolor* al cerebro.",
+    "fr": "Les nerfs sentent ce changement brutal et envoient un *signal de douleur* au cerveau.",
+    "ja": "神経がこの急な変化を感じて、脳に*痛みの信号*を送ります。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='1.2' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 400 1130 C 395 1050 330 1010 315 900 C 290 700 410 560 570 555 C 720 552 800 650 805 760 L 850 860 L 805 880 L 812 920 L 795 935 L 810 955 C 812 1000 780 1020 735 1015 C 715 1015 700 1030 700 1060 L 700 1130'/><path class='d' data-s='0.6' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='8.0' d='M 480 830 C 440 830 440 900 480 905'/><circle class='p' data-s='0.8' data-d='0.4' cx='735' cy='760' r='14' fill='#1d1d1d'/><path class='d' data-s='0.2' data-d='0.5' fill='none' stroke='#e63946' stroke-width='14' d='M 585 905 Q 700 878 795 928'/><path class='d' data-s='0.8' data-d='0.9' fill='none' stroke='#888' stroke-width='8' d='M 420 700 C 400 640 450 600 500 615 C 520 580 600 580 620 615 C 670 600 710 640 690 690 C 700 730 660 760 620 745 C 590 770 530 770 505 745 C 460 760 410 740 420 700 Z'/><path class='d' data-s='1.6' data-d='0.9' fill='none' stroke='#e63946' stroke-width='9' d='M 690 890 L 660 860 L 690 830 L 650 805 L 680 775 L 640 750 M 649 743 L 625 742 L 637 763'/><path class='d' data-s='2.6' data-d='0.4' fill='none' stroke='#e63946' stroke-width='7' d='M 470 650 L 440 610 M 560 600 L 560 555 M 650 650 L 690 610'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1215,
+     "size": 84,
+     "color": "#e63946",
+     "s": 2.4,
+     "t": {
+      "en": "PAIN SIGNAL",
+      "es": "SEÑAL DE DOLOR",
+      "fr": "SIGNAL DE DOULEUR",
+      "ja": "痛みの信号"
+     }
+    }
+   ]
+  },
+  {
+   "dur": 6,
+   "caption": {
+    "en": "But your brain feels it in your *forehead*. This is called *referred pain*.",
+    "es": "Pero el cerebro lo siente en la *frente*. Es lo que se llama *dolor referido*.",
+    "fr": "Mais le cerveau la ressent au *front*. C’est ce qu’on appelle une *douleur projetée*.",
+    "ja": "でも脳は*おでこ*の痛みとして感じます。これを*関連痛*といいます。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='1.2' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 400 1130 C 395 1050 330 1010 315 900 C 290 700 410 560 570 555 C 720 552 800 650 805 760 L 850 860 L 805 880 L 812 920 L 795 935 L 810 955 C 812 1000 780 1020 735 1015 C 715 1015 700 1030 700 1060 L 700 1130'/><path class='d' data-s='0.6' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='8.0' d='M 480 830 C 440 830 440 900 480 905'/><circle class='p' data-s='0.8' data-d='0.4' cx='735' cy='760' r='14' fill='#1d1d1d'/><path class='d' data-s='0.2' data-d='0.5' fill='none' stroke='#e63946' stroke-width='14' d='M 585 905 Q 700 878 795 928'/><path class='d' data-s='0.8' data-d='0.9' fill='none' stroke='#e63946' stroke-width='9' stroke-dasharray='16 14' d='M 640 885 C 560 820 600 700 700 660 M 697 674 L 712 655 L 688 653'/><path class='f' data-s='1.5' data-d='0.5' data-o='0.45' fill='#e63946' opacity='0' d='M 660 650 a 70 50 0 1 0 140 0 a 70 50 0 1 0 -140 0 Z'/><path class='d' data-s='1.9' data-d='0.35' fill='none' stroke='#e63946' stroke-width='8' d='M 850 600 L 890 590 L 865 560 L 910 545'/><path class='d' data-s='2.0' data-d='0.35' fill='none' stroke='#e63946' stroke-width='8' d='M 820 520 L 845 485 L 810 470 L 835 430'/><path class='d' data-s='2.1' data-d='0.35' fill='none' stroke='#e63946' stroke-width='8' d='M 860 690 L 905 700 L 885 730 L 930 745'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1215,
+     "size": 84,
+     "color": "#e63946",
+     "s": 2.3,
+     "t": {
+      "en": "REFERRED PAIN",
+      "es": "DOLOR REFERIDO",
+      "fr": "DOULEUR PROJETÉE",
+      "ja": "関連痛"
+     }
+    }
+   ]
+  },
+  {
+   "dur": 6,
+   "caption": {
+    "en": "It fades in seconds. To help, press your *tongue* to the roof of your mouth or sip *lukewarm* water.",
+    "es": "Pasa en segundos. Para aliviarlo, presiona la *lengua* contra el paladar o bebe agua *tibia*.",
+    "fr": "Ça passe en quelques secondes. Pour aider : *langue* contre le palais ou un peu d’eau *tiède*.",
+    "ja": "数秒〜1分ほどで治まります。*舌*を上あごに当てる、*ぬるま湯*を飲むのも◎"
+   },
+   "svg": "<g transform='translate(70 160) scale(0.72) translate(-180 0)'><path class='d' data-s='0' data-d='1.2' fill='none' stroke='#1d1d1d' stroke-width='14' d='M 400 1130 C 395 1050 330 1010 315 900 C 290 700 410 560 570 555 C 720 552 800 650 805 760 L 850 860 L 805 880 L 812 920 L 795 935 L 810 955 C 812 1000 780 1020 735 1015 C 715 1015 700 1030 700 1060 L 700 1130'/><path class='d' data-s='0.6' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='11.200000000000001' d='M 480 830 C 440 830 440 900 480 905'/><circle class='p' data-s='0.8' data-d='0.4' cx='735' cy='760' r='20' fill='#1d1d1d'/><path class='d' data-s='0.6' data-d='0.5' fill='none' stroke='#e63946' stroke-width='18' d='M 585 905 Q 700 878 795 928'/><path class='d' data-s='1.0' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='16' d='M 600 990 Q 700 890 790 935'/><path class='d' data-s='1.5' data-d='0.4' fill='none' stroke='#e63946' stroke-width='11' d='M 640 1060 L 660 1000 M 667 1024 L 662 994 L 640 1014 M 720 1050 L 720 990 M 734 1008 L 720 982 L 706 1008'/></g><path class='d' data-s='2.2' data-d='0.7' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 650 700 L 670 1040 Q 672 1070 700 1070 L 800 1070 Q 828 1070 830 1040 L 850 700'/><path class='d' data-s='2.7' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='7' d='M 658 800 Q 750 815 842 800'/><path class='d' data-s='3.0' data-d='0.8' fill='none' stroke='#e63946' stroke-width='8' d='M 700 660 C 680 620 720 590 700 540 M 750 660 C 730 610 770 580 750 520 M 800 660 C 780 620 820 590 800 540'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1215,
+     "size": 92,
+     "color": "#e63946",
+     "s": 3.4,
+     "t": {
+      "en": "WARM IT UP",
+      "es": "CALIÉNTALO",
+      "fr": "RÉCHAUFFE",
+      "ja": "温めよう"
+     }
+    }
+   ]
+  },
+  {
+   "dur": 5,
+   "caption": {
+    "en": "Best prevention: enjoy cold treats *slowly* — small bites, small sips.",
+    "es": "La mejor prevención: disfruta lo frío *despacio*, en bocados y sorbos pequeños.",
+    "fr": "Pour l’éviter : savoure le froid *lentement*, par petites bouchées.",
+    "ja": "予防のコツは、冷たいものを*ゆっくり*少しずつ食べること。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.7' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 190 760 C 170 630 410 630 390 760'/><path class='d' data-s='0.4' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 190 760 Q 215 790 240 760 Q 265 790 290 760 Q 315 790 340 760 Q 365 790 390 760'/><path class='d' data-s='0.6' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 202 778 L 290 1090 L 378 778'/><path class='d' data-s='0.9' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='6' d='M 230 840 L 340 810 M 248 910 L 355 855 M 340 810 L 230 840 M 220 810 L 330 900'/><path class='d' data-s='1.1' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 372 775 Q 380 810 370 830'/><path class='d' data-s='1.0' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 700 960 a 30 30 0 1 1 30 30 a 60 60 0 1 1 60 -60 a 100 100 0 1 1 -100 -100'/><path class='d' data-s='1.8' data-d='0.7' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 545 1060 L 900 1060 Q 940 1060 930 1020 L 900 970 M 910 975 L 925 900 M 925 900 L 945 870 M 905 975 L 880 900 M 880 900 L 870 865'/><circle class='p' data-s='2.4' data-d='0.4' cx='947' cy='866' r='8' fill='#1d1d1d'/><circle class='p' data-s='2.45' data-d='0.4' cx='868' cy='862' r='8' fill='#1d1d1d'/><path class='d' data-s='2.6' data-d='0.5' fill='none' stroke='#888' stroke-width='7' d='M 470 1000 L 430 1000 M 480 1040 L 440 1050 M 470 960 L 435 945'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1215,
+     "size": 96,
+     "color": "#e63946",
+     "s": 2.6,
+     "t": {
+      "en": "SLOW DOWN",
+      "es": "¡DESPACIO!",
+      "fr": "DOUCEMENT !",
+      "ja": "ゆっくりね"
+     }
+    }
+   ]
+  }
+ ]
+}

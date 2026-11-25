@@ -3,7 +3,7 @@
  "title": {
   "en": "Why Do We Get *Hiccups*?",
   "es": "¿Por qué nos da *hipo*?",
-  "fr": "Pourquoi a-t-on le *hoquet* ?",
+  "fr": "Pourquoi a-t-on le *hoquet* ?",
   "ja": "*しゃっくり*はなぜ起こる？"
  },
  "coverTime": 4.5,
@@ -13,7 +13,7 @@
    "caption": {
     "en": "That *hic* sound? It’s your vocal cords *slamming shut*.",
     "es": "¿Ese *hip*? Son tus cuerdas vocales *cerrándose de golpe*.",
-    "fr": "Ce *hic* ? Tes cordes vocales qui *se ferment d’un coup* !",
+    "fr": "Ce *hic* ? Tes cordes vocales qui *se ferment d’un coup* !",
     "ja": "あの「ヒック」という音の正体は、声帯が*急に閉じる*音です。"
    },
    "svg": "<circle class='d' data-s='0' data-d='0.7' cx='420' cy='680' r='130' fill='none' stroke='#1d1d1d' stroke-width='10'/><circle class='p' data-s='0.6' data-d='0.4' cx='375' cy='665' r='15' fill='#1d1d1d'/><circle class='p' data-s='0.65' data-d='0.4' cx='465' cy='665' r='15' fill='#1d1d1d'/><path class='d' data-s='0.7' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 345 615 Q 375 595 400 612 M 440 612 Q 465 595 495 615'/><ellipse class='d' data-s='0.9' data-d='0.4' cx='420' cy='745' rx='22' ry='28' fill='none' stroke='#1d1d1d' stroke-width='9'/><path class='d' data-s='0.5' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 230 1140 C 240 960 310 900 420 900 C 530 900 600 960 610 1140'/><path class='d' data-s='0.4' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 390 808 L 390 900 M 450 808 L 450 900'/><path class='p' data-s='1.3' data-d='0.4' fill='#fbfaf5' stroke='#e63946' stroke-width='9' d='M 935 600 L 884 631 L 913 682 L 853 683 L 852 743 L 801 714 L 770 765 L 739 714 L 688 743 L 687 683 L 627 682 L 656 631 L 605 600 L 656 569 L 627 518 L 687 517 L 687 457 L 739 486 L 770 435 L 801 486 L 852 457 L 853 517 L 913 517 L 884 569 Z'/><path class='d' data-s='1.2' data-d='0.4' fill='none' stroke='#e63946' stroke-width='7' d='M 470 740 L 560 720 M 475 700 L 570 650 M 470 780 L 565 790'/><path class='d' data-s='1.6' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='7' d='M 250 580 L 215 560 M 240 640 L 200 640 M 590 1000 L 630 990 M 250 1000 L 210 990'/>",
@@ -28,7 +28,7 @@
      "t": {
       "en": "HIC!",
       "es": "¡HIP!",
-      "fr": "HIC !",
+      "fr": "HIC !",
       "ja": "ヒック"
      }
     },
@@ -41,7 +41,7 @@
      "t": {
       "en": "WHY?",
       "es": "¿POR QUÉ?",
-      "fr": "POURQUOI ?",
+      "fr": "POURQUOI ?",
       "ja": "なぜ？"
      }
     }
@@ -107,7 +107,7 @@
      "t": {
       "en": "SPASM!",
       "es": "¡ESPASMO!",
-      "fr": "SPASME !",
+      "fr": "SPASME !",
       "ja": "けいれん！"
      }
     }
@@ -118,7 +118,7 @@
    "caption": {
     "en": "A split second later, your vocal cords *snap shut* — *hic!*",
     "es": "Una fracción de segundo después, las cuerdas vocales *se cierran* — *¡hip!*",
-    "fr": "Une fraction de seconde plus tard, les cordes vocales *se ferment* : *hic !*",
+    "fr": "Une fraction de seconde plus tard, les cordes vocales *se ferment* : *hic !*",
     "ja": "その直後、声帯が*パタンと閉じて*「*ヒック！*」"
    },
    "svg": "<path class='d' data-s='0' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 470 560 L 470 1110 M 610 560 L 610 1110'/><path class='d' data-s='0.4' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='6' d='M 470 820 Q 540 842 610 820 M 470 880 Q 540 902 610 880 M 470 940 Q 540 962 610 940 M 470 1000 Q 540 1022 610 1000 M 470 1060 Q 540 1082 610 1060'/><path class='f' data-s='0.3' data-d='0.4' data-o='0.6' fill='none' stroke='#888' stroke-width='10' opacity='0' stroke-dasharray='14 12' d='M 470 700 L 492 625 M 610 700 L 588 625'/><path class='d' data-s='0.6' data-d='0.6' fill='none' stroke='#e63946' stroke-width='9' d='M 540 440 L 540 600 M 528 587 L 540 610 L 552 587'/><path class='d' data-s='1.3' data-d='0.25' fill='none' stroke='#1d1d1d' stroke-width='12' d='M 470 700 L 536 722'/><path class='d' data-s='1.3' data-d='0.25' fill='none' stroke='#1d1d1d' stroke-width='12' d='M 610 700 L 544 722'/><path class='d' data-s='1.5' data-d='0.4' fill='none' stroke='#e63946' stroke-width='7' d='M 430 640 Q 410 690 440 730 M 650 640 Q 670 690 640 730'/><path class='p' data-s='1.6' data-d='0.4' fill='#fbfaf5' stroke='#e63946' stroke-width='9' d='M 970 620 L 924 648 L 950 695 L 896 696 L 895 750 L 848 724 L 820 770 L 792 724 L 745 750 L 744 696 L 690 695 L 716 648 L 670 620 L 716 592 L 690 545 L 744 544 L 745 490 L 792 516 L 820 470 L 848 516 L 895 490 L 896 544 L 950 545 L 924 592 Z'/><path class='d' data-s='1.0' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 190 712 L 440 712 M 431 724 L 452 712 L 431 700'/>",
@@ -133,7 +133,7 @@
      "t": {
       "en": "HIC!",
       "es": "¡HIP!",
-      "fr": "HIC !",
+      "fr": "HIC !",
       "ja": "ヒック"
      }
     },
@@ -173,7 +173,7 @@
      "t": {
       "en": "SNAP!",
       "es": "¡ZAS!",
-      "fr": "CLAC !",
+      "fr": "CLAC !",
       "ja": "パタン！"
      }
     }
@@ -184,7 +184,7 @@
    "caption": {
     "en": "Common triggers: eating *fast* or a lot, *fizzy drinks*, excitement, sudden temperature change.",
     "es": "Causas comunes: comer *rápido* o mucho, bebidas *con gas*, emociones fuertes, cambios bruscos de temperatura.",
-    "fr": "Déclencheurs fréquents : manger *vite* ou trop, boissons *gazeuses*, émotions, changement brusque de température.",
+    "fr": "Déclencheurs fréquents : manger *vite* ou trop, boissons *gazeuses*, émotions, changement brusque de température.",
     "ja": "主なきっかけ：*早食い*や食べすぎ、*炭酸飲料*、興奮、急な温度変化。"
    },
    "svg": "<circle class='d' data-s='0' data-d='0.7' cx='330' cy='650' r='105' fill='none' stroke='#1d1d1d' stroke-width='10'/><circle class='d' data-s='0.3' data-d='0.5' cx='330' cy='650' r='68' fill='none' stroke='#1d1d1d' stroke-width='7'/><path class='d' data-s='0.4' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 190 560 L 190 760 M 172 560 L 172 610 Q 190 630 208 610 L 208 560'/><path class='d' data-s='0.5' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 470 560 Q 500 620 470 680 L 470 760'/><path class='d' data-s='0.7' data-d='0.4' fill='none' stroke='#e63946' stroke-width='6' d='M 300 520 L 270 490 M 330 515 L 330 480 M 360 520 L 390 490'/><path class='d' data-s='0.9' data-d='0.7' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 660 540 L 685 770 L 805 770 L 830 540'/><path class='d' data-s='1.2' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='6' d='M 668 600 L 822 600'/><path class='d' data-s='1.3' data-d='0.4' fill='none' stroke='#e63946' stroke-width='8' d='M 765 765 L 800 500 L 845 485'/><circle class='d' data-s='1.5' data-d='0.25' cx='710' cy='720' r='12' fill='none' stroke='#1d1d1d' stroke-width='6'/><circle class='d' data-s='1.58' data-d='0.25' cx='735' cy='660' r='10' fill='none' stroke='#1d1d1d' stroke-width='6'/><circle class='d' data-s='1.66' data-d='0.25' cx='715' cy='630' r='8' fill='none' stroke='#1d1d1d' stroke-width='6'/><circle class='d' data-s='1.74' data-d='0.25' cx='770' cy='700' r='9' fill='none' stroke='#1d1d1d' stroke-width='6'/><circle class='d' data-s='1.82' data-d='0.25' cx='790' cy='640' r='11' fill='none' stroke='#1d1d1d' stroke-width='6'/><circle class='d' data-s='2.4' data-d='0.6' cx='330' cy='965' r='100' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='2.8' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 285 935 Q 300 915 315 935 M 345 935 Q 360 915 375 935'/><path class='d' data-s='2.9' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 275 985 Q 330 1050 385 985 Z'/><path class='d' data-s='3.2' data-d='0.3' fill='none' stroke='#e63946' stroke-width='12' d='M 470 855 L 462 945'/><circle class='p' data-s='3.4' data-d='0.4' cx='460' cy='980' r='9' fill='#e63946'/><path class='d' data-s='3.6' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 720 1010 L 720 860 Q 740 830 760 860 L 760 1010'/><circle class='d' data-s='3.8' data-d='0.4' cx='740' cy='1040' r='38' fill='none' stroke='#1d1d1d' stroke-width='9'/><circle class='p' data-s='4.0' data-d='0.4' cx='740' cy='1040' r='24' fill='#e63946'/><path class='d' data-s='4.1' data-d='0.4' fill='none' stroke='#e63946' stroke-width='14' d='M 740 1030 L 740 920'/><path class='d' data-s='4.3' data-d='0.5' fill='none' stroke='#e63946' stroke-width='8' d='M 840 880 L 840 1020 M 851 889 L 840 870 L 829 889 M 829 1011 L 840 1030 L 851 1011'/>",

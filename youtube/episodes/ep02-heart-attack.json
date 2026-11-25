@@ -113,7 +113,7 @@
       "caption": {
         "en": "*Women* get chest pain too, but more often breathlessness, nausea, or back or jaw pain.",
         "es": "Las *mujeres* también sienten dolor de pecho, pero más a menudo falta de aire, náuseas o dolor de espalda.",
-        "fr": "Les *femmes* ont aussi mal à la poitrine, mais plus souvent : souffle court, nausées, mal de dos.",
+        "fr": "Les *femmes* ont aussi mal à la poitrine, mais plus souvent : souffle court, nausées, mal de dos.",
         "ja": "*女性*は胸の痛みに加え、息切れ・吐き気・背中やあごの痛みが出やすい傾向も。"
       },
       "svg": "<circle class='d' data-s='0' data-d='0.8' cx='370' cy='700' r='150' fill='none' stroke='#1d1d1d' stroke-width='12'/><path class='d' data-s='0.6' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='12' d='M 370 850 L 370 1080 M 290 980 L 450 980'/><path class='d' data-s='1.1' data-d='1.0' fill='none' stroke='#e63946' stroke-width='10' stroke-dasharray='22 18' d='M 740 1000 C 560 880 545 700 650 670 C 700 657 730 690 740 720 C 750 690 780 657 830 670 C 935 700 920 880 740 1000 Z'/><path class='p' data-s='2.0' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='7' d='M 640 590 L 615 555 M 740 570 L 740 530 M 840 590 L 865 555'/>",
@@ -139,7 +139,7 @@
         { "x": 355, "y": 940, "size": 72, "color": "#e63946", "s": 1.1, "maxW": 220,
           "t": { "en": "112", "es": "", "fr": "", "ja": "" } },
         { "x": 540, "y": 1200, "size": 92, "color": "#e63946", "s": 1.5,
-          "t": { "en": "DON'T DRIVE!", "es": "¡NO AL VOLANTE!", "fr": "PAS AU VOLANT !", "ja": "運転しないで！" } }
+          "t": { "en": "DON'T DRIVE!", "es": "¡NO AL VOLANTE!", "fr": "PAS AU VOLANT !", "ja": "運転しないで！" } }
       ]
     }
   ]
