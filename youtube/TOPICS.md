@@ -21,7 +21,7 @@ Covered by ep01-ep20: stroke, heart attack, leg cramps, knuckle cracking, hiccup
 - todo: Why do we get a lump in the throat when sad?
 - todo: Concussion warning signs
 - todo: Dog bite first aid
-- in progress: ep25-something-in-eye - Something in your eye - what to do
+- done: ep25-something-in-eye - Something in your eye - what to do
 - todo: Why do we dream / forget dreams?
 - todo: Food poisoning - fluids and warning signs
 - todo: Why do we get a sore throat? When to see a doctor

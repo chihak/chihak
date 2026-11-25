@@ -1604,5 +1604,73 @@ Elle est sans danger et passe seule. Consulte un médecin si tu as souvent des f
 ```
 - Tags: `鳥肌, 鳥肌 なぜ, 立毛筋, 皮膚, 寒さ, 恐怖, 反射, 体のしくみ, 健康, sketch clinic`
 
+### ep25-something-in-eye — English
+- File: `ep25-something-in-eye/ep25-something-in-eye-en.mp4`
+- Video language: English
+- Subtitles file: `ep25-something-in-eye/ep25-something-in-eye-en.srt` (Subtitles → Add language: English → Upload file → With timing)
+- Title: `Something in Your Eye? What to Do (First Aid) #Shorts`
+- Description:
+```
+Don't rub your eye. Wash your hands, blink a few times, then rinse with clean lukewarm water or sterile saline, tilting your head so it runs off. For a speck under the upper lid, gently pull the upper lid over the lower one.
+Don't try to remove anything stuck in the eye, and don't use tweezers or cotton swabs.
+Get urgent medical care for a chemical splash (rinse for 15 minutes first), a stuck object, vision changes, or pain or redness that doesn't go away.
+
+Educational only — not medical advice. If you have symptoms, see a healthcare professional.
+
+#Shorts #FirstAid #EyeHealth #SketchClinic
+```
+- Tags: `something in my eye, eye first aid, foreign body in eye, how to flush eye, eye irritation, eye safety, eye emergency, first aid, health, sketch clinic`
+
+### ep25-something-in-eye — Spanish  *(Phase 2 — only if the user asks)*
+- File: `ep25-something-in-eye/ep25-something-in-eye-es.mp4`
+- Video language: Spanish
+- Subtitles file: `ep25-something-in-eye/ep25-something-in-eye-es.srt` (Subtitles → Add language: Spanish → Upload file → With timing)
+- Title: `¿Algo en el ojo? Qué hacer (primeros auxilios) #Shorts`
+- Description:
+```
+No te frotes el ojo. Lávate las manos, parpadea varias veces y luego enjuaga con agua limpia tibia o suero salino estéril, inclinando la cabeza. Si la partícula está bajo el párpado superior, tira suavemente de él sobre el inferior.
+No intentes sacar nada clavado en el ojo ni uses pinzas o bastoncillos.
+Busca atención médica urgente si es un químico (enjuaga 15 minutos antes), un objeto clavado, cambios en la vista o dolor o enrojecimiento que no desaparece.
+
+Solo con fines educativos; no es consejo médico. Si tienes síntomas, consulta a un profesional de la salud.
+
+#Shorts #PrimerosAuxilios #SaludOcular #SketchClinic
+```
+- Tags: `algo en el ojo, primeros auxilios ojo, cuerpo extraño en el ojo, lavar el ojo, irritación ocular, salud, sketch clinic`
+
+### ep25-something-in-eye — French  *(Phase 2 — only if the user asks)*
+- File: `ep25-something-in-eye/ep25-something-in-eye-fr.mp4`
+- Video language: French
+- Subtitles file: `ep25-something-in-eye/ep25-something-in-eye-fr.srt` (Subtitles → Add language: French → Upload file → With timing)
+- Title: `Quelque chose dans l'œil ? Que faire (premiers secours) #Shorts`
+- Description:
+```
+Ne te frotte pas l'œil. Lave-toi les mains, cligne des yeux plusieurs fois, puis rince à l'eau propre tiède ou au sérum physiologique stérile, tête penchée. Pour un grain sous la paupière supérieure, tire-la doucement par-dessus l'inférieure.
+N'essaie pas de retirer un objet planté dans l'œil, et n'utilise ni pince ni coton-tige.
+Consulte en urgence en cas de projection chimique (rince 15 minutes d'abord), d'objet planté, de changement de vision ou de douleur ou rougeur persistante.
+
+À but éducatif uniquement — pas un avis médical. Si tu as des symptômes, consulte un professionnel de santé.
+
+#Shorts #PremiersSecours #SantéOculaire #SketchClinic
+```
+- Tags: `quelque chose dans l'œil, premiers secours œil, corps étranger œil, rincer l'œil, irritation de l'œil, santé, sketch clinic`
+
+### ep25-something-in-eye — Japanese  *(Phase 2 — only if the user asks)*
+- File: `ep25-something-in-eye/ep25-something-in-eye-ja.mp4`
+- Video language: Japanese
+- Subtitles file: `ep25-something-in-eye/ep25-something-in-eye-ja.srt` (Subtitles → Add language: Japanese → Upload file → With timing)
+- Title: `目に何か入ったら？応急手当の手順 #Shorts`
+- Description:
+```
+目をこすらないでください。手を洗い、何度かまばたきをして、それでも残っていればきれいなぬるま湯か滅菌した生理食塩水で、頭を傾けて洗い流します。上まぶたの裏にあるときは、上まぶたをそっと下まぶたにかぶせます。
+目に刺さった物は取ろうとせず、ピンセットや綿棒も使わないでください。
+薬品が入った場合（先に15分洗う）、物が刺さった、見えにくい、痛みや赤みが続くときはすぐに受診してください。
+
+教育目的の情報であり、医療アドバイスではありません。症状がある場合は医療機関を受診してください。
+
+#Shorts #応急手当 #目の健康 #SketchClinic
+```
+- Tags: `目に異物, 応急手当, 目を洗う, 目の異物, 目の痛み, 健康, sketch clinic`
+
 ## Step 3 — Report back
 Send the user: channel URL, and a table of episode → video URL (all Private).

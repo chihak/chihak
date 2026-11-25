@@ -1,0 +1,51 @@
+1
+00:00:00,250 --> 00:00:01,553
+Quelque chose dans l'œil ?
+
+2
+00:00:01,553 --> 00:00:02,406
+Ne te frotte pas.
+
+3
+00:00:02,406 --> 00:00:03,258
+Voici quoi faire.
+
+4
+00:00:05,750 --> 00:00:06,872
+Un : lave-toi les mains.
+
+5
+00:00:06,872 --> 00:00:08,929
+Ne frotte pas l'œil, tu risques de le rayer.
+
+6
+00:00:11,750 --> 00:00:13,566
+Deux : cligne des yeux plusieurs fois.
+
+7
+00:00:13,566 --> 00:00:15,334
+Les larmes évacuent souvent le grain.
+
+8
+00:00:17,750 --> 00:00:21,227
+Trois : rince à l'eau tiède propre ou au sérum physiologique, tête penchée.
+
+9
+00:00:24,250 --> 00:00:26,175
+Un grain sous la paupière supérieure ?
+
+10
+00:00:26,175 --> 00:00:28,303
+Tire-la doucement par-dessus l'inférieure.
+
+11
+00:00:30,250 --> 00:00:32,409
+Ne retire pas un objet planté dans l'œil.
+
+12
+00:00:32,409 --> 00:00:33,621
+Couvre-le sans appuyer.
+
+13
+00:00:36,750 --> 00:00:42,382
+Urgence : produit chimique (rince 15 minutes), objet planté, vision altérée ou douleur persistante.
