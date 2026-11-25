@@ -1,0 +1,142 @@
+{
+  "id": "ep02-heart-attack",
+  "title": {
+    "en": "5 Warning Signs of a *Heart Attack*",
+    "es": "5 señales de un *infarto*",
+    "fr": "5 signes d'une *crise cardiaque*",
+    "ja": "*心筋梗塞*の5つのサイン"
+  },
+  "steps": 5,
+  "stepsFrom": 2,
+  "coverTime": 18.8,
+  "scenes": [
+    {
+      "dur": 5,
+      "caption": {
+        "en": "A heart attack isn't always sudden and dramatic. Many start *slowly*, with mild discomfort.",
+        "es": "Un infarto no siempre es repentino y dramático. Muchos empiezan *poco a poco*.",
+        "fr": "Une crise cardiaque n'est pas toujours brutale. Beaucoup commencent *doucement*.",
+        "ja": "心筋梗塞はいつも突然とは限りません。*じわじわ*始まることも多いのです。"
+      },
+      "svg": "<path class='d' data-s='0' data-d='1.2' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 540 1050 C 250 860 230 600 400 560 C 470 545 520 585 540 640 C 560 585 610 545 680 560 C 850 600 830 860 540 1050 Z'/><path class='f' data-s='1.0' data-d='0.6' data-o='0.18' fill='#e63946' opacity='0' d='M 540 1050 C 250 860 230 600 400 560 C 470 545 520 585 540 640 C 560 585 610 545 680 560 C 850 600 830 860 540 1050 Z'/><path class='d' data-s='1.2' data-d='1.4' fill='none' stroke='#e63946' stroke-width='10' d='M 150 800 L 330 800 L 370 760 L 410 800 L 450 800 L 490 640 L 540 940 L 590 740 L 620 800 L 700 800 L 730 770 L 760 800 L 930 800'/>",
+      "texts": [
+        { "x": 540, "y": 1190, "size": 92, "color": "#e63946", "s": 2.4,
+          "t": { "en": "KNOW THE SIGNS", "es": "CONOCE LAS SEÑALES", "fr": "CONNAÎTRE LES SIGNES", "ja": "サインを知ろう" } }
+      ]
+    },
+    {
+      "dur": 5.5,
+      "caption": {
+        "en": "It happens when a *blocked artery* cuts off blood to part of the heart muscle.",
+        "es": "Ocurre cuando una *arteria bloqueada* deja sin sangre a parte del músculo del corazón.",
+        "fr": "Elle survient quand une *artère bouchée* prive de sang une partie du muscle cardiaque.",
+        "ja": "心臓の筋肉に血液を送る*血管が詰まる*ことで起こります。"
+      },
+      "svg": "<path class='d' data-s='0' data-d='1.1' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 540 1100 C 230 890 210 600 390 555 C 465 538 518 580 540 640 C 562 580 615 538 690 555 C 870 600 850 890 540 1100 Z'/><path class='d' data-s='0.8' data-d='0.9' fill='none' stroke='#e63946' stroke-width='12' d='M 560 650 C 600 720 640 760 640 830 C 640 900 610 960 575 1020'/><path class='d' data-s='1.1' data-d='0.6' fill='none' stroke='#e63946' stroke-width='9' d='M 637 790 C 690 810 730 840 760 880'/><path class='d' data-s='1.0' data-d='0.7' fill='none' stroke='#e63946' stroke-width='9' d='M 555 660 C 500 720 440 760 400 830'/><path class='p' data-s='1.8' data-d='0.4' fill='#7a1f2b' stroke='#1d1d1d' stroke-width='6' d='M 615 800 C 640 785 668 800 666 830 C 668 858 640 868 620 858 C 600 848 596 815 615 800 Z'/><path class='f' data-s='2.4' data-d='0.8' data-o='0.5' fill='#555' opacity='0' d='M 600 880 C 660 870 730 890 740 930 C 700 990 640 1030 585 1060 C 560 1020 560 960 575 920 C 580 900 590 885 600 880 Z'/><path class='d' data-s='2.2' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 870 680 Q 790 700 700 790 M 702 760 L 698 792 L 730 790'/>",
+      "texts": [
+        { "x": 540, "y": 1210, "size": 92, "color": "#e63946", "s": 2.0,
+          "t": { "en": "BLOCKED ARTERY", "es": "ARTERIA BLOQUEADA", "fr": "ARTÈRE BOUCHÉE", "ja": "血管が詰まる" } }
+      ]
+    },
+    {
+      "dur": 4.4, "step": 1,
+      "caption": {
+        "en": "*1* — Chest pressure, squeezing or pain that lasts minutes, or comes and goes.",
+        "es": "*1* — Presión, opresión o dolor en el pecho que dura minutos, o va y viene.",
+        "fr": "*1* — Pression, serrement ou douleur dans la poitrine, qui dure ou revient.",
+        "ja": "*1* 胸の圧迫感・締めつけ・痛みが数分続く、または繰り返す"
+      },
+      "svg": "<circle class='d' data-s='0' data-d='0.6' cx='540' cy='520' r='68' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='0.3' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 505 590 L 505 625 Q 340 640 300 720 L 280 1100 M 575 590 L 575 625 Q 740 640 780 720 L 800 1100'/><path class='p' data-s='0.9' data-d='0.4' fill='#e63946' stroke='#1d1d1d' stroke-width='6' d='M 600 860 C 520 810 515 745 555 735 C 578 730 595 745 600 762 C 605 745 622 730 645 735 C 685 745 680 810 600 860 Z'/><path class='d' data-s='1.3' data-d='0.6' fill='none' stroke='#e63946' stroke-width='7' d='M 495 720 Q 470 790 495 860 M 705 720 Q 730 790 705 860'/><path class='d' data-s='1.6' data-d='0.6' fill='none' stroke='#e63946' stroke-width='7' d='M 455 700 Q 420 790 455 880 M 745 700 Q 780 790 745 880'/><path class='d' data-s='2.0' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 150 790 L 260 790 M 225 755 L 262 790 L 225 825 M 930 790 L 820 790 M 855 755 L 818 790 L 855 825'/>",
+      "texts": [
+        { "x": 540, "y": 1210, "size": 92, "color": "#e63946", "s": 0.5,
+          "t": { "en": "CHEST PRESSURE", "es": "PRESIÓN EN EL PECHO", "fr": "POITRINE SERRÉE", "ja": "胸の圧迫感" } }
+      ]
+    },
+    {
+      "dur": 4.4, "step": 2,
+      "caption": {
+        "en": "*2* — Pain or discomfort spreading to the *arm*, jaw, neck, back or stomach.",
+        "es": "*2* — Dolor que se extiende al *brazo*, mandíbula, cuello, espalda o estómago.",
+        "fr": "*2* — Douleur qui s'étend au *bras*, à la mâchoire, au cou, au dos ou au ventre.",
+        "ja": "*2* 痛みが*腕*・あご・首・背中・みぞおちに広がる"
+      },
+      "svg": "<circle class='d' data-s='0' data-d='0.6' cx='540' cy='530' r='70' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='0.3' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 540 600 L 540 900 M 540 660 L 400 870 M 540 660 L 680 870 M 540 900 L 460 1100 M 540 900 L 620 1100'/><circle class='p' data-s='0.9' data-d='0.4' cx='570' cy='720' r='26' fill='#e63946'/><path class='d' data-s='1.2' data-d='0.7' fill='none' stroke='#e63946' stroke-width='14' stroke-dasharray='4 22' d='M 590 740 L 680 870'/><path class='d' data-s='1.4' data-d='0.5' fill='none' stroke='#e63946' stroke-width='14' stroke-dasharray='4 22' d='M 565 695 L 555 610'/><path class='p' data-s='1.8' data-d='0.4' fill='none' stroke='#e63946' stroke-width='8' d='M 700 860 L 740 840 M 705 890 L 750 895 M 690 915 L 720 945'/><path class='p' data-s='2.0' data-d='0.4' fill='none' stroke='#e63946' stroke-width='8' d='M 610 560 L 650 545 M 615 590 L 660 595 M 600 615 L 630 645'/><path class='p' data-s='2.2' data-d='0.4' fill='none' stroke='#e63946' stroke-width='8' d='M 470 720 L 430 700 M 465 750 L 420 755 M 470 780 L 440 810'/>",
+      "texts": [
+        { "x": 540, "y": 1210, "size": 92, "color": "#e63946", "s": 0.5,
+          "t": { "en": "ARM · JAW · BACK", "es": "BRAZO · MANDÍBULA · ESPALDA", "fr": "BRAS · MÂCHOIRE · DOS", "ja": "腕・あご・背中" } }
+      ]
+    },
+    {
+      "dur": 4.4, "step": 3,
+      "caption": {
+        "en": "*3* — Shortness of breath, with or without chest discomfort.",
+        "es": "*3* — Falta de aire, con o sin molestia en el pecho.",
+        "fr": "*3* — Essoufflement, avec ou sans gêne dans la poitrine.",
+        "ja": "*3* 息切れ（胸の痛みがなくても起こることも）"
+      },
+      "svg": "<path class='d' data-s='0' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 540 470 L 540 640 M 540 640 Q 500 665 470 710 M 540 640 Q 580 665 610 710'/><path class='d' data-s='0.3' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 495 620 C 430 580 320 640 300 820 C 285 970 320 1080 400 1080 C 470 1080 500 1010 500 920 Z'/><path class='d' data-s='0.4' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 585 620 C 650 580 760 640 780 820 C 795 970 760 1080 680 1080 C 610 1080 580 1010 580 920 Z'/><path class='f' data-s='1.2' data-d='0.6' data-o='0.25' fill='#888' opacity='0' d='M 495 620 C 430 580 320 640 300 820 C 285 970 320 1080 400 1080 C 470 1080 500 1010 500 920 Z M 585 620 C 650 580 760 640 780 820 C 795 970 760 1080 680 1080 C 610 1080 580 1010 580 920 Z'/><path class='d' data-s='1.5' data-d='0.5' fill='none' stroke='#e63946' stroke-width='9' d='M 600 500 Q 650 470 700 500 T 800 500'/><path class='d' data-s='1.8' data-d='0.5' fill='none' stroke='#e63946' stroke-width='9' d='M 620 560 Q 670 530 720 560 T 820 560'/><path class='d' data-s='1.6' data-d='0.5' fill='none' stroke='#e63946' stroke-width='9' d='M 480 500 Q 430 470 380 500 T 280 500'/><path class='d' data-s='1.9' data-d='0.5' fill='none' stroke='#e63946' stroke-width='9' d='M 460 560 Q 410 530 360 560 T 260 560'/>",
+      "texts": [
+        { "x": 540, "y": 1210, "size": 92, "color": "#e63946", "s": 0.5,
+          "t": { "en": "SHORT OF BREATH", "es": "FALTA DE AIRE", "fr": "ESSOUFFLEMENT", "ja": "息切れ" } }
+      ]
+    },
+    {
+      "dur": 4.4, "step": 4,
+      "caption": {
+        "en": "*4* — Breaking out in a *cold sweat*.",
+        "es": "*4* — *Sudor frío* repentino.",
+        "fr": "*4* — Des *sueurs froides*.",
+        "ja": "*4* *冷や汗*が出る"
+      },
+      "svg": "<circle class='d' data-s='0' data-d='0.9' cx='540' cy='790' r='240' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='0.6' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 410 700 L 490 680 M 590 680 L 670 700'/><circle class='p' data-s='0.8' data-d='0.3' cx='455' cy='750' r='24' fill='#1d1d1d'/><circle class='p' data-s='0.9' data-d='0.3' cx='625' cy='750' r='24' fill='#1d1d1d'/><path class='d' data-s='1.0' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 440 910 Q 475 880 510 910 T 580 910 T 650 900'/><path class='p' data-s='1.3' data-d='0.4' fill='#d9d9d9' stroke='#1d1d1d' stroke-width='6' d='M 330 590 C 312 620 306 636 306 650 a 24 24 0 0 0 48 0 C 354 636 348 620 330 590 Z'/><path class='p' data-s='1.5' data-d='0.4' fill='#d9d9d9' stroke='#1d1d1d' stroke-width='6' d='M 770 560 C 752 590 746 606 746 620 a 24 24 0 0 0 48 0 C 794 606 788 590 770 560 Z'/><path class='p' data-s='1.7' data-d='0.4' fill='#d9d9d9' stroke='#1d1d1d' stroke-width='6' d='M 840 760 C 822 790 816 806 816 820 a 24 24 0 0 0 48 0 C 864 806 858 790 840 760 Z'/><path class='p' data-s='1.9' data-d='0.4' fill='#d9d9d9' stroke='#1d1d1d' stroke-width='6' d='M 240 780 C 222 810 216 826 216 840 a 24 24 0 0 0 48 0 C 264 826 258 810 240 780 Z'/><path class='p' data-s='2.1' data-d='0.4' fill='#d9d9d9' stroke='#1d1d1d' stroke-width='6' d='M 560 600 C 542 630 536 646 536 660 a 24 24 0 0 0 48 0 C 584 646 578 630 560 600 Z'/><path class='d' data-s='2.2' data-d='0.6' fill='none' stroke='#888' stroke-width='7' d='M 200 980 Q 230 960 260 980 T 320 980 M 760 1000 Q 790 980 820 1000 T 880 1000'/>",
+      "texts": [
+        { "x": 540, "y": 1200, "size": 96, "color": "#e63946", "s": 0.5,
+          "t": { "en": "COLD SWEAT", "es": "SUDOR FRÍO", "fr": "SUEURS FROIDES", "ja": "冷や汗" } }
+      ]
+    },
+    {
+      "dur": 4.4, "step": 5,
+      "caption": {
+        "en": "*5* — Nausea, vomiting, or feeling *lightheaded*.",
+        "es": "*5* — Náuseas, vómitos o *mareo*.",
+        "fr": "*5* — Nausées, vomissements ou *étourdissements*.",
+        "ja": "*5* 吐き気・嘔吐・*ふらつき*"
+      },
+      "svg": "<circle class='d' data-s='0' data-d='0.9' cx='540' cy='820' r='230' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='f' data-s='0.8' data-d='0.6' data-o='0.22' fill='#888' opacity='0' d='M 310 820 a 230 230 0 1 0 460 0 a 230 230 0 1 0 -460 0 Z'/><path class='d' data-s='0.7' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 455 770 a 26 26 0 1 1 -26 -26 a 16 16 0 1 1 16 16 a 6 6 0 1 1 -6 -6'/><path class='d' data-s='0.8' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 655 770 a 26 26 0 1 1 -26 -26 a 16 16 0 1 1 16 16 a 6 6 0 1 1 -6 -6'/><path class='d' data-s='1.1' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 450 930 Q 480 900 510 930 T 570 930 T 630 925'/><path class='d' data-s='1.4' data-d='0.7' fill='none' stroke='#e63946' stroke-width='7' d='M 390 520 a 30 30 0 1 1 30 30 a 18 18 0 1 1 -18 -18 a 8 8 0 1 1 8 8'/><path class='d' data-s='1.6' data-d='0.7' fill='none' stroke='#e63946' stroke-width='7' d='M 680 500 a 30 30 0 1 1 30 30 a 18 18 0 1 1 -18 -18 a 8 8 0 1 1 8 8'/><path class='d' data-s='1.9' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='6' d='M 260 760 Q 230 820 260 880 M 820 760 Q 850 820 820 880'/>",
+      "texts": [
+        { "x": 540, "y": 1200, "size": 96, "color": "#e63946", "s": 0.5,
+          "t": { "en": "NAUSEA · DIZZY", "es": "NÁUSEAS · MAREO", "fr": "NAUSÉES · VERTIGES", "ja": "吐き気・ふらつき" } }
+      ]
+    },
+    {
+      "dur": 4.6,
+      "caption": {
+        "en": "*Women* get chest pain too, but more often breathlessness, nausea, or back or jaw pain.",
+        "es": "Las *mujeres* también tienen dolor de pecho, pero más a menudo falta de aire, náuseas o dolor de espalda o mandíbula.",
+        "fr": "Les *femmes* aussi ont mal à la poitrine, mais plus souvent essoufflement, nausées, douleur au dos ou à la mâchoire.",
+        "ja": "*女性*は胸の痛みに加え、息切れ・吐き気・背中やあごの痛みが出やすい傾向も。"
+      },
+      "svg": "<circle class='d' data-s='0' data-d='0.8' cx='370' cy='700' r='150' fill='none' stroke='#1d1d1d' stroke-width='12'/><path class='d' data-s='0.6' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='12' d='M 370 850 L 370 1080 M 290 980 L 450 980'/><path class='d' data-s='1.1' data-d='1.0' fill='none' stroke='#e63946' stroke-width='10' stroke-dasharray='22 18' d='M 740 1000 C 560 880 545 700 650 670 C 700 657 730 690 740 720 C 750 690 780 657 830 670 C 935 700 920 880 740 1000 Z'/><path class='p' data-s='2.0' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='7' d='M 640 590 L 615 555 M 740 570 L 740 530 M 840 590 L 865 555'/>",
+      "texts": [
+        { "x": 540, "y": 1200, "size": 88, "color": "#e63946", "s": 1.4,
+          "t": { "en": "OFTEN SUBTLER IN WOMEN", "es": "EN MUJERES, MÁS SUTIL", "fr": "PLUS DISCRET CHEZ LES FEMMES", "ja": "女性は分かりにくいことも" } }
+      ]
+    },
+    {
+      "dur": 5.4,
+      "caption": {
+        "en": "Call emergency services *right away*, even if unsure. Don't drive yourself.",
+        "es": "Llama a emergencias *de inmediato*, aunque no estés seguro. No conduzcas tú mismo.",
+        "fr": "Appelle les secours *immédiatement*, même en cas de doute. Ne conduis pas toi-même.",
+        "ja": "迷っても*すぐに*救急車を。自分で運転して行かないで。"
+      },
+      "svg": "<path class='d' data-s='0' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 200 560 Q 200 520 240 520 H 470 Q 510 520 510 560 V 1020 Q 510 1060 470 1060 H 240 Q 200 1060 200 1020 Z'/><path class='d' data-s='0.5' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='6' d='M 232 580 H 478 V 960 H 232 Z'/><circle class='d' data-s='0.8' data-d='0.3' cx='355' cy='1010' r='18' fill='none' stroke='#1d1d1d' stroke-width='6'/><path class='d' data-s='1.3' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 620 840 L 650 760 Q 660 730 690 730 L 820 730 Q 850 730 860 760 L 890 840 Q 920 845 920 875 L 920 930 L 590 930 L 590 875 Q 590 845 620 840 Z M 650 840 L 860 840'/><circle class='d' data-s='1.8' data-d='0.4' cx='665' cy='935' r='36' fill='#fbfaf5' stroke='#1d1d1d' stroke-width='10'/><circle class='d' data-s='1.9' data-d='0.4' cx='845' cy='935' r='36' fill='#fbfaf5' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='2.4' data-d='0.6' fill='none' stroke='#e63946' stroke-width='14' d='M 590 660 L 930 1010 M 930 660 L 590 1010'/>",
+      "texts": [
+        { "x": 355, "y": 790, "size": 64, "color": "#e63946", "s": 0.9, "maxW": 220,
+          "t": { "en": "911 · 999 · 112", "es": "112 · 911", "fr": "15 · 112", "ja": "119" } },
+        { "x": 540, "y": 1200, "size": 92, "color": "#e63946", "s": 1.5,
+          "t": { "en": "CALL — DON'T DRIVE", "es": "LLAMA, NO CONDUZCAS", "fr": "APPELLE, NE CONDUIS PAS", "ja": "運転せず救急車！" } }
+      ]
+    }
+  ]
+}
