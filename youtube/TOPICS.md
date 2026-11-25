@@ -8,7 +8,7 @@ Covered by ep01-ep20: stroke, heart attack, leg cramps, knuckle cracking, hiccup
 - done: ep22-fainting - Fainting - what to do when someone passes out
 - done: ep24-goosebumps - Why do we get goosebumps?
 - todo: Why do fingers wrinkle in water?
-- todo: Sprained ankle first aid (PRICE / POLICE)
+- in progress: ep26-sprained-ankle - Sprained ankle first aid (PRICE / POLICE)
 - todo: Sunburn - treat it and when to worry
 - todo: How to remove a splinter safely
 - todo: Motion sickness - why it happens and what helps
