@@ -1,0 +1,130 @@
+{
+  "id": "ep01-stroke",
+  "title": {
+    "en": "5 Signs of a *Stroke*",
+    "es": "5 señales de un *derrame cerebral*",
+    "fr": "5 signes d'un *AVC*",
+    "ja": "*脳卒中*の5つのサイン"
+  },
+  "steps": 5,
+  "stepsFrom": 2,
+  "coverTime": 24.9,
+  "scenes": [
+    {
+      "dur": 6,
+      "caption": {
+        "en": "Every minute of a stroke, the brain can lose almost *2 million* nerve cells.",
+        "es": "En cada minuto de un derrame, el cerebro puede perder casi *2 millones* de neuronas.",
+        "fr": "À chaque minute d'un AVC, le cerveau peut perdre près de *2 millions* de neurones.",
+        "ja": "脳卒中では1分ごとに、約*200万個*の神経細胞が失われることがあります。"
+      },
+      "svg": "<path class='d' data-s='0' data-d='1.4' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 330 900 C 280 860 290 780 350 760 C 340 700 400 650 460 670 C 490 620 580 620 610 665 C 670 640 740 680 735 740 C 800 760 810 840 760 880 C 780 940 720 990 660 970 C 630 1010 560 1010 530 975 C 490 1010 410 1000 400 950 C 350 960 310 930 330 900 Z'/><path class='d' data-s='1.1' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 450 720 C 480 760 440 800 480 830'/><path class='d' data-s='1.3' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 600 700 C 570 740 620 780 590 820'/><path class='d' data-s='1.5' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 520 880 C 560 900 600 880 640 900'/><path class='d' data-s='1.6' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 400 860 C 430 880 470 870 490 900'/><path class='d' data-s='1.7' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 560 990 C 565 1030 575 1060 590 1090'/><circle class='d' data-s='2.0' data-d='0.7' cx='850' cy='560' r='70' fill='none' stroke='#e63946' stroke-width='9'/><path class='d' data-s='2.5' data-d='0.4' fill='none' stroke='#e63946' stroke-width='9' d='M 850 560 L 850 512 M 850 560 L 885 578'/><path class='p' data-s='2.8' data-d='0.4' fill='none' stroke='#e63946' stroke-width='7' d='M 760 470 L 735 445 M 940 470 L 965 445'/>",
+      "texts": [
+        { "x": 540, "y": 1185, "size": 84, "color": "#e63946", "s": 2.6,
+          "t": { "en": "−1.9 million / min", "es": "−1,9 millones / min", "fr": "−1,9 million / min", "ja": "毎分 −190万" } }
+      ]
+    },
+    {
+      "dur": 6,
+      "caption": {
+        "en": "A stroke happens when blood to part of the brain is *blocked* — or a vessel *bursts*.",
+        "es": "Ocurre cuando la sangre a una parte del cerebro se *bloquea*, o un vaso se *rompe*.",
+        "fr": "Il survient quand le sang n'arrive plus à une partie du cerveau : vaisseau *bouché* ou *rompu*.",
+        "ja": "脳の一部への血流が*詰まる*、または血管が*破れる*ことで起こります。"
+      },
+      "svg": "<path class='d' data-s='0' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 160 590 C 360 560 560 620 920 580'/><path class='d' data-s='0.1' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 160 720 C 360 690 560 750 920 710'/><circle class='p' data-s='0.8' data-d='0.4' cx='240' cy='648' r='24' fill='#e63946'/><circle class='p' data-s='0.95' data-d='0.4' cx='325' cy='660' r='24' fill='#e63946'/><circle class='p' data-s='1.1' data-d='0.4' cx='410' cy='650' r='24' fill='#e63946'/><path class='p' data-s='1.4' data-d='0.5' fill='#7a1f2b' stroke='#1d1d1d' stroke-width='6' d='M 520 605 C 565 585 610 615 610 660 C 620 705 575 725 540 712 C 495 705 485 635 520 605 Z'/><path class='d' data-s='2.4' data-d='0.6' fill='none' stroke='#e63946' stroke-width='9' d='M 560 760 Q 600 830 590 890 M 565 868 L 590 892 L 615 865'/><g transform='translate(540 1010) scale(0.42) translate(-550 -830)'><path class='d' data-s='2.8' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='20' d='M 330 900 C 280 860 290 780 350 760 C 340 700 400 650 460 670 C 490 620 580 620 610 665 C 670 640 740 680 735 740 C 800 760 810 840 760 880 C 780 940 720 990 660 970 C 630 1010 560 1010 530 975 C 490 1010 410 1000 400 950 C 350 960 310 930 330 900 Z'/><circle class='f' data-s='3.6' data-d='0.6' data-o='0.55' cx='640' cy='770' r='95' fill='#555' opacity='0'/></g>",
+      "texts": [
+        { "x": 790, "y": 830, "size": 62, "color": "#e63946", "s": 1.8, "maxW": 380,
+          "t": { "en": "BLOCKED", "es": "BLOQUEADO", "fr": "BOUCHÉ", "ja": "詰まり" } }
+      ]
+    },
+    {
+      "dur": 4.5, "step": 1,
+      "caption": {
+        "en": "*B* — Balance: sudden dizziness or trouble walking.",
+        "es": "*1* — Equilibrio: mareo repentino o dificultad para caminar.",
+        "fr": "*1* — Équilibre : vertige soudain ou difficulté à marcher.",
+        "ja": "*1* バランス：突然のめまい、歩きにくさ"
+      },
+      "svg": "<g transform='rotate(-14 540 1000)'><circle class='d' data-s='0' data-d='0.6' cx='540' cy='620' r='70' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='0.4' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 540 690 L 540 930 M 540 750 L 430 860 M 540 750 L 670 680 M 540 930 L 450 1100 M 540 930 L 630 1100'/></g><path class='d' data-s='1.1' data-d='0.7' fill='none' stroke='#e63946' stroke-width='7' d='M 400 500 a 30 30 0 1 1 30 30 a 18 18 0 1 1 -18 -18 a 8 8 0 1 1 8 8'/><path class='d' data-s='1.3' data-d='0.7' fill='none' stroke='#e63946' stroke-width='7' d='M 690 470 a 30 30 0 1 1 30 30 a 18 18 0 1 1 -18 -18 a 8 8 0 1 1 8 8'/><path class='d' data-s='1.6' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='6' d='M 300 760 Q 270 820 300 880 M 800 720 Q 830 780 800 840'/><path class='d' data-s='0.2' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='6' d='M 260 1130 Q 400 1100 540 1130 T 820 1130'/>",
+      "texts": [
+        { "x": 540, "y": 1225, "size": 96, "color": "#e63946", "s": 0.5,
+          "t": { "en": "BALANCE", "es": "EQUILIBRIO", "fr": "ÉQUILIBRE", "ja": "バランス" } }
+      ]
+    },
+    {
+      "dur": 4.5, "step": 2,
+      "caption": {
+        "en": "*E* — Eyes: sudden blurry, double, or lost vision.",
+        "es": "*2* — Ojos: visión borrosa, doble o pérdida repentina de la vista.",
+        "fr": "*2* — Yeux : vision floue, double ou perte soudaine de la vue.",
+        "ja": "*2* 目：突然かすむ、二重に見える、見えなくなる"
+      },
+      "svg": "<path class='d' data-s='0' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 230 820 Q 540 560 850 820 Q 540 1080 230 820 Z'/><circle class='d' data-s='0.6' data-d='0.6' cx='540' cy='820' r='120' fill='none' stroke='#1d1d1d' stroke-width='10'/><circle class='p' data-s='1.0' data-d='0.4' cx='540' cy='820' r='50' fill='#1d1d1d'/><path class='d' data-s='0.3' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 380 705 L 350 645 M 540 672 L 540 602 M 700 705 L 730 645'/><circle class='f' data-s='1.4' data-d='0.5' data-o='0.7' cx='610' cy='800' r='120' fill='none' stroke='#e63946' stroke-width='8' stroke-dasharray='20 16' opacity='0'/><path class='d' data-s='2.0' data-d='0.9' fill='none' stroke='#333' stroke-width='18' opacity='0.8' d='M 600 690 L 640 950 L 680 690 L 720 930 L 760 720 L 790 890 L 815 780'/>",
+      "texts": [
+        { "x": 540, "y": 1180, "size": 96, "color": "#e63946", "s": 0.5,
+          "t": { "en": "EYES", "es": "OJOS", "fr": "YEUX", "ja": "目" } }
+      ]
+    },
+    {
+      "dur": 4.5, "step": 3,
+      "caption": {
+        "en": "*F* — Face: ask them to smile. Does one side *droop*?",
+        "es": "*3* — Cara: pídele que sonría. ¿Se *cae* un lado?",
+        "fr": "*3* — Visage : demande-lui de sourire. Un côté *tombe* ?",
+        "ja": "*3* 顔：笑ってもらう。片側が*下がって*いない？"
+      },
+      "svg": "<circle class='d' data-s='0' data-d='0.9' cx='540' cy='790' r='250' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='0.5' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 300 700 Q 360 520 540 535 Q 720 520 780 700'/><ellipse class='p' data-s='0.9' data-d='0.3' cx='450' cy='740' rx='26' ry='34' fill='#1d1d1d'/><ellipse class='p' data-s='1.0' data-d='0.3' cx='630' cy='765' rx='26' ry='20' fill='#1d1d1d'/><path class='d' data-s='1.1' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 405 680 L 495 668 M 585 705 L 670 730'/><path class='d' data-s='1.4' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 420 900 Q 480 945 540 935 Q 600 925 665 980'/><path class='d' data-s='2.1' data-d='0.6' fill='none' stroke='#e63946' stroke-width='10' d='M 745 870 L 745 990 M 718 962 L 745 992 L 772 962'/>",
+      "texts": [
+        { "x": 540, "y": 1180, "size": 96, "color": "#e63946", "s": 0.5,
+          "t": { "en": "FACE", "es": "CARA", "fr": "VISAGE", "ja": "顔" } }
+      ]
+    },
+    {
+      "dur": 4.5, "step": 4,
+      "caption": {
+        "en": "*A* — Arms: raise both arms. Does one *drift down*?",
+        "es": "*4* — Brazos: que levante ambos. ¿Uno *se cae*?",
+        "fr": "*4* — Bras : lever les deux bras. L'un *retombe* ?",
+        "ja": "*4* 腕：両腕を上げる。片方が*下がって*くる？"
+      },
+      "svg": "<circle class='d' data-s='0' data-d='0.6' cx='540' cy='600' r='65' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='0.4' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 540 665 L 540 920 M 540 720 L 395 570 M 540 920 L 465 1090 M 540 920 L 615 1090'/><path class='f' data-s='0.9' data-d='0.4' data-o='0.45' fill='none' stroke='#888' stroke-width='10' stroke-dasharray='18 16' opacity='0' d='M 540 720 L 685 570'/><path class='d' data-s='1.3' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 540 720 L 705 800'/><path class='d' data-s='1.9' data-d='0.7' fill='none' stroke='#e63946' stroke-width='9' d='M 735 590 Q 810 680 745 775 M 722 750 L 745 777 L 772 757'/>",
+      "texts": [
+        { "x": 540, "y": 1190, "size": 96, "color": "#e63946", "s": 0.5,
+          "t": { "en": "ARMS", "es": "BRAZOS", "fr": "BRAS", "ja": "腕" } }
+      ]
+    },
+    {
+      "dur": 4.5, "step": 5,
+      "caption": {
+        "en": "*S* — Speech: is it *slurred* or strange?",
+        "es": "*5* — Habla: ¿es *arrastrada* o extraña?",
+        "fr": "*5* — Parole : est-elle *confuse* ou bizarre ?",
+        "ja": "*5* 言葉：ろれつが*回らない*、おかしい？"
+      },
+      "svg": "<path class='d' data-s='0' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 220 560 H 860 Q 900 560 900 600 V 860 Q 900 900 860 900 H 420 L 330 990 L 360 900 H 220 Q 180 900 180 860 V 600 Q 180 560 220 560 Z'/><circle class='d' data-s='0.6' data-d='0.5' cx='270' cy='1060' r='60' fill='none' stroke='#1d1d1d' stroke-width='9'/><path class='d' data-s='1.0' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='7' d='M 240 1080 Q 255 1070 268 1082 T 300 1078'/>",
+      "texts": [
+        { "x": 540, "y": 755, "size": 70, "color": "#1d1d1d", "s": 0.9, "d": 0.6, "maxW": 640,
+          "t": { "en": "Th-the skyy... iz bluuh?", "es": "El ciel-lo... ess azuul?", "fr": "Le ciel... eszt bleuu ?", "ja": "そ…そらが…あおぃ…？" } },
+        { "x": 600, "y": 1200, "size": 96, "color": "#e63946", "s": 0.5, "maxW": 700,
+          "t": { "en": "SPEECH", "es": "HABLA", "fr": "PAROLE", "ja": "言葉" } }
+      ]
+    },
+    {
+      "dur": 6,
+      "caption": {
+        "en": "*T* — Time: call emergency services *now*, even if it fades. Note when it started.",
+        "es": "Llama a emergencias *ya*, aunque los síntomas pasen. Anota a qué hora empezaron.",
+        "fr": "Appelle les secours *tout de suite*, même si ça passe. Note l'heure du début.",
+        "ja": "症状が消えても*すぐに*救急要請を。始まった時刻をメモして。"
+      },
+      "svg": "<path class='d' data-s='0' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 230 560 Q 230 520 270 520 H 500 Q 540 520 540 560 V 1020 Q 540 1060 500 1060 H 270 Q 230 1060 230 1020 Z'/><path class='d' data-s='0.5' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='6' d='M 262 580 H 508 V 960 H 262 Z'/><circle class='d' data-s='0.8' data-d='0.3' cx='385' cy='1010' r='18' fill='none' stroke='#1d1d1d' stroke-width='6'/><circle class='d' data-s='1.2' data-d='0.8' cx='790' cy='760' r='160' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='1.8' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 790 615 L 790 640 M 935 760 L 910 760 M 790 905 L 790 880 M 645 760 L 670 760'/><path class='d' data-s='2.2' data-d='0.5' fill='none' stroke='#e63946' stroke-width='10' d='M 790 760 L 790 655 M 790 760 L 870 805'/>",
+      "texts": [
+        { "x": 385, "y": 790, "size": 64, "color": "#e63946", "s": 0.9, "maxW": 220,
+          "t": { "en": "911 · 999 · 112", "es": "112 · 911", "fr": "15 · 112", "ja": "119" } },
+        { "x": 540, "y": 1200, "size": 92, "color": "#e63946", "s": 1.5,
+          "t": { "en": "TIME TO CALL!", "es": "¡LLAMA YA!", "fr": "APPELLE VITE !", "ja": "すぐに救急車！" } }
+      ]
+    }
+  ]
+}
