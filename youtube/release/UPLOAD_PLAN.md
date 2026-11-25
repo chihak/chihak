@@ -1033,6 +1033,70 @@ Pour les bébés, les enfants et les femmes enceintes, la technique est différe
 ```
 - Tags: `窒息, ハイムリック法, 腹部突き上げ法, 背部叩打法, のどに詰まった, 応急処置, 心肺蘇生, 救急, sketch clinic`
 
+### ep17-heat-illness — English
+- File: `ep17-heat-illness/ep17-heat-illness-en.mp4`
+- Video language: English
+- Subtitles file: `ep17-heat-illness/ep17-heat-illness-en.srt` (Subtitles → Add language: English → Upload file → With timing)
+- Title: `Heat Exhaustion vs Heatstroke: Know the Difference #Shorts`
+- Description:
+```
+Heat exhaustion: heavy sweating, headache, dizziness, nausea, cramps, weakness and thirst. Move to a cool place, lie down with feet raised, drink water and cool the skin. They should feel better within 30 minutes.
+Heatstroke is an emergency: call emergency services for confusion, fainting, seizures, no sweating, a temperature of 40 °C or more, or no improvement after 30 minutes. Keep cooling them while you wait.
+
+Educational only — not medical advice. If you have symptoms, see a healthcare professional.
+
+#Shorts #Heatstroke #HeatExhaustion #FirstAid #SketchClinic
+```
+- Tags: `heatstroke, heat exhaustion, heat stroke symptoms, heat illness, first aid, summer safety, dehydration, emergency, health tips, sketch clinic`
+
+### ep17-heat-illness — Spanish  *(Phase 2 — only if the user asks)*
+- File: `ep17-heat-illness/ep17-heat-illness-es.mp4`
+- Video language: Spanish
+- Subtitles file: `ep17-heat-illness/ep17-heat-illness-es.srt` (Subtitles → Add language: Spanish → Upload file → With timing)
+- Title: `Agotamiento por calor vs golpe de calor: la diferencia #Shorts`
+- Description:
+```
+Agotamiento por calor: mucho sudor, dolor de cabeza, mareo, náuseas, calambres, debilidad y sed. Lugar fresco, acostado con los pies elevados, agua y enfriar la piel. Debería mejorar en 30 minutos.
+El golpe de calor es una emergencia: llama si hay confusión, desmayo, convulsiones, no suda, temperatura de 40 °C o más o no mejora en 30 minutos. Sigue enfriándole mientras esperas.
+
+Solo con fines educativos; no es consejo médico. Si tienes síntomas, consulta a un profesional de la salud.
+
+#Shorts #GolpeDeCalor #Verano #PrimerosAuxilios #SketchClinic
+```
+- Tags: `golpe de calor, agotamiento por calor, insolación, ola de calor, primeros auxilios, deshidratación, emergencia, sketch clinic`
+
+### ep17-heat-illness — French  *(Phase 2 — only if the user asks)*
+- File: `ep17-heat-illness/ep17-heat-illness-fr.mp4`
+- Video language: French
+- Subtitles file: `ep17-heat-illness/ep17-heat-illness-fr.srt` (Subtitles → Add language: French → Upload file → With timing)
+- Title: `Épuisement dû à la chaleur ou coup de chaleur ? La différence #Shorts`
+- Description:
+```
+Épuisement dû à la chaleur : forte sueur, mal de tête, vertiges, nausées, crampes, faiblesse, soif. Au frais, allongé pieds surélevés, faire boire et refroidir la peau. Ça doit aller mieux en 30 minutes.
+Le coup de chaleur est une urgence : appelle en cas de confusion, malaise, convulsions, absence de sueur, température de 40 °C ou plus, ou pas d'amélioration en 30 minutes. Continue de refroidir en attendant.
+
+À but éducatif uniquement — pas un avis médical. Si tu as des symptômes, consulte un professionnel de santé.
+
+#Shorts #CoupDeChaleur #Canicule #PremiersSecours #SketchClinic
+```
+- Tags: `coup de chaleur, épuisement dû à la chaleur, insolation, canicule, premiers secours, déshydratation, urgence, sketch clinic`
+
+### ep17-heat-illness — Japanese  *(Phase 2 — only if the user asks)*
+- File: `ep17-heat-illness/ep17-heat-illness-ja.mp4`
+- Video language: Japanese
+- Subtitles file: `ep17-heat-illness/ep17-heat-illness-ja.srt` (Subtitles → Add language: Japanese → Upload file → With timing)
+- Title: `熱疲労と熱射病のちがい｜熱中症の応急処置 #Shorts`
+- Description:
+```
+熱疲労：大量の汗、頭痛、めまい、吐き気、けいれん、だるさ、のどの渇き。涼しい場所で足を高くして寝かせ、水分補給と体の冷却を。30分ほどで回復するはずです。
+熱射病は緊急事態。意識の異常、失神、けいれん、汗が出ない、40℃以上の体温、30分たっても回復しない場合はすぐ119番。待つ間も冷やし続けてください。
+
+教育目的の情報であり、医療アドバイスではありません。症状がある場合は医療機関を受診してください。
+
+#Shorts #熱中症 #熱射病 #応急処置 #SketchClinic
+```
+- Tags: `熱中症, 熱射病, 熱疲労, 熱中症 応急処置, 脱水, 夏, 救急, sketch clinic`
+
 ### ep18-button-battery — English
 - File: `ep18-button-battery/ep18-button-battery-en.mp4`
 - Video language: English
@@ -1232,9 +1296,6 @@ Il se transmet plus entre proches, apparaît vers 4–5 ans, et certains animaux
 #Shorts #あくび #脳 #雑学 #SketchClinic
 ```
 - Tags: `あくび, あくび うつる, あくび なぜ, 共感, 脳, 雑学, 健康, sketch clinic`
-
-## Not ready yet
-These episodes are still being produced and will be added to this plan later: ep17-heat-illness
 
 ## Step 3 — Report back
 Send the user: channel URL, and a table of episode → video URL (all Private).
