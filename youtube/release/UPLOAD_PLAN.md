@@ -836,6 +836,74 @@ Une gelure nécessite des soins médicaux.
 ```
 - Tags: `凍傷, 凍傷 応急処置, しもやけ, 寒さ, 冬, 応急処置, 健康, sketch clinic`
 
+### ep14-mouth-ulcer — English
+- File: `ep14-mouth-ulcer/ep14-mouth-ulcer-en.mp4`
+- Video language: English
+- Subtitles file: `ep14-mouth-ulcer/ep14-mouth-ulcer-en.srt` (Subtitles → Add language: English → Upload file → With timing)
+- Title: `Mouth Ulcer (Canker Sore)? What Helps + When to See a Doctor #Shorts`
+- Description:
+```
+Canker sores are small, painful, non-contagious mouth ulcers. Triggers include biting your cheek, sharp teeth or braces, stress, tiredness and some foods.
+Most heal on their own in 1–2 weeks. A soft toothbrush, avoiding spicy/acidic foods and a pharmacy gel or mouthwash can help.
+See a doctor or dentist if one lasts over 2 weeks, keeps coming back, is very large, or you feel unwell.
+
+Educational only — not medical advice. If you have symptoms, see a healthcare professional.
+
+#Shorts #MouthUlcer #CankerSore #HealthTips #SketchClinic
+```
+- Tags: `mouth ulcer, canker sore, aphthous ulcer, mouth sore, mouth ulcer treatment, oral health, when to see a doctor, health tips, sketch clinic`
+
+### ep14-mouth-ulcer — Spanish  *(Phase 2 — only if the user asks)*
+- File: `ep14-mouth-ulcer/ep14-mouth-ulcer-es.mp4`
+- Video language: Spanish
+- Subtitles file: `ep14-mouth-ulcer/ep14-mouth-ulcer-es.srt` (Subtitles → Add language: Spanish → Upload file → With timing)
+- Title: `¿Aftas en la boca? Qué ayuda y cuándo ir al médico #Shorts`
+- Description:
+```
+Las aftas son llagas pequeñas, dolorosas y no contagiosas. Pueden aparecer por morderte la mejilla, dientes afilados o brackets, estrés, cansancio o algunos alimentos.
+La mayoría se curan solas en 1–2 semanas. Ayuda un cepillo suave, evitar comidas picantes/ácidas y un gel o enjuague de farmacia.
+Consulta si dura más de 2 semanas, vuelve a menudo, es muy grande o te sientes mal.
+
+Solo con fines educativos; no es consejo médico. Si tienes síntomas, consulta a un profesional de la salud.
+
+#Shorts #Aftas #SaludBucal #Salud #SketchClinic
+```
+- Tags: `afta, aftas bucales, llaga en la boca, úlcera bucal, salud bucal, salud, sketch clinic`
+
+### ep14-mouth-ulcer — French  *(Phase 2 — only if the user asks)*
+- File: `ep14-mouth-ulcer/ep14-mouth-ulcer-fr.mp4`
+- Video language: French
+- Subtitles file: `ep14-mouth-ulcer/ep14-mouth-ulcer-fr.srt` (Subtitles → Add language: French → Upload file → With timing)
+- Title: `Aphte : ce qui soulage et quand consulter #Shorts`
+- Description:
+```
+L'aphte est une petite plaie douloureuse et non contagieuse. En cause : morsure de la joue, dent coupante ou appareil, stress, fatigue, certains aliments.
+La plupart guérissent seuls en 1 à 2 semaines. Brosse souple, éviter épicé/acide, et un gel ou bain de bouche en pharmacie peuvent aider.
+Consulte s'il dure plus de 2 semaines, revient souvent, est très gros ou si tu te sens mal.
+
+À but éducatif uniquement — pas un avis médical. Si tu as des symptômes, consulte un professionnel de santé.
+
+#Shorts #Aphte #SantéBuccale #Santé #SketchClinic
+```
+- Tags: `aphte, aphtes, plaie dans la bouche, ulcère buccal, santé buccale, santé, sketch clinic`
+
+### ep14-mouth-ulcer — Japanese  *(Phase 2 — only if the user asks)*
+- File: `ep14-mouth-ulcer/ep14-mouth-ulcer-ja.mp4`
+- Video language: Japanese
+- Subtitles file: `ep14-mouth-ulcer/ep14-mouth-ulcer-ja.srt` (Subtitles → Add language: Japanese → Upload file → With timing)
+- Title: `口内炎の原因とケア｜受診の目安は2週間 #Shorts`
+- Description:
+```
+口内炎（アフタ）は小さく痛む、うつらない口の中の潰瘍です。頬をかむ、とがった歯や矯正器具、ストレス、疲れ、食べ物などが引き金に。
+多くは1〜2週間で自然に治ります。やわらかい歯ブラシ、刺激物を控える、薬局の塗り薬やうがい薬が役立ちます。
+2週間以上治らない・くり返す・とても大きい・体調が悪いときは受診を。
+
+教育目的の情報であり、医療アドバイスではありません。症状がある場合は医療機関を受診してください。
+
+#Shorts #口内炎 #口腔ケア #健康 #SketchClinic
+```
+- Tags: `口内炎, アフタ, 口内炎 治し方, 口の中 痛い, 口腔ケア, 健康, sketch clinic`
+
 ### ep15-bee-sting — English
 - File: `ep15-bee-sting/ep15-bee-sting-en.mp4`
 - Video language: English
@@ -965,8 +1033,76 @@ Range piles et appareils hors de portée et ferme les compartiments avec du ruba
 ```
 - Tags: `ボタン電池, 誤飲, 子ども 誤飲, コイン電池, 子どもの安全, 応急処置, 救急, sketch clinic`
 
+### ep19-ear-popping — English
+- File: `ep19-ear-popping/ep19-ear-popping-en.mp4`
+- Video language: English
+- Subtitles file: `ep19-ear-popping/ep19-ear-popping-en.srt` (Subtitles → Add language: English → Upload file → With timing)
+- Title: `Why Your Ears Pop on Planes (and How to Unblock Them) #Shorts`
+- Description:
+```
+A tiny tube (the Eustachian tube) balances air pressure behind your eardrum. When cabin pressure changes fast on take-off and landing, it can't keep up and your ears feel blocked.
+Swallow, yawn, chew gum, or gently pinch your nose and blow with your mouth closed — never force it. Babies can feed or use a pacifier.
+See a doctor if pain, muffled hearing or ringing lasts several days, or there's fluid or blood from the ear. If you have a bad cold or ear infection, ask a doctor before flying.
+
+Educational only — not medical advice. If you have symptoms, see a healthcare professional.
+
+#Shorts #EarPopping #AirplaneEar #TravelTips #SketchClinic
+```
+- Tags: `ear popping, airplane ear, ears blocked on plane, eustachian tube, how to pop your ears, valsalva, travel tips, ear pain, health tips, sketch clinic`
+
+### ep19-ear-popping — Spanish  *(Phase 2 — only if the user asks)*
+- File: `ep19-ear-popping/ep19-ear-popping-es.mp4`
+- Video language: Spanish
+- Subtitles file: `ep19-ear-popping/ep19-ear-popping-es.srt` (Subtitles → Add language: Spanish → Upload file → With timing)
+- Title: `Oídos tapados en el avión: por qué y cómo destaparlos #Shorts`
+- Description:
+```
+Un tubito (la trompa de Eustaquio) equilibra la presión detrás del tímpano. Al despegar y aterrizar la presión cambia rápido y los oídos se tapan.
+Traga, bosteza, mastica chicle o tápate la nariz y sopla suavemente con la boca cerrada, sin forzar. Los bebés pueden comer o usar chupete.
+Ve al médico si el dolor, la sordera o el zumbido duran varios días, o sale líquido o sangre del oído. Con un resfriado fuerte u otitis, consulta antes de volar.
+
+Solo con fines educativos; no es consejo médico. Si tienes síntomas, consulta a un profesional de la salud.
+
+#Shorts #OídosTapados #Viajes #Salud #SketchClinic
+```
+- Tags: `oídos tapados, oídos en el avión, trompa de Eustaquio, destapar oídos, viajes, dolor de oído, salud, sketch clinic`
+
+### ep19-ear-popping — French  *(Phase 2 — only if the user asks)*
+- File: `ep19-ear-popping/ep19-ear-popping-fr.mp4`
+- Video language: French
+- Subtitles file: `ep19-ear-popping/ep19-ear-popping-fr.srt` (Subtitles → Add language: French → Upload file → With timing)
+- Title: `Oreilles bouchées en avion : pourquoi et comment les déboucher #Shorts`
+- Description:
+```
+Un petit tube (la trompe d'Eustache) équilibre la pression derrière le tympan. Au décollage et à l'atterrissage, la pression change vite et l'oreille se bouche.
+Avale, bâille, mâche un chewing-gum, ou pince le nez et souffle doucement bouche fermée, sans forcer. Les bébés peuvent boire ou prendre une tétine.
+Consulte si la douleur, l'audition étouffée ou les sifflements durent plusieurs jours, ou en cas d'écoulement ou de sang. En cas de gros rhume ou d'otite, demande un avis avant de voler.
+
+À but éducatif uniquement — pas un avis médical. Si tu as des symptômes, consulte un professionnel de santé.
+
+#Shorts #OreillesBouchées #Avion #Santé #SketchClinic
+```
+- Tags: `oreilles bouchées, oreilles avion, trompe d'Eustache, déboucher les oreilles, voyage, douleur oreille, santé, sketch clinic`
+
+### ep19-ear-popping — Japanese  *(Phase 2 — only if the user asks)*
+- File: `ep19-ear-popping/ep19-ear-popping-ja.mp4`
+- Video language: Japanese
+- Subtitles file: `ep19-ear-popping/ep19-ear-popping-ja.srt` (Subtitles → Add language: Japanese → Upload file → With timing)
+- Title: `飛行機で耳が詰まる理由と治し方 #Shorts`
+- Description:
+```
+鼓膜の奥の気圧は、耳管という細い管で調整されています。離着陸で気圧が急に変わると調整が追いつかず、耳が詰まった感じになります。
+つばを飲む、あくび、ガム、または鼻をつまんで口を閉じ、やさしく息を送る（強くいきまない）。赤ちゃんは授乳やおしゃぶりで。
+痛み・聞こえにくさ・耳鳴りが数日続く、耳から液や血が出る場合は受診を。ひどい鼻かぜや中耳炎のときは、搭乗前に医師に相談しましょう。
+
+教育目的の情報であり、医療アドバイスではありません。症状がある場合は医療機関を受診してください。
+
+#Shorts #耳抜き #飛行機 #耳 #SketchClinic
+```
+- Tags: `耳抜き, 飛行機 耳, 耳が詰まる, 耳管, 航空性中耳炎, 旅行, 健康, sketch clinic`
+
 ## Not ready yet
-These episodes are still being produced and will be added to this plan later: ep14-mouth-ulcer, ep16-choking, ep17-heat-illness, ep19-ear-popping, ep20-contagious-yawn
+These episodes are still being produced and will be added to this plan later: ep16-choking, ep17-heat-illness, ep20-contagious-yawn
 
 ## Step 3 — Report back
 Send the user: channel URL, and a table of episode → video URL (all Private).
