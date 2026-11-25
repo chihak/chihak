@@ -1,0 +1,295 @@
+{
+ "id": "ep09-nosebleed",
+ "title": {
+  "en": "Nosebleed? Do *THIS*, Not That",
+  "es": "¿Sangra la nariz? Haz *ESTO*",
+  "fr": "Saignement de nez : fais *ÇA*",
+  "ja": "鼻血の*正しい*止め方"
+ },
+ "steps": 3,
+ "stepsFrom": 2,
+ "coverTime": 5.0,
+ "scenes": [
+  {
+   "dur": 5.5,
+   "caption": {
+    "en": "Nosebleed: head *back* or head *forward*? Many people get this wrong.",
+    "es": "Sangrado de nariz: ¿cabeza *atrás* o *adelante*? Muchos se equivocan.",
+    "fr": "Saignement de nez : tête *en arrière* ou *en avant* ? Beaucoup se trompent.",
+    "ja": "鼻血のとき、頭は*後ろ*？*前*？ 間違えている人が多いんです。"
+   },
+   "svg": "<g transform='translate(320 800) scale(0.62) rotate(-28) translate(-575 -705)'><path class='d' data-s='0' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='16'  d='M 480 920 L 470 830 C 400 760 400 560 540 520 C 640 490 700 560 700 630 L 705 670 L 750 740 L 705 755 L 710 790 L 700 810 L 708 830 C 705 870 670 880 630 870 L 620 920'/><circle class='p' data-s='0.8' data-d='0.3' cx='650' cy='640' r='13' fill='#1d1d1d'/><path class='d' data-s='1.4' data-d='0.6' fill='none' stroke='#e63946' stroke-width='14'  d='M 712 748 C 650 760 610 790 600 850 L 590 905'/></g><g transform='translate(760 800) scale(0.62) rotate(22) translate(-575 -705)'><path class='d' data-s='0.4' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='16'  d='M 480 920 L 470 830 C 400 760 400 560 540 520 C 640 490 700 560 700 630 L 705 670 L 750 740 L 705 755 L 710 790 L 700 810 L 708 830 C 705 870 670 880 630 870 L 620 920'/><circle class='p' data-s='1.2000000000000002' data-d='0.3' cx='650' cy='640' r='13' fill='#1d1d1d'/></g><path class='p' data-s='1.6' data-d='0.4' fill='#e63946' d='M 850 840 C 850 840 834 862 834 872 A 16 16 0 0 0 866 872 C 866 862 850 840 850 840 Z'/><path class='p' data-s='1.9' data-d='0.4' fill='#e63946' d='M 852 905 C 852 905 836 927 836 937 A 16 16 0 0 0 868 937 C 868 927 852 905 852 905 Z'/><path class='d' data-s='2.2' data-d='0.5' fill='none' stroke='#e63946' stroke-width='14'  d='M 250 480 L 390 620 M 390 480 L 250 620'/><path class='d' data-s='2.5' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='14'  d='M 690 550 L 740 600 L 840 470'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 96,
+     "color": "#e63946",
+     "s": 2.8,
+     "t": {
+      "en": "WHICH ONE?",
+      "es": "¿CUÁL?",
+      "fr": "LEQUEL ?",
+      "ja": "どっち？"
+     }
+    }
+   ]
+  },
+  {
+   "dur": 5.5,
+   "caption": {
+    "en": "Most nosebleeds come from tiny blood vessels in the *front* of the nose.",
+    "es": "La mayoría viene de vasitos sanguíneos en la parte *delantera* de la nariz.",
+    "fr": "La plupart viennent de petits vaisseaux à l'*avant* du nez.",
+    "ja": "鼻血の多くは、鼻の*入り口近く*にある細い血管から出ています。"
+   },
+   "svg": "<g transform='translate(330 800) scale(0.85) rotate(0) translate(-575 -705)'><path class='d' data-s='0' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='16'  d='M 480 920 L 470 830 C 400 760 400 560 540 520 C 640 490 700 560 700 630 L 705 670 L 750 740 L 705 755 L 710 790 L 700 810 L 708 830 C 705 870 670 880 630 870 L 620 920'/><circle class='p' data-s='0.8' data-d='0.3' cx='650' cy='640' r='13' fill='#1d1d1d'/></g><circle class='d' data-s='1.1' data-d='0.5' cx='480' cy='825' r='48' fill='none' stroke='#e63946' stroke-width='7'/><path class='d' data-s='1.4' data-d='0.4' fill='none' stroke='#888' stroke-width='6'  d='M 520 790 L 620 640 M 525 860 L 640 870'/><circle class='d' data-s='1.4' data-d='0.7' cx='770' cy='750' r='170' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='2.0' data-d='1.2' fill='none' stroke='#e63946' stroke-width='7'  d='M 690 720 C 730 690 770 730 820 700 M 730 712 L 715 650 M 715 680 L 690 650 M 780 715 L 800 770 M 760 720 C 770 780 735 800 750 840 M 820 700 L 860 660 M 820 700 L 865 735 M 700 760 L 750 790'/><circle class='p' data-s='2.8' data-d='0.4' cx='705' cy='725' r='10' fill='#e63946'/><circle class='p' data-s='3.0' data-d='0.4' cx='800' cy='760' r='10' fill='#e63946'/><circle class='p' data-s='3.1' data-d='0.4' cx='840' cy='710' r='10' fill='#e63946'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1190,
+     "size": 90,
+     "color": "#e63946",
+     "s": 2.6,
+     "maxW": 900,
+     "t": {
+      "en": "FRONT OF THE NOSE",
+      "es": "PARTE DELANTERA",
+      "fr": "L'AVANT DU NEZ",
+      "ja": "鼻の入り口付近"
+     }
+    }
+   ]
+  },
+  {
+   "dur": 5,
+   "step": 1,
+   "caption": {
+    "en": "*1* — Sit up and lean *forward*, so blood doesn't run down your throat.",
+    "es": "*1* — Siéntate e inclínate *hacia adelante*, para que la sangre no baje a la garganta.",
+    "fr": "*1* — Assieds-toi et penche-toi *en avant*, pour que le sang n'aille pas dans la gorge.",
+    "ja": "*1* 座って*前かがみ*に。血がのどに流れ込まないようにします。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='6'  d='M 160 1110 Q 520 1095 920 1110'/><path class='d' data-s='0' data-d='0.7' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 340 640 V 1100 M 340 900 H 560 M 545 900 V 1100'/><circle class='d' data-s='0.4' data-d='0.5' cx='600' cy='600' r='60' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='0.7' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 560 650 L 430 880 L 620 885 L 640 1100 M 530 700 L 600 760 L 660 650'/><circle class='p' data-s='1.3' data-d='0.4' cx='668' cy='640' r='14' fill='#1d1d1d'/><path class='p' data-s='1.6' data-d='0.4' fill='#e63946' d='M 690 700 C 690 700 676 720 676 730 A 14 14 0 0 0 704 730 C 704 720 690 700 690 700 Z'/><path class='p' data-s='1.9' data-d='0.4' fill='#e63946' d='M 700 790 C 700 790 686 810 686 820 A 14 14 0 0 0 714 820 C 714 810 700 790 700 790 Z'/><path class='d' data-s='2.2' data-d='0.5' fill='none' stroke='#e63946' stroke-width='9'  d='M 450 560 Q 520 450 640 470 M 610 481 L 640 470 L 615 450'/><path class='d' data-s='2.6' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='12'  d='M 760 560 L 800 600 L 880 500'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#e63946",
+     "s": 2.5,
+     "maxW": 900,
+     "t": {
+      "en": "LEAN FORWARD",
+      "es": "HACIA ADELANTE",
+      "fr": "PENCHE-TOI EN AVANT",
+      "ja": "前かがみ"
+     }
+    }
+   ]
+  },
+  {
+   "dur": 5,
+   "step": 2,
+   "caption": {
+    "en": "*2* — Firmly pinch the *soft part* of the nose, just below the bony bridge.",
+    "es": "*2* — Aprieta con firmeza la parte *blanda* de la nariz, justo debajo del hueso.",
+    "fr": "*2* — Pince fermement la partie *molle* du nez, juste sous l'os.",
+    "ja": "*2* 鼻の骨より下の*やわらかい部分*を、しっかりつまみます。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 500 500 C 500 610 470 720 430 800 C 405 850 450 890 490 870 C 515 905 565 905 590 870 C 630 890 675 850 650 800 C 610 720 580 610 580 500'/><path class='d' data-s='0.9' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='7'  d='M 475 850 q 15 -12 30 0 M 575 850 q 15 -12 30 0'/><path class='d' data-s='0.5' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='8'  d='M 330 480 Q 400 450 460 480 M 620 480 Q 680 450 750 480'/><path class='f' data-s='1.0' data-d='0.4' data-o='0.7' fill='none' stroke='#888' stroke-width='6' stroke-dasharray='14 12' opacity='0' d='M 380 700 H 700'/><path class='d' data-s='1.6' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 170 770 H 400 A 38 38 0 0 1 400 846 H 170'/><path class='d' data-s='1.6' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 910 770 H 680 A 38 38 0 0 0 680 846 H 910'/><path class='d' data-s='2.2' data-d='0.5' fill='none' stroke='#e63946' stroke-width='9'  d='M 250 700 L 380 760 M 352 762 L 380 760 L 363 738'/><path class='d' data-s='2.2' data-d='0.5' fill='none' stroke='#e63946' stroke-width='9'  d='M 830 700 L 700 760 M 717 738 L 700 760 L 728 762'/>",
+   "texts": [
+    {
+     "x": 260,
+     "y": 665,
+     "size": 44,
+     "color": "#888",
+     "s": 1.1,
+     "maxW": 200,
+     "t": {
+      "en": "BONE",
+      "es": "HUESO",
+      "fr": "OS",
+      "ja": "骨"
+     }
+    },
+    {
+     "x": 830,
+     "y": 1000,
+     "size": 48,
+     "color": "#e63946",
+     "s": 1.4,
+     "maxW": 230,
+     "t": {
+      "en": "SOFT",
+      "es": "BLANDA",
+      "fr": "MOLLE",
+      "ja": "やわらかい"
+     }
+    },
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 88,
+     "color": "#e63946",
+     "s": 2.4,
+     "maxW": 900,
+     "t": {
+      "en": "PINCH THE SOFT PART",
+      "es": "APRIETA LO BLANDO",
+      "fr": "PINCE LA PARTIE MOLLE",
+      "ja": "小鼻をつまむ"
+     }
+    }
+   ]
+  },
+  {
+   "dur": 5.5,
+   "step": 3,
+   "caption": {
+    "en": "*3* — Hold for *10–15 minutes* without letting go. Breathe through your mouth.",
+    "es": "*3* — Mantén *10–15 minutos* sin soltar. Respira por la boca.",
+    "fr": "*3* — Tiens *10 à 15 minutes* sans relâcher. Respire par la bouche.",
+    "ja": "*3* *10〜15分*、離さずにつまみ続けて。息は口で。"
+   },
+   "svg": "<circle class='d' data-s='0' data-d='0.8' cx='380' cy='770' r='190' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='0.6' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 350 560 H 410 M 380 560 V 580'/><path class='d' data-s='0.7' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='8'  d='M 380 615 L 380 640 M 535 770 L 510 770 M 380 925 L 380 900 M 225 770 L 250 770'/><path class='f' data-s='1.0' data-d='1.2' data-o='0.85' d='M 380 770 L 380 600 A 170 170 0 0 1 550 770 Z' fill='#e63946' opacity='0' /><path class='d' data-s='0.9' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 380 770 L 380 640'/><path class='d' data-s='1.9' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 380 770 L 500 770'/><circle class='d' data-s='1.4' data-d='0.6' cx='770' cy='700' r='100' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='1.8' data-d='0.2' fill='none' stroke='#1d1d1d' stroke-width='12'  d='M 730 670 L 730 680 M 810 670 L 810 680'/><ellipse class='p' data-s='2.0' data-d='0.3' cx='770' cy='740' rx='26' ry='20' fill='#1d1d1d'/><path class='d' data-s='2.4' data-d='0.8' fill='none' stroke='#888' stroke-width='7'  d='M 740 840 q 15 30 0 60 q -15 30 0 60 M 800 840 q 15 30 0 60 q -15 30 0 60'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 96,
+     "color": "#e63946",
+     "s": 2.0,
+     "t": {
+      "en": "10–15 MIN",
+      "es": "10–15 MIN",
+      "fr": "10–15 MIN",
+      "ja": "10〜15分"
+     }
+    }
+   ]
+  },
+  {
+   "dur": 5.5,
+   "caption": {
+    "en": "*Don't* tilt your head back: blood runs down your throat and can make you vomit.",
+    "es": "*No* eches la cabeza atrás: la sangre baja a la garganta y puede provocar vómito.",
+    "fr": "*Ne* penche *pas* la tête en arrière : le sang coule dans la gorge et peut faire vomir.",
+    "ja": "上を向くのは*NG*。血がのどに流れ、吐き気の原因になります。"
+   },
+   "svg": "<g transform='translate(470 830) scale(0.9) rotate(-30) translate(-575 -705)'><path class='d' data-s='0' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='16'  d='M 480 920 L 470 830 C 400 760 400 560 540 520 C 640 490 700 560 700 630 L 705 670 L 750 740 L 705 755 L 710 790 L 700 810 L 708 830 C 705 870 670 880 630 870 L 620 920'/><circle class='p' data-s='0.8' data-d='0.3' cx='650' cy='640' r='13' fill='#1d1d1d'/><path class='d' data-s='1.4' data-d='0.8' fill='none' stroke='#e63946' stroke-width='14'  d='M 712 748 C 650 760 610 790 600 850 L 592 905 M 568 880 L 592 910 L 616 880'/></g><circle class='d' data-s='2.0' data-d='0.6' cx='800' cy='560' r='90' fill='none' stroke='#e63946' stroke-width='12'/><path class='d' data-s='2.5' data-d='0.3' fill='none' stroke='#e63946' stroke-width='12'  d='M 737 497 L 863 623'/><path class='d' data-s='2.3' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='8'  d='M 770 540 L 830 500 M 770 600 L 830 560'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 88,
+     "color": "#e63946",
+     "s": 2.4,
+     "maxW": 900,
+     "t": {
+      "en": "DON'T TILT BACK",
+      "es": "NO HACIA ATRÁS",
+      "fr": "PAS EN ARRIÈRE",
+      "ja": "上を向かない"
+     }
+    }
+   ]
+  },
+  {
+   "dur": 6.5,
+   "caption": {
+    "en": "Get urgent care if it lasts *20+ minutes* with pressure, follows a head injury, or is very heavy.",
+    "es": "Busca atención urgente si dura *más de 20 min* con presión, tras un golpe en la cabeza o si es muy abundante.",
+    "fr": "Urgences si ça saigne *plus de 20 min* malgré la pression, après un coup à la tête, ou si c'est très abondant.",
+    "ja": "圧迫しても*20分以上*止まらない、頭を打った後、出血がとても多いときは救急へ。"
+   },
+   "svg": "<circle class='d' data-s='0' data-d='0.7' cx='240' cy='680' r='105' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='0.5' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='9'  d='M 215 560 H 265 M 240 560 V 575'/><circle class='d' data-s='0.8' data-d='0.6' cx='540' cy='690' r='95' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='1.3' data-d='0.4' fill='none' stroke='#bbb' stroke-width='30'  d='M 470 620 L 600 585'/><path class='d' data-s='1.6' data-d='0.2' fill='none' stroke='#888' stroke-width='5'  d='M 520 590 v 30 M 550 582 v 30'/><path class='d' data-s='1.7' data-d='0.4' fill='none' stroke='#e63946' stroke-width='8'  d='M 640 560 l 25 -25 M 655 600 l 35 -5 M 625 530 l 5 -35'/><path class='p' data-s='1.9' data-d='0.4' fill='#e63946' d='M 800 580 C 800 580 752 644 752 676 A 48 48 0 0 0 848 676 C 848 644 800 580 800 580 Z'/><path class='p' data-s='2.1' data-d='0.4' fill='#e63946' d='M 860 660 C 860 660 824 708 824 732 A 36 36 0 0 0 896 732 C 896 708 860 660 860 660 Z'/><path class='p' data-s='2.3' data-d='0.4' fill='#e63946' d='M 770 720 C 770 720 740 760 740 780 A 30 30 0 0 0 800 780 C 800 760 770 720 770 720 Z'/><path class='d' data-s='2.4' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='8'  d='M 220 995 c -10 30 20 70 50 80 l 20 -25 l -25 -25 l -15 10 c -10 -5 -20 -20 -20 -35 l 15 -10 l -10 -30 Z'/>",
+   "texts": [
+    {
+     "x": 240,
+     "y": 700,
+     "size": 48,
+     "color": "#e63946",
+     "s": 0.6,
+     "maxW": 170,
+     "t": {
+      "en": "20+ min",
+      "es": "+20 min",
+      "fr": "+20 min",
+      "ja": "20分+"
+     }
+    },
+    {
+     "x": 240,
+     "y": 850,
+     "size": 34,
+     "color": "#1d1d1d",
+     "s": 0.7,
+     "maxW": 290,
+     "t": {
+      "en": "WITH PRESSURE",
+      "es": "CON PRESIÓN",
+      "fr": "AVEC PRESSION",
+      "ja": "圧迫しても"
+     }
+    },
+    {
+     "x": 540,
+     "y": 850,
+     "size": 34,
+     "color": "#1d1d1d",
+     "s": 1.2,
+     "maxW": 290,
+     "t": {
+      "en": "HEAD INJURY",
+      "es": "GOLPE EN LA CABEZA",
+      "fr": "COUP À LA TÊTE",
+      "ja": "頭を打った"
+     }
+    },
+    {
+     "x": 830,
+     "y": 850,
+     "size": 34,
+     "color": "#1d1d1d",
+     "s": 2.0,
+     "maxW": 290,
+     "t": {
+      "en": "VERY HEAVY",
+      "es": "MUY ABUNDANTE",
+      "fr": "TRÈS ABONDANT",
+      "ja": "出血が多い"
+     }
+    },
+    {
+     "x": 580,
+     "y": 1050,
+     "size": 66,
+     "color": "#e63946",
+     "s": 2.5,
+     "maxW": 560,
+     "t": {
+      "en": "911 · 999 · 112",
+      "es": "112 · 911",
+      "fr": "15 · 112",
+      "ja": "119"
+     }
+    },
+    {
+     "x": 540,
+     "y": 1205,
+     "size": 96,
+     "color": "#e63946",
+     "s": 2.9,
+     "maxW": 900,
+     "t": {
+      "en": "GET HELP",
+      "es": "PIDE AYUDA",
+      "fr": "APPELLE À L'AIDE",
+      "ja": "救急へ"
+     }
+    }
+   ]
+  }
+ ]
+}
