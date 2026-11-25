@@ -1,7 +1,8 @@
 """Collect finished episodes into youtube/release/ and write UPLOAD_PLAN.md for the browser agent.
 
 Usage: python3 youtube/make_release.py
-An episode is included when all four language MP4s exist in youtube/out/<id>/ and <id>.meta.json exists.
+An episode is included when <id>.meta.json exists and all four language MP4s exist in youtube/out/<id>/
+(or, if not rendered here, already in youtube/release/<id>/).
 """
 import json, shutil
 from pathlib import Path
@@ -20,14 +21,18 @@ for ep_file in sorted((ROOT / "episodes").glob("ep*.json")):
     meta_file = ep_file.with_name(ep["id"] + ".meta.json")
     out = ROOT / "out" / ep["id"]
     mp4s = {l: out / f"{ep['id']}-{l}.mp4" for l in LANGS}
+    dst = REL / ep["id"]
     if meta_file.exists() and all(p.exists() for p in mp4s.values()):
-        dst = REL / ep["id"]
         dst.mkdir(exist_ok=True)
         for l in LANGS:
             shutil.copy2(mp4s[l], dst / mp4s[l].name)
             cover = out / f"{ep['id']}-{l}-cover.png"
             if cover.exists():
                 shutil.copy2(cover, dst / cover.name)
+        shutil.copy2(meta_file, dst / meta_file.name)
+        ready.append((ep["id"], json.loads(meta_file.read_text())))
+    elif meta_file.exists() and all((dst / f"{ep['id']}-{l}.mp4").exists() for l in LANGS):
+        # rendered earlier (possibly in another session; out/ is not committed): keep the released files
         shutil.copy2(meta_file, dst / meta_file.name)
         ready.append((ep["id"], json.loads(meta_file.read_text())))
     else:

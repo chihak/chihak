@@ -632,5 +632,72 @@ En général sans danger, mais voici quand consulter.
 ```
 - Tags: `足のしびれ, しびれ, ジンジン, 正座, 足を組む, 神経, 感覚異常, 体のしくみ, 健康, sketch clinic`
 
+### ep11-stomach-growl — English
+- File: `ep11-stomach-growl/ep11-stomach-growl-en.mp4`
+- Video language: English
+- Title: `Why Does Your Stomach Growl? (It’s Not Just Hunger) #Shorts`
+- Description:
+```
+That rumble has a name: borborygmi.
+Your gut squeezes food, gas and liquid along in waves (peristalsis) — and when it's empty, the sound echoes louder.
+When growling comes with pain or other symptoms, see a doctor.
+
+Educational only — not medical advice. If you have symptoms, see a healthcare professional.
+
+#Shorts #StomachGrowl #Digestion #HealthTips #SketchClinic
+```
+- Tags: `stomach growling, why does my stomach growl, borborygmi, stomach noises, digestion, peristalsis, hunger, gut health, health tips, sketch clinic`
+
+### ep11-stomach-growl — Spanish  *(Phase 2 — only if the user asks)*
+- File: `ep11-stomach-growl/ep11-stomach-growl-es.mp4`
+- Video language: Spanish
+- Title: `¿Por qué ruge tu estómago? No es solo hambre #Shorts`
+- Description:
+```
+Ese rugido tiene nombre: borborigmos.
+El intestino empuja comida, gas y líquido con ondas (peristalsis), y cuando está vacío, suena más fuerte.
+Si el ruido viene con dolor u otros síntomas, consulta al médico.
+
+Solo con fines educativos; no es consejo médico. Si tienes síntomas, consulta a un profesional de la salud.
+
+#Shorts #Estómago #Digestión #Salud #SketchClinic
+```
+- Tags: `estómago que ruge, ruidos de estómago, borborigmos, digestión, peristalsis, hambre, salud intestinal, salud, sketch clinic`
+
+### ep11-stomach-growl — French  *(Phase 2 — only if the user asks)*
+- File: `ep11-stomach-growl/ep11-stomach-growl-fr.mp4`
+- Video language: French
+- Title: `Pourquoi ton ventre gargouille ? Pas seulement la faim #Shorts`
+- Description:
+```
+Ce grondement a un nom : les borborygmes.
+L'intestin fait avancer aliments, gaz et liquide par vagues (péristaltisme) — et vide, il résonne plus fort.
+Si les bruits s'accompagnent de douleur ou d'autres symptômes, consulte un médecin.
+
+À but éducatif uniquement — pas un avis médical. Si tu as des symptômes, consulte un professionnel de santé.
+
+#Shorts #Ventre #Digestion #Santé #SketchClinic
+```
+- Tags: `ventre qui gargouille, gargouillements, borborygmes, digestion, péristaltisme, faim, santé intestinale, santé, sketch clinic`
+
+### ep11-stomach-growl — Japanese  *(Phase 2 — only if the user asks)*
+- File: `ep11-stomach-growl/ep11-stomach-growl-ja.mp4`
+- Video language: Japanese
+- Title: `お腹がグーっと鳴るのはなぜ？空腹だけじゃない #Shorts`
+- Description:
+```
+お腹の「グー」は腹鳴（ふくめい）と呼ばれます。
+腸はぜん動運動で食べ物・ガス・水分を送り出していて、空っぽのときほど音が響きます。
+痛みなどの症状をともなう場合は受診しましょう。
+
+教育目的の情報であり、医療アドバイスではありません。症状がある場合は医療機関を受診してください。
+
+#Shorts #お腹が鳴る #腸 #健康 #SketchClinic
+```
+- Tags: `お腹が鳴る, 腹鳴, お腹の音, 腸, ぜん動運動, 空腹, 消化, 健康, sketch clinic`
+
+## Not ready yet
+These episodes are still being produced and will be added to this plan later: ep12-sneeze, ep13-frostbite, ep14-mouth-ulcer
+
 ## Step 3 — Report back
 Send the user: channel URL, and a table of episode → video URL (all Private).
