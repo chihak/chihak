@@ -1,0 +1,270 @@
+{
+ "id": "ep21-minor-burn",
+ "title": {
+  "en": "Minor *Burn* First Aid: Do THIS",
+  "es": "Primeros auxilios: *quemadura* leve",
+  "fr": "*Brûlure* légère : les bons gestes",
+  "ja": "軽い*やけど*の応急手当"
+ },
+ "coverTime": 4.5,
+ "steps": 3,
+ "stepsFrom": 2,
+ "scenes": [
+  {
+   "dur": 5.5,
+   "caption": {
+    "en": "Touched something hot? Here's first aid for a *minor burn*.",
+    "es": "¿Te quemaste con algo caliente? Primeros auxilios para una *quemadura leve*.",
+    "fr": "Tu t'es brûlé ? Voici les premiers gestes pour une *brûlure légère*.",
+    "ja": "熱いものでやけど？ *軽いやけど*の応急手当を紹介します。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 300 900 H 700 L 680 1010 H 320 Z'/><path class='d' data-s='0.7' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='14' d='M 700 920 H 880 M 700 960 H 880'/><path class='d' data-s='1.2' data-d='0.7' fill='none' stroke='#bbb' stroke-width='8' d='M 380 840 q 25 -40 0 -80 q -25 -40 0 -80 M 500 840 q 25 -40 0 -80 q -25 -40 0 -80 M 620 840 q 25 -40 0 -80 q -25 -40 0 -80'/><path class='d' data-s='1.9' data-d='0.4' fill='none' stroke='#e63946' stroke-width='9' d='M 200 700 l 60 40 M 880 700 l -60 40 M 540 600 v -60'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 110,
+     "color": "#e63946",
+     "s": 2.2,
+     "t": {
+      "en": "OUCH!",
+      "es": "¡AY!",
+      "fr": "AÏE !",
+      "ja": "あつっ！"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 6.5,
+   "caption": {
+    "en": "A minor burn is *red and sore*, may have small blisters, and is smaller than your *palm*.",
+    "es": "Una quemadura leve está *roja y duele*, puede tener ampollas pequeñas y es menor que tu *palma*.",
+    "fr": "Une brûlure légère est *rouge et douloureuse*, avec parfois de petites cloques, plus petite que ta *paume*.",
+    "ja": "軽いやけどは*赤くヒリヒリ*し、小さな水ぶくれができることも。大きさは*手のひら*より小さい程度です。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 440 1000 L 440 820 L 400 740 C 385 710 420 695 440 720 L 460 760 L 460 620 C 460 590 505 590 505 620 L 505 740 L 510 580 C 510 550 555 550 555 580 L 555 740 L 565 600 C 565 572 610 572 610 600 L 610 760 L 625 680 C 625 655 665 655 665 680 L 660 880 C 660 950 640 990 640 1000 Z'/><path class='f' data-s='0.8' data-d='0.5' data-o='0.45' d='M 480 840 C 480 800 540 790 580 820 C 610 850 590 900 540 905 C 500 905 480 880 480 840 Z' fill='#e63946' opacity='0'/><circle class='d' data-s='1.3' data-d='0.3' cx='515' cy='840' r='10' fill='none' stroke='#e63946' stroke-width='6'/><circle class='d' data-s='1.5' data-d='0.3' cx='560' cy='870' r='8' fill='none' stroke='#e63946' stroke-width='6'/>",
+   "texts": [
+    {
+     "x": 220,
+     "y": 760,
+     "size": 48,
+     "color": "#e63946",
+     "s": 1.0,
+     "t": {
+      "en": "RED",
+      "es": "ROJO",
+      "fr": "ROUGE",
+      "ja": "赤い"
+     },
+     "maxW": 300
+    },
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#e63946",
+     "s": 2.2,
+     "t": {
+      "en": "MINOR BURN",
+      "es": "QUEMADURA LEVE",
+      "fr": "BRÛLURE LÉGÈRE",
+      "ja": "軽いやけど"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 6.5,
+   "step": 1,
+   "caption": {
+    "en": "*1* — Move away from the heat. Gently take off *rings and watches* before the area swells.",
+    "es": "*1* — Aléjate del calor. Quita con cuidado *anillos y relojes* antes de que se hinche.",
+    "fr": "*1* — Éloigne-toi de la source de chaleur. Retire doucement *bagues et montre* avant le gonflement.",
+    "ja": "*1* — 熱源から離れ、腫れる前に*指輪や時計*をそっと外します。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 200 760 H 760 M 200 900 H 760'/><path class='d' data-s='0.6' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 760 760 C 830 760 830 900 760 900'/><path class='d' data-s='0.9' data-d='0.6' fill='none' stroke='#888' stroke-width='9' d='M 420 740 V 920 M 520 740 V 920'/><path class='d' data-s='1.3' data-d='0.6' fill='none' stroke='#e0a040' stroke-width='9' d='M 600 730 C 570 700 640 700 640 730 V 930 C 640 960 570 960 600 930 Z'/><path class='d' data-s='1.9' data-d='0.5' fill='none' stroke='#e63946' stroke-width='10' d='M 620 650 V 600 M 620 600 l -25 25 M 620 600 l 25 25'/>",
+   "texts": [
+    {
+     "x": 620,
+     "y": 570,
+     "size": 48,
+     "color": "#e63946",
+     "s": 1.9,
+     "t": {
+      "en": "RING",
+      "es": "ANILLO",
+      "fr": "BAGUE",
+      "ja": "指輪"
+     },
+     "maxW": 260
+    },
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#e63946",
+     "s": 2.4,
+     "t": {
+      "en": "TAKE OFF RINGS",
+      "es": "QUITA ANILLOS",
+      "fr": "RETIRE BAGUES",
+      "ja": "指輪を外す"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 6.5,
+   "step": 2,
+   "caption": {
+    "en": "*2* — *Cool* it under cool running water for *10 to 20 minutes*. Cool, not ice-cold.",
+    "es": "*2* — *Enfría* con agua corriente fresca durante *10 a 20 minutos*. Fresca, no helada.",
+    "fr": "*2* — *Refroidis* sous l'eau fraîche du robinet pendant *10 à 20 minutes*. Fraîche, pas glacée.",
+    "ja": "*2* — 流れる冷たい水で*10〜20分*しっかり*冷やします*。氷のような冷たさは避けます。"
+   },
+   "narration": {
+    "ja": "*2* — 流れる冷たい水で*10から20分*しっかり*冷やします*。氷のような冷たさは避けます。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 300 640 H 560 Q 620 640 620 700 V 740 M 620 740 H 580'/><path class='d' data-s='0.5' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='12' d='M 300 640 V 600 H 360'/><path class='d' data-s='1.0' data-d='0.8' fill='none' stroke='#3a86c8' stroke-width='8' d='M 590 760 V 940 M 560 790 V 960 M 620 790 V 960'/><g transform='translate(300 120) scale(0.7)'><path class='d' data-s='1.2' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 440 1000 L 440 820 L 400 740 C 385 710 420 695 440 720 L 460 760 L 460 620 C 460 590 505 590 505 620 L 505 740 L 510 580 C 510 550 555 550 555 580 L 555 740 L 565 600 C 565 572 610 572 610 600 L 610 760 L 625 680 C 625 655 665 655 665 680 L 660 880 C 660 950 640 990 640 1000 Z'/></g><circle class='d' data-s='2.0' data-d='0.6' cx='850' cy='800' r='90' fill='none' stroke='#1d1d1d' stroke-width='9'/><path class='d' data-s='2.4' data-d='0.4' fill='none' stroke='#e63946' stroke-width='9' d='M 850 800 V 740 M 850 800 l 40 25'/>",
+   "texts": [
+    {
+     "x": 850,
+     "y": 960,
+     "size": 52,
+     "color": "#e63946",
+     "s": 2.4,
+     "t": {
+      "en": "10–20 MIN",
+      "es": "10–20 MIN",
+      "fr": "10–20 MIN",
+      "ja": "10〜20分"
+     },
+     "maxW": 300
+    },
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#3a86c8",
+     "s": 2.2,
+     "t": {
+      "en": "COOL RUNNING WATER",
+      "es": "AGUA FRESCA",
+      "fr": "EAU FRAÎCHE",
+      "ja": "冷たい流水"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 5.5,
+   "step": 3,
+   "caption": {
+    "en": "*3* — Cover loosely with *cling film* or a clean, non-stick dressing.",
+    "es": "*3* — Cubre sin apretar con *film transparente* o un apósito limpio no adherente.",
+    "fr": "*3* — Couvre sans serrer avec du *film alimentaire* ou un pansement propre non adhérent.",
+    "ja": "*3* — *ラップ*か清潔な非固着性ガーゼで、ゆるく覆います。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 440 1000 L 440 820 L 400 740 C 385 710 420 695 440 720 L 460 760 L 460 620 C 460 590 505 590 505 620 L 505 740 L 510 580 C 510 550 555 550 555 580 L 555 740 L 565 600 C 565 572 610 572 610 600 L 610 760 L 625 680 C 625 655 665 655 665 680 L 660 880 C 660 950 640 990 640 1000 Z'/><path class='d' data-s='0.9' data-d='0.7' fill='none' stroke='#3a86c8' stroke-width='8' d='M 430 860 L 670 820 M 430 910 L 670 870 M 430 960 L 670 920'/><path class='f' data-s='0.9' data-d='0.6' data-o='0.4' d='M 430 820 L 670 800 L 670 960 L 430 980 Z' fill='#a8d0f0' opacity='0'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#3a86c8",
+     "s": 1.8,
+     "t": {
+      "en": "COVER LOOSELY",
+      "es": "CUBRE SIN APRETAR",
+      "fr": "COUVRE SANS SERRER",
+      "ja": "ゆるく覆う"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 6,
+   "caption": {
+    "en": "Don't use *ice*, butter, oil or toothpaste. Don't pop blisters or peel off stuck clothing.",
+    "es": "No uses *hielo*, mantequilla, aceite ni pasta de dientes. No revientes ampollas ni arranques ropa pegada.",
+    "fr": "Pas de *glace*, de beurre, d'huile ni de dentifrice. Ne perce pas les cloques, n'arrache pas le tissu collé.",
+    "ja": "*氷*・バター・油・歯みがき粉は使わない。水ぶくれはつぶさず、貼りついた服は無理にはがさない。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.7' fill='none' stroke='#3a86c8' stroke-width='9' d='M 300 640 L 480 600 L 520 780 L 340 820 Z M 300 640 L 340 820 M 480 600 L 560 640 L 540 760'/><circle class='d' data-s='0.9' data-d='0.5' cx='780' cy='720' r='70' fill='none' stroke='#1d1d1d' stroke-width='8'/><path class='d' data-s='1.3' data-d='0.5' fill='none' stroke='#bbb' stroke-width='6' d='M 740 690 q 20 -20 40 0'/><path class='d' data-s='1.5' data-d='0.6' fill='none' stroke='#e63946' stroke-width='16' d='M 250 580 L 580 850 M 580 580 L 250 850'/><path class='d' data-s='1.9' data-d='0.6' fill='none' stroke='#e63946' stroke-width='16' d='M 700 640 L 860 800 M 860 640 L 700 800'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#e63946",
+     "s": 2.3,
+     "t": {
+      "en": "NO ICE · NO BUTTER",
+      "es": "SIN HIELO NI MANTEQUILLA",
+      "fr": "PAS DE GLACE NI BEURRE",
+      "ja": "氷もバターもダメ"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 7,
+   "caption": {
+    "en": "See a *doctor* if it's bigger than your hand, deep or white, on the face, hands, feet or genitals, or in a baby.",
+    "es": "Ve al *médico* si es mayor que tu mano, profunda o blanca, en cara, manos, pies o genitales, o si es de un bebé.",
+    "fr": "Consulte un *médecin* si elle dépasse ta main, est profonde ou blanche, sur le visage, les mains, les pieds, les parties génitales, ou chez un bébé.",
+    "ja": "手より大きい、深い・白っぽい、顔・手足・陰部のやけど、赤ちゃんのやけどは*受診*しましょう。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.9' fill='none' stroke='#3a86c8' stroke-width='12' d='M 440 640 H 640 V 760 H 760 V 860 H 640 V 980 H 440 V 860 H 320 V 760 H 440 Z'/><path class='f' data-s='0.8' data-d='0.5' data-o='0.25' d='M 440 640 H 640 V 760 H 760 V 860 H 640 V 980 H 440 V 860 H 320 V 760 H 440 Z' fill='#3a86c8' opacity='0'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 84,
+     "color": "#e63946",
+     "s": 1.6,
+     "t": {
+      "en": "BIG · DEEP · FACE",
+      "es": "GRANDE · PROFUNDA · CARA",
+      "fr": "GRANDE · PROFONDE · VISAGE",
+      "ja": "広い・深い・顔"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 6,
+   "caption": {
+    "en": "Chemical or electrical burn, or trouble breathing? *Call emergency services* now.",
+    "es": "¿Quemadura química o eléctrica, o dificultad para respirar? *Llama a emergencias* ya.",
+    "fr": "Brûlure chimique ou électrique, ou difficulté à respirer ? *Appelle les urgences* tout de suite.",
+    "ja": "薬品や電気によるやけど、息苦しさがあるときは、すぐ*救急車*を呼びます。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.9' fill='none' stroke='#e63946' stroke-width='12' d='M 440 640 H 640 V 760 H 760 V 860 H 640 V 980 H 440 V 860 H 320 V 760 H 440 Z'/><path class='f' data-s='0.8' data-d='0.5' data-o='0.25' d='M 440 640 H 640 V 760 H 760 V 860 H 640 V 980 H 440 V 860 H 320 V 760 H 440 Z' fill='#e63946' opacity='0'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#e63946",
+     "s": 1.6,
+     "t": {
+      "en": "CALL 911 · 999 · 112",
+      "es": "LLAMA 911 · 999 · 112",
+      "fr": "APPELLE LE 112 · 15",
+      "ja": "119 · 911 · 112"
+     },
+     "maxW": 920
+    }
+   ]
+  }
+ ]
+}

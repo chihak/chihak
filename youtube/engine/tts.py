@@ -63,7 +63,7 @@ def main():
             if g2p_ja is None:
                 from misaki import ja
                 g2p_ja = ja.JAG2P()
-            samples, sr = kokoro.create(g2p_ja(text), voice=voice, speed=speed, lang=lang, is_phonemes=True)
+            samples, sr = kokoro.create((lambda r: r[0] if isinstance(r, tuple) else r)(g2p_ja(text)), voice=voice, speed=speed, lang=lang, is_phonemes=True)
         else:
             samples, sr = kokoro.create(text, voice=voice, speed=speed, lang=lang)
         out.parent.mkdir(parents=True, exist_ok=True)

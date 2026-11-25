@@ -1,0 +1,51 @@
+1
+00:00:00,250 --> 00:00:00,979
+Tu t'es brûlé ?
+
+2
+00:00:00,979 --> 00:00:03,407
+Voici les premiers gestes pour une brûlure légère.
+
+3
+00:00:05,750 --> 00:00:11,211
+Une brûlure légère est rouge et douloureuse, avec parfois de petites cloques, plus petite que ta paume.
+
+4
+00:00:12,250 --> 00:00:14,274
+1 — Éloigne-toi de la source de chaleur.
+
+5
+00:00:14,274 --> 00:00:17,007
+Retire doucement bagues et montre avant le gonflement.
+
+6
+00:00:18,750 --> 00:00:22,245
+2 — Refroidis sous l'eau fraîche du robinet pendant 10 à 20 minutes.
+
+7
+00:00:22,245 --> 00:00:23,273
+Fraîche, pas glacée.
+
+8
+00:00:25,250 --> 00:00:29,666
+3 — Couvre sans serrer avec du film alimentaire ou un pansement propre non adhérent.
+
+9
+00:00:30,750 --> 00:00:33,280
+Pas de glace, de beurre, d'huile ni de dentifrice.
+
+10
+00:00:33,280 --> 00:00:36,062
+Ne perce pas les cloques, n'arrache pas le tissu collé.
+
+11
+00:00:36,760 --> 00:00:44,248
+Consulte un médecin si elle dépasse ta main, est profonde ou blanche, sur le visage, les mains, les pieds, les parties génitales, ou chez un bébé.
+
+12
+00:00:44,950 --> 00:00:48,117
+Brûlure chimique ou électrique, ou difficulté à respirer ?
+
+13
+00:00:48,117 --> 00:00:50,027
+Appelle les urgences tout de suite.

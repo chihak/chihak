@@ -1336,5 +1336,73 @@ Il se transmet plus entre proches, apparaît vers 4–5 ans, et certains animaux
 ```
 - Tags: `あくび, あくび うつる, あくび なぜ, 共感, 脳, 雑学, 健康, sketch clinic`
 
+### ep21-minor-burn — English
+- File: `ep21-minor-burn/ep21-minor-burn-en.mp4`
+- Video language: English
+- Subtitles file: `ep21-minor-burn/ep21-minor-burn-en.srt` (Subtitles → Add language: English → Upload file → With timing)
+- Title: `Burned Your Skin? Minor Burn First Aid (Do THIS, Not Ice) #Shorts`
+- Description:
+```
+Cool the burn under cool running water for 10 to 20 minutes, take off rings and watches before swelling, then cover loosely with cling film or a clean non-stick dressing.
+Don't use ice, butter, oil or toothpaste, and don't pop blisters.
+Get medical help for burns bigger than the person's hand, deep or white/charred, on the face, hands, feet, genitals or over a joint, chemical or electrical burns, or any burn in a baby or young child. Call emergency services if there is trouble breathing or a large burn.
+
+Educational only — not medical advice. If you have symptoms, see a healthcare professional.
+
+#Shorts #Burn #FirstAid #SketchClinic
+```
+- Tags: `burn first aid, minor burn, how to treat a burn, cool running water, first aid, kitchen burn, scald, blister, what not to put on a burn, sketch clinic`
+
+### ep21-minor-burn — Spanish  *(Phase 2 — only if the user asks)*
+- File: `ep21-minor-burn/ep21-minor-burn-es.mp4`
+- Video language: Spanish
+- Subtitles file: `ep21-minor-burn/ep21-minor-burn-es.srt` (Subtitles → Add language: Spanish → Upload file → With timing)
+- Title: `¿Te quemaste? Primeros auxilios para una quemadura leve #Shorts`
+- Description:
+```
+Enfría la quemadura con agua corriente fresca durante 10 a 20 minutos, quita anillos y relojes antes de que se hinche y cubre sin apretar con film transparente o un apósito limpio no adherente.
+No uses hielo, mantequilla, aceite ni pasta de dientes, y no revientes las ampollas.
+Busca atención médica si la quemadura es mayor que la mano, profunda o blanca/carbonizada, en cara, manos, pies, genitales o articulaciones, si es química o eléctrica, o si es de un bebé o niño pequeño. Llama a emergencias si hay dificultad para respirar o la quemadura es extensa.
+
+Solo con fines educativos; no es consejo médico. Si tienes síntomas, consulta a un profesional de la salud.
+
+#Shorts #Quemadura #PrimerosAuxilios #SketchClinic
+```
+- Tags: `quemadura, primeros auxilios, quemadura leve, agua fría, qué hacer si te quemas, ampollas, cocina, salud, sketch clinic`
+
+### ep21-minor-burn — French  *(Phase 2 — only if the user asks)*
+- File: `ep21-minor-burn/ep21-minor-burn-fr.mp4`
+- Video language: French
+- Subtitles file: `ep21-minor-burn/ep21-minor-burn-fr.srt` (Subtitles → Add language: French → Upload file → With timing)
+- Title: `Brûlure légère : les bons gestes (sans glace !) #Shorts`
+- Description:
+```
+Refroidis la brûlure sous l'eau fraîche du robinet pendant 10 à 20 minutes, retire bagues et montre avant le gonflement, puis couvre sans serrer avec du film alimentaire ou un pansement propre non adhérent.
+Pas de glace, de beurre, d'huile ni de dentifrice, et ne perce pas les cloques.
+Consulte pour une brûlure plus grande que la main, profonde ou blanche/noircie, au visage, aux mains, aux pieds, aux parties génitales ou sur une articulation, chimique ou électrique, ou chez un bébé ou un jeune enfant. Appelle les urgences en cas de difficulté à respirer ou de brûlure étendue.
+
+À but éducatif uniquement — pas un avis médical. Si tu as des symptômes, consulte un professionnel de santé.
+
+#Shorts #Brûlure #PremiersSecours #SketchClinic
+```
+- Tags: `brûlure, premiers secours, brûlure légère, eau fraîche, que faire en cas de brûlure, cloques, cuisine, santé, sketch clinic`
+
+### ep21-minor-burn — Japanese  *(Phase 2 — only if the user asks)*
+- File: `ep21-minor-burn/ep21-minor-burn-ja.mp4`
+- Video language: Japanese
+- Subtitles file: `ep21-minor-burn/ep21-minor-burn-ja.srt` (Subtitles → Add language: Japanese → Upload file → With timing)
+- Title: `やけどしたら？軽いやけどの応急手当（氷はNG） #Shorts`
+- Description:
+```
+やけどは流れる冷たい水で10〜20分冷やします。腫れる前に指輪や時計を外し、ラップか清潔な非固着性ガーゼでゆるく覆いましょう。
+氷・バター・油・歯みがき粉は使わず、水ぶくれはつぶさないでください。
+手のひらより大きい、深い・白っぽい、顔・手足・陰部・関節、薬品や電気によるやけど、赤ちゃんや小さな子のやけどは受診を。息苦しさがある、または範囲が広い場合は救急車を呼んでください。
+
+教育目的の情報であり、医療アドバイスではありません。症状がある場合は医療機関を受診してください。
+
+#Shorts #やけど #応急手当 #SketchClinic
+```
+- Tags: `やけど, 応急手当, 軽いやけど, 冷やす, 水ぶくれ, 台所, 健康, sketch clinic`
+
 ## Step 3 — Report back
 Send the user: channel URL, and a table of episode → video URL (all Private).
