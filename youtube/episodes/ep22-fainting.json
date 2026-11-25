@@ -1,0 +1,239 @@
+{
+ "id": "ep22-fainting",
+ "title": {
+  "en": "What to Do When Someone *Faints*",
+  "es": "Qué hacer si alguien se *desmaya*",
+  "fr": "Que faire si quelqu'un *s'évanouit*",
+  "ja": "人が*失神*したときの対応"
+ },
+ "coverTime": 4.0,
+ "steps": 3,
+ "stepsFrom": 1,
+ "scenes": [
+  {
+   "dur": 5.5,
+   "caption": {
+    "en": "Someone *faints*? Here's what to do.",
+    "es": "¿Alguien se *desmaya*? Esto es lo que debes hacer.",
+    "fr": "Quelqu'un fait un *malaise* ? Voici les bons gestes.",
+    "ja": "目の前の人が*失神*したら？ 手順を見ていきましょう。"
+   },
+   "svg": "<circle class='d' data-s='0' data-d='0.4' cx='400' cy='640' r='55' fill='none' stroke='#1d1d1d' stroke-width='9'/><path class='d' data-s='0.3' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 400 695 V 870 M 400 750 L 330 830 M 400 750 L 470 830 M 400 870 L 345 1000 M 400 870 L 455 1000'/><path class='d' data-s='1.2' data-d='0.5' fill='none' stroke='#888' stroke-width='8' d='M 640 1000 C 700 960 760 960 820 1000 L 820 1020 H 640 Z'/><path class='d' data-s='1.6' data-d='0.6' fill='none' stroke='#bbb' stroke-width='8' d='M 700 650 q 25 -40 0 -80 M 780 650 q 25 -40 0 -80'/><path class='d' data-s='2.0' data-d='0.4' fill='none' stroke='#e63946' stroke-width='9' d='M 250 700 l 50 30 M 550 700 l -50 30'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 110,
+     "color": "#e63946",
+     "s": 2.2,
+     "t": {
+      "en": "FAINTED!",
+      "es": "¡DESMAYO!",
+      "fr": "MALAISE !",
+      "ja": "気を失った！"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 5.5,
+   "step": 1,
+   "caption": {
+    "en": "*1* — Check they respond and are *breathing*. Call their name and tap their shoulder.",
+    "es": "*1* — Comprueba que responde y que *respira*. Llámale por su nombre y toca su hombro.",
+    "fr": "*1* — Vérifie qu'elle réagit et *respire*. Appelle-la par son nom et tapote l'épaule.",
+    "ja": "*1* — 反応と*呼吸*を確認します。名前を呼び、肩を軽くたたきます。"
+   },
+   "svg": "<circle class='d' data-s='0' data-d='0.4' cx='260' cy='900' r='50' fill='none' stroke='#1d1d1d' stroke-width='9'/><path class='d' data-s='0.3' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 310 900 H 620 M 400 900 L 380 960 M 470 900 L 490 960'/><path class='d' data-s='0.9' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 620 900 H 800 M 620 910 H 790'/><path class='d' data-s='0' data-d='0.5' fill='none' stroke='#888' stroke-width='8' d='M 150 980 H 880'/><path class='d' data-s='1.4' data-d='0.5' fill='none' stroke='#e63946' stroke-width='10' d='M 520 700 V 800 M 500 780 L 520 805 L 540 780'/><path class='d' data-s='1.9' data-d='0.5' fill='none' stroke='#888' stroke-width='7' d='M 300 770 q 30 -30 60 0'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#3a86c8",
+     "s": 1.8,
+     "t": {
+      "en": "CHECK BREATHING",
+      "es": "¿RESPIRA?",
+      "fr": "RESPIRE-T-ELLE ?",
+      "ja": "呼吸を確認"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 5.5,
+   "step": 2,
+   "caption": {
+    "en": "*2* — Lay them *flat* on their back and raise their legs about *30 centimetres*, or one foot.",
+    "es": "*2* — Acuéstalo *boca arriba* y levanta sus piernas unos *30 centímetros*.",
+    "fr": "*2* — Allonge-la *sur le dos* et surélève ses jambes d'environ *30 centimètres*.",
+    "ja": "*2* — *あお向け*に寝かせ、足を*30センチ*ほど高くします。"
+   },
+   "svg": "<circle class='d' data-s='0' data-d='0.4' cx='260' cy='900' r='50' fill='none' stroke='#1d1d1d' stroke-width='9'/><path class='d' data-s='0.3' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 310 900 H 620 M 400 900 L 380 960 M 470 900 L 490 960'/><path class='d' data-s='0.9' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 620 900 L 760 750 M 620 900 L 730 790'/><path class='d' data-s='1.4' data-d='0.5' fill='none' stroke='#888' stroke-width='9' d='M 700 950 h 160 v 60 h -160 Z'/><path class='d' data-s='0' data-d='0.5' fill='none' stroke='#888' stroke-width='8' d='M 150 980 H 880'/><path class='f' data-s='1.8' data-d='0.5' data-o='0.15' d='M 150 900 H 880 V 980 H 150 Z' fill='#3a86c8' opacity='0'/>",
+   "texts": [
+    {
+     "x": 740,
+     "y": 720,
+     "size": 52,
+     "color": "#e63946",
+     "s": 1.6,
+     "t": {
+      "en": "LEGS UP",
+      "es": "PIERNAS ARRIBA",
+      "fr": "JAMBES HAUT",
+      "ja": "足を上げる"
+     },
+     "maxW": 320
+    },
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#3a86c8",
+     "s": 2.2,
+     "t": {
+      "en": "LAY FLAT · LEGS UP",
+      "es": "BOCA ARRIBA",
+      "fr": "ALLONGÉ · JAMBES HAUT",
+      "ja": "あお向け・足を高く"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 5.5,
+   "step": 3,
+   "caption": {
+    "en": "*3* — Loosen tight clothing, give *fresh air* and stay with them. They should wake within a minute.",
+    "es": "*3* — Afloja la ropa ajustada, dale *aire fresco* y quédate con él. Debe despertar en un minuto.",
+    "fr": "*3* — Desserre les vêtements, fais circuler l'*air frais* et reste auprès d'elle. Elle devrait se réveiller en une minute.",
+    "ja": "*3* — きつい服をゆるめ、*新鮮な空気*を送り、そばにいます。たいてい1分以内に戻ります。"
+   },
+   "svg": "<circle class='d' data-s='0' data-d='0.4' cx='260' cy='900' r='50' fill='none' stroke='#1d1d1d' stroke-width='9'/><path class='d' data-s='0.3' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 310 900 H 620 M 400 900 L 380 960 M 470 900 L 490 960'/><path class='d' data-s='0.9' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 620 900 L 760 750 M 620 900 L 730 790'/><path class='d' data-s='1.4' data-d='0.5' fill='none' stroke='#888' stroke-width='9' d='M 700 950 h 160 v 60 h -160 Z'/><path class='d' data-s='0' data-d='0.5' fill='none' stroke='#888' stroke-width='8' d='M 150 980 H 880'/><path class='d' data-s='0.8' data-d='0.6' fill='none' stroke='#e63946' stroke-width='8' d='M 340 860 l 30 -30 M 360 860 l 30 -30'/><path class='d' data-s='1.4' data-d='0.8' fill='none' stroke='#bbb' stroke-width='8' d='M 150 720 q 30 -30 60 0 q 30 30 60 0 M 150 770 q 30 -30 60 0 q 30 30 60 0'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#3a86c8",
+     "s": 2.4,
+     "t": {
+      "en": "LOOSEN · AIR · STAY",
+      "es": "AFLOJA · AIRE · QUÉDATE",
+      "fr": "DESSERRE · AIR · RESTE",
+      "ja": "ゆるめる・空気・付き添う"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 5.5,
+   "caption": {
+    "en": "When they wake, let them *sit up slowly*. Give water or food only once fully alert.",
+    "es": "Cuando despierte, deja que se *incorpore despacio*. Dale agua o comida solo cuando esté del todo alerta.",
+    "fr": "Au réveil, laisse-la *se redresser lentement*. Donne à boire ou à manger seulement quand elle est bien réveillée.",
+    "ja": "意識が戻ったら*ゆっくり*起こします。飲食はしっかり目覚めてから。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 300 1000 H 800'/><circle class='d' data-s='0.6' data-d='0.4' cx='400' cy='700' r='50' fill='none' stroke='#1d1d1d' stroke-width='9'/><path class='d' data-s='0.9' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 400 750 V 880 M 400 800 L 340 860 M 400 800 L 470 860 M 400 880 L 340 990 M 400 880 L 470 990'/><path class='d' data-s='1.6' data-d='0.6' fill='none' stroke='#e63946' stroke-width='10' d='M 620 920 V 780 M 595 810 L 620 775 L 645 810'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#3a86c8",
+     "s": 1.8,
+     "t": {
+      "en": "SIT UP SLOWLY",
+      "es": "LEVÁNTATE DESPACIO",
+      "fr": "REDRESSE-TOI DOUCEMENT",
+      "ja": "ゆっくり起きる"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 5.5,
+   "caption": {
+    "en": "Don't sit them up fast, slap them or leave them alone. Never give food or drink to someone *unconscious*.",
+    "es": "No lo incorpores rápido, no le des bofetadas ni lo dejes solo. Nunca des comida o bebida a alguien *inconsciente*.",
+    "fr": "Ne la redresse pas vite, ne la gifle pas, ne la laisse pas seule. Ne donne jamais à boire ni à manger à une personne *inconsciente*.",
+    "ja": "急に起こす、たたく、一人にするのはNG。*意識がない*人に飲食物は与えません。"
+   },
+   "svg": "<circle class='d' data-s='0' data-d='0.5' cx='420' cy='740' r='70' fill='none' stroke='#1d1d1d' stroke-width='9'/><path class='d' data-s='0.3' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 500 740 L 620 700 M 500 770 L 620 750'/><path class='d' data-s='1.0' data-d='0.6' fill='none' stroke='#e63946' stroke-width='16' d='M 300 580 L 600 900 M 600 580 L 300 900'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#e63946",
+     "s": 1.6,
+     "t": {
+      "en": "NO SLAP · NO FOOD",
+      "es": "SIN BOFETADAS NI COMIDA",
+      "fr": "PAS DE GIFLES NI REPAS",
+      "ja": "たたかない・食べさせない"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 5.5,
+   "caption": {
+    "en": "*Call emergency services* if they don't wake within a minute, aren't breathing, are hurt, or have chest pain.",
+    "es": "*Llama a emergencias* si no despierta en un minuto, no respira, está herido o tiene dolor de pecho.",
+    "fr": "*Appelle les urgences* si elle ne se réveille pas en une minute, ne respire pas, est blessée ou a une douleur à la poitrine.",
+    "ja": "1分で目覚めない、呼吸がない、けが、胸の痛みは*救急車*を呼びます。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.9' fill='none' stroke='#e63946' stroke-width='12' d='M 440 640 H 640 V 760 H 760 V 860 H 640 V 980 H 440 V 860 H 320 V 760 H 440 Z'/><path class='f' data-s='0.8' data-d='0.5' data-o='0.25' d='M 440 640 H 640 V 760 H 760 V 860 H 640 V 980 H 440 V 860 H 320 V 760 H 440 Z' fill='#e63946' opacity='0'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#e63946",
+     "s": 1.6,
+     "t": {
+      "en": "CALL 911 · 999 · 112",
+      "es": "LLAMA 911 · 999 · 112",
+      "fr": "APPELLE LE 112 · 15",
+      "ja": "119 · 911 · 112"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 5.5,
+   "caption": {
+    "en": "See a *doctor* after a first faint, repeated faints, pregnancy or heart problems.",
+    "es": "Consulta también al *médico* tras un primer desmayo, si se repiten, o si estás embarazada o tienes problemas del corazón.",
+    "fr": "Consulte aussi un *médecin* après un premier malaise, s'ils se répètent, ou si tu es enceinte ou as un problème cardiaque.",
+    "ja": "初めて・くり返す失神、妊娠中、心臓の病気があるなら*受診*を。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.9' fill='none' stroke='#3a86c8' stroke-width='12' d='M 440 640 H 640 V 760 H 760 V 860 H 640 V 980 H 440 V 860 H 320 V 760 H 440 Z'/><path class='f' data-s='0.8' data-d='0.5' data-o='0.25' d='M 440 640 H 640 V 760 H 760 V 860 H 640 V 980 H 440 V 860 H 320 V 760 H 440 Z' fill='#3a86c8' opacity='0'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#3a86c8",
+     "s": 1.6,
+     "t": {
+      "en": "SEE A DOCTOR",
+      "es": "VE AL MÉDICO",
+      "fr": "VOIR UN MÉDECIN",
+      "ja": "受診しよう"
+     },
+     "maxW": 920
+    }
+   ]
+  }
+ ]
+}

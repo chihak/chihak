@@ -1404,5 +1404,73 @@ Consulte pour une brûlure plus grande que la main, profonde ou blanche/noircie,
 ```
 - Tags: `やけど, 応急手当, 軽いやけど, 冷やす, 水ぶくれ, 台所, 健康, sketch clinic`
 
+### ep22-fainting — English
+- File: `ep22-fainting/ep22-fainting-en.mp4`
+- Video language: English
+- Subtitles file: `ep22-fainting/ep22-fainting-en.srt` (Subtitles → Add language: English → Upload file → With timing)
+- Title: `Someone Fainted? What to Do (First Aid Steps) #Shorts`
+- Description:
+```
+If someone faints, check they respond and are breathing, lay them flat on their back and raise their legs about 30 cm (1 foot), loosen tight clothing and give fresh air. Most people wake within a minute. Let them sit up slowly, and give water or food only when fully alert.
+Don't sit them up quickly, slap them, leave them alone, or give anything by mouth to someone unconscious.
+Call emergency services if they don't wake within a minute, aren't breathing, are injured or have chest pain. See a doctor after a first faint, repeated faints, or if pregnant or with heart problems.
+
+Educational only — not medical advice. If you have symptoms, see a healthcare professional.
+
+#Shorts #Fainting #FirstAid #SketchClinic
+```
+- Tags: `fainting, what to do if someone faints, first aid, syncope, passed out, legs up, unconscious, dizzy, health, sketch clinic`
+
+### ep22-fainting — Spanish  *(Phase 2 — only if the user asks)*
+- File: `ep22-fainting/ep22-fainting-es.mp4`
+- Video language: Spanish
+- Subtitles file: `ep22-fainting/ep22-fainting-es.srt` (Subtitles → Add language: Spanish → Upload file → With timing)
+- Title: `¿Alguien se desmayó? Qué hacer (primeros auxilios) #Shorts`
+- Description:
+```
+Si alguien se desmaya, comprueba que responde y respira, acuéstalo boca arriba, levanta sus piernas unos 30 cm, afloja la ropa ajustada y dale aire fresco. La mayoría despierta en un minuto. Que se incorpore despacio y dale agua o comida solo cuando esté del todo alerta.
+No lo incorpores rápido, no le des bofetadas, no lo dejes solo ni le des nada por la boca si está inconsciente.
+Llama a emergencias si no despierta en un minuto, no respira, está herido o tiene dolor de pecho. Consulta al médico tras un primer desmayo, si se repiten, o si hay embarazo o problemas del corazón.
+
+Solo con fines educativos; no es consejo médico. Si tienes síntomas, consulta a un profesional de la salud.
+
+#Shorts #Desmayo #PrimerosAuxilios #SketchClinic
+```
+- Tags: `desmayo, qué hacer si alguien se desmaya, primeros auxilios, síncope, pérdida de conocimiento, piernas elevadas, mareo, salud, sketch clinic`
+
+### ep22-fainting — French  *(Phase 2 — only if the user asks)*
+- File: `ep22-fainting/ep22-fainting-fr.mp4`
+- Video language: French
+- Subtitles file: `ep22-fainting/ep22-fainting-fr.srt` (Subtitles → Add language: French → Upload file → With timing)
+- Title: `Quelqu'un s'est évanoui ? Les bons gestes #Shorts`
+- Description:
+```
+Si quelqu'un s'évanouit, vérifie qu'il réagit et respire, allonge-le sur le dos, surélève ses jambes d'environ 30 cm, desserre les vêtements et fais circuler l'air frais. La plupart se réveillent en une minute. Laisse-le se redresser lentement et ne donne à boire ou à manger qu'une fois bien réveillé.
+Ne le redresse pas vite, ne le gifle pas, ne le laisse pas seul et ne donne rien par la bouche à une personne inconsciente.
+Appelle les urgences s'il ne se réveille pas en une minute, ne respire pas, est blessé ou a une douleur à la poitrine. Consulte après un premier malaise, s'ils se répètent, ou en cas de grossesse ou de problème cardiaque.
+
+À but éducatif uniquement — pas un avis médical. Si tu as des symptômes, consulte un professionnel de santé.
+
+#Shorts #Malaise #PremiersSecours #SketchClinic
+```
+- Tags: `évanouissement, malaise, premiers secours, que faire si quelqu'un s'évanouit, perte de connaissance, jambes surélevées, vertiges, santé, sketch clinic`
+
+### ep22-fainting — Japanese  *(Phase 2 — only if the user asks)*
+- File: `ep22-fainting/ep22-fainting-ja.mp4`
+- Video language: Japanese
+- Subtitles file: `ep22-fainting/ep22-fainting-ja.srt` (Subtitles → Add language: Japanese → Upload file → With timing)
+- Title: `人が失神したら？応急手当の手順 #Shorts`
+- Description:
+```
+人が失神したら、反応と呼吸を確認し、あお向けに寝かせて足を30cmほど高くし、きつい服をゆるめて新鮮な空気を送ります。多くは1分以内に意識が戻ります。ゆっくり起き上がらせ、飲食はしっかり目覚めてから。
+急に起こす、たたく、一人にする、意識のない人に飲食物を与えることは避けてください。
+1分たっても目覚めない、呼吸がない、けが、胸の痛みがある場合は救急車を。初めての失神、くり返す場合、妊娠中や心臓の病気がある場合は受診してください。
+
+教育目的の情報であり、医療アドバイスではありません。症状がある場合は医療機関を受診してください。
+
+#Shorts #失神 #応急手当 #SketchClinic
+```
+- Tags: `失神, 応急手当, 意識を失う, 足を上げる, めまい, 健康, sketch clinic`
+
 ## Step 3 — Report back
 Send the user: channel URL, and a table of episode → video URL (all Private).

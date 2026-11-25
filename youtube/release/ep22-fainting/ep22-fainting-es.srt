@@ -1,0 +1,51 @@
+1
+00:00:00,250 --> 00:00:01,339
+¿Alguien se desmaya?
+
+2
+00:00:01,339 --> 00:00:02,810
+Esto es lo que debes hacer.
+
+3
+00:00:05,750 --> 00:00:08,002
+1 — Comprueba que responde y que respira.
+
+4
+00:00:08,002 --> 00:00:10,145
+Llámale por su nombre y toca su hombro.
+
+5
+00:00:11,250 --> 00:00:15,517
+2 — Acuéstalo boca arriba y levanta sus piernas unos 30 centímetros.
+
+6
+00:00:16,750 --> 00:00:20,398
+3 — Afloja la ropa ajustada, dale aire fresco y quédate con él.
+
+7
+00:00:20,398 --> 00:00:22,019
+Debe despertar en un minuto.
+
+8
+00:00:22,720 --> 00:00:25,411
+Cuando despierte, deja que se incorpore despacio.
+
+9
+00:00:25,411 --> 00:00:28,267
+Dale agua o comida solo cuando esté del todo alerta.
+
+10
+00:00:28,970 --> 00:00:32,366
+No lo incorpores rápido, no le des bofetadas ni lo dejes solo.
+
+11
+00:00:32,366 --> 00:00:35,050
+Nunca des comida o bebida a alguien inconsciente.
+
+12
+00:00:35,750 --> 00:00:40,870
+Llama a emergencias si no despierta en un minuto, no respira, está herido o tiene dolor de pecho.
+
+13
+00:00:41,570 --> 00:00:48,397
+Consulta también al médico tras un primer desmayo, si se repiten, o si estás embarazada o tienes problemas del corazón.
