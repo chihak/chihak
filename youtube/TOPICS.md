@@ -6,7 +6,7 @@ Covered by ep01-ep20: stroke, heart attack, leg cramps, knuckle cracking, hiccup
 
 - done: ep21-minor-burn - Minor burn first aid (cool running water 20 min)
 - done: ep22-fainting - Fainting - what to do when someone passes out
-- todo: Why do we get goosebumps?
+- in progress: ep24-goosebumps - Why do we get goosebumps?
 - todo: Why do fingers wrinkle in water?
 - todo: Sprained ankle first aid (PRICE / POLICE)
 - todo: Sunburn - treat it and when to worry
