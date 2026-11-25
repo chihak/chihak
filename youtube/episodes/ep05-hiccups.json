@@ -13,8 +13,8 @@
    "caption": {
     "en": "That *hic* sound? It’s your vocal cords *slamming shut*.",
     "es": "¿Ese *hip*? Son tus cuerdas vocales *cerrándose de golpe*.",
-    "fr": "Ce *hic* ? Ce sont tes cordes vocales qui *se ferment d’un coup*.",
-    "ja": "「*ヒック*」の正体は、声帯が*急に閉じる*音です。"
+    "fr": "Ce *hic* ? Tes cordes vocales qui *se ferment d’un coup* !",
+    "ja": "あの「ヒック」という音の正体は、声帯が*急に閉じる*音です。"
    },
    "svg": "<circle class='d' data-s='0' data-d='0.7' cx='420' cy='680' r='130' fill='none' stroke='#1d1d1d' stroke-width='10'/><circle class='p' data-s='0.6' data-d='0.4' cx='375' cy='665' r='15' fill='#1d1d1d'/><circle class='p' data-s='0.65' data-d='0.4' cx='465' cy='665' r='15' fill='#1d1d1d'/><path class='d' data-s='0.7' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 345 615 Q 375 595 400 612 M 440 612 Q 465 595 495 615'/><ellipse class='d' data-s='0.9' data-d='0.4' cx='420' cy='745' rx='22' ry='28' fill='none' stroke='#1d1d1d' stroke-width='9'/><path class='d' data-s='0.5' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 230 1140 C 240 960 310 900 420 900 C 530 900 600 960 610 1140'/><path class='d' data-s='0.4' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 390 808 L 390 900 M 450 808 L 450 900'/><path class='p' data-s='1.3' data-d='0.4' fill='#fbfaf5' stroke='#e63946' stroke-width='9' d='M 935 600 L 884 631 L 913 682 L 853 683 L 852 743 L 801 714 L 770 765 L 739 714 L 688 743 L 687 683 L 627 682 L 656 631 L 605 600 L 656 569 L 627 518 L 687 517 L 687 457 L 739 486 L 770 435 L 801 486 L 852 457 L 853 517 L 913 517 L 884 569 Z'/><path class='d' data-s='1.2' data-d='0.4' fill='none' stroke='#e63946' stroke-width='7' d='M 470 740 L 560 720 M 475 700 L 570 650 M 470 780 L 565 790'/><path class='d' data-s='1.6' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='7' d='M 250 580 L 215 560 M 240 640 L 200 640 M 590 1000 L 630 990 M 250 1000 L 210 990'/>",
    "texts": [
@@ -77,7 +77,7 @@
    "dur": 5.5,
    "caption": {
     "en": "During hiccups, it suddenly *spasms* and pulls air in fast.",
-    "es": "Con el hipo, se *contrae de golpe* y jala aire muy rápido.",
+    "es": "Con el hipo, se *contrae de golpe* y aspira aire muy rápido.",
     "fr": "Pendant le hoquet, il se *contracte brusquement* et aspire l’air d’un coup.",
     "ja": "横隔膜が突然*けいれん*して、空気を一気に吸い込みます。"
    },
@@ -121,7 +121,7 @@
     "fr": "Une fraction de seconde plus tard, les cordes vocales *se ferment* : *hic !*",
     "ja": "その直後、声帯が*パタンと閉じて*「*ヒック！*」"
    },
-   "svg": "<path class='d' data-s='0' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 470 560 L 470 1110 M 610 560 L 610 1110'/><path class='d' data-s='0.4' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='6' d='M 470 820 Q 540 842 610 820 M 470 880 Q 540 902 610 880 M 470 940 Q 540 962 610 940 M 470 1000 Q 540 1022 610 1000 M 470 1060 Q 540 1082 610 1060'/><path class='f' data-s='0.3' data-d='0.4' data-o='0.6' fill='none' stroke='#888' stroke-width='10' opacity='0' stroke-dasharray='14 12' d='M 470 700 L 492 625 M 610 700 L 588 625'/><path class='d' data-s='0.6' data-d='0.6' fill='none' stroke='#e63946' stroke-width='9' d='M 540 440 L 540 600 M 528 587 L 540 610 L 552 587'/><path class='d' data-s='1.3' data-d='0.25' fill='none' stroke='#1d1d1d' stroke-width='12' d='M 470 700 L 536 722'/><path class='d' data-s='1.3' data-d='0.25' fill='none' stroke='#1d1d1d' stroke-width='12' d='M 610 700 L 544 722'/><path class='d' data-s='1.5' data-d='0.4' fill='none' stroke='#e63946' stroke-width='7' d='M 430 640 Q 410 690 440 730 M 650 640 Q 670 690 640 730'/><path class='p' data-s='1.6' data-d='0.4' fill='#fbfaf5' stroke='#e63946' stroke-width='9' d='M 970 620 L 924 648 L 950 695 L 896 696 L 895 750 L 848 724 L 820 770 L 792 724 L 745 750 L 744 696 L 690 695 L 716 648 L 670 620 L 716 592 L 690 545 L 744 544 L 745 490 L 792 516 L 820 470 L 848 516 L 895 490 L 896 544 L 950 545 L 924 592 Z'/><path class='d' data-s='1.0' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 200 712 L 440 712 M 431 724 L 452 712 L 431 700'/>",
+   "svg": "<path class='d' data-s='0' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 470 560 L 470 1110 M 610 560 L 610 1110'/><path class='d' data-s='0.4' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='6' d='M 470 820 Q 540 842 610 820 M 470 880 Q 540 902 610 880 M 470 940 Q 540 962 610 940 M 470 1000 Q 540 1022 610 1000 M 470 1060 Q 540 1082 610 1060'/><path class='f' data-s='0.3' data-d='0.4' data-o='0.6' fill='none' stroke='#888' stroke-width='10' opacity='0' stroke-dasharray='14 12' d='M 470 700 L 492 625 M 610 700 L 588 625'/><path class='d' data-s='0.6' data-d='0.6' fill='none' stroke='#e63946' stroke-width='9' d='M 540 440 L 540 600 M 528 587 L 540 610 L 552 587'/><path class='d' data-s='1.3' data-d='0.25' fill='none' stroke='#1d1d1d' stroke-width='12' d='M 470 700 L 536 722'/><path class='d' data-s='1.3' data-d='0.25' fill='none' stroke='#1d1d1d' stroke-width='12' d='M 610 700 L 544 722'/><path class='d' data-s='1.5' data-d='0.4' fill='none' stroke='#e63946' stroke-width='7' d='M 430 640 Q 410 690 440 730 M 650 640 Q 670 690 640 730'/><path class='p' data-s='1.6' data-d='0.4' fill='#fbfaf5' stroke='#e63946' stroke-width='9' d='M 970 620 L 924 648 L 950 695 L 896 696 L 895 750 L 848 724 L 820 770 L 792 724 L 745 750 L 744 696 L 690 695 L 716 648 L 670 620 L 716 592 L 690 545 L 744 544 L 745 490 L 792 516 L 820 470 L 848 516 L 895 490 L 896 544 L 950 545 L 924 592 Z'/><path class='d' data-s='1.0' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 190 712 L 440 712 M 431 724 L 452 712 L 431 700'/>",
    "texts": [
     {
      "x": 820,
@@ -138,17 +138,29 @@
      }
     },
     {
-     "x": 305,
+     "x": 300,
+     "y": 628,
+     "size": 44,
+     "color": "#1d1d1d",
+     "s": 0.9,
+     "t": {
+      "en": "VOCAL",
+      "es": "CUERDAS",
+      "fr": "CORDES",
+      "ja": "声帯"
+     }
+    },
+    {
+     "x": 300,
      "y": 680,
      "size": 44,
      "color": "#1d1d1d",
      "s": 0.9,
-     "maxW": 290,
      "t": {
-      "en": "VOCAL CORDS",
-      "es": "CUERDAS VOCALES",
-      "fr": "CORDES VOCALES",
-      "ja": "声帯"
+      "en": "CORDS",
+      "es": "VOCALES",
+      "fr": "VOCALES",
+      "ja": ""
      }
     },
     {
@@ -199,7 +211,7 @@
     "en": "Most stop *on their own*. Holding your breath or sipping cold water *may* help.",
     "es": "Casi siempre se quita *solo*. Aguantar la respiración o tomar agua fría *puede* ayudar.",
     "fr": "Le plus souvent, il passe *tout seul*. Retenir son souffle ou boire de l’eau froide *peut* aider.",
-    "ja": "たいていは*自然に治まります*。息止めや冷たい水も*効くことがあります*。"
+    "ja": "多くは、数分で*自然に治まります*。息止めや冷たい水が*効くことも*。"
    },
    "svg": "<path class='d' data-s='0' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 250 600 L 275 1000 L 445 1000 L 470 600'/><path class='d' data-s='0.5' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='7' d='M 259 690 Q 360 710 461 690'/><path class='d' data-s='0.7' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='7' d='M 300 730 L 350 720 L 360 770 L 310 780 Z M 375 760 L 425 750 L 432 800 L 382 808 Z'/><path class='d' data-s='0.9' data-d='0.4' fill='none' stroke='#888' stroke-width='7' d='M 330 860 L 340 862 M 400 900 L 410 900 M 300 940 L 310 938'/><circle class='d' data-s='1.4' data-d='0.7' cx='720' cy='780' r='140' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='2.0' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 650 750 Q 675 770 700 750 M 740 750 Q 765 770 790 750'/><path class='d' data-s='2.2' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 695 850 L 745 850'/><path class='f' data-s='2.3' data-d='0.4' data-o='0.35' fill='#e63946' opacity='0' d='M 610 820 a 34 34 0 1 0 0.1 0 Z M 830 820 a 34 34 0 1 0 0.1 0 Z'/><path class='d' data-s='2.9' data-d='0.5' fill='none' stroke='#e63946' stroke-width='6' d='M 590 640 Q 560 700 590 760 M 850 640 Q 880 700 850 760'/>",
    "texts": [
@@ -225,7 +237,7 @@
     "en": "See a doctor if hiccups last *over 48 hours*, or make it hard to eat, sleep or breathe.",
     "es": "Consulta al médico si dura *más de 48 horas* o te impide comer, dormir o respirar.",
     "fr": "Consulte un médecin s’il dure *plus de 48 heures*, ou gêne pour manger, dormir ou respirer.",
-    "ja": "*48時間以上*続く、または食事・睡眠・呼吸に支障があれば受診を。"
+    "ja": "*４８時間以上*続くときは、*受診*を。食事・睡眠・呼吸がつらい時も。"
    },
    "svg": "<circle class='d' data-s='0' data-d='0.8' cx='370' cy='790' r='165' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='0.6' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 370 625 L 370 650 M 535 790 L 510 790 M 370 955 L 370 930 M 205 790 L 230 790'/><path class='d' data-s='1.6' data-d='0.6' fill='none' stroke='#e63946' stroke-width='10' d='M 560 790 L 610 790 M 602 802 L 625 790 L 602 778'/><path class='d' data-s='2.0' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 690 600 L 690 700 Q 690 790 770 790 Q 850 790 850 700 L 850 600'/><circle class='p' data-s='2.2' data-d='0.4' cx='690' cy='595' r='14' fill='#1d1d1d'/><circle class='p' data-s='2.25' data-d='0.4' cx='850' cy='595' r='14' fill='#1d1d1d'/><path class='d' data-s='2.7' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 770 790 L 770 900 Q 770 960 820 960'/><circle class='d' data-s='3.1' data-d='0.4' cx='850' cy='975' r='38' fill='none' stroke='#1d1d1d' stroke-width='10'/><circle class='p' data-s='3.3' data-d='0.4' cx='850' cy='975' r='14' fill='#e63946'/>",
    "texts": [
@@ -236,6 +248,7 @@
      "color": "#e63946",
      "s": 0.9,
      "maxW": 215,
+     "sizeJa": 54,
      "t": {
       "en": "48 h+",
       "es": "48 h+",
@@ -253,7 +266,7 @@
      "t": {
       "en": "SEE A DOCTOR",
       "es": "VE AL MÉDICO",
-      "fr": "CONSULTE UN MÉDECIN",
+      "fr": "VA CONSULTER",
       "ja": "受診を"
      }
     }

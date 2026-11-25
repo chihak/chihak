@@ -21,7 +21,7 @@
     {
      "x": 540,
      "y": 1200,
-     "size": 96,
+     "size": 90,
      "color": "#e63946",
      "s": 2.4,
      "t": {
@@ -46,7 +46,7 @@
     {
      "x": 800,
      "y": 575,
-     "size": 52,
+     "size": 46,
      "color": "#e63946",
      "s": 1.4,
      "maxW": 260,
@@ -152,14 +152,14 @@
     {
      "x": 540,
      "y": 1215,
-     "size": 96,
+     "size": 88,
      "color": "#e63946",
      "s": 3.0,
      "maxW": 900,
      "t": {
       "en": "FIXED IN SECONDS",
       "es": "EN SEGUNDOS",
-      "fr": "EN QUELQUES SECONDES",
+      "fr": "ÇA PASSE VITE",
       "ja": "数秒で回復"
      }
     }
@@ -173,15 +173,15 @@
     "fr": "C'est plus fréquent si tu es *déshydraté*, après une douche chaude ou avec certains médicaments.",
     "ja": "*脱水*気味のとき、熱いシャワーの後、一部の薬を飲んでいるときに起こりやすくなります。"
    },
-   "svg": "<path class='d' data-s='0' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 230 620 C 230 620 150 720 150 775 A 80 80 0 0 0 310 775 C 310 720 230 620 230 620 Z'/><path class='d' data-s='0.8' data-d='0.4' fill='none' stroke='#e63946' stroke-width='11'  d='M 145 880 L 315 620'/><path class='d' data-s='0.6' data-d='0.7' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 470 900 V 600 H 570'/><path class='d' data-s='0.9' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 545 615 L 615 615 L 640 665 L 520 665 Z'/><path class='d' data-s='1.3' data-d='0.6' fill='none' stroke='#888' stroke-width='7'  d='M 540 700 L 530 740 M 580 700 L 580 745 M 620 700 L 630 740 M 535 780 L 525 820 M 580 785 L 580 830 M 625 780 L 635 820'/><path class='d' data-s='1.6' data-d='0.6' fill='none' stroke='#e63946' stroke-width='7'  d='M 680 560 q 15 -20 0 -40 q -15 -20 0 -40 M 720 580 q 15 -20 0 -40 q -15 -20 0 -40'/><g transform='translate(40 0) rotate(-35 820 760)'><path class='d' data-s='1.8' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 760 710 H 880 A 50 50 0 0 1 880 810 H 760 A 50 50 0 0 1 760 710 Z'/><path class='f' data-s='2.4' data-d='0.4' data-o='1' d='M 820 714 H 880 A 46 46 0 0 1 880 806 H 820 Z' fill='#e63946' opacity='0' /><path class='d' data-s='2.3' data-d='0.2' fill='none' stroke='#1d1d1d' stroke-width='8'  d='M 820 710 V 810'/></g>",
+   "svg": "<g transform='translate(0 50)'><path class='d' data-s='0' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 230 620 C 230 620 150 720 150 775 A 80 80 0 0 0 310 775 C 310 720 230 620 230 620 Z'/><path class='d' data-s='0.8' data-d='0.4' fill='none' stroke='#e63946' stroke-width='11'  d='M 145 880 L 315 620'/><path class='d' data-s='0.6' data-d='0.7' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 470 900 V 600 H 570'/><path class='d' data-s='0.9' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 545 615 L 615 615 L 640 665 L 520 665 Z'/><path class='d' data-s='1.3' data-d='0.6' fill='none' stroke='#888' stroke-width='7'  d='M 540 700 L 530 740 M 580 700 L 580 745 M 620 700 L 630 740 M 535 780 L 525 820 M 580 785 L 580 830 M 625 780 L 635 820'/><path class='d' data-s='1.6' data-d='0.6' fill='none' stroke='#e63946' stroke-width='7'  d='M 680 560 q 15 -20 0 -40 q -15 -20 0 -40 M 720 580 q 15 -20 0 -40 q -15 -20 0 -40'/><g transform='translate(40 0) rotate(-35 820 760)'><path class='d' data-s='1.8' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 760 710 H 880 A 50 50 0 0 1 880 810 H 760 A 50 50 0 0 1 760 710 Z'/><path class='f' data-s='2.4' data-d='0.4' data-o='1' d='M 820 714 H 880 A 46 46 0 0 1 880 806 H 820 Z' fill='#e63946' opacity='0' /><path class='d' data-s='2.3' data-d='0.2' fill='none' stroke='#1d1d1d' stroke-width='8'  d='M 820 710 V 810'/></g></g>",
    "texts": [
     {
      "x": 230,
-     "y": 985,
-     "size": 42,
+     "y": 1035,
+     "size": 34,
      "color": "#1d1d1d",
      "s": 0.9,
-     "maxW": 270,
+     "maxW": 310,
      "t": {
       "en": "DEHYDRATED",
       "es": "DESHIDRATADO",
@@ -191,11 +191,11 @@
     },
     {
      "x": 550,
-     "y": 985,
-     "size": 42,
+     "y": 1035,
+     "size": 34,
      "color": "#1d1d1d",
      "s": 1.6,
-     "maxW": 270,
+     "maxW": 310,
      "t": {
       "en": "HOT SHOWER",
       "es": "DUCHA CALIENTE",
@@ -205,11 +205,11 @@
     },
     {
      "x": 860,
-     "y": 985,
-     "size": 42,
+     "y": 1035,
+     "size": 34,
      "color": "#1d1d1d",
      "s": 2.5,
-     "maxW": 270,
+     "maxW": 310,
      "t": {
       "en": "SOME MEDS",
       "es": "MEDICAMENTOS",
@@ -219,8 +219,8 @@
     },
     {
      "x": 540,
-     "y": 1180,
-     "size": 90,
+     "y": 1195,
+     "size": 84,
      "color": "#e63946",
      "s": 3.0,
      "maxW": 900,
