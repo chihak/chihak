@@ -1540,5 +1540,69 @@ Cherche une aide médicale si une plaie saigne beaucoup, gicle ou ne s'arrête p
 ```
 - Tags: `出血, 応急手当, 止血, 圧迫, けが, 健康, sketch clinic`
 
+### ep24-goosebumps — English
+- File: `ep24-goosebumps/ep24-goosebumps-en.mp4`
+- Video language: English
+- Subtitles file: `ep24-goosebumps/ep24-goosebumps-en.srt` (Subtitles → Add language: English → Upload file → With timing)
+- Title: `Why Do We Get Goosebumps? #Shorts`
+- Description:
+```
+Goosebumps happen when a tiny muscle at the base of each hair (the arrector pili) contracts, pulling the hair upright and bunching the skin into a bump. Cold, fear or strong emotions like music or awe can trigger it. In furry animals it traps warm air or makes them look bigger; in humans it's a leftover reflex.
+Goosebumps are harmless and fade on their own. See a doctor if you often get chills with fever or feel unwell.
+
+Educational only — not medical advice. If you have symptoms, see a healthcare professional.
+
+#Shorts #Goosebumps #HowTheBodyWorks #SketchClinic
+```
+- Tags: `goosebumps, why do we get goosebumps, arrector pili, skin, cold, fear, reflex, how the body works, health, sketch clinic`
+
+### ep24-goosebumps — Spanish  *(Phase 2 — only if the user asks)*
+- File: `ep24-goosebumps/ep24-goosebumps-es.mp4`
+- Video language: Spanish
+- Subtitles file: `ep24-goosebumps/ep24-goosebumps-es.srt` (Subtitles → Add language: Spanish → Upload file → With timing)
+- Title: `¿Por qué nos sale piel de gallina? #Shorts`
+- Description:
+```
+La piel de gallina aparece cuando un diminuto músculo en la base de cada vello (el músculo erector del pelo) se contrae, levanta el vello y arruga la piel formando un bulto. El frío, el miedo o emociones intensas como la música o el asombro pueden provocarla. En animales con pelaje atrapa aire caliente o los hace parecer más grandes; en las personas es un reflejo heredado.
+Es inofensiva y se quita sola. Consulta al médico si tienes escalofríos con fiebre o te sientes mal.
+
+Solo con fines educativos; no es consejo médico. Si tienes síntomas, consulta a un profesional de la salud.
+
+#Shorts #PielDeGallina #CuerpoHumano #SketchClinic
+```
+- Tags: `piel de gallina, por qué nos sale piel de gallina, músculo erector del pelo, piel, frío, miedo, reflejo, cuerpo humano, salud, sketch clinic`
+
+### ep24-goosebumps — French  *(Phase 2 — only if the user asks)*
+- File: `ep24-goosebumps/ep24-goosebumps-fr.mp4`
+- Video language: French
+- Subtitles file: `ep24-goosebumps/ep24-goosebumps-fr.srt` (Subtitles → Add language: French → Upload file → With timing)
+- Title: `Pourquoi a-t-on la chair de poule ? #Shorts`
+- Description:
+```
+La chair de poule apparaît quand un minuscule muscle à la base de chaque poil (le muscle horripilateur) se contracte, redresse le poil et plisse la peau en petite bosse. Le froid, la peur ou de fortes émotions comme la musique ou l'émerveillement peuvent la déclencher. Chez les animaux à fourrure, elle retient l'air chaud ou fait paraître plus gros ; chez l'humain, c'est un vieux réflexe.
+Elle est sans danger et passe seule. Consulte un médecin si tu as souvent des frissons avec de la fièvre ou te sens mal.
+
+À but éducatif uniquement — pas un avis médical. Si tu as des symptômes, consulte un professionnel de santé.
+
+#Shorts #ChairDePoule #CorpsHumain #SketchClinic
+```
+- Tags: `chair de poule, pourquoi la chair de poule, muscle horripilateur, peau, froid, peur, réflexe, corps humain, santé, sketch clinic`
+
+### ep24-goosebumps — Japanese  *(Phase 2 — only if the user asks)*
+- File: `ep24-goosebumps/ep24-goosebumps-ja.mp4`
+- Video language: Japanese
+- Subtitles file: `ep24-goosebumps/ep24-goosebumps-ja.srt` (Subtitles → Add language: Japanese → Upload file → With timing)
+- Title: `鳥肌はなぜ立つ？ #Shorts`
+- Description:
+```
+鳥肌は、毛の根元にある小さな筋肉（立毛筋）が縮んで毛を立たせ、まわりの皮膚が盛り上がることで起こります。寒さや恐怖、音楽や感動などの強い感情がきっかけになります。毛の多い動物では暖かい空気をためたり体を大きく見せたりしますが、人間では名残の反射です。
+鳥肌は心配なく、自然におさまります。熱を伴う悪寒がよくある、体調が悪いときは受診してください。
+
+教育目的の情報であり、医療アドバイスではありません。症状がある場合は医療機関を受診してください。
+
+#Shorts #鳥肌 #体のしくみ #SketchClinic
+```
+- Tags: `鳥肌, 鳥肌 なぜ, 立毛筋, 皮膚, 寒さ, 恐怖, 反射, 体のしくみ, 健康, sketch clinic`
+
 ## Step 3 — Report back
 Send the user: channel URL, and a table of episode → video URL (all Private).
