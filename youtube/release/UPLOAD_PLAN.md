@@ -1800,5 +1800,69 @@ Consulte en cas de cloques étendues, fièvre ou frissons, vertiges, bébé brû
 ```
 - Tags: `日焼け, 日焼け ケア, 日焼け 応急手当, アロエ, アフターサン, スキンケア, 健康, sketch clinic`
 
+### ep28-blisters — English
+- File: `ep28-blisters/ep28-blisters-en.mp4`
+- Video language: English
+- Subtitles file: `ep28-blisters/ep28-blisters-en.srt` (Subtitles → Add language: English → Upload file → With timing)
+- Title: `Blisters: Pop or Not? What to Do #Shorts`
+- Description:
+```
+Got a blister? Usually leave it alone, cover it with a loose dressing or padded plaster, and cut the rubbing. If it bursts, wash with clean water, leave the skin flap and cover it.
+See a doctor for pus, spreading redness, increasing pain or swelling, fever, diabetes, or a large blister or one from a burn.
+
+Educational only — not medical advice. If you have symptoms, see a healthcare professional.
+
+#Shorts #FirstAid #Blisters #SketchClinic
+```
+- Tags: `blister, should you pop a blister, blister treatment, friction blister, first aid, foot care, skin care, health, sketch clinic, shorts`
+
+### ep28-blisters — Spanish  *(Phase 2 — only if the user asks)*
+- File: `ep28-blisters/ep28-blisters-es.mp4`
+- Video language: Spanish
+- Subtitles file: `ep28-blisters/ep28-blisters-es.srt` (Subtitles → Add language: Spanish → Upload file → With timing)
+- Title: `Ampollas: ¿reventar o no? #Shorts`
+- Description:
+```
+¿Tienes una ampolla? Normalmente déjala, cúbrela con un apósito suelto o tirita acolchada y evita el roce. Si se revienta, lávala con agua limpia, deja la piel y cúbrela.
+Ve al médico si hay pus, enrojecimiento que se extiende, más dolor o hinchazón, fiebre, diabetes, o una ampolla grande o por quemadura.
+
+Solo con fines educativos; no es consejo médico. Si tienes síntomas, consulta a un profesional de la salud.
+
+#Shorts #PrimerosAuxilios #Ampollas #SketchClinic
+```
+- Tags: `ampolla, reventar una ampolla, tratamiento ampolla, ampolla por fricción, primeros auxilios, cuidado de los pies, salud, sketch clinic`
+
+### ep28-blisters — French  *(Phase 2 — only if the user asks)*
+- File: `ep28-blisters/ep28-blisters-fr.mp4`
+- Video language: French
+- Subtitles file: `ep28-blisters/ep28-blisters-fr.srt` (Subtitles → Add language: French → Upload file → With timing)
+- Title: `Cloques : percer ou non ? #Shorts`
+- Description:
+```
+Une cloque ? En général, laisse-la, couvre-la d'un pansement lâche ou coussiné et évite les frottements. Si elle éclate, lave à l'eau propre, garde la peau et couvre.
+Consulte en cas de pus, rougeur qui s'étend, douleur ou gonflement croissants, fièvre, diabète, ou cloque grande ou due à une brûlure.
+
+À but éducatif uniquement — pas un avis médical. Si tu as des symptômes, consulte un professionnel de santé.
+
+#Shorts #PremiersSecours #Cloque #SketchClinic
+```
+- Tags: `cloque, percer une cloque, soigner une cloque, cloque au pied, premiers secours, soin des pieds, santé, sketch clinic`
+
+### ep28-blisters — Japanese  *(Phase 2 — only if the user asks)*
+- File: `ep28-blisters/ep28-blisters-ja.mp4`
+- Video language: Japanese
+- Subtitles file: `ep28-blisters/ep28-blisters-ja.srt` (Subtitles → Add language: Japanese → Upload file → With timing)
+- Title: `水ぶくれ、つぶす？ 正しい対処 #Shorts`
+- Description:
+```
+水ぶくれは基本的にそのままにし、ゆるめのガーゼやクッション付き絆創膏で覆い、摩擦を減らします。破れたら清潔な水で洗い、皮は残して覆います。
+膿、広がる赤み、痛みや腫れの悪化、発熱、糖尿病がある場合、大きい水ぶくれややけどによる場合は受診してください。
+
+教育目的の情報であり、医療アドバイスではありません。症状がある場合は医療機関を受診してください。
+
+#Shorts #応急手当 #水ぶくれ #SketchClinic
+```
+- Tags: `水ぶくれ, 水ぶくれ つぶす, 水ぶくれ 応急手当, 靴擦れ, スキンケア, 足のケア, 健康, sketch clinic`
+
 ## Step 3 — Report back
 Send the user: channel URL, and a table of episode → video URL (all Private).

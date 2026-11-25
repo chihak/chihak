@@ -13,7 +13,7 @@ Covered by ep01-ep20: stroke, heart attack, leg cramps, knuckle cracking, hiccup
 - todo: How to remove a splinter safely
 - todo: Motion sickness - why it happens and what helps
 - todo: Dehydration signs and what to do
-- in progress: ep28-blisters - Blisters - to pop or not to pop
+- done: ep28-blisters - Blisters - to pop or not to pop
 - todo: Black eye / blow to the eye - when to get checked
 - todo: Why do we get a stitch (side cramp) when running?
 - todo: Tick bite - how to remove it and what to watch
