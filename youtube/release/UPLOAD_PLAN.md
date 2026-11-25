@@ -817,7 +817,7 @@ Appelle immédiatement les secours en cas de difficulté à respirer, gonflement
 - Tags: `ハチ刺され, 蜂に刺された, 応急処置, アナフィラキシー, エピペン, アレルギー, 健康, sketch clinic`
 
 ## Not ready yet
-These episodes are still being produced and will be added to this plan later: ep13-frostbite, ep14-mouth-ulcer, ep16-choking, ep17-heat-illness, ep18-button-battery
+These episodes are still being produced and will be added to this plan later: ep13-frostbite, ep14-mouth-ulcer, ep16-choking, ep17-heat-illness, ep18-button-battery, ep19-ear-popping, ep20-contagious-yawn
 
 ## Step 3 — Report back
 Send the user: channel URL, and a table of episode → video URL (all Private).

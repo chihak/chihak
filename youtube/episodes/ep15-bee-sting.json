@@ -33,13 +33,7 @@
       "ja": "ブーン！"
      }
     }
-   ],
-   "narration": {
-    "en": "Stung by a bee? Here's what to do, and the signs that mean emergency.",
-    "es": "¿Te picó una abeja? Esto es lo que debes hacer, y las señales de emergencia.",
-    "fr": "Piqué par une abeille ? Voici quoi faire, et les signes d'urgence.",
-    "ja": "ハチに刺されたら？ 正しい対処と、救急が必要なサインを紹介します。"
-   }
+   ]
   },
   {
    "dur": 6.5,
@@ -66,13 +60,7 @@
      },
      "maxW": 900
     }
-   ],
-   "narration": {
-    "en": "Step 1. Get the stinger out fast: scrape it sideways with a fingernail or card edge. Don't squeeze it.",
-    "es": "Paso 1. Saca el aguijón rápido: ráspalo de lado con la uña o el borde de una tarjeta. No lo aprietes.",
-    "fr": "Étape 1. Retire le dard vite : gratte-le de côté avec l'ongle ou le bord d'une carte. Ne le pince pas.",
-    "ja": "その1、針はすぐに取る。爪やカードのふちで横にこすり出します。つままないで。"
-   }
+   ]
   },
   {
    "dur": 5,
@@ -99,13 +87,7 @@
      },
      "maxW": 900
     }
-   ],
-   "narration": {
-    "en": "Step 2. Wash the area with soap and water.",
-    "es": "Paso 2. Lava la zona con agua y jabón.",
-    "fr": "Étape 2. Lave la zone à l'eau et au savon.",
-    "ja": "その2、刺された所を石けんと水で洗います。"
-   }
+   ]
   },
   {
    "dur": 6,
@@ -146,13 +128,7 @@
      },
      "maxW": 920
     }
-   ],
-   "narration": {
-    "en": "Step 3. Hold a cold compress or ice wrapped in a cloth on it for at least 10 minutes.",
-    "es": "Paso 3. Pon una compresa fría o hielo envuelto en un paño al menos 10 minutos.",
-    "fr": "Étape 3. Applique une compresse froide ou de la glace dans un linge au moins 10 minutes.",
-    "ja": "その3、冷たいタオルや布で包んだ氷を、10分以上あてて冷やします。"
-   }
+   ]
   },
   {
    "dur": 5.5,
@@ -178,13 +154,7 @@
      },
      "maxW": 900
     }
-   ],
-   "narration": {
-    "en": "Pain, redness and swelling are normal. Don't scratch, it can get infected.",
-    "es": "Dolor, enrojecimiento e hinchazón son normales. No te rasques: se puede infectar.",
-    "fr": "Douleur, rougeur et gonflement sont normaux. Ne gratte pas, ça peut s'infecter.",
-    "ja": "痛み、赤み、腫れはよくある反応。かかないで。化膿することがあります。"
-   }
+   ]
   },
   {
    "dur": 7,
@@ -266,13 +236,7 @@
      },
      "maxW": 900
     }
-   ],
-   "narration": {
-    "en": "Call emergency services right away if there's trouble breathing, swelling of the face, lips or throat, dizziness, or fainting.",
-    "es": "Emergencia si hay dificultad para respirar, hinchazón de cara, labios o garganta, mareo o desmayo.",
-    "fr": "Urgence en cas de difficulté à respirer, gonflement du visage, des lèvres ou de la gorge, malaise ou évanouissement.",
-    "ja": "息苦しい、顔、くちびる、のどの腫れ、めまい、意識が遠のく。これは救急です（アナフィラキシー）。"
-   }
+   ]
   },
   {
    "dur": 6,
@@ -298,13 +262,7 @@
      },
      "maxW": 900
     }
-   ],
-   "narration": {
-    "en": "If they have an adrenaline auto-injector, use it right away into the outer thigh, and call for help.",
-    "es": "Si tiene un autoinyector de adrenalina, úsalo de inmediato en el muslo, y llama a emergencias.",
-    "fr": "S'il a un stylo d'adrénaline, utilise-le tout de suite sur la cuisse, et appelle les secours.",
-    "ja": "アドレナリン自己注射薬（エピペン®）があれば、すぐ太ももの外側に。同時に救急要請を。"
-   }
+   ]
   }
  ]
 }

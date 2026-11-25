@@ -33,13 +33,7 @@
       "ja": "ハクション！"
      }
     }
-   ],
-   "narration": {
-    "en": "Achoo! A sneeze is your nose's built-in alarm and cleaning system.",
-    "es": "¡Achís! El estornudo es el sistema de alarma y limpieza de tu nariz.",
-    "fr": "Atchoum ! L'éternuement, c'est le système d'alarme et de nettoyage du nez.",
-    "ja": "ハクション！ くしゃみは鼻の警報＆おそうじシステムです。"
-   }
+   ]
   },
   {
    "dur": 6,
@@ -65,13 +59,7 @@
      },
      "maxW": 900
     }
-   ],
-   "narration": {
-    "en": "Dust, pollen, pepper or a cold virus irritates the lining inside your nose.",
-    "es": "El polvo, el polen, la pimienta o un virus del resfriado irritan el interior de la nariz.",
-    "fr": "Poussière, pollen, poivre ou virus du rhume irritent l'intérieur du nez.",
-    "ja": "ほこり、花粉、こしょう、かぜのウイルスが鼻の中を刺激します。"
-   }
+   ]
   },
   {
    "dur": 6,
@@ -97,13 +85,7 @@
      },
      "maxW": 920
     }
-   ],
-   "narration": {
-    "en": "Nerves in the nose send a signal to the sneeze center in your brainstem.",
-    "es": "Los nervios de la nariz envían una señal al centro del estornudo en el tronco cerebral.",
-    "fr": "Les nerfs du nez envoient un signal au centre de l'éternuement, dans le tronc cérébral.",
-    "ja": "鼻の神経が、脳の奥（脳幹）にあるくしゃみ中枢へ信号を送ります。"
-   }
+   ]
   },
   {
    "dur": 6.5,
@@ -143,13 +125,7 @@
      },
      "maxW": 900
     }
-   ],
-   "narration": {
-    "en": "You breathe in deeply, then air bursts out through nose and mouth to flush the irritant away.",
-    "es": "Inspiras hondo y el aire sale disparado por nariz y boca para expulsar lo que irrita.",
-    "fr": "Tu inspires fort, puis l'air jaillit par le nez et la bouche pour chasser l'irritant.",
-    "ja": "大きく息を吸い、鼻と口から一気に空気を吹き出して、異物を追い出します。"
-   }
+   ]
   },
   {
    "dur": 5.5,
@@ -175,13 +151,7 @@
      },
      "maxW": 920
     }
-   ],
-   "narration": {
-    "en": "The droplets can fly far, and they carry germs to the people around you.",
-    "es": "Las gotitas pueden llegar lejos y llevar gérmenes a quienes te rodean.",
-    "fr": "Les gouttelettes peuvent aller loin et porter des microbes aux autres.",
-    "ja": "しぶきは遠くまで飛び、まわりの人にウイルスや細菌を運びます。"
-   }
+   ]
   },
   {
    "dur": 6,
@@ -222,13 +192,7 @@
      },
      "maxW": 920
     }
-   ],
-   "narration": {
-    "en": "Step 1. Sneeze into a tissue or your elbow, not into your hands.",
-    "es": "Paso 1. Estornuda en un pañuelo o en el codo, no en las manos.",
-    "fr": "Étape 1. Éternue dans un mouchoir ou dans ton coude, pas dans tes mains.",
-    "ja": "その1、ティッシュかひじの内側で口と鼻をおおう。手のひらはNG。"
-   }
+   ]
   },
   {
    "dur": 5.5,
@@ -255,13 +219,7 @@
      },
      "maxW": 900
     }
-   ],
-   "narration": {
-    "en": "Step 2. Throw the tissue away and wash your hands with soap and water.",
-    "es": "Paso 2. Tira el pañuelo y lávate las manos con agua y jabón.",
-    "fr": "Étape 2. Jette le mouchoir et lave-toi les mains à l'eau et au savon.",
-    "ja": "その2、ティッシュはすぐ捨てて、石けんで手を洗う。"
-   }
+   ]
   }
  ]
 }

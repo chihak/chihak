@@ -149,7 +149,13 @@
      },
      "maxW": 900
     }
-   ]
+   ],
+   "narration": {
+    "en": "Between meals, a 'cleaning' wave sweeps leftovers through roughly every *1.5 to 2 hours*.",
+    "es": "Entre comidas, una onda de 'limpieza' barre los restos cada *1,5 a 2 horas* aprox.",
+    "fr": "Entre les repas, une vague de « ménage » balaie les restes environ toutes les *1 h 30 à 2 h*.",
+    "ja": "食事と食事の間は、約*1.5から2時間*ごとに「お掃除の波」が残りを押し流します。"
+   }
   },
   {
    "dur": 5.5,
