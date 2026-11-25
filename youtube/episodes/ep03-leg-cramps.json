@@ -39,9 +39,9 @@
       "dur": 5.5,
       "caption": {
         "en": "A cramp is a muscle that suddenly *tightens* and won't relax. Often there's no clear cause.",
-        "es": "Un calambre es un músculo que se *contrae* de golpe y no se relaja. A menudo, sin causa clara.",
-        "fr": "Une crampe, c'est un muscle qui se *contracte* d'un coup et ne se relâche pas. Souvent sans cause claire.",
-        "ja": "筋肉が急に*縮んで*戻らなくなる状態。はっきりした原因がないことも多いです。"
+        "es": "Un calambre: un músculo se *contrae* de golpe y no se relaja. A menudo, sin causa clara.",
+        "fr": "Une crampe, c'est un muscle qui se *contracte* soudain et reste bloqué. Cause souvent inconnue.",
+        "ja": "筋肉が急に*縮んで*ゆるまない状態。原因不明のことも多いです。"
       },
       "svg": "<path class='d' data-s='0' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 170 600 L 270 600 C 360 530 720 530 810 600 L 910 600 M 270 600 C 360 670 720 670 810 600'/><path class='d' data-s='0.6' data-d='0.6' fill='none' stroke='#888' stroke-width='6' d='M 340 590 L 740 590 M 340 612 L 740 612'/><path class='d' data-s='1.2' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 540 690 L 540 770 M 512 742 L 540 772 L 568 742'/><path class='f' data-s='2.0' data-d='0.5' data-o='0.35' fill='#e63946' opacity='0' d='M 400 920 C 430 790 650 790 680 920 C 650 1050 430 1050 400 920 Z'/><path class='d' data-s='1.6' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 290 920 L 400 920 C 430 790 650 790 680 920 L 790 920 M 400 920 C 430 1050 650 1050 680 920'/><path class='d' data-s='2.4' data-d='0.5' fill='none' stroke='#e63946' stroke-width='8' d='M 470 770 L 485 740 L 500 770 L 515 740 L 530 770 M 560 770 L 575 740 L 590 770 L 605 740 L 620 770'/><path class='d' data-s='2.6' data-d='0.5' fill='none' stroke='#e63946' stroke-width='9' d='M 180 870 L 270 900 M 250 870 L 272 900 L 240 914 M 900 870 L 810 900 M 830 870 L 808 900 L 840 914'/>",
       "texts": [
@@ -173,7 +173,7 @@
         "en": "Quick relief: straighten your leg and pull your toes *toward you*. Hold, then massage.",
         "es": "Alivio rápido: estira la pierna y tira de los dedos del pie *hacia ti*. Mantén y masajea.",
         "fr": "Pour soulager : tends la jambe et tire tes orteils *vers toi*. Tiens, puis masse.",
-        "ja": "応急法：脚を伸ばし、つま先を*手前に*引いてキープ。その後マッサージ。"
+        "ja": "脚を伸ばし、つま先を*手前に*引いてキープ。その後もみほぐそう。"
       },
       "svg": "<path class='d' data-s='0' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='6' d='M 150 930 Q 540 915 930 930'/><path class='d' data-s='0.2' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 170 760 L 470 775 L 760 795 M 170 890 L 470 880 C 560 915 690 900 760 865'/><path class='f' data-s='0.6' data-d='0.4' data-o='0.5' fill='none' stroke='#888' stroke-width='9' stroke-dasharray='18 16' opacity='0' d='M 760 795 L 895 830 Q 912 845 895 858 L 765 868'/><path class='d' data-s='1.2' data-d='0.7' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 760 795 L 772 690 Q 778 655 815 660 Q 858 668 852 705 L 838 840 Q 832 892 785 890 Q 755 888 760 865'/><path class='f' data-s='1.6' data-d='0.4' data-o='0.35' fill='#e63946' opacity='0' d='M 520 885 C 600 905 700 895 750 868 C 690 860 600 868 520 875 Z'/><path class='d' data-s='1.6' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='6' d='M 790 668 L 788 690 M 815 662 L 815 686 M 838 668 L 836 692'/><path class='d' data-s='1.9' data-d='0.7' fill='none' stroke='#e63946' stroke-width='10' d='M 910 790 Q 920 660 830 590 M 830 590 L 868 588 M 830 590 L 845 625'/>",
       "texts": [
