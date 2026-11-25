@@ -1672,5 +1672,69 @@ Consulte en urgence en cas de projection chimique (rince 15 minutes d'abord), d'
 ```
 - Tags: `目に異物, 応急手当, 目を洗う, 目の異物, 目の痛み, 健康, sketch clinic`
 
+### ep26-sprained-ankle — English
+- File: `ep26-sprained-ankle/ep26-sprained-ankle-en.mp4`
+- Video language: English
+- Subtitles file: `ep26-sprained-ankle/ep26-sprained-ankle-en.srt` (Subtitles → Add language: English → Upload file → With timing)
+- Title: `Sprained Ankle? First Aid Steps (Rest, Ice, Compress, Elevate) #Shorts`
+- Description:
+```
+Rolled your ankle? Rest it and take weight off. Ice for 15–20 minutes every 2–3 hours, wrapped in a cloth. Compress with a firm but not-too-tight elastic bandage. Elevate the foot above hip level.
+Get medical care if you can't put weight on it, have severe pain, a misshapen joint or numbness, or if it isn't improving after a few days.
+
+Educational only — not medical advice. If you have symptoms, see a healthcare professional.
+
+#Shorts #FirstAid #SprainedAnkle #SketchClinic
+```
+- Tags: `sprained ankle, ankle sprain first aid, rolled ankle, RICE, ice and compression, swollen ankle, injury first aid, first aid, health, sketch clinic`
+
+### ep26-sprained-ankle — Spanish  *(Phase 2 — only if the user asks)*
+- File: `ep26-sprained-ankle/ep26-sprained-ankle-es.mp4`
+- Video language: Spanish
+- Subtitles file: `ep26-sprained-ankle/ep26-sprained-ankle-es.srt` (Subtitles → Add language: Spanish → Upload file → With timing)
+- Title: `¿Esguince de tobillo? Primeros auxilios #Shorts`
+- Description:
+```
+¿Te torciste el tobillo? Reposo y sin apoyar peso. Hielo 15–20 minutos cada 2–3 horas, envuelto en un paño. Compresión con una venda elástica firme pero sin apretar demasiado. Eleva el pie por encima de la cadera.
+Busca atención médica si no puedes apoyar el pie, hay dolor intenso, deformidad o entumecimiento, o si no mejora en unos días.
+
+Solo con fines educativos; no es consejo médico. Si tienes síntomas, consulta a un profesional de la salud.
+
+#Shorts #PrimerosAuxilios #Esguince #SketchClinic
+```
+- Tags: `esguince de tobillo, tobillo torcido, primeros auxilios, hielo y compresión, tobillo hinchado, salud, sketch clinic`
+
+### ep26-sprained-ankle — French  *(Phase 2 — only if the user asks)*
+- File: `ep26-sprained-ankle/ep26-sprained-ankle-fr.mp4`
+- Video language: French
+- Subtitles file: `ep26-sprained-ankle/ep26-sprained-ankle-fr.srt` (Subtitles → Add language: French → Upload file → With timing)
+- Title: `Entorse de cheville ? Premiers secours #Shorts`
+- Description:
+```
+Cheville foulée ? Repos, sans appui. Glace 15 à 20 minutes toutes les 2–3 heures, dans un linge. Compression avec une bande élastique ferme mais pas trop serrée. Élève le pied au-dessus de la hanche.
+Consulte si tu ne peux pas appuyer, en cas de douleur intense, de déformation ou d'engourdissement, ou si ça ne s'améliore pas en quelques jours.
+
+À but éducatif uniquement — pas un avis médical. Si tu as des symptômes, consulte un professionnel de santé.
+
+#Shorts #PremiersSecours #Entorse #SketchClinic
+```
+- Tags: `entorse de cheville, cheville foulée, premiers secours, glace et compression, cheville gonflée, santé, sketch clinic`
+
+### ep26-sprained-ankle — Japanese  *(Phase 2 — only if the user asks)*
+- File: `ep26-sprained-ankle/ep26-sprained-ankle-ja.mp4`
+- Video language: Japanese
+- Subtitles file: `ep26-sprained-ankle/ep26-sprained-ankle-ja.srt` (Subtitles → Add language: Japanese → Upload file → With timing)
+- Title: `足首の捻挫の応急手当（安静・冷却・圧迫・挙上）#Shorts`
+- Description:
+```
+足首をひねったら、まず安静にして体重をかけないようにします。2〜3時間おきに15〜20分、布で包んだ氷で冷やし、弾性包帯をきつすぎない程度に巻き、足を腰より高く上げます。
+体重をかけられない、強い痛み、関節の変形やしびれがある、数日たっても良くならない場合は受診してください。
+
+教育目的の情報であり、医療アドバイスではありません。症状がある場合は医療機関を受診してください。
+
+#Shorts #応急手当 #捻挫 #SketchClinic
+```
+- Tags: `足首 捻挫, 捻挫 応急手当, 足首をひねった, 冷やす 圧迫, 腫れ, 健康, sketch clinic`
+
 ## Step 3 — Report back
 Send the user: channel URL, and a table of episode → video URL (all Private).
