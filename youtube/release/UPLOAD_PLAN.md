@@ -696,8 +696,128 @@ Si les bruits s'accompagnent de douleur ou d'autres symptômes, consulte un méd
 ```
 - Tags: `お腹が鳴る, 腹鳴, お腹の音, 腸, ぜん動運動, 空腹, 消化, 健康, sketch clinic`
 
+### ep12-sneeze — English
+- File: `ep12-sneeze/ep12-sneeze-en.mp4`
+- Video language: English
+- Title: `Why Do We Sneeze? (And the Right Way to Do It) #Shorts`
+- Description:
+```
+A sneeze is your nose's alarm and cleaning system: an irritant triggers nerves, your brainstem fires, and air bursts out.
+Those droplets carry germs — so sneeze into a tissue or your elbow, bin the tissue and wash your hands.
+
+Educational only — not medical advice. If you have symptoms, see a healthcare professional.
+
+#Shorts #Sneeze #CoughEtiquette #HealthTips #SketchClinic
+```
+- Tags: `sneeze, why do we sneeze, sneezing, sneeze into elbow, cough etiquette, germs, allergy, hand washing, health tips, sketch clinic`
+
+### ep12-sneeze — Spanish  *(Phase 2 — only if the user asks)*
+- File: `ep12-sneeze/ep12-sneeze-es.mp4`
+- Video language: Spanish
+- Title: `¿Por qué estornudamos? Y cómo hacerlo bien #Shorts`
+- Description:
+```
+El estornudo es la alarma y limpieza de tu nariz: algo irrita los nervios, el tronco cerebral reacciona y el aire sale disparado.
+Las gotitas llevan gérmenes: estornuda en un pañuelo o en el codo, tira el pañuelo y lávate las manos.
+
+Solo con fines educativos; no es consejo médico. Si tienes síntomas, consulta a un profesional de la salud.
+
+#Shorts #Estornudo #Higiene #Salud #SketchClinic
+```
+- Tags: `estornudo, por qué estornudamos, estornudar en el codo, gérmenes, alergia, lavado de manos, salud, sketch clinic`
+
+### ep12-sneeze — French  *(Phase 2 — only if the user asks)*
+- File: `ep12-sneeze/ep12-sneeze-fr.mp4`
+- Video language: French
+- Title: `Pourquoi on éternue ? Et comment bien le faire #Shorts`
+- Description:
+```
+L'éternuement, c'est l'alarme et le nettoyage du nez : un irritant stimule les nerfs, le tronc cérébral réagit et l'air jaillit.
+Les gouttelettes portent des microbes : éternue dans un mouchoir ou ton coude, jette le mouchoir et lave-toi les mains.
+
+À but éducatif uniquement — pas un avis médical. Si tu as des symptômes, consulte un professionnel de santé.
+
+#Shorts #Éternuement #GestesBarrières #Santé #SketchClinic
+```
+- Tags: `éternuement, pourquoi on éternue, éternuer dans son coude, microbes, allergie, lavage des mains, santé, sketch clinic`
+
+### ep12-sneeze — Japanese  *(Phase 2 — only if the user asks)*
+- File: `ep12-sneeze/ep12-sneeze-ja.mp4`
+- Video language: Japanese
+- Title: `くしゃみはなぜ出る？正しいくしゃみのしかた #Shorts`
+- Description:
+```
+くしゃみは鼻の警報＆おそうじ。異物が神経を刺激し、脳幹のくしゃみ中枢が反応して空気を一気に吹き出します。
+しぶきはウイルスを運ぶので、ティッシュかひじの内側でおおい、ティッシュは捨てて手を洗いましょう。
+
+教育目的の情報であり、医療アドバイスではありません。症状がある場合は医療機関を受診してください。
+
+#Shorts #くしゃみ #咳エチケット #健康 #SketchClinic
+```
+- Tags: `くしゃみ, くしゃみ なぜ, 咳エチケット, ひじでくしゃみ, 花粉, 手洗い, かぜ予防, 健康, sketch clinic`
+
+### ep15-bee-sting — English
+- File: `ep15-bee-sting/ep15-bee-sting-en.mp4`
+- Video language: English
+- Title: `Bee Sting First Aid: What to Do + Allergy Warning Signs #Shorts`
+- Description:
+```
+Scrape the stinger out quickly, wash with soap and water, and use a cold compress. Don't scratch.
+Call emergency services right away for trouble breathing, swelling of the face, lips or throat, dizziness or fainting — signs of anaphylaxis. Use an adrenaline auto-injector if the person has one.
+
+Educational only — not medical advice. If you have symptoms, see a healthcare professional.
+
+#Shorts #BeeSting #FirstAid #Anaphylaxis #SketchClinic
+```
+- Tags: `bee sting, bee sting first aid, remove stinger, anaphylaxis, allergic reaction, epipen, insect sting, first aid, health tips, sketch clinic`
+
+### ep15-bee-sting — Spanish  *(Phase 2 — only if the user asks)*
+- File: `ep15-bee-sting/ep15-bee-sting-es.mp4`
+- Video language: Spanish
+- Title: `Picadura de abeja: qué hacer y señales de alergia grave #Shorts`
+- Description:
+```
+Saca el aguijón rápido raspándolo, lava con agua y jabón y aplica frío. No te rasques.
+Llama a emergencias de inmediato si hay dificultad para respirar, hinchazón de cara, labios o garganta, mareo o desmayo (anafilaxia). Usa el autoinyector de adrenalina si la persona tiene uno.
+
+Solo con fines educativos; no es consejo médico. Si tienes síntomas, consulta a un profesional de la salud.
+
+#Shorts #PicaduraDeAbeja #PrimerosAuxilios #Anafilaxia #SketchClinic
+```
+- Tags: `picadura de abeja, primeros auxilios, aguijón, anafilaxia, reacción alérgica, autoinyector, salud, sketch clinic`
+
+### ep15-bee-sting — French  *(Phase 2 — only if the user asks)*
+- File: `ep15-bee-sting/ep15-bee-sting-fr.mp4`
+- Video language: French
+- Title: `Piqûre d’abeille : les bons gestes et les signes d’allergie grave #Shorts`
+- Description:
+```
+Retire vite le dard en grattant, lave à l'eau et au savon, applique du froid. Ne gratte pas.
+Appelle immédiatement les secours en cas de difficulté à respirer, gonflement du visage, des lèvres ou de la gorge, malaise ou évanouissement (anaphylaxie). Utilise le stylo d'adrénaline si la personne en a un.
+
+À but éducatif uniquement — pas un avis médical. Si tu as des symptômes, consulte un professionnel de santé.
+
+#Shorts #PiqûreAbeille #PremiersSecours #Anaphylaxie #SketchClinic
+```
+- Tags: `piqûre d'abeille, premiers secours, dard, anaphylaxie, réaction allergique, stylo d'adrénaline, santé, sketch clinic`
+
+### ep15-bee-sting — Japanese  *(Phase 2 — only if the user asks)*
+- File: `ep15-bee-sting/ep15-bee-sting-ja.mp4`
+- Video language: Japanese
+- Title: `ハチに刺されたときの応急処置とアナフィラキシーのサイン #Shorts`
+- Description:
+```
+針はすぐにこすり出し、石けんと水で洗って冷やします。かかないこと。
+息苦しさ、顔・くちびる・のどの腫れ、めまいや意識が遠のく場合はアナフィラキシーの可能性。すぐに119番を。アドレナリン自己注射薬があれば使います。
+
+教育目的の情報であり、医療アドバイスではありません。症状がある場合は医療機関を受診してください。
+
+#Shorts #ハチ刺され #応急処置 #アナフィラキシー #SketchClinic
+```
+- Tags: `ハチ刺され, 蜂に刺された, 応急処置, アナフィラキシー, エピペン, アレルギー, 健康, sketch clinic`
+
 ## Not ready yet
-These episodes are still being produced and will be added to this plan later: ep12-sneeze, ep13-frostbite, ep14-mouth-ulcer
+These episodes are still being produced and will be added to this plan later: ep13-frostbite, ep14-mouth-ulcer, ep16-choking, ep17-heat-illness, ep18-button-battery
 
 ## Step 3 — Report back
 Send the user: channel URL, and a table of episode → video URL (all Private).
