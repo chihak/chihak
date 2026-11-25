@@ -1,0 +1,39 @@
+1
+00:00:00,250 --> 00:00:00,585
+Achoo!
+
+2
+00:00:00,585 --> 00:00:03,877
+A sneeze is your nose's built-in alarm and cleaning system.
+
+3
+00:00:05,250 --> 00:00:09,986
+Dust, pollen, pepper or a cold virus irritates the lining inside your nose.
+
+4
+00:00:11,250 --> 00:00:15,154
+Nerves in the nose send a signal to the sneeze center in your brainstem.
+
+5
+00:00:17,250 --> 00:00:22,285
+You breathe in deeply, then air bursts out through nose and mouth to flush the irritant away.
+
+6
+00:00:23,750 --> 00:00:27,739
+The droplets can fly far, and they carry germs to the people around you.
+
+7
+00:00:29,250 --> 00:00:29,681
+Step 1.
+
+8
+00:00:29,681 --> 00:00:33,133
+Sneeze into a tissue or your elbow, not into your hands.
+
+9
+00:00:35,250 --> 00:00:35,637
+Step 2.
+
+10
+00:00:35,637 --> 00:00:39,069
+Throw the tissue away and wash your hands with soap and water.

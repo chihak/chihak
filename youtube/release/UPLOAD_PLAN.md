@@ -35,6 +35,7 @@ Phase 1 uploads the **English** versions only. The Spanish, French and Japanese 
 ### ep01-stroke — English
 - File: `ep01-stroke/ep01-stroke-en.mp4`
 - Video language: English
+- Subtitles file: `ep01-stroke/ep01-stroke-en.srt` (Subtitles → Add language: English → Upload file → With timing)
 - Title: `5 Signs of a Stroke You Must Know (BE FAST) #Shorts`
 - Description:
 ```
@@ -95,6 +96,7 @@ Si tu les remarques, appelle les secours immédiatement (15 ou 112), même si le
 ### ep02-heart-attack — English
 - File: `ep02-heart-attack/ep02-heart-attack-en.mp4`
 - Video language: English
+- Subtitles file: `ep02-heart-attack/ep02-heart-attack-en.srt` (Subtitles → Add language: English → Upload file → With timing)
 - Title: `5 Heart Attack Warning Signs You Shouldn't Ignore #Shorts`
 - Description:
 ```
@@ -155,6 +157,7 @@ Appelle immédiatement les secours. Ne conduis pas toi-même.
 ### ep03-leg-cramps — English
 - File: `ep03-leg-cramps/ep03-leg-cramps-en.mp4`
 - Video language: English
+- Subtitles file: `ep03-leg-cramps/ep03-leg-cramps-en.srt` (Subtitles → Add language: English → Upload file → With timing)
 - Title: `Why Do Your Legs Cramp at Night? (+ Quick Fix) #Shorts`
 - Description:
 ```
@@ -215,6 +218,7 @@ Pour soulager : tends la jambe et tire tes orteils vers toi.
 ### ep04-knuckle-cracking — English
 - File: `ep04-knuckle-cracking/ep04-knuckle-cracking-en.mp4`
 - Video language: English
+- Subtitles file: `ep04-knuckle-cracking/ep04-knuckle-cracking-en.srt` (Subtitles → Add language: English → Upload file → With timing)
 - Title: `What Really Happens When You Crack Your Knuckles? #Shorts`
 - Description:
 ```
@@ -275,6 +279,7 @@ L'arthrose ? Les études n'ont pas trouvé de lien.
 ### ep05-hiccups — English
 - File: `ep05-hiccups/ep05-hiccups-en.mp4`
 - Video language: English
+- Subtitles file: `ep05-hiccups/ep05-hiccups-en.srt` (Subtitles → Add language: English → Upload file → With timing)
 - Title: `Why Do We Get Hiccups? The “Hic” Explained #Shorts`
 - Description:
 ```
@@ -331,6 +336,7 @@ Consulte un médecin si le hoquet dure plus de 48 heures.
 ### ep06-eye-twitch — English
 - File: `ep06-eye-twitch/ep06-eye-twitch-en.mp4`
 - Video language: English
+- Subtitles file: `ep06-eye-twitch/ep06-eye-twitch-en.srt` (Subtitles → Add language: English → Upload file → With timing)
 - Title: `Why Does Your Eyelid Twitch? (It Has a Name) #Shorts`
 - Description:
 ```
@@ -387,6 +393,7 @@ Consulte si ça dure des semaines, si la paupière se ferme ou si le visage tres
 ### ep07-brain-freeze — English
 - File: `ep07-brain-freeze/ep07-brain-freeze-en.mp4`
 - Video language: English
+- Subtitles file: `ep07-brain-freeze/ep07-brain-freeze-en.srt` (Subtitles → Add language: English → Upload file → With timing)
 - Title: `Brain Freeze Has a Real Medical Name #Shorts`
 - Description:
 ```
@@ -443,6 +450,7 @@ Astuce : langue contre le palais ou eau tiède. Pour l’éviter : mange le froi
 ### ep08-head-rush — English
 - File: `ep08-head-rush/ep08-head-rush-en.mp4`
 - Video language: English
+- Subtitles file: `ep08-head-rush/ep08-head-rush-en.srt` (Subtitles → Add language: English → Upload file → With timing)
 - Title: `Why Do You Get Dizzy When You Stand Up Fast? #Shorts`
 - Description:
 ```
@@ -507,6 +515,7 @@ Le plus souvent sans danger — voici pourquoi et comment l'éviter.
 ### ep09-nosebleed — English
 - File: `ep09-nosebleed/ep09-nosebleed-en.mp4`
 - Video language: English
+- Subtitles file: `ep09-nosebleed/ep09-nosebleed-en.srt` (Subtitles → Add language: English → Upload file → With timing)
 - Title: `Nosebleed? Do THIS, Not That (Don’t Tilt Back!) #Shorts`
 - Description:
 ```
@@ -571,6 +580,7 @@ Et quand il faut aller aux urgences.
 ### ep10-foot-asleep — English
 - File: `ep10-foot-asleep/ep10-foot-asleep-en.mp4`
 - Video language: English
+- Subtitles file: `ep10-foot-asleep/ep10-foot-asleep-en.srt` (Subtitles → Add language: English → Upload file → With timing)
 - Title: `Why Does Your Foot “Fall Asleep”? #Shorts`
 - Description:
 ```
@@ -635,6 +645,7 @@ En général sans danger, mais voici quand consulter.
 ### ep11-stomach-growl — English
 - File: `ep11-stomach-growl/ep11-stomach-growl-en.mp4`
 - Video language: English
+- Subtitles file: `ep11-stomach-growl/ep11-stomach-growl-en.srt` (Subtitles → Add language: English → Upload file → With timing)
 - Title: `Why Does Your Stomach Growl? (It’s Not Just Hunger) #Shorts`
 - Description:
 ```
@@ -699,6 +710,7 @@ Si les bruits s'accompagnent de douleur ou d'autres symptômes, consulte un méd
 ### ep12-sneeze — English
 - File: `ep12-sneeze/ep12-sneeze-en.mp4`
 - Video language: English
+- Subtitles file: `ep12-sneeze/ep12-sneeze-en.srt` (Subtitles → Add language: English → Upload file → With timing)
 - Title: `Why Do We Sneeze? (And the Right Way to Do It) #Shorts`
 - Description:
 ```
@@ -759,6 +771,7 @@ Les gouttelettes portent des microbes : éternue dans un mouchoir ou ton coude, 
 ### ep15-bee-sting — English
 - File: `ep15-bee-sting/ep15-bee-sting-en.mp4`
 - Video language: English
+- Subtitles file: `ep15-bee-sting/ep15-bee-sting-en.srt` (Subtitles → Add language: English → Upload file → With timing)
 - Title: `Bee Sting First Aid: What to Do + Allergy Warning Signs #Shorts`
 - Description:
 ```
