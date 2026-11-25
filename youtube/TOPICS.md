@@ -10,7 +10,7 @@ Covered by ep01-ep20: stroke, heart attack, leg cramps, knuckle cracking, hiccup
 - todo: Why do fingers wrinkle in water?
 - done: ep26-sprained-ankle - Sprained ankle first aid (PRICE / POLICE)
 - done: ep27-sunburn - Sunburn - treat it and when to worry
-- todo: How to remove a splinter safely
+- in progress: ep29-splinter - How to remove a splinter safely
 - todo: Motion sickness - why it happens and what helps
 - todo: Dehydration signs and what to do
 - done: ep28-blisters - Blisters - to pop or not to pop
