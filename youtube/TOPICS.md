@@ -9,7 +9,7 @@ Covered by ep01-ep20: stroke, heart attack, leg cramps, knuckle cracking, hiccup
 - done: ep24-goosebumps - Why do we get goosebumps?
 - todo: Why do fingers wrinkle in water?
 - done: ep26-sprained-ankle - Sprained ankle first aid (PRICE / POLICE)
-- in progress: ep27-sunburn - Sunburn - treat it and when to worry
+- done: ep27-sunburn - Sunburn - treat it and when to worry
 - todo: How to remove a splinter safely
 - todo: Motion sickness - why it happens and what helps
 - todo: Dehydration signs and what to do

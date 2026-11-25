@@ -1736,5 +1736,69 @@ Consulte si tu ne peux pas appuyer, en cas de douleur intense, de déformation o
 ```
 - Tags: `足首 捻挫, 捻挫 応急手当, 足首をひねった, 冷やす 圧迫, 腫れ, 健康, sketch clinic`
 
+### ep27-sunburn — English
+- File: `ep27-sunburn/ep27-sunburn-en.mp4`
+- Video language: English
+- Subtitles file: `ep27-sunburn/ep27-sunburn-en.srt` (Subtitles → Add language: English → Upload file → With timing)
+- Title: `Sunburn? What to Do (Cool, Soothe, Hydrate) #Shorts`
+- Description:
+```
+Too much sun? Cool the skin with cool water (no ice directly), soothe with moisturiser or aloe vera, drink extra water, and cover up until it heals. Don't pop blisters.
+Get medical care for blisters over a large area, fever or chills, dizziness, a sunburned baby, or if it's severe or not improving.
+
+Educational only — not medical advice. If you have symptoms, see a healthcare professional.
+
+#Shorts #FirstAid #Sunburn #SketchClinic
+```
+- Tags: `sunburn, sunburn treatment, sunburn first aid, aloe vera, after sun, skin care, first aid, health, sketch clinic, sun safety`
+
+### ep27-sunburn — Spanish  *(Phase 2 — only if the user asks)*
+- File: `ep27-sunburn/ep27-sunburn-es.mp4`
+- Video language: Spanish
+- Subtitles file: `ep27-sunburn/ep27-sunburn-es.srt` (Subtitles → Add language: Spanish → Upload file → With timing)
+- Title: `¿Quemadura solar? Qué hacer #Shorts`
+- Description:
+```
+¿Demasiado sol? Enfría la piel con agua fresca (sin hielo directo), calma con crema hidratante o aloe vera, bebe más agua y cúbrete hasta que sane. No revientes las ampollas.
+Busca atención médica si hay ampollas extensas, fiebre o escalofríos, mareo, si es un bebé, o si es grave o no mejora.
+
+Solo con fines educativos; no es consejo médico. Si tienes síntomas, consulta a un profesional de la salud.
+
+#Shorts #PrimerosAuxilios #QuemaduraSolar #SketchClinic
+```
+- Tags: `quemadura solar, tratamiento quemadura solar, primeros auxilios, aloe vera, after sun, cuidado de la piel, salud, sketch clinic`
+
+### ep27-sunburn — French  *(Phase 2 — only if the user asks)*
+- File: `ep27-sunburn/ep27-sunburn-fr.mp4`
+- Video language: French
+- Subtitles file: `ep27-sunburn/ep27-sunburn-fr.srt` (Subtitles → Add language: French → Upload file → With timing)
+- Title: `Coup de soleil ? Que faire #Shorts`
+- Description:
+```
+Trop de soleil ? Rafraîchis la peau à l'eau fraîche (sans glace directe), apaise avec une crème hydratante ou de l'aloe vera, bois plus d'eau et couvre-toi jusqu'à la guérison. Ne perce pas les cloques.
+Consulte en cas de cloques étendues, fièvre ou frissons, vertiges, bébé brûlé, ou si c'est sévère ou ne s'améliore pas.
+
+À but éducatif uniquement — pas un avis médical. Si tu as des symptômes, consulte un professionnel de santé.
+
+#Shorts #PremiersSecours #CoupDeSoleil #SketchClinic
+```
+- Tags: `coup de soleil, soigner un coup de soleil, premiers secours, aloe vera, après-soleil, soin de la peau, santé, sketch clinic`
+
+### ep27-sunburn — Japanese  *(Phase 2 — only if the user asks)*
+- File: `ep27-sunburn/ep27-sunburn-ja.mp4`
+- Video language: Japanese
+- Subtitles file: `ep27-sunburn/ep27-sunburn-ja.srt` (Subtitles → Add language: Japanese → Upload file → With timing)
+- Title: `日焼けのケア（冷やす・保湿・水分補給）#Shorts`
+- Description:
+```
+日差しを浴びすぎたら、冷たい水で冷やし（氷は直接当てない）、保湿剤やアロエで整え、水分をしっかりとり、治るまで日差しを避けます。水ぶくれはつぶさないでください。
+広範囲の水ぶくれ、発熱や悪寒、めまい、赤ちゃんの日焼け、ひどい場合や治らない場合は受診してください。
+
+教育目的の情報であり、医療アドバイスではありません。症状がある場合は医療機関を受診してください。
+
+#Shorts #応急手当 #日焼け #SketchClinic
+```
+- Tags: `日焼け, 日焼け ケア, 日焼け 応急手当, アロエ, アフターサン, スキンケア, 健康, sketch clinic`
+
 ## Step 3 — Report back
 Send the user: channel URL, and a table of episode → video URL (all Private).

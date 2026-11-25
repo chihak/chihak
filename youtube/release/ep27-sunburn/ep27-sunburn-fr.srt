@@ -1,0 +1,43 @@
+1
+00:00:00,250 --> 00:00:01,061
+Trop de soleil ?
+
+2
+00:00:01,061 --> 00:00:03,087
+Voici comment soigner un coup de soleil.
+
+3
+00:00:06,250 --> 00:00:10,026
+Un : rafraîchis la peau à l'eau fraîche ou sous une douche fraîche, sans glace directe.
+
+4
+00:00:12,750 --> 00:00:15,728
+Deux : apaise avec une crème hydratante ou un après-soleil.
+
+5
+00:00:15,728 --> 00:00:16,889
+L'aloe vera peut aider.
+
+6
+00:00:18,750 --> 00:00:19,843
+Trois : bois plus d'eau.
+
+7
+00:00:19,843 --> 00:00:21,438
+Un coup de soleil peut déshydrater.
+
+8
+00:00:24,750 --> 00:00:27,612
+Quatre : couvre-toi et reste à l'ombre jusqu'à la guérison.
+
+9
+00:00:27,612 --> 00:00:28,825
+Ne perce pas les cloques.
+
+10
+00:00:30,750 --> 00:00:34,209
+Cloques étendues, fièvre ou frissons, vertiges, ou bébé brûlé ?
+
+11
+00:00:34,209 --> 00:00:37,833
+Consulte un médecin, de même si c'est sévère ou ne s'améliore pas.
