@@ -965,6 +965,74 @@ Appelle immédiatement les secours en cas de difficulté à respirer, gonflement
 ```
 - Tags: `ハチ刺され, 蜂に刺された, 応急処置, アナフィラキシー, エピペン, アレルギー, 健康, sketch clinic`
 
+### ep16-choking — English
+- File: `ep16-choking/ep16-choking-en.mp4`
+- Video language: English
+- Subtitles file: `ep16-choking/ep16-choking-en.srt` (Subtitles → Add language: English → Upload file → With timing)
+- Title: `Choking Adult? 5 Back Blows + 5 Abdominal Thrusts (Heimlich) #Shorts`
+- Description:
+```
+If an adult is choking but can cough, encourage coughing. If they can't cough, speak or breathe: call emergency services, give up to 5 back blows, then up to 5 abdominal thrusts, and keep alternating.
+If they become unresponsive, start CPR. Anyone who received abdominal thrusts should see a doctor afterwards.
+For babies, children and pregnant people the technique is different — take a certified first-aid course.
+
+Educational only — not medical advice. If you have symptoms, see a healthcare professional.
+
+#Shorts #Choking #Heimlich #FirstAid #SketchClinic
+```
+- Tags: `choking, choking first aid, heimlich maneuver, abdominal thrusts, back blows, what to do if someone is choking, CPR, first aid, emergency, sketch clinic`
+
+### ep16-choking — Spanish  *(Phase 2 — only if the user asks)*
+- File: `ep16-choking/ep16-choking-es.mp4`
+- Video language: Spanish
+- Subtitles file: `ep16-choking/ep16-choking-es.srt` (Subtitles → Add language: Spanish → Upload file → With timing)
+- Title: `¿Un adulto se atraganta? 5 golpes + 5 compresiones (Heimlich) #Shorts`
+- Description:
+```
+Si un adulto se atraganta pero puede toser, anímale a toser. Si no puede toser, hablar ni respirar: llama a emergencias, da hasta 5 golpes en la espalda y luego hasta 5 compresiones abdominales, y alterna.
+Si deja de responder, empieza la RCP. Quien recibió compresiones abdominales debe ver a un médico después.
+En bebés, niños y embarazadas la técnica es distinta: haz un curso de primeros auxilios.
+
+Solo con fines educativos; no es consejo médico. Si tienes síntomas, consulta a un profesional de la salud.
+
+#Shorts #Atragantamiento #Heimlich #PrimerosAuxilios #SketchClinic
+```
+- Tags: `atragantamiento, maniobra de Heimlich, compresiones abdominales, golpes en la espalda, primeros auxilios, RCP, emergencia, sketch clinic`
+
+### ep16-choking — French  *(Phase 2 — only if the user asks)*
+- File: `ep16-choking/ep16-choking-fr.mp4`
+- Video language: French
+- Subtitles file: `ep16-choking/ep16-choking-fr.srt` (Subtitles → Add language: French → Upload file → With timing)
+- Title: `Adulte qui s’étouffe : 5 tapes + 5 compressions (Heimlich) #Shorts`
+- Description:
+```
+Si un adulte s'étouffe mais peut tousser, encourage-le à tousser. S'il ne peut ni tousser, ni parler, ni respirer : appelle les secours, donne jusqu'à 5 tapes dans le dos puis jusqu'à 5 compressions abdominales, et alterne.
+S'il ne réagit plus, commence la RCP. Toute personne ayant reçu des compressions abdominales doit voir un médecin ensuite.
+Pour les bébés, les enfants et les femmes enceintes, la technique est différente : suis une formation aux premiers secours.
+
+À but éducatif uniquement — pas un avis médical. Si tu as des symptômes, consulte un professionnel de santé.
+
+#Shorts #Étouffement #Heimlich #PremiersSecours #SketchClinic
+```
+- Tags: `étouffement, manœuvre de Heimlich, compressions abdominales, tapes dans le dos, premiers secours, RCP, urgence, sketch clinic`
+
+### ep16-choking — Japanese  *(Phase 2 — only if the user asks)*
+- File: `ep16-choking/ep16-choking-ja.mp4`
+- Video language: Japanese
+- Subtitles file: `ep16-choking/ep16-choking-ja.srt` (Subtitles → Add language: Japanese → Upload file → With timing)
+- Title: `大人の窒息：背部叩打と腹部突き上げ（ハイムリック法）#Shorts`
+- Description:
+```
+大人がのどを詰まらせても、せきができるならせきを続けてもらいます。せき・声・呼吸ができなければ119番し、背部叩打を最大5回、続けて腹部突き上げを最大5回、交互にくり返します。
+反応がなくなったら心肺蘇生を。腹部突き上げを受けた人は必ず受診してください。
+乳児・子ども・妊婦では方法が異なります。救命講習の受講をおすすめします。
+
+教育目的の情報であり、医療アドバイスではありません。症状がある場合は医療機関を受診してください。
+
+#Shorts #窒息 #ハイムリック法 #応急処置 #SketchClinic
+```
+- Tags: `窒息, ハイムリック法, 腹部突き上げ法, 背部叩打法, のどに詰まった, 応急処置, 心肺蘇生, 救急, sketch clinic`
+
 ### ep18-button-battery — English
 - File: `ep18-button-battery/ep18-button-battery-en.mp4`
 - Video language: English
@@ -1101,8 +1169,72 @@ Consulte si la douleur, l'audition étouffée ou les sifflements durent plusieur
 ```
 - Tags: `耳抜き, 飛行機 耳, 耳が詰まる, 耳管, 航空性中耳炎, 旅行, 健康, sketch clinic`
 
+### ep20-contagious-yawn — English
+- File: `ep20-contagious-yawn/ep20-contagious-yawn-en.mp4`
+- Video language: English
+- Subtitles file: `ep20-contagious-yawn/ep20-contagious-yawn-en.srt` (Subtitles → Add language: English → Upload file → With timing)
+- Title: `Why Are Yawns Contagious? (Are You Yawning Yet?) #Shorts`
+- Description:
+```
+Seeing, hearing or even reading about a yawn can make you yawn. Scientists think contagious yawning is linked to brain networks for mirroring and connecting with others — it's still being studied.
+It spreads more easily between people who are close, usually develops around age 4–5, and some animals catch yawns too. Not catching yawns is normal.
+
+Educational only — not medical advice. If you have symptoms, see a healthcare professional.
+
+#Shorts #Yawning #Brain #FunFacts #SketchClinic
+```
+- Tags: `contagious yawning, why do we yawn, yawning, yawn, empathy, brain facts, body facts, fun facts, health tips, sketch clinic`
+
+### ep20-contagious-yawn — Spanish  *(Phase 2 — only if the user asks)*
+- File: `ep20-contagious-yawn/ep20-contagious-yawn-es.mp4`
+- Video language: Spanish
+- Subtitles file: `ep20-contagious-yawn/ep20-contagious-yawn-es.srt` (Subtitles → Add language: Spanish → Upload file → With timing)
+- Title: `¿Por qué se contagian los bostezos? #Shorts`
+- Description:
+```
+Ver, oír o incluso leer sobre un bostezo puede hacerte bostezar. Se cree que el bostezo contagioso se relaciona con redes cerebrales para imitar y conectar con otros; aún se investiga.
+Se contagia más entre personas cercanas, suele aparecer hacia los 4–5 años y algunos animales también se contagian. No contagiarse es normal.
+
+Solo con fines educativos; no es consejo médico. Si tienes síntomas, consulta a un profesional de la salud.
+
+#Shorts #Bostezo #Cerebro #Curiosidades #SketchClinic
+```
+- Tags: `bostezo contagioso, por qué bostezamos, bostezo, empatía, cerebro, curiosidades, salud, sketch clinic`
+
+### ep20-contagious-yawn — French  *(Phase 2 — only if the user asks)*
+- File: `ep20-contagious-yawn/ep20-contagious-yawn-fr.mp4`
+- Video language: French
+- Subtitles file: `ep20-contagious-yawn/ep20-contagious-yawn-fr.srt` (Subtitles → Add language: French → Upload file → With timing)
+- Title: `Pourquoi le bâillement est contagieux ? #Shorts`
+- Description:
+```
+Voir, entendre ou même lire le mot « bâiller » peut te faire bâiller. On pense que le bâillement contagieux est lié aux réseaux cérébraux de l'imitation et du lien aux autres ; c'est encore étudié.
+Il se transmet plus entre proches, apparaît vers 4–5 ans, et certains animaux l'attrapent aussi. Ne pas l'attraper est normal.
+
+À but éducatif uniquement — pas un avis médical. Si tu as des symptômes, consulte un professionnel de santé.
+
+#Shorts #Bâillement #Cerveau #LeSaviezVous #SketchClinic
+```
+- Tags: `bâillement contagieux, pourquoi on bâille, bâillement, empathie, cerveau, le saviez-vous, santé, sketch clinic`
+
+### ep20-contagious-yawn — Japanese  *(Phase 2 — only if the user asks)*
+- File: `ep20-contagious-yawn/ep20-contagious-yawn-ja.mp4`
+- Video language: Japanese
+- Subtitles file: `ep20-contagious-yawn/ep20-contagious-yawn-ja.srt` (Subtitles → Add language: Japanese → Upload file → With timing)
+- Title: `あくびがうつるのはなぜ？ #Shorts`
+- Description:
+```
+あくびを見る・聞く・読むだけでも、あくびが出ることがあります。他人をまねたり共感したりする脳のしくみが関係すると考えられていますが、まだ研究中です。
+親しい人どうしでうつりやすく、4〜5歳ごろから見られ、動物にもうつります。うつらなくても正常です。
+
+教育目的の情報であり、医療アドバイスではありません。症状がある場合は医療機関を受診してください。
+
+#Shorts #あくび #脳 #雑学 #SketchClinic
+```
+- Tags: `あくび, あくび うつる, あくび なぜ, 共感, 脳, 雑学, 健康, sketch clinic`
+
 ## Not ready yet
-These episodes are still being produced and will be added to this plan later: ep16-choking, ep17-heat-illness, ep20-contagious-yawn
+These episodes are still being produced and will be added to this plan later: ep17-heat-illness
 
 ## Step 3 — Report back
 Send the user: channel URL, and a table of episode → video URL (all Private).
