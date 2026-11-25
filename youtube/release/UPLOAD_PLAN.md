@@ -152,6 +152,126 @@ Appelle immédiatement les secours. Ne conduis pas toi-même.
 ```
 - Tags: `心筋梗塞, 心臓発作, 心筋梗塞 症状, 心筋梗塞 前兆, 胸の痛み, 女性 心筋梗塞, 救急車, 応急処置, 健康, 医療 解説`
 
+### ep03-leg-cramps — English
+- File: `ep03-leg-cramps/ep03-leg-cramps-en.mp4`
+- Video language: English
+- Title: `Why Do Your Legs Cramp at Night? (+ Quick Fix) #Shorts`
+- Description:
+```
+That rock-hard calf at 3 a.m. is a muscle that tightens and won't relax.
+Common triggers: tired muscles, long sitting, dehydration, some medicines, pregnancy, age.
+Quick relief: straighten your leg and pull your toes toward you.
+Educational only — not medical advice. If you have symptoms, see a healthcare professional.
+
+#legcramps #nightcramps #musclecramp #health #shorts
+```
+- Tags: `leg cramps, night leg cramps, calf cramp, charley horse, muscle cramp, leg cramp relief, why do legs cramp, cramp stretch, health, whiteboard animation`
+
+### ep03-leg-cramps — Spanish  *(Phase 2 — only if the user asks)*
+- File: `ep03-leg-cramps/ep03-leg-cramps-es.mp4`
+- Video language: Spanish
+- Title: `¿Por qué dan calambres en las piernas de noche? #Shorts`
+- Description:
+```
+Esa pantorrilla dura como piedra es un músculo que se contrae y no se relaja.
+Causas comunes: músculos cansados, estar mucho sentado, deshidratación, algunos medicamentos, embarazo y edad.
+Alivio rápido: estira la pierna y tira de los dedos del pie hacia ti.
+Solo con fines educativos, no es consejo médico. Si tienes síntomas, consulta a un profesional de la salud.
+
+#calambres #salud #pantorrilla #musculos #shorts
+```
+- Tags: `calambres, calambres nocturnos, calambre en la pantorrilla, calambres en las piernas, calambre muscular, cómo quitar un calambre, estiramiento, salud, educación en salud`
+
+### ep03-leg-cramps — French  *(Phase 2 — only if the user asks)*
+- File: `ep03-leg-cramps/ep03-leg-cramps-fr.mp4`
+- Video language: French
+- Title: `Pourquoi a-t-on des crampes aux jambes la nuit ? #Shorts`
+- Description:
+```
+Ce mollet dur comme de la pierre, c'est un muscle qui se contracte et ne se relâche plus.
+Causes fréquentes : muscles fatigués, position assise prolongée, déshydratation, certains médicaments, grossesse, âge.
+Pour soulager : tends la jambe et tire tes orteils vers toi.
+À but éducatif uniquement, ce n'est pas un avis médical. En cas de symptômes, consulte un professionnel de santé.
+
+#crampes #santé #mollet #muscles #shorts
+```
+- Tags: `crampes, crampes nocturnes, crampe au mollet, crampes jambes, crampe musculaire, soulager une crampe, étirement, santé, éducation santé`
+
+### ep03-leg-cramps — Japanese  *(Phase 2 — only if the user asks)*
+- File: `ep03-leg-cramps/ep03-leg-cramps-ja.mp4`
+- Video language: Japanese
+- Title: `夜中に足がつるのはなぜ？すぐできる対処法 #Shorts`
+- Description:
+```
+夜中のこむら返りは、筋肉が急に縮んでゆるまない状態。
+よくある原因：筋肉の疲れ、長時間の同じ姿勢、水分不足、一部の薬、妊娠、加齢。
+対処法：脚を伸ばし、つま先を手前に引いてストレッチ。
+教育目的の情報であり、医療アドバイスではありません。症状がある場合は医療機関を受診してください。
+
+#こむら返り #足がつる #健康 #ストレッチ #shorts
+```
+- Tags: `こむら返り, 足がつる, 夜中 足がつる, ふくらはぎ つる, 筋肉のけいれん, 足がつる 原因, 足がつる 治し方, ストレッチ, 健康, 医療 解説`
+
+### ep04-knuckle-cracking — English
+- File: `ep04-knuckle-cracking/ep04-knuckle-cracking-en.mp4`
+- Video language: English
+- Title: `What Really Happens When You Crack Your Knuckles? #Shorts`
+- Description:
+```
+That pop isn't bones grinding — it's a gas bubble forming in the joint fluid.
+It takes about 20–30 minutes before the same knuckle can crack again.
+Arthritis? Studies haven't found a link.
+Educational only — not medical advice. If you have symptoms, see a healthcare professional.
+
+#knucklecracking #joints #science #health #shorts
+```
+- Tags: `knuckle cracking, cracking knuckles, why do knuckles crack, does cracking knuckles cause arthritis, joint popping, synovial fluid, gas bubble, joints, health myths, whiteboard animation`
+
+### ep04-knuckle-cracking — Spanish  *(Phase 2 — only if the user asks)*
+- File: `ep04-knuckle-cracking/ep04-knuckle-cracking-es.mp4`
+- Video language: Spanish
+- Title: `¿Qué pasa realmente al crujirte los nudillos? #Shorts`
+- Description:
+```
+Ese crac no son huesos rozando: es una burbuja de gas que se forma en el líquido articular.
+Hay que esperar unos 20–30 minutos para que el mismo nudillo vuelva a sonar.
+¿Artritis? Los estudios no han encontrado relación.
+Solo con fines educativos, no es consejo médico. Si tienes síntomas, consulta a un profesional de la salud.
+
+#nudillos #articulaciones #ciencia #salud #shorts
+```
+- Tags: `crujir los nudillos, tronar los dedos, por qué suenan los nudillos, artritis, articulaciones, líquido sinovial, burbuja de gas, mitos de salud, salud, ciencia`
+
+### ep04-knuckle-cracking — French  *(Phase 2 — only if the user asks)*
+- File: `ep04-knuckle-cracking/ep04-knuckle-cracking-fr.mp4`
+- Video language: French
+- Title: `Que se passe-t-il quand on fait craquer ses doigts ? #Shorts`
+- Description:
+```
+Ce crac, ce ne sont pas les os : c'est une bulle de gaz qui se forme dans le liquide articulaire.
+Il faut environ 20 à 30 minutes avant de pouvoir refaire craquer la même articulation.
+L'arthrose ? Les études n'ont pas trouvé de lien.
+À but éducatif uniquement, ce n'est pas un avis médical. En cas de symptômes, consulte un professionnel de santé.
+
+#craquerlesdoigts #articulations #science #santé #shorts
+```
+- Tags: `craquer ses doigts, faire craquer ses doigts, pourquoi les doigts craquent, arthrose, articulations, liquide synovial, bulle de gaz, idées reçues santé, santé, science`
+
+### ep04-knuckle-cracking — Japanese  *(Phase 2 — only if the user asks)*
+- File: `ep04-knuckle-cracking/ep04-knuckle-cracking-ja.mp4`
+- Video language: Japanese
+- Title: `指をポキッと鳴らすと何が起きている？ #Shorts`
+- Description:
+```
+あの音は骨がこすれる音ではなく、関節液の中で気泡ができる音。
+同じ関節がまた鳴るまで約20〜30分かかります。
+関節炎の原因？これまでの研究では関連は見つかっていません。
+教育目的の情報であり、医療アドバイスではありません。症状がある場合は医療機関を受診してください。
+
+#指鳴らし #関節 #雑学 #健康 #shorts
+```
+- Tags: `指 鳴らす, 指をポキポキ, 指 鳴らす 理由, 関節 音, 関節炎, 関節液, 気泡, 健康 雑学, 医療 解説, 健康`
+
 ### ep05-hiccups — English
 - File: `ep05-hiccups/ep05-hiccups-en.mp4`
 - Video language: English
@@ -263,6 +383,62 @@ Consulte si ça dure des semaines, si la paupière se ferme ou si le visage tres
 #まぶた #健康 #目の疲れ #Shorts
 ```
 - Tags: `まぶた ピクピク, まぶたの痙攣, 眼瞼ミオキミア, 目の疲れ, ストレス, 睡眠不足, カフェイン, ドライアイ, 健康, スケッチクリニック`
+
+### ep07-brain-freeze — English
+- File: `ep07-brain-freeze/ep07-brain-freeze-en.mp4`
+- Video language: English
+- Title: `Brain Freeze Has a Real Medical Name #Shorts`
+- Description:
+```
+Brain freeze = sphenopalatine ganglioneuralgia.
+Cold on the roof of your mouth makes vessels narrow then widen, and your brain feels the pain in your forehead.
+Fix: press your tongue to your palate or sip lukewarm water. Prevent it: eat cold things slowly.
+Educational only — not medical advice. If you have symptoms, see a healthcare professional.
+#brainfreeze #icecream #health #Shorts
+```
+- Tags: `brain freeze, ice cream headache, sphenopalatine ganglioneuralgia, why does brain freeze happen, referred pain, cold headache, how to stop brain freeze, health facts, human body, sketch clinic`
+
+### ep07-brain-freeze — Spanish  *(Phase 2 — only if the user asks)*
+- File: `ep07-brain-freeze/ep07-brain-freeze-es.mp4`
+- Video language: Spanish
+- Title: `¿Por qué duele la cabeza con el helado? #Shorts`
+- Description:
+```
+El “cerebro congelado” se llama ganglioneuralgia esfenopalatina.
+El frío en el paladar estrecha y luego dilata los vasos, y el cerebro siente el dolor en la frente.
+Alivio: lengua contra el paladar o agua tibia. Prevención: come lo frío despacio.
+Solo con fines educativos: no es consejo médico. Si tienes síntomas, consulta a un profesional de la salud.
+#cerebrocongelado #helado #salud #Shorts
+```
+- Tags: `cerebro congelado, dolor de cabeza por helado, ganglioneuralgia esfenopalatina, dolor referido, dolor de cabeza por frío, helado, salud, cuerpo humano, datos curiosos, sketch clinic`
+
+### ep07-brain-freeze — French  *(Phase 2 — only if the user asks)*
+- File: `ep07-brain-freeze/ep07-brain-freeze-fr.mp4`
+- Video language: French
+- Title: `Pourquoi la glace fait mal à la tête ? #Shorts`
+- Description:
+```
+Ce mal de tête a un nom : la ganglioneuralgie sphénopalatine.
+Le froid sur le palais resserre puis dilate les vaisseaux, et le cerveau ressent la douleur au front.
+Astuce : langue contre le palais ou eau tiède. Pour l’éviter : mange le froid lentement.
+À but éducatif uniquement — pas un avis médical. En cas de symptômes, consulte un professionnel de santé.
+#glace #santé #corpshumain #Shorts
+```
+- Tags: `mal de tête glace, brain freeze, ganglioneuralgie sphénopalatine, douleur projetée, céphalée du froid, glace, santé, corps humain, le savais-tu, sketch clinic`
+
+### ep07-brain-freeze — Japanese  *(Phase 2 — only if the user asks)*
+- File: `ep07-brain-freeze/ep07-brain-freeze-ja.mp4`
+- Video language: Japanese
+- Title: `アイスクリーム頭痛の正体とは？キーンの仕組み #Shorts`
+- Description:
+```
+アイスクリーム頭痛の医学名は「蝶口蓋神経節神経痛」。
+冷たさで上あごの血管が縮んで広がり、脳がおでこの痛みと勘違いする「関連痛」です。
+対処：舌を上あごに当てる・ぬるま湯。予防：冷たいものはゆっくりと。
+教育目的の情報であり、医療アドバイスではありません。症状がある場合は医療機関にご相談ください。
+#アイスクリーム頭痛 #健康 #雑学 #Shorts
+```
+- Tags: `アイスクリーム頭痛, キーン, かき氷 頭痛, 蝶口蓋神経節神経痛, 関連痛, 頭痛, 健康, 雑学, 体の仕組み, スケッチクリニック`
 
 ### ep08-head-rush — English
 - File: `ep08-head-rush/ep08-head-rush-en.mp4`
@@ -455,9 +631,6 @@ En général sans danger, mais voici quand consulter.
 #Shorts #足のしびれ #体のしくみ #健康 #SketchClinic
 ```
 - Tags: `足のしびれ, しびれ, ジンジン, 正座, 足を組む, 神経, 感覚異常, 体のしくみ, 健康, sketch clinic`
-
-## Not ready yet
-These episodes are still being produced and will be added to this plan later: ep03-leg-cramps, ep04-knuckle-cracking, ep07-brain-freeze
 
 ## Step 3 — Report back
 Send the user: channel URL, and a table of episode → video URL (all Private).
