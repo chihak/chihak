@@ -5,7 +5,7 @@ Status: `todo`, `in progress: epNN-slug`, or `done: epNN-slug`.
 Covered by ep01-ep20: stroke, heart attack, leg cramps, knuckle cracking, hiccups, eye twitch, brain freeze, head rush, nosebleed, foot asleep, stomach growl, sneeze, frostbite, mouth ulcer, bee sting, choking, heat illness, button battery, ear popping, contagious yawn.
 
 - done: ep21-minor-burn - Minor burn first aid (cool running water 20 min)
-- todo: Fainting - what to do when someone passes out
+- in progress: ep22-fainting - Fainting - what to do when someone passes out
 - todo: Why do we get goosebumps?
 - todo: Why do fingers wrinkle in water?
 - todo: Sprained ankle first aid (PRICE / POLICE)
