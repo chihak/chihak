@@ -92,8 +92,372 @@ Si tu les remarques, appelle les secours immédiatement (15 ou 112), même si le
 ```
 - Tags: `脳卒中, 脳梗塞, 脳出血, 脳卒中 サイン, 脳卒中 症状, 健康, 応急処置, 119, 医療解説, sketch clinic`
 
+### ep02-heart-attack — English
+- File: `ep02-heart-attack/ep02-heart-attack-en.mp4`
+- Video language: English
+- Title: `5 Heart Attack Warning Signs You Shouldn't Ignore #Shorts`
+- Description:
+```
+Not every heart attack looks like the movies — many start slowly.
+Chest pressure, pain spreading to the arm or jaw, shortness of breath, cold sweat, nausea.
+Call emergency services right away. Don't drive yourself.
+Educational only — not medical advice. If you have symptoms, see a healthcare professional.
+
+#heartattack #hearthealth #firstaid #health #shorts
+```
+- Tags: `heart attack, heart attack symptoms, heart attack warning signs, chest pain, heart health, heart attack in women, first aid, emergency, cardiology, health education, whiteboard animation`
+
+### ep02-heart-attack — Spanish  *(Phase 2 — only if the user asks)*
+- File: `ep02-heart-attack/ep02-heart-attack-es.mp4`
+- Video language: Spanish
+- Title: `5 señales de un infarto que no debes ignorar #Shorts`
+- Description:
+```
+No todos los infartos son como en las películas: muchos empiezan poco a poco.
+Presión en el pecho, dolor que se extiende al brazo o la mandíbula, falta de aire, sudor frío, náuseas.
+Llama a emergencias de inmediato. No conduzcas tú mismo.
+Solo con fines educativos, no es consejo médico. Si tienes síntomas, consulta a un profesional de la salud.
+
+#infarto #saludcardiovascular #primerosauxilios #salud #shorts
+```
+- Tags: `infarto, síntomas de infarto, señales de infarto, ataque al corazón, dolor de pecho, infarto en mujeres, salud del corazón, primeros auxilios, emergencias, educación en salud`
+
+### ep02-heart-attack — French  *(Phase 2 — only if the user asks)*
+- File: `ep02-heart-attack/ep02-heart-attack-fr.mp4`
+- Video language: French
+- Title: `5 signes d'une crise cardiaque à ne pas ignorer #Shorts`
+- Description:
+```
+Une crise cardiaque n'est pas toujours brutale : beaucoup commencent doucement.
+Poitrine serrée, douleur qui s'étend au bras ou à la mâchoire, essoufflement, sueurs froides, nausées.
+Appelle immédiatement les secours. Ne conduis pas toi-même.
+À but éducatif uniquement, ce n'est pas un avis médical. En cas de symptômes, consulte un professionnel de santé.
+
+#crisecardiaque #infarctus #santé #premierssecours #shorts
+```
+- Tags: `crise cardiaque, infarctus, symptômes infarctus, signes crise cardiaque, douleur thoracique, infarctus femme, santé du cœur, premiers secours, urgence, éducation santé`
+
+### ep02-heart-attack — Japanese  *(Phase 2 — only if the user asks)*
+- File: `ep02-heart-attack/ep02-heart-attack-ja.mp4`
+- Video language: Japanese
+- Title: `見逃さないで！心筋梗塞の5つのサイン #Shorts`
+- Description:
+```
+心筋梗塞はドラマのように突然とは限りません。
+胸の圧迫感、腕やあごへ広がる痛み、息切れ、冷や汗、吐き気。
+迷ったらすぐ119番。自分で運転して病院へ行かないで。
+教育目的の情報であり、医療アドバイスではありません。症状がある場合は医療機関を受診してください。
+
+#心筋梗塞 #心臓 #健康 #応急処置 #shorts
+```
+- Tags: `心筋梗塞, 心臓発作, 心筋梗塞 症状, 心筋梗塞 前兆, 胸の痛み, 女性 心筋梗塞, 救急車, 応急処置, 健康, 医療 解説`
+
+### ep05-hiccups — English
+- File: `ep05-hiccups/ep05-hiccups-en.mp4`
+- Video language: English
+- Title: `Why Do We Get Hiccups? The “Hic” Explained #Shorts`
+- Description:
+```
+That “hic” is your vocal cords snapping shut after your diaphragm spasms.
+Common triggers: eating fast, big meals, fizzy drinks, excitement.
+See a doctor if hiccups last more than 48 hours.
+Educational only — not medical advice. If you have symptoms, see a healthcare professional.
+#hiccups #health #body #Shorts
+```
+- Tags: `hiccups, why do we hiccup, diaphragm, vocal cords, how to stop hiccups, hiccup causes, health facts, human body, sketch clinic, medical explainer`
+
+### ep05-hiccups — Spanish  *(Phase 2 — only if the user asks)*
+- File: `ep05-hiccups/ep05-hiccups-es.mp4`
+- Video language: Spanish
+- Title: `¿Por qué nos da hipo? El “hip”, explicado #Shorts`
+- Description:
+```
+El “hip” es el sonido de tus cuerdas vocales cerrándose tras un espasmo del diafragma.
+Causas comunes: comer rápido, comidas abundantes, bebidas con gas, emociones fuertes.
+Consulta al médico si dura más de 48 horas.
+Solo con fines educativos: no es consejo médico. Si tienes síntomas, consulta a un profesional de la salud.
+#hipo #salud #cuerpohumano #Shorts
+```
+- Tags: `hipo, por qué nos da hipo, diafragma, cuerdas vocales, cómo quitar el hipo, causas del hipo, salud, cuerpo humano, datos curiosos, sketch clinic`
+
+### ep05-hiccups — French  *(Phase 2 — only if the user asks)*
+- File: `ep05-hiccups/ep05-hiccups-fr.mp4`
+- Video language: French
+- Title: `Pourquoi a-t-on le hoquet ? Le « hic » expliqué #Shorts`
+- Description:
+```
+Le « hic », ce sont tes cordes vocales qui se ferment après un spasme du diaphragme.
+Déclencheurs fréquents : manger vite, gros repas, boissons gazeuses, émotions.
+Consulte un médecin si le hoquet dure plus de 48 heures.
+À but éducatif uniquement — pas un avis médical. En cas de symptômes, consulte un professionnel de santé.
+#hoquet #santé #corpshumain #Shorts
+```
+- Tags: `hoquet, pourquoi a-t-on le hoquet, diaphragme, cordes vocales, arrêter le hoquet, causes du hoquet, santé, corps humain, le savais-tu, sketch clinic`
+
+### ep05-hiccups — Japanese  *(Phase 2 — only if the user asks)*
+- File: `ep05-hiccups/ep05-hiccups-ja.mp4`
+- Video language: Japanese
+- Title: `しゃっくりはなぜ起こる？「ヒック」の正体 #Shorts`
+- Description:
+```
+「ヒック」は、横隔膜のけいれん直後に声帯が閉じる音。
+早食い・食べすぎ・炭酸飲料・興奮などがきっかけに。
+48時間以上続くときは受診を。
+教育目的の情報であり、医療アドバイスではありません。症状がある場合は医療機関にご相談ください。
+#しゃっくり #健康 #雑学 #Shorts
+```
+- Tags: `しゃっくり, しゃっくり 原因, しゃっくり 止め方, 横隔膜, 声帯, 健康, 雑学, 体の仕組み, 医学解説, スケッチクリニック`
+
+### ep06-eye-twitch — English
+- File: `ep06-eye-twitch/ep06-eye-twitch-en.mp4`
+- Video language: English
+- Title: `Why Does Your Eyelid Twitch? (It Has a Name) #Shorts`
+- Description:
+```
+That eyelid flicker is called myokymia: tiny involuntary contractions of the eyelid muscle.
+Common triggers: stress, lack of sleep, caffeine, screens and dry eyes. Usually harmless.
+See a doctor if it lasts weeks, the eyelid fully closes, or other parts of the face twitch.
+Educational only — not medical advice. If you have symptoms, see a healthcare professional.
+#eyetwitch #health #eyes #Shorts
+```
+- Tags: `eye twitch, eyelid twitching, myokymia, why does my eye twitch, stress, caffeine, eye strain, dry eyes, health facts, sketch clinic`
+
+### ep06-eye-twitch — Spanish  *(Phase 2 — only if the user asks)*
+- File: `ep06-eye-twitch/ep06-eye-twitch-es.mp4`
+- Video language: Spanish
+- Title: `¿Por qué te tiembla el párpado? Esto es lo que pasa #Shorts`
+- Description:
+```
+Ese temblor se llama mioquimia: pequeñas contracciones involuntarias del músculo del párpado.
+Causas comunes: estrés, dormir poco, cafeína, pantallas y ojos secos. Suele ser inofensivo.
+Consulta si dura semanas, el párpado se cierra del todo o tiembla otra parte de la cara.
+Solo con fines educativos: no es consejo médico. Si tienes síntomas, consulta a un profesional de la salud.
+#párpado #salud #ojos #Shorts
+```
+- Tags: `tic en el ojo, párpado que tiembla, mioquimia, por qué tiembla el ojo, estrés, cafeína, fatiga visual, ojo seco, salud, sketch clinic`
+
+### ep06-eye-twitch — French  *(Phase 2 — only if the user asks)*
+- File: `ep06-eye-twitch/ep06-eye-twitch-fr.mp4`
+- Video language: French
+- Title: `Pourquoi ta paupière saute toute seule ? #Shorts`
+- Description:
+```
+Ça s’appelle la myokymie : de petites contractions involontaires du muscle de la paupière.
+Déclencheurs fréquents : stress, manque de sommeil, caféine, écrans, yeux secs. Généralement bénin.
+Consulte si ça dure des semaines, si la paupière se ferme ou si le visage tressaute.
+À but éducatif uniquement — pas un avis médical. En cas de symptômes, consulte un professionnel de santé.
+#paupière #santé #yeux #Shorts
+```
+- Tags: `paupière qui saute, tic de la paupière, myokymie, oeil qui tremble, stress, caféine, fatigue visuelle, yeux secs, santé, sketch clinic`
+
+### ep06-eye-twitch — Japanese  *(Phase 2 — only if the user asks)*
+- File: `ep06-eye-twitch/ep06-eye-twitch-ja.mp4`
+- Video language: Japanese
+- Title: `まぶたがピクピクするのはなぜ？原因4つ #Shorts`
+- Description:
+```
+まぶたのピクピクは「眼瞼ミオキミア」。まぶたの筋肉の小さなけいれんです。
+主なきっかけ：ストレス、睡眠不足、カフェイン、画面による目の疲れ・ドライアイ。
+何週間も続く、まぶたが閉じきる、顔の他の部分も動くときは受診を。
+教育目的の情報であり、医療アドバイスではありません。症状がある場合は医療機関にご相談ください。
+#まぶた #健康 #目の疲れ #Shorts
+```
+- Tags: `まぶた ピクピク, まぶたの痙攣, 眼瞼ミオキミア, 目の疲れ, ストレス, 睡眠不足, カフェイン, ドライアイ, 健康, スケッチクリニック`
+
+### ep08-head-rush — English
+- File: `ep08-head-rush/ep08-head-rush-en.mp4`
+- Video language: English
+- Title: `Why Do You Get Dizzy When You Stand Up Fast? #Shorts`
+- Description:
+```
+Ever stood up and the room spun or your vision went dark?
+That “head rush” is a brief drop in blood pressure as gravity pulls blood to your legs.
+Usually harmless — here’s why it happens and how to avoid it.
+
+Educational only — not medical advice. If you have symptoms, see a healthcare professional.
+
+#Shorts #HeadRush #Dizziness #HealthTips #SketchClinic
+```
+- Tags: `head rush, dizzy when standing up, orthostatic hypotension, lightheaded, blood pressure, dizziness, vision goes black, health explained, body facts, sketch clinic`
+
+### ep08-head-rush — Spanish  *(Phase 2 — only if the user asks)*
+- File: `ep08-head-rush/ep08-head-rush-es.mp4`
+- Video language: Spanish
+- Title: `¿Por qué te mareas al levantarte rápido? #Shorts`
+- Description:
+```
+¿Te levantas y todo da vueltas o se pone negro?
+Es una bajada breve de la presión: la gravedad lleva sangre a las piernas.
+Casi siempre es inofensivo. Aquí te explicamos por qué pasa y cómo evitarlo.
+
+Solo con fines educativos; no es consejo médico. Si tienes síntomas, consulta a un profesional de la salud.
+
+#Shorts #Mareo #Salud #PresiónArterial #SketchClinic
+```
+- Tags: `mareo al levantarse, hipotensión ortostática, presión arterial baja, vista nublada, mareos, salud, cuerpo humano, consejos de salud, sketch clinic`
+
+### ep08-head-rush — French  *(Phase 2 — only if the user asks)*
+- File: `ep08-head-rush/ep08-head-rush-fr.mp4`
+- Video language: French
+- Title: `Pourquoi la tête tourne quand on se lève vite ? #Shorts`
+- Description:
+```
+Tu te lèves et tout tourne, ou ta vue devient noire ?
+C'est une baisse brève de la tension : la gravité attire le sang vers les jambes.
+Le plus souvent sans danger — voici pourquoi et comment l'éviter.
+
+À but éducatif uniquement — pas un avis médical. Si tu as des symptômes, consulte un professionnel de santé.
+
+#Shorts #Vertige #Santé #TensionArtérielle #SketchClinic
+```
+- Tags: `tête qui tourne, vertige en se levant, hypotension orthostatique, tension artérielle, voile noir, étourdissement, santé, corps humain, sketch clinic`
+
+### ep08-head-rush — Japanese  *(Phase 2 — only if the user asks)*
+- File: `ep08-head-rush/ep08-head-rush-ja.mp4`
+- Video language: Japanese
+- Title: `急に立つとクラッとするのはなぜ？立ちくらみの正体 #Shorts`
+- Description:
+```
+立ち上がった瞬間、目の前が暗くなったことはありませんか？
+重力で血液が脚に下がり、血圧が一瞬下がるのが原因です。
+しくみと、防ぐコツをイラストで解説。
+
+教育目的の情報であり、医療アドバイスではありません。症状がある場合は医療機関を受診してください。
+
+#Shorts #立ちくらみ #めまい #健康 #SketchClinic
+```
+- Tags: `立ちくらみ, めまい, 起立性低血圧, 血圧, 目の前が暗くなる, 脱水, 健康, 体のしくみ, 医学解説, sketch clinic`
+
+### ep09-nosebleed — English
+- File: `ep09-nosebleed/ep09-nosebleed-en.mp4`
+- Video language: English
+- Title: `Nosebleed? Do THIS, Not That (Don’t Tilt Back!) #Shorts`
+- Description:
+```
+Head back or head forward? Many people get this wrong.
+Lean forward, pinch the soft part of your nose for 10–15 minutes, and breathe through your mouth.
+Know when a nosebleed needs urgent care.
+
+Educational only — not medical advice. If you have symptoms, see a healthcare professional.
+
+#Shorts #Nosebleed #FirstAid #HealthTips #SketchClinic
+```
+- Tags: `nosebleed, how to stop a nosebleed, first aid, epistaxis, nose bleeding, lean forward, pinch nose, health tips, first aid tips, sketch clinic`
+
+### ep09-nosebleed — Spanish  *(Phase 2 — only if the user asks)*
+- File: `ep09-nosebleed/ep09-nosebleed-es.mp4`
+- Video language: Spanish
+- Title: `¿Sangrado de nariz? Haz ESTO, no aquello #Shorts`
+- Description:
+```
+¿Cabeza atrás o adelante? Muchos se equivocan.
+Inclínate hacia adelante, aprieta la parte blanda de la nariz 10–15 minutos y respira por la boca.
+Y cuándo hay que buscar atención urgente.
+
+Solo con fines educativos; no es consejo médico. Si tienes síntomas, consulta a un profesional de la salud.
+
+#Shorts #PrimerosAuxilios #SangradoNasal #Salud #SketchClinic
+```
+- Tags: `sangrado nasal, sangrado de nariz, cómo parar un sangrado de nariz, epistaxis, primeros auxilios, salud, consejos de salud, sketch clinic`
+
+### ep09-nosebleed — French  *(Phase 2 — only if the user asks)*
+- File: `ep09-nosebleed/ep09-nosebleed-fr.mp4`
+- Video language: French
+- Title: `Saignement de nez : fais ÇA, pas ça ! #Shorts`
+- Description:
+```
+Tête en arrière ou en avant ? Beaucoup se trompent.
+Penche-toi en avant, pince la partie molle du nez 10 à 15 minutes et respire par la bouche.
+Et quand il faut aller aux urgences.
+
+À but éducatif uniquement — pas un avis médical. Si tu as des symptômes, consulte un professionnel de santé.
+
+#Shorts #PremiersSecours #SaignementDeNez #Santé #SketchClinic
+```
+- Tags: `saignement de nez, arrêter un saignement de nez, épistaxis, premiers secours, nez qui saigne, santé, conseils santé, sketch clinic`
+
+### ep09-nosebleed — Japanese  *(Phase 2 — only if the user asks)*
+- File: `ep09-nosebleed/ep09-nosebleed-ja.mp4`
+- Video language: Japanese
+- Title: `鼻血は上を向かないで！正しい止め方 #Shorts`
+- Description:
+```
+鼻血のとき、上を向いていませんか？
+座って前かがみ、小鼻を10〜15分しっかりつまむ、息は口で。
+すぐ受診すべきサインも紹介します。
+
+教育目的の情報であり、医療アドバイスではありません。症状がある場合は医療機関を受診してください。
+
+#Shorts #鼻血 #応急処置 #健康 #SketchClinic
+```
+- Tags: `鼻血, 鼻血 止め方, 応急処置, 鼻出血, 上を向かない, 小鼻, 健康, 家庭の医学, sketch clinic`
+
+### ep10-foot-asleep — English
+- File: `ep10-foot-asleep/ep10-foot-asleep-en.mp4`
+- Video language: English
+- Title: `Why Does Your Foot “Fall Asleep”? #Shorts`
+- Description:
+```
+That numb, then pins-and-needles feeling has a simple cause.
+Pressure on a nerve disrupts its signals — then it “wakes up” when you move.
+Usually harmless, but here’s when to see a doctor.
+
+Educational only — not medical advice. If you have symptoms, see a healthcare professional.
+
+#Shorts #PinsAndNeedles #BodyFacts #HealthTips #SketchClinic
+```
+- Tags: `foot falls asleep, pins and needles, numb foot, paresthesia, nerve pressure, crossed legs, tingling, body facts, health explained, sketch clinic`
+
+### ep10-foot-asleep — Spanish  *(Phase 2 — only if the user asks)*
+- File: `ep10-foot-asleep/ep10-foot-asleep-es.mp4`
+- Video language: Spanish
+- Title: `¿Por qué se te “duerme” el pie? #Shorts`
+- Description:
+```
+Esa sensación de adormecimiento y hormigueo tiene una causa sencilla.
+La presión sobre un nervio altera sus señales, y al moverte “despierta”.
+Suele ser inofensivo, pero te contamos cuándo consultar.
+
+Solo con fines educativos; no es consejo médico. Si tienes síntomas, consulta a un profesional de la salud.
+
+#Shorts #Hormigueo #CuerpoHumano #Salud #SketchClinic
+```
+- Tags: `pie dormido, hormigueo, adormecimiento, parestesia, nervio, piernas cruzadas, cuerpo humano, salud, sketch clinic`
+
+### ep10-foot-asleep — French  *(Phase 2 — only if the user asks)*
+- File: `ep10-foot-asleep/ep10-foot-asleep-fr.mp4`
+- Video language: French
+- Title: `Pourquoi le pied « s'endort » ? #Shorts`
+- Description:
+```
+Engourdi, puis des fourmis : la cause est simple.
+La pression sur un nerf perturbe ses signaux, puis il « se réveille » quand tu bouges.
+En général sans danger, mais voici quand consulter.
+
+À but éducatif uniquement — pas un avis médical. Si tu as des symptômes, consulte un professionnel de santé.
+
+#Shorts #Fourmillements #CorpsHumain #Santé #SketchClinic
+```
+- Tags: `pied engourdi, fourmis dans les pieds, fourmillements, paresthésie, nerf comprimé, jambes croisées, corps humain, santé, sketch clinic`
+
+### ep10-foot-asleep — Japanese  *(Phase 2 — only if the user asks)*
+- File: `ep10-foot-asleep/ep10-foot-asleep-ja.mp4`
+- Video language: Japanese
+- Title: `足がしびれるのはなぜ？ジンジンの正体 #Shorts`
+- Description:
+```
+正座や足を組んだあとの、あのジンジン。
+神経が圧迫されて信号が乱れ、圧迫がとれると「目を覚ます」ために起こります。
+ふつうは心配なし。受診の目安も紹介。
+
+教育目的の情報であり、医療アドバイスではありません。症状がある場合は医療機関を受診してください。
+
+#Shorts #足のしびれ #体のしくみ #健康 #SketchClinic
+```
+- Tags: `足のしびれ, しびれ, ジンジン, 正座, 足を組む, 神経, 感覚異常, 体のしくみ, 健康, sketch clinic`
+
 ## Not ready yet
-These episodes are still being produced and will be added to this plan later: ep02-heart-attack, ep05-hiccups, ep08-head-rush, ep09-nosebleed
+These episodes are still being produced and will be added to this plan later: ep03-leg-cramps, ep04-knuckle-cracking, ep07-brain-freeze
 
 ## Step 3 — Report back
 Send the user: channel URL, and a table of episode → video URL (all Private).
