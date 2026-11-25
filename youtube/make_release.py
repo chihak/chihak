@@ -26,9 +26,9 @@ for ep_file in sorted((ROOT / "episodes").glob("ep*.json")):
         dst.mkdir(exist_ok=True)
         for l in LANGS:
             shutil.copy2(mp4s[l], dst / mp4s[l].name)
-            cover = out / f"{ep['id']}-{l}-cover.png"
-            if cover.exists():
-                shutil.copy2(cover, dst / cover.name)
+            for extra in (f"{ep['id']}-{l}-cover.png", f"{ep['id']}-{l}.srt"):
+                if (out / extra).exists():
+                    shutil.copy2(out / extra, dst / extra)
         shutil.copy2(meta_file, dst / meta_file.name)
         ready.append((ep["id"], json.loads(meta_file.read_text())))
     elif meta_file.exists() and all((dst / f"{ep['id']}-{l}.mp4").exists() for l in LANGS):
@@ -90,6 +90,8 @@ for ep_id, meta in ready:
         w(f"### {ep_id} — {LANG_NAMES[l]}{tag}")
         w(f"- File: `{ep_id}/{ep_id}-{l}.mp4`")
         w(f"- Video language: {LANG_NAMES[l]}")
+        if (REL / ep_id / f"{ep_id}-{l}.srt").exists():
+            w(f"- Subtitles file: `{ep_id}/{ep_id}-{l}.srt` (Subtitles → Add language: {LANG_NAMES[l]} → Upload file → With timing)")
         w(f"- Title: `{m['title']}`")
         w("- Description:")
         w("```")
