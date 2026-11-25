@@ -1,0 +1,288 @@
+{
+ "id": "ep13-frostbite",
+ "title": {
+  "en": "Frostbite: How to *Rewarm* Safely",
+  "es": "Congelación: cómo *recalentar* bien",
+  "fr": "Gelure : bien *réchauffer*",
+  "ja": "凍傷：正しい*温め方*"
+ },
+ "coverTime": 27.5,
+ "steps": 2,
+ "stepsFrom": 3,
+ "scenes": [
+  {
+   "dur": 5.5,
+   "caption": {
+    "en": "Fingers cold, white and numb after time in the cold? Know *frostnip* from *frostbite*.",
+    "es": "¿Dedos fríos, blancos y entumecidos tras el frío? Distingue *congelación leve* y *congelación*.",
+    "fr": "Doigts froids, blancs, engourdis après le froid ? Distingue *engelure légère* et *gelure*.",
+    "ja": "寒さで指が白く、冷たく、感覚がない？ *軽い凍傷*と*凍傷*のちがいを知ろう。"
+   },
+   "svg": "<g transform='translate(540 820) scale(0.9) translate(-540 -800)'><path class='f' data-s='0.9' data-d='0.6' data-o='0.9' d='M 452 680 L 452 620 C 452 590 498 590 498 620 L 498 680 Z M 503 650 L 503 590 C 503 560 552 560 552 590 L 552 650 Z M 560 670 L 560 610 C 560 580 608 580 608 610 L 608 670 Z M 615 715 L 615 660 C 615 632 656 632 656 660 L 656 715 Z' fill='#cfd8dc' opacity='0'/><path class='d' data-s='0' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='11.1'  d='M 440 1020 L 438 870 C 400 830 360 780 360 750 C 360 720 395 720 415 745 L 452 790 L 452 620 C 452 590 498 590 498 620 L 500 760 L 503 590 C 503 560 552 560 552 590 L 555 760 L 560 610 C 560 580 608 580 608 610 L 608 770 L 615 660 C 615 632 656 632 656 660 L 655 850 C 655 930 640 980 640 1020'/></g><path class='d' data-s='1.2' data-d='0.6' fill='none' stroke='#3a86c8' stroke-width='7'  d='M 260 520 l 0 80 M 220 560 l 80 0 M 232 532 l 56 56 M 288 532 l -56 56'/><path class='d' data-s='1.4' data-d='0.6' fill='none' stroke='#3a86c8' stroke-width='7'  d='M 820 520 l 0 80 M 780 560 l 80 0 M 792 532 l 56 56 M 848 532 l -56 56'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 96,
+     "color": "#e63946",
+     "s": 2.2,
+     "t": {
+      "en": "NIP OR BITE?",
+      "es": "¿LEVE O GRAVE?",
+      "fr": "LÉGÈRE OU GRAVE ?",
+      "ja": "軽い？重い？"
+     },
+     "maxW": 900
+    }
+   ]
+  },
+  {
+   "dur": 6,
+   "caption": {
+    "en": "*Frostnip*: skin turns red or pale, cold and *tingly*. It recovers fully once rewarmed.",
+    "es": "*Congelación leve*: la piel se pone roja o pálida, fría y con *hormigueo*. Se recupera al recalentar.",
+    "fr": "*Engelure légère* : peau rouge ou pâle, froide, qui *picote*. Elle récupère une fois réchauffée.",
+    "ja": "*軽い凍傷（フロストニップ）*：皮膚が赤く、または白っぽく、冷たく*ピリピリ*。温めれば元に戻ります。"
+   },
+   "svg": "<g transform='translate(380 820) scale(0.8) translate(-540 -800)'><path class='f' data-s='0.9' data-d='0.6' data-o='0.9' d='M 452 680 L 452 620 C 452 590 498 590 498 620 L 498 680 Z M 503 650 L 503 590 C 503 560 552 560 552 590 L 552 650 Z M 560 670 L 560 610 C 560 580 608 580 608 610 L 608 670 Z M 615 715 L 615 660 C 615 632 656 632 656 660 L 656 715 Z' fill='#f4a3a8' opacity='0'/><path class='d' data-s='0' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='12.5'  d='M 440 1020 L 438 870 C 400 830 360 780 360 750 C 360 720 395 720 415 745 L 452 790 L 452 620 C 452 590 498 590 498 620 L 500 760 L 503 590 C 503 560 552 560 552 590 L 555 760 L 560 610 C 560 580 608 580 608 610 L 608 770 L 615 660 C 615 632 656 632 656 660 L 655 850 C 655 930 640 980 640 1020'/></g><path class='d' data-s='1.2' data-d='0.4' fill='none' stroke='#e63946' stroke-width='8'  d='M 640 640 l 40 -30 M 650 700 l 50 0 M 640 760 l 40 30'/><path class='d' data-s='1.8' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='12'  d='M 760.0 720 L 805.0 765.0 L 890.0 655.0'/>",
+   "texts": [
+    {
+     "x": 820,
+     "y": 880,
+     "size": 52,
+     "color": "#1d1d1d",
+     "s": 2.0,
+     "t": {
+      "en": "RECOVERS",
+      "es": "SE RECUPERA",
+      "fr": "RÉCUPÈRE",
+      "ja": "元に戻る"
+     },
+     "maxW": 320
+    },
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 96,
+     "color": "#e63946",
+     "s": 2.4,
+     "t": {
+      "en": "FROSTNIP",
+      "es": "LEVE",
+      "fr": "ENGELURE LÉGÈRE",
+      "ja": "軽い凍傷"
+     },
+     "maxW": 900
+    }
+   ]
+  },
+  {
+   "dur": 6.5,
+   "caption": {
+    "en": "*Frostbite*: tissue freezes. Skin may look white, grey or blue, feel *hard or waxy*, and go numb.",
+    "es": "*Congelación*: piel y tejidos se congelan. Pueden verse blancos, grises o azulados, *duros o cerosos* y sin sensibilidad.",
+    "fr": "*Gelure* : la peau et les tissus gèlent. Ils peuvent être blancs, gris ou bleutés, *durs ou cireux*, insensibles.",
+    "ja": "*凍傷*：皮膚や組織が凍った状態。白・灰色・青っぽく、*硬く、ろうのよう*になり、感覚がなくなります。"
+   },
+   "svg": "<g transform='translate(380 820) scale(0.8) translate(-540 -800)'><path class='f' data-s='0.9' data-d='0.6' data-o='1' d='M 452 680 L 452 620 C 452 590 498 590 498 620 L 498 680 Z M 503 650 L 503 590 C 503 560 552 560 552 590 L 552 650 Z M 560 670 L 560 610 C 560 580 608 580 608 610 L 608 670 Z M 615 715 L 615 660 C 615 632 656 632 656 660 L 656 715 Z' fill='#9aa5b1' opacity='0'/><path class='d' data-s='0' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='12.5'  d='M 440 1020 L 438 870 C 400 830 360 780 360 750 C 360 720 395 720 415 745 L 452 790 L 452 620 C 452 590 498 590 498 620 L 500 760 L 503 590 C 503 560 552 560 552 590 L 555 760 L 560 610 C 560 580 608 580 608 610 L 608 770 L 615 660 C 615 632 656 632 656 660 L 655 850 C 655 930 640 980 640 1020'/></g><circle class='p' data-s='1.2' data-d='0.4' cx='700' cy='700' r='42' fill='#eef2f4'/><circle class='d' data-s='1.2' data-d='0.3' cx='700' cy='700' r='42' fill='none' stroke='#1d1d1d' stroke-width='6'/><circle class='p' data-s='1.4' data-d='0.4' cx='800' cy='700' r='42' fill='#9aa5b1'/><circle class='p' data-s='1.6' data-d='0.4' cx='900' cy='700' r='42' fill='#6f8fb8'/>",
+   "texts": [
+    {
+     "x": 800,
+     "y": 880,
+     "size": 44,
+     "color": "#1d1d1d",
+     "s": 2.0,
+     "t": {
+      "en": "HARD · NUMB",
+      "es": "DURO · SIN SENSIBILIDAD",
+      "fr": "DUR · INSENSIBLE",
+      "ja": "硬い・無感覚"
+     },
+     "maxW": 470
+    },
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 100,
+     "color": "#e63946",
+     "s": 2.4,
+     "t": {
+      "en": "FROSTBITE",
+      "es": "CONGELACIÓN",
+      "fr": "GELURE",
+      "ja": "凍傷"
+     },
+     "maxW": 900
+    }
+   ]
+  },
+  {
+   "dur": 5.5,
+   "step": 1,
+   "caption": {
+    "en": "*1* — Get somewhere warm. Remove wet clothes, gloves and rings.",
+    "es": "*1* — Ve a un lugar cálido. Quítate la ropa mojada, guantes y anillos.",
+    "fr": "*1* — Va au chaud. Retire les vêtements mouillés, gants et bagues.",
+    "ja": "*1* 暖かい場所へ移動。ぬれた服・手袋・指輪を外します。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 240 1000 V 700 L 420 560 L 600 700 V 1000 Z M 370 1000 V 860 H 470 V 1000'/><path class='d' data-s='0.9' data-d='0.8' fill='none' stroke='#e0a040' stroke-width='9'  d='M 420 788.0 C 372.0 788.0 372.0 734.0 402.0 710.0 C 402.0 734.0 414.0 740 420 686.0 C 438.0 716.0 468.0 740 456.0 764.0 C 450.0 782.0 432.0 788.0 420 788.0 Z'/><circle class='d' data-s='1.2' data-d='0.5' cx='800' cy='700' r='70' fill='none' stroke='#e0a040' stroke-width='9'/><path class='d' data-s='1.5' data-d='0.4' fill='none' stroke='#e0a040' stroke-width='8'  d='M 800 600 v -30 M 800 800 v 30 M 700 700 h -30 M 900 700 h 30'/><ellipse class='d' data-s='1.8' data-d='0.4' cx='800' cy='930' rx='50' ry='18' fill='none' stroke='#1d1d1d' stroke-width='8'/><path class='d' data-s='2.1' data-d='0.5' fill='none' stroke='#e63946' stroke-width='14'  d='M 758.0 888.0 L 842.0 972.0 M 842.0 888.0 L 758.0 972.0'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#e63946",
+     "s": 2.3,
+     "t": {
+      "en": "GET WARM",
+      "es": "A UN LUGAR CÁLIDO",
+      "fr": "AU CHAUD",
+      "ja": "暖かい場所へ"
+     },
+     "maxW": 900
+    }
+   ]
+  },
+  {
+   "dur": 6.5,
+   "step": 2,
+   "caption": {
+    "en": "*2* — Rewarm in *warm, not hot* water (about 37–39 °C) for 15–30 min, or use body heat.",
+    "es": "*2* — Recalienta en agua *tibia, no caliente* (unos 37–39 °C) 15–30 min, o con calor corporal.",
+    "fr": "*2* — Réchauffe dans l'eau *tiède, pas chaude* (37–39 °C environ) 15–30 min, ou avec la chaleur du corps.",
+    "ja": "*2* *熱すぎない*ぬるま湯（約37〜39℃）に15〜30分。または体温（わきの下など）で温めます。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 260 860 H 600 C 590 990 270 990 260 860 Z'/><path class='d' data-s='0.6' data-d='0.6' fill='none' stroke='#3a86c8' stroke-width='8'  d='M 290 890 q 35 -20 70 0 q 35 20 70 0 q 35 -20 70 0 q 35 20 70 0'/><g transform='rotate(180 430 760)'><g transform='translate(430 760) scale(0.55) translate(-540 -800)'><path class='d' data-s='0.8' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='18.2'  d='M 440 1020 L 438 870 C 400 830 360 780 360 750 C 360 720 395 720 415 745 L 452 790 L 452 620 C 452 590 498 590 498 620 L 500 760 L 503 590 C 503 560 552 560 552 590 L 555 760 L 560 610 C 560 580 608 580 608 610 L 608 770 L 615 660 C 615 632 656 632 656 660 L 655 850 C 655 930 640 980 640 1020'/></g></g><path class='d' data-s='1.2' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 808 800 V 600 A 22 22 0 0 1 852 600 V 800'/><circle class='d' data-s='1.5' data-d='0.4' cx='830' cy='830' r='42' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='f' data-s='1.9' data-d='0.6' data-o='1' d='M 820 820 V 690.0 H 840 V 820 Z' fill='#e0a040' opacity='0'/><circle class='p' data-s='1.9' data-d='0.4' cx='830' cy='830' r='30' fill='#e0a040'/>",
+   "texts": [
+    {
+     "x": 830,
+     "y": 1000,
+     "size": 54,
+     "color": "#1d1d1d",
+     "s": 1.8,
+     "t": {
+      "en": "37–39 °C",
+      "es": "37–39 °C",
+      "fr": "37–39 °C",
+      "ja": "37–39 °C"
+     },
+     "maxW": 320
+    },
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 84,
+     "color": "#e63946",
+     "s": 2.4,
+     "t": {
+      "en": "WARM, NOT HOT",
+      "es": "TIBIA, NO CALIENTE",
+      "fr": "TIÈDE, PAS CHAUDE",
+      "ja": "ぬるま湯で"
+     },
+     "maxW": 920
+    }
+   ],
+   "narration": {
+    "en": "*2* — Rewarm in *warm, not hot* water (about 37 to 39 degrees Celsius) for 15 to 30 minutes, or use body heat.",
+    "es": "*2* — Recalienta en agua *tibia, no caliente* (unos 37 a 39 grados) 15 a 30 min, o con calor corporal.",
+    "fr": "*2* — Réchauffe dans l'eau *tiède, pas chaude* (37 à 39 degrés environ) 15 à 30 min, ou avec la chaleur du corps.",
+    "ja": "*2* *熱すぎない*ぬるま湯（約37から39℃）に15から30分。または体温（わきの下など）で温めます。"
+   }
+  },
+  {
+   "dur": 6,
+   "caption": {
+    "en": "*Don't* rub it, and *no direct heat* — fires, heaters or hot pads can burn numb skin.",
+    "es": "*No* frotes, y *nada de calor directo*: fuego, estufas o almohadillas pueden quemar la piel sin sensibilidad.",
+    "fr": "*Ne frotte pas*, et *pas de chaleur directe* : feu, radiateur ou bouillotte brûlent une peau insensible.",
+    "ja": "*こすらない*。たき火・ヒーター・カイロなど*直接の熱もNG*。感覚がない皮膚はやけどしやすいのです。"
+   },
+   "svg": "<g transform='translate(300 780) scale(0.6) translate(-540 -800)'><path class='d' data-s='0' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='16.7'  d='M 440 1020 L 438 870 C 400 830 360 780 360 750 C 360 720 395 720 415 745 L 452 790 L 452 620 C 452 590 498 590 498 620 L 500 760 L 503 590 C 503 560 552 560 552 590 L 555 760 L 560 610 C 560 580 608 580 608 610 L 608 770 L 615 660 C 615 632 656 632 656 660 L 655 850 C 655 930 640 980 640 1020'/></g><path class='d' data-s='0.6' data-d='0.5' fill='none' stroke='#888' stroke-width='8'  d='M 170 700 q 60 -40 120 0 q 60 40 120 0'/><path class='d' data-s='1.2' data-d='0.5' fill='none' stroke='#e63946' stroke-width='14'  d='M 216.0 696.0 L 384.0 864.0 M 384.0 696.0 L 216.0 864.0'/><path class='d' data-s='0.6' data-d='0.8' fill='none' stroke='#e63946' stroke-width='9'  d='M 780 904.0 C 676.0 904.0 676.0 787.0 741.0 735.0 C 741.0 787.0 767.0 800 780 683.0 C 819.0 748.0 884.0 800 858.0 852.0 C 845.0 891.0 806.0 904.0 780 904.0 Z'/><path class='d' data-s='0.6' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='8'  d='M 620 960 H 940'/><path class='d' data-s='1.6' data-d='0.5' fill='none' stroke='#e63946' stroke-width='14'  d='M 696.0 696.0 L 864.0 864.0 M 864.0 696.0 L 696.0 864.0'/>",
+   "texts": [
+    {
+     "x": 300,
+     "y": 1020,
+     "size": 44,
+     "color": "#1d1d1d",
+     "s": 1.4,
+     "t": {
+      "en": "NO RUBBING",
+      "es": "NO FROTAR",
+      "fr": "PAS DE FRICTION",
+      "ja": "こすらない"
+     },
+     "maxW": 380
+    },
+    {
+     "x": 780,
+     "y": 1020,
+     "size": 44,
+     "color": "#1d1d1d",
+     "s": 1.8,
+     "t": {
+      "en": "NO DIRECT HEAT",
+      "es": "SIN CALOR DIRECTO",
+      "fr": "PAS DE CHALEUR DIRECTE",
+      "ja": "直接温めない"
+     },
+     "maxW": 400
+    },
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 96,
+     "color": "#e63946",
+     "s": 2.4,
+     "t": {
+      "en": "DON'T",
+      "es": "NO",
+      "fr": "À ÉVITER",
+      "ja": "NG"
+     },
+     "maxW": 900
+    }
+   ]
+  },
+  {
+   "dur": 6,
+   "caption": {
+    "en": "Frostbite needs *medical care*. Get help if skin stays numb, hard, blistered or turns dark.",
+    "es": "La congelación necesita *atención médica*. Busca ayuda si la piel sigue insensible, dura, con ampollas u oscura.",
+    "fr": "Une gelure demande des *soins médicaux*. Consulte si la peau reste insensible, dure, cloquée ou foncée.",
+    "ja": "凍傷は*医療機関での治療*が必要。感覚が戻らない・硬い・水ぶくれ・黒ずむときはすぐ受診を。"
+   },
+   "svg": "<g transform='translate(340 740) scale(0.6) translate(-540 -800)'><path class='f' data-s='0.9' data-d='0.6' data-o='0.9' d='M 452 680 L 452 620 C 452 590 498 590 498 620 L 498 680 Z M 503 650 L 503 590 C 503 560 552 560 552 590 L 552 650 Z M 560 670 L 560 610 C 560 580 608 580 608 610 L 608 670 Z M 615 715 L 615 660 C 615 632 656 632 656 660 L 656 715 Z' fill='#555' opacity='0'/><path class='d' data-s='0' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='16.7'  d='M 440 1020 L 438 870 C 400 830 360 780 360 750 C 360 720 395 720 415 745 L 452 790 L 452 620 C 452 590 498 590 498 620 L 500 760 L 503 590 C 503 560 552 560 552 590 L 555 760 L 560 610 C 560 580 608 580 608 610 L 608 770 L 615 660 C 615 632 656 632 656 660 L 655 850 C 655 930 640 980 640 1020'/></g><circle class='d' data-s='1.4' data-d='0.6' cx='760' cy='700' r='100' fill='none' stroke='#e63946' stroke-width='10'/><path class='p' data-s='1.9' data-d='0.4' fill='#e63946' d='M 738.0 634.0 H 782.0 V 678.0 H 826.0 V 722.0 H 782.0 V 766.0 H 738.0 V 722.0 H 694.0 V 678.0 H 738.0 Z'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 990,
+     "size": 48,
+     "color": "#1d1d1d",
+     "s": 1.0,
+     "t": {
+      "en": "NUMB · HARD · BLISTERS",
+      "es": "INSENSIBLE · DURA · AMPOLLAS",
+      "fr": "INSENSIBLE · DURE · CLOQUES",
+      "ja": "無感覚・硬い・水ぶくれ"
+     },
+     "maxW": 900
+    },
+    {
+     "x": 540,
+     "y": 1205,
+     "size": 88,
+     "color": "#e63946",
+     "s": 2.4,
+     "t": {
+      "en": "GET MEDICAL CARE",
+      "es": "ATENCIÓN MÉDICA",
+      "fr": "SOINS MÉDICAUX",
+      "ja": "受診しよう"
+     },
+     "maxW": 920
+    }
+   ]
+  }
+ ]
+}

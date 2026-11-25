@@ -1,0 +1,253 @@
+{
+ "id": "ep19-ear-popping",
+ "title": {
+  "en": "Why Your Ears *Pop* on Planes",
+  "es": "Por qué se *tapan* los oídos al volar",
+  "fr": "Oreilles *bouchées* en avion : pourquoi ?",
+  "ja": "飛行機で耳が*詰まる*理由"
+ },
+ "coverTime": 4.5,
+ "steps": 2,
+ "stepsFrom": 3,
+ "scenes": [
+  {
+   "dur": 5.5,
+   "caption": {
+    "en": "Ears feel blocked or sore when a plane *takes off or lands*? Here's why, and how to fix it.",
+    "es": "¿Oídos tapados o doloridos al *despegar o aterrizar*? Te explico por qué y cómo aliviarlo.",
+    "fr": "Oreilles bouchées ou douloureuses au *décollage ou à l'atterrissage* ? Voici pourquoi, et quoi faire.",
+    "ja": "飛行機の*離陸や着陸*で耳が詰まる・痛い？ その理由と対処法を紹介します。"
+   },
+   "svg": "<g transform='translate(540 720) rotate(-15) scale(1.5)'><path class='d' data-s='0' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M -220 0 C -220 -30 -180 -40 -140 -40 H 170 C 220 -40 240 -10 240 0 C 240 20 210 30 170 30 H -170 C -200 30 -220 20 -220 0 Z'/><path class='d' data-s='0.6' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M -20 -10 L -110 -130 H -60 L 60 -10 M -10 25 L -80 120 H -40 L 50 25 M -200 -30 L -230 -110 H -190 L -150 -40'/><path class='d' data-s='1.0' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='7'  d='M 120 -20 h 20 M 70 -20 h 20 M 20 -20 h 20 M -30 -20 h 20'/></g><path class='d' data-s='1.4' data-d='0.6' fill='none' stroke='#bbb' stroke-width='7'  d='M 160 980 q 40 -30 80 0 q 40 30 80 0 M 740 520 q 40 -30 80 0 q 40 30 80 0'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 110,
+     "color": "#e63946",
+     "s": 2.0,
+     "t": {
+      "en": "POP!",
+      "es": "¡POP!",
+      "fr": "POP !",
+      "ja": "ポン！"
+     }
+    }
+   ]
+  },
+  {
+   "dur": 6.5,
+   "caption": {
+    "en": "Behind the eardrum is an air space. A tiny tube, the *Eustachian tube*, links it to the back of your nose.",
+    "es": "Detrás del tímpano hay un espacio de aire. Un tubito, la *trompa de Eustaquio*, lo une con el fondo de la nariz.",
+    "fr": "Derrière le tympan, il y a de l'air. Un petit tube, la *trompe d'Eustache*, le relie au fond du nez.",
+    "ja": "鼓膜の奥には空気の部屋があり、*耳管*という細い管で鼻の奥とつながっています。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.7' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 140 620 C 260 620 360 640 460 640 M 140 760 C 260 760 360 740 460 740'/><path class='d' data-s='0.5' data-d='0.4' fill='none' stroke='#e63946' stroke-width='10'  d='M 470 600 Q 470.0 690 470 780'/><path class='d' data-s='0.8' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 480 590 C 560 560 680 560 700 640 C 720 720 680 760 640 790 L 820 990 M 520 790 C 560 800 590 820 600 840 L 760 1020'/><path class='f' data-s='1.4' data-d='0.5' data-o='0.5' d='M 480 600 C 560 570 670 575 690 640 C 705 710 670 750 630 780 C 580 790 520 780 480 780 Z' fill='#a8d0f0' opacity='0'/>",
+   "texts": [
+    {
+     "x": 300,
+     "y": 580,
+     "size": 44,
+     "color": "#e63946",
+     "s": 1.0,
+     "t": {
+      "en": "EARDRUM",
+      "es": "TÍMPANO",
+      "fr": "TYMPAN",
+      "ja": "鼓膜"
+     },
+     "maxW": 300
+    },
+    {
+     "x": 860,
+     "y": 880,
+     "size": 48,
+     "color": "#1d1d1d",
+     "s": 1.8,
+     "t": {
+      "en": "TUBE",
+      "es": "TROMPA",
+      "fr": "TROMPE",
+      "ja": "耳管"
+     },
+     "maxW": 260
+    },
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 80,
+     "color": "#e63946",
+     "s": 2.4,
+     "t": {
+      "en": "EUSTACHIAN TUBE",
+      "es": "TROMPA DE EUSTAQUIO",
+      "fr": "TROMPE D’EUSTACHE",
+      "ja": "耳管"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 6.5,
+   "caption": {
+    "en": "When air pressure changes fast, the tube can't keep up. The eardrum gets *pushed* and feels blocked.",
+    "es": "Si la presión cambia rápido, la trompa no da abasto. El tímpano se *empuja* y notas el oído tapado.",
+    "fr": "Quand la pression change vite, la trompe ne suit pas. Le tympan est *poussé* et l'oreille se bouche.",
+    "ja": "気圧が急に変わると耳管の調節が追いつかず、鼓膜が*押されて*詰まった感じに。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.7' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 140 620 C 260 620 360 640 460 640 M 140 760 C 260 760 360 740 460 740'/><path class='d' data-s='0.5' data-d='0.4' fill='none' stroke='#e63946' stroke-width='10'  d='M 470 600 Q 582.0 690 470 780'/><path class='d' data-s='0.8' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 480 590 C 560 560 680 560 700 640 C 720 720 680 760 640 790 L 820 990 M 520 790 C 560 800 590 820 600 840 L 760 1020'/><path class='d' data-s='1.2' data-d='0.5' fill='none' stroke='#e63946' stroke-width='9'  d='M 250 520 L 420 600 M 396 601 L 420 600 L 406 581'/><path class='d' data-s='1.3' data-d='0.5' fill='none' stroke='#e63946' stroke-width='9'  d='M 250 860 L 420 780 M 406 799 L 420 780 L 396 779'/><path class='d' data-s='1.8' data-d='0.4' fill='none' stroke='#e63946' stroke-width='8'  d='M 820 560 L 860 520 M 880 600 L 930 590'/>",
+   "texts": [
+    {
+     "x": 240,
+     "y": 470,
+     "size": 48,
+     "color": "#1d1d1d",
+     "s": 1.0,
+     "t": {
+      "en": "PRESSURE",
+      "es": "PRESIÓN",
+      "fr": "PRESSION",
+      "ja": "気圧"
+     },
+     "maxW": 320
+    },
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 84,
+     "color": "#e63946",
+     "s": 2.4,
+     "t": {
+      "en": "PRESSURE CHANGE",
+      "es": "CAMBIO DE PRESIÓN",
+      "fr": "PRESSION",
+      "ja": "気圧の変化"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 5.5,
+   "step": 1,
+   "caption": {
+    "en": "*1* — *Swallow* or *yawn*. Chewing gum or sucking a sweet helps open the tube.",
+    "es": "*1* — *Traga* o *bosteza*. Masticar chicle o chupar un caramelo ayuda a abrir la trompa.",
+    "fr": "*1* — *Avale* ou *bâille*. Mâcher un chewing-gum ou sucer un bonbon aide à ouvrir la trompe.",
+    "ja": "*1* *つばを飲みこむ*、*あくび*をする。ガムをかむ・あめをなめるのも効果的。"
+   },
+   "svg": "<g transform='translate(400 800) scale(0.85) rotate(0) translate(-575 -705)'><path class='d' data-s='0' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='16.0'  d='M 480 920 L 470 830 C 400 760 400 560 540 520 C 640 490 700 560 700 630 L 705 670 L 750 740 L 705 755 L 710 790 L 700 810 L 708 830 C 705 870 670 880 630 870 L 620 920'/><circle class='p' data-s='0.8' data-d='0.4' cx='650' cy='640' r='13' fill='#1d1d1d'/><ellipse class='d' data-s='0.9' data-d='0.4' cx='705' cy='815' rx='22' ry='26' fill='none' stroke='#1d1d1d' stroke-width='9'/></g><path class='d' data-s='1.3' data-d='0.5' fill='none' stroke='#888' stroke-width='7'  d='M 630 600 q 40 -30 80 0 q 40 30 80 0'/><circle class='d' data-s='1.6' data-d='0.4' cx='820' cy='860' r='45' fill='none' stroke='#e63946' stroke-width='9'/><path class='d' data-s='1.9' data-d='0.3' fill='none' stroke='#e63946' stroke-width='7'  d='M 790 860 q 30 -25 60 0'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 84,
+     "color": "#e63946",
+     "s": 2.2,
+     "t": {
+      "en": "SWALLOW · YAWN",
+      "es": "TRAGA · BOSTEZA",
+      "fr": "AVALE · BÂILLE",
+      "ja": "飲みこむ・あくび"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 6.5,
+   "step": 2,
+   "caption": {
+    "en": "*2* — Or pinch your nose, close your mouth, and blow *gently* until your ears pop. Never force it.",
+    "es": "*2* — O tápate la nariz, cierra la boca y sopla *suavemente* hasta que se destapen. Nunca con fuerza.",
+    "fr": "*2* — Ou pince le nez, ferme la bouche et souffle *doucement* jusqu'au « pop ». Jamais en forçant.",
+    "ja": "*2* 鼻をつまんで口を閉じ、*やさしく*鼻に息を送ると耳が抜けます。強くいきまないで。"
+   },
+   "svg": "<g transform='translate(400 800) scale(0.85) rotate(0) translate(-575 -705)'><path class='d' data-s='0' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='16.0'  d='M 480 920 L 470 830 C 400 760 400 560 540 520 C 640 490 700 560 700 630 L 705 670 L 750 740 L 705 755 L 710 790 L 700 810 L 708 830 C 705 870 670 880 630 870 L 620 920'/><circle class='p' data-s='0.8' data-d='0.4' cx='650' cy='640' r='13' fill='#1d1d1d'/></g><path class='d' data-s='0.9' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='12'  d='M 560 790 L 640 760 M 560 840 C 600 840 640 820 650 790 C 660 760 640 740 610 740 L 560 740'/><path class='d' data-s='1.5' data-d='0.4' fill='none' stroke='#3a86c8' stroke-width='7'  d='M 760 580 q 30 -20 60 0 M 760 640 q 30 -20 60 0'/><path class='d' data-s='2.0' data-d='0.3' fill='none' stroke='#e63946' stroke-width='8'  d='M 160 560 l -30 -30 M 180 520 l 0 -40'/>",
+   "texts": [
+    {
+     "x": 840,
+     "y": 780,
+     "size": 52,
+     "color": "#e63946",
+     "s": 1.8,
+     "t": {
+      "en": "GENTLY",
+      "es": "SUAVE",
+      "fr": "DOUCEMENT",
+      "ja": "やさしく"
+     },
+     "maxW": 320
+    },
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 84,
+     "color": "#e63946",
+     "s": 2.3,
+     "t": {
+      "en": "PINCH & BLOW",
+      "es": "TAPA Y SOPLA",
+      "fr": "PINCE ET SOUFFLE",
+      "ja": "鼻をつまんで"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 5.5,
+   "caption": {
+    "en": "Stay awake for landing. For babies, feed them or offer a pacifier so they *swallow*.",
+    "es": "No duermas en el aterrizaje. A los bebés, dales de comer o un chupete para que *traguen*.",
+    "fr": "Reste éveillé à l'atterrissage. Pour un bébé, donne à boire ou une tétine pour qu'il *avale*.",
+    "ja": "着陸時は起きておこう。赤ちゃんは授乳やおしゃぶりで*飲みこむ*動きを。"
+   },
+   "svg": "<g transform='translate(320 620) rotate(15) scale(0.8)'><path class='d' data-s='0' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M -220 0 C -220 -30 -180 -40 -140 -40 H 170 C 220 -40 240 -10 240 0 C 240 20 210 30 170 30 H -170 C -200 30 -220 20 -220 0 Z'/><path class='d' data-s='0.6' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M -20 -10 L -110 -130 H -60 L 60 -10 M -10 25 L -80 120 H -40 L 50 25 M -200 -30 L -230 -110 H -190 L -150 -40'/><path class='d' data-s='1.0' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='7'  d='M 120 -20 h 20 M 70 -20 h 20 M 20 -20 h 20 M -30 -20 h 20'/></g><path class='d' data-s='0.8' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 735.0 630.0 H 785.0 V 660.0 C 820.0 680.0 820.0 700.0 820.0 720.0 V 890.0 H 700.0 V 720.0 C 700.0 700.0 700.0 680.0 735.0 660.0 Z'/><path class='f' data-s='1.4' data-d='0.5' data-o='0.4' d='M 708.0 760.0 H 812.0 V 882.0 H 708.0 Z' fill='#3a86c8' opacity='0'/><path class='d' data-s='1.2' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='8'  d='M 735 630 C 735 590 785 590 785 630'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 84,
+     "color": "#e63946",
+     "s": 2.0,
+     "t": {
+      "en": "KEEP SWALLOWING",
+      "es": "QUE TRAGUE",
+      "fr": "FAIS AVALER",
+      "ja": "飲みこむ動きを"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 6,
+   "caption": {
+    "en": "See a doctor if pain, muffled hearing or ringing lasts *several days*, or there's fluid or blood from the ear.",
+    "es": "Ve al médico si el dolor, la sordera o el zumbido duran *varios días*, o sale líquido o sangre del oído.",
+    "fr": "Consulte si la douleur, l'audition étouffée ou les sifflements durent *plusieurs jours*, ou si du liquide ou du sang coule.",
+    "ja": "痛み・聞こえにくさ・耳鳴りが*数日以上*続く、耳から液や血が出るときは受診を。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 140.0 610.0 H 340.0 V 790.0 H 140.0 Z M 140.0 665.0 H 340.0 M 190.0 585.0 V 625.0 M 290.0 585.0 V 625.0'/><path class='f' data-s='0.6' data-d='0.4' data-o='0.9' d='M 140.0 610.0 H 340.0 V 665.0 H 140.0 Z' fill='#e63946' opacity='0'/><path class='d' data-s='0.8' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 480 620 C 560 560 600 680 540 720 C 500 750 520 800 480 800'/><path class='d' data-s='1.2' data-d='0.4' fill='none' stroke='#e63946' stroke-width='7'  d='M 600 620 q 25 20 0 40 q -25 20 0 40'/><path class='p' data-s='1.4' data-d='0.4' fill='#e63946' d='M 820 620 C 820 620 798.4 650.0 798.4 664.4 A 21.599999999999998 21.599999999999998 0 0 0 841.6 664.4 C 841.6 650.0 820 620 820 620 Z'/><circle class='d' data-s='2.0' data-d='0.6' cx='540' cy='980' r='80' fill='none' stroke='#e63946' stroke-width='10'/><path class='p' data-s='2.5' data-d='0.4' fill='#e63946' d='M 522.4 927.2 H 557.6 V 962.4 H 592.8 V 997.6 H 557.6 V 1032.8 H 522.4 V 997.6 H 487.2 V 962.4 H 522.4 Z'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1205,
+     "size": 96,
+     "color": "#e63946",
+     "s": 2.6,
+     "t": {
+      "en": "SEE A DOCTOR",
+      "es": "VE AL MÉDICO",
+      "fr": "VOIS UN MÉDECIN",
+      "ja": "受診しよう"
+     },
+     "maxW": 900
+    }
+   ]
+  }
+ ]
+}
