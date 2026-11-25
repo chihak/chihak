@@ -768,6 +768,74 @@ Les gouttelettes portent des microbes : éternue dans un mouchoir ou ton coude, 
 ```
 - Tags: `くしゃみ, くしゃみ なぜ, 咳エチケット, ひじでくしゃみ, 花粉, 手洗い, かぜ予防, 健康, sketch clinic`
 
+### ep13-frostbite — English
+- File: `ep13-frostbite/ep13-frostbite-en.mp4`
+- Video language: English
+- Subtitles file: `ep13-frostbite/ep13-frostbite-en.srt` (Subtitles → Add language: English → Upload file → With timing)
+- Title: `Frostbite vs Frostnip: How to Rewarm Safely (Don’t Rub!) #Shorts`
+- Description:
+```
+Frostnip vs frostbite, and how to rewarm safely.
+Get warm, remove wet clothes and rings, and rewarm in warm (not hot) water or with body heat. Don't rub, and no direct heat like fires or heaters. Don't rewarm if it could freeze again.
+Frostbite needs medical care.
+
+Educational only — not medical advice. If you have symptoms, see a healthcare professional.
+
+#Shorts #Frostbite #FirstAid #WinterSafety #SketchClinic
+```
+- Tags: `frostbite, frostnip, frostbite first aid, how to treat frostbite, cold injury, winter safety, rewarming, first aid, health tips, sketch clinic`
+
+### ep13-frostbite — Spanish  *(Phase 2 — only if the user asks)*
+- File: `ep13-frostbite/ep13-frostbite-es.mp4`
+- Video language: Spanish
+- Subtitles file: `ep13-frostbite/ep13-frostbite-es.srt` (Subtitles → Add language: Spanish → Upload file → With timing)
+- Title: `Congelación: cómo recalentar sin peligro (¡no frotes!) #Shorts`
+- Description:
+```
+Congelación leve vs congelación, y cómo recalentar sin peligro.
+Busca calor, quítate ropa mojada y anillos, y recalienta en agua tibia (no caliente) o con calor corporal. No frotes ni uses calor directo. No recalientes si se puede volver a congelar.
+La congelación necesita atención médica.
+
+Solo con fines educativos; no es consejo médico. Si tienes síntomas, consulta a un profesional de la salud.
+
+#Shorts #Congelación #PrimerosAuxilios #Invierno #SketchClinic
+```
+- Tags: `congelación, congelación leve, primeros auxilios, lesiones por frío, invierno, recalentar, salud, sketch clinic`
+
+### ep13-frostbite — French  *(Phase 2 — only if the user asks)*
+- File: `ep13-frostbite/ep13-frostbite-fr.mp4`
+- Video language: French
+- Subtitles file: `ep13-frostbite/ep13-frostbite-fr.srt` (Subtitles → Add language: French → Upload file → With timing)
+- Title: `Gelure : comment réchauffer sans danger (ne frotte pas !) #Shorts`
+- Description:
+```
+Engelure légère ou gelure, et comment réchauffer sans danger.
+Va au chaud, retire vêtements mouillés et bagues, réchauffe dans l'eau tiède (pas chaude) ou avec la chaleur du corps. Ne frotte pas, pas de chaleur directe. Ne réchauffe pas s'il y a risque de regel.
+Une gelure nécessite des soins médicaux.
+
+À but éducatif uniquement — pas un avis médical. Si tu as des symptômes, consulte un professionnel de santé.
+
+#Shorts #Gelure #PremiersSecours #Hiver #SketchClinic
+```
+- Tags: `gelure, engelure, premiers secours gelure, froid, hiver, réchauffer, santé, sketch clinic`
+
+### ep13-frostbite — Japanese  *(Phase 2 — only if the user asks)*
+- File: `ep13-frostbite/ep13-frostbite-ja.mp4`
+- Video language: Japanese
+- Subtitles file: `ep13-frostbite/ep13-frostbite-ja.srt` (Subtitles → Add language: Japanese → Upload file → With timing)
+- Title: `凍傷の正しい温め方｜こすらない・直接温めない #Shorts`
+- Description:
+```
+軽い凍傷と凍傷のちがい、そして安全な温め方。
+暖かい場所へ移り、ぬれた服や指輪を外し、ぬるま湯（熱すぎない）か体温で温めます。こすらない・たき火やヒーターで直接温めない。再び凍るおそれがあるなら温めないでください。
+凍傷は医療機関での治療が必要です。
+
+教育目的の情報であり、医療アドバイスではありません。症状がある場合は医療機関を受診してください。
+
+#Shorts #凍傷 #応急処置 #冬 #SketchClinic
+```
+- Tags: `凍傷, 凍傷 応急処置, しもやけ, 寒さ, 冬, 応急処置, 健康, sketch clinic`
+
 ### ep15-bee-sting — English
 - File: `ep15-bee-sting/ep15-bee-sting-en.mp4`
 - Video language: English
@@ -829,8 +897,76 @@ Appelle immédiatement les secours en cas de difficulté à respirer, gonflement
 ```
 - Tags: `ハチ刺され, 蜂に刺された, 応急処置, アナフィラキシー, エピペン, アレルギー, 健康, sketch clinic`
 
+### ep18-button-battery — English
+- File: `ep18-button-battery/ep18-button-battery-en.mp4`
+- Video language: English
+- Subtitles file: `ep18-button-battery/ep18-button-battery-en.srt` (Subtitles → Add language: English → Upload file → With timing)
+- Title: `Child Swallowed a Button Battery? Go to the ER NOW #Shorts`
+- Description:
+```
+A swallowed button battery is an emergency: stuck in the food pipe it can cause serious burns within about 2 hours.
+Go to the emergency room immediately or call emergency services — even if there are no symptoms. Don't make the child vomit and don't give food or drink unless a medical professional tells you to. Bring the packaging if you can.
+Keep batteries and devices out of reach and tape battery covers shut.
+
+Educational only — not medical advice. If you have symptoms, see a healthcare professional.
+
+#Shorts #ButtonBattery #ChildSafety #FirstAid #SketchClinic
+```
+- Tags: `button battery, swallowed battery, child swallowed battery, coin battery, child safety, poisoning, first aid, emergency, parenting, sketch clinic`
+
+### ep18-button-battery — Spanish  *(Phase 2 — only if the user asks)*
+- File: `ep18-button-battery/ep18-button-battery-es.mp4`
+- Video language: Spanish
+- Subtitles file: `ep18-button-battery/ep18-button-battery-es.srt` (Subtitles → Add language: Spanish → Upload file → With timing)
+- Title: `¿Un niño tragó una pila de botón? A urgencias YA #Shorts`
+- Description:
+```
+Tragarse una pila de botón es una emergencia: atascada en el esófago puede causar quemaduras graves en unas 2 horas.
+Ve a urgencias de inmediato o llama a emergencias, aunque no haya síntomas. No provoques el vómito ni des comida o bebida salvo indicación de un profesional sanitario. Lleva el envase si puedes.
+Guarda pilas y aparatos fuera de su alcance y asegura las tapas con cinta.
+
+Solo con fines educativos; no es consejo médico. Si tienes síntomas, consulta a un profesional de la salud.
+
+#Shorts #PilaDeBotón #SeguridadInfantil #PrimerosAuxilios #SketchClinic
+```
+- Tags: `pila de botón, tragó una pila, seguridad infantil, ingesta de cuerpo extraño, primeros auxilios, emergencia, sketch clinic`
+
+### ep18-button-battery — French  *(Phase 2 — only if the user asks)*
+- File: `ep18-button-battery/ep18-button-battery-fr.mp4`
+- Video language: French
+- Subtitles file: `ep18-button-battery/ep18-button-battery-fr.srt` (Subtitles → Add language: French → Upload file → With timing)
+- Title: `Pile bouton avalée par un enfant : urgences tout de suite #Shorts`
+- Description:
+```
+Une pile bouton avalée est une urgence : coincée dans l'œsophage, elle peut provoquer de graves brûlures en 2 heures environ.
+Va aux urgences tout de suite ou appelle les secours, même sans symptômes. Ne fais pas vomir, ne donne ni à manger ni à boire sauf avis d'un soignant. Apporte l'emballage si possible.
+Range piles et appareils hors de portée et ferme les compartiments avec du ruban adhésif.
+
+À but éducatif uniquement — pas un avis médical. Si tu as des symptômes, consulte un professionnel de santé.
+
+#Shorts #PileBouton #SécuritéEnfant #PremiersSecours #SketchClinic
+```
+- Tags: `pile bouton, pile avalée, sécurité enfant, ingestion, premiers secours, urgence, sketch clinic`
+
+### ep18-button-battery — Japanese  *(Phase 2 — only if the user asks)*
+- File: `ep18-button-battery/ep18-button-battery-ja.mp4`
+- Video language: Japanese
+- Subtitles file: `ep18-button-battery/ep18-button-battery-ja.srt` (Subtitles → Add language: Japanese → Upload file → With timing)
+- Title: `子どもがボタン電池を誤飲したら今すぐ救急へ #Shorts`
+- Description:
+```
+ボタン電池の誤飲は緊急事態。食道にはさまると、約2時間で重い損傷を起こすことがあります。
+症状がなくても、すぐ救急外来へ、または119番を。医療者の指示がない限り、吐かせたり飲食させたりしないでください。可能ならパッケージを持参。
+電池や機器は子どもの手の届かない所に置き、電池のふたはテープで固定しましょう。
+
+教育目的の情報であり、医療アドバイスではありません。症状がある場合は医療機関を受診してください。
+
+#Shorts #ボタン電池 #誤飲 #子どもの安全 #SketchClinic
+```
+- Tags: `ボタン電池, 誤飲, 子ども 誤飲, コイン電池, 子どもの安全, 応急処置, 救急, sketch clinic`
+
 ## Not ready yet
-These episodes are still being produced and will be added to this plan later: ep13-frostbite, ep14-mouth-ulcer, ep16-choking, ep17-heat-illness, ep18-button-battery, ep19-ear-popping, ep20-contagious-yawn
+These episodes are still being produced and will be added to this plan later: ep14-mouth-ulcer, ep16-choking, ep17-heat-illness, ep19-ear-popping, ep20-contagious-yawn
 
 ## Step 3 — Report back
 Send the user: channel URL, and a table of episode → video URL (all Private).
