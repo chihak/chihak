@@ -51,6 +51,7 @@ Educational only — not medical advice. If you have symptoms, see a healthcare 
 ### ep01-stroke — Spanish  *(Phase 2 — only if the user asks)*
 - File: `ep01-stroke/ep01-stroke-es.mp4`
 - Video language: Spanish
+- Subtitles file: `ep01-stroke/ep01-stroke-es.srt` (Subtitles → Add language: Spanish → Upload file → With timing)
 - Title: `5 señales de un derrame cerebral que debes conocer #Shorts`
 - Description:
 ```
@@ -66,6 +67,7 @@ Solo con fines educativos — no es consejo médico. Si tienes síntomas, consul
 ### ep01-stroke — French  *(Phase 2 — only if the user asks)*
 - File: `ep01-stroke/ep01-stroke-fr.mp4`
 - Video language: French
+- Subtitles file: `ep01-stroke/ep01-stroke-fr.srt` (Subtitles → Add language: French → Upload file → With timing)
 - Title: `5 signes d'un AVC à connaître absolument #Shorts`
 - Description:
 ```
@@ -81,6 +83,7 @@ Si tu les remarques, appelle les secours immédiatement (15 ou 112), même si le
 ### ep01-stroke — Japanese  *(Phase 2 — only if the user asks)*
 - File: `ep01-stroke/ep01-stroke-ja.mp4`
 - Video language: Japanese
+- Subtitles file: `ep01-stroke/ep01-stroke-ja.srt` (Subtitles → Add language: Japanese → Upload file → With timing)
 - Title: `知っておきたい脳卒中の5つのサイン #Shorts`
 - Description:
 ```
@@ -112,6 +115,7 @@ Educational only — not medical advice. If you have symptoms, see a healthcare 
 ### ep02-heart-attack — Spanish  *(Phase 2 — only if the user asks)*
 - File: `ep02-heart-attack/ep02-heart-attack-es.mp4`
 - Video language: Spanish
+- Subtitles file: `ep02-heart-attack/ep02-heart-attack-es.srt` (Subtitles → Add language: Spanish → Upload file → With timing)
 - Title: `5 señales de un infarto que no debes ignorar #Shorts`
 - Description:
 ```
@@ -127,6 +131,7 @@ Solo con fines educativos, no es consejo médico. Si tienes síntomas, consulta 
 ### ep02-heart-attack — French  *(Phase 2 — only if the user asks)*
 - File: `ep02-heart-attack/ep02-heart-attack-fr.mp4`
 - Video language: French
+- Subtitles file: `ep02-heart-attack/ep02-heart-attack-fr.srt` (Subtitles → Add language: French → Upload file → With timing)
 - Title: `5 signes d'une crise cardiaque à ne pas ignorer #Shorts`
 - Description:
 ```
@@ -142,6 +147,7 @@ Appelle immédiatement les secours. Ne conduis pas toi-même.
 ### ep02-heart-attack — Japanese  *(Phase 2 — only if the user asks)*
 - File: `ep02-heart-attack/ep02-heart-attack-ja.mp4`
 - Video language: Japanese
+- Subtitles file: `ep02-heart-attack/ep02-heart-attack-ja.srt` (Subtitles → Add language: Japanese → Upload file → With timing)
 - Title: `見逃さないで！心筋梗塞の5つのサイン #Shorts`
 - Description:
 ```
@@ -173,6 +179,7 @@ Educational only — not medical advice. If you have symptoms, see a healthcare 
 ### ep03-leg-cramps — Spanish  *(Phase 2 — only if the user asks)*
 - File: `ep03-leg-cramps/ep03-leg-cramps-es.mp4`
 - Video language: Spanish
+- Subtitles file: `ep03-leg-cramps/ep03-leg-cramps-es.srt` (Subtitles → Add language: Spanish → Upload file → With timing)
 - Title: `¿Por qué dan calambres en las piernas de noche? #Shorts`
 - Description:
 ```
@@ -188,6 +195,7 @@ Solo con fines educativos, no es consejo médico. Si tienes síntomas, consulta 
 ### ep03-leg-cramps — French  *(Phase 2 — only if the user asks)*
 - File: `ep03-leg-cramps/ep03-leg-cramps-fr.mp4`
 - Video language: French
+- Subtitles file: `ep03-leg-cramps/ep03-leg-cramps-fr.srt` (Subtitles → Add language: French → Upload file → With timing)
 - Title: `Pourquoi a-t-on des crampes aux jambes la nuit ? #Shorts`
 - Description:
 ```
@@ -203,6 +211,7 @@ Pour soulager : tends la jambe et tire tes orteils vers toi.
 ### ep03-leg-cramps — Japanese  *(Phase 2 — only if the user asks)*
 - File: `ep03-leg-cramps/ep03-leg-cramps-ja.mp4`
 - Video language: Japanese
+- Subtitles file: `ep03-leg-cramps/ep03-leg-cramps-ja.srt` (Subtitles → Add language: Japanese → Upload file → With timing)
 - Title: `夜中に足がつるのはなぜ？すぐできる対処法 #Shorts`
 - Description:
 ```
@@ -234,6 +243,7 @@ Educational only — not medical advice. If you have symptoms, see a healthcare 
 ### ep04-knuckle-cracking — Spanish  *(Phase 2 — only if the user asks)*
 - File: `ep04-knuckle-cracking/ep04-knuckle-cracking-es.mp4`
 - Video language: Spanish
+- Subtitles file: `ep04-knuckle-cracking/ep04-knuckle-cracking-es.srt` (Subtitles → Add language: Spanish → Upload file → With timing)
 - Title: `¿Qué pasa realmente al crujirte los nudillos? #Shorts`
 - Description:
 ```
@@ -249,6 +259,7 @@ Solo con fines educativos, no es consejo médico. Si tienes síntomas, consulta 
 ### ep04-knuckle-cracking — French  *(Phase 2 — only if the user asks)*
 - File: `ep04-knuckle-cracking/ep04-knuckle-cracking-fr.mp4`
 - Video language: French
+- Subtitles file: `ep04-knuckle-cracking/ep04-knuckle-cracking-fr.srt` (Subtitles → Add language: French → Upload file → With timing)
 - Title: `Que se passe-t-il quand on fait craquer ses doigts ? #Shorts`
 - Description:
 ```
@@ -264,6 +275,7 @@ L'arthrose ? Les études n'ont pas trouvé de lien.
 ### ep04-knuckle-cracking — Japanese  *(Phase 2 — only if the user asks)*
 - File: `ep04-knuckle-cracking/ep04-knuckle-cracking-ja.mp4`
 - Video language: Japanese
+- Subtitles file: `ep04-knuckle-cracking/ep04-knuckle-cracking-ja.srt` (Subtitles → Add language: Japanese → Upload file → With timing)
 - Title: `指をポキッと鳴らすと何が起きている？ #Shorts`
 - Description:
 ```
@@ -294,6 +306,7 @@ Educational only — not medical advice. If you have symptoms, see a healthcare 
 ### ep05-hiccups — Spanish  *(Phase 2 — only if the user asks)*
 - File: `ep05-hiccups/ep05-hiccups-es.mp4`
 - Video language: Spanish
+- Subtitles file: `ep05-hiccups/ep05-hiccups-es.srt` (Subtitles → Add language: Spanish → Upload file → With timing)
 - Title: `¿Por qué nos da hipo? El “hip”, explicado #Shorts`
 - Description:
 ```
@@ -308,6 +321,7 @@ Solo con fines educativos: no es consejo médico. Si tienes síntomas, consulta 
 ### ep05-hiccups — French  *(Phase 2 — only if the user asks)*
 - File: `ep05-hiccups/ep05-hiccups-fr.mp4`
 - Video language: French
+- Subtitles file: `ep05-hiccups/ep05-hiccups-fr.srt` (Subtitles → Add language: French → Upload file → With timing)
 - Title: `Pourquoi a-t-on le hoquet ? Le « hic » expliqué #Shorts`
 - Description:
 ```
@@ -322,6 +336,7 @@ Consulte un médecin si le hoquet dure plus de 48 heures.
 ### ep05-hiccups — Japanese  *(Phase 2 — only if the user asks)*
 - File: `ep05-hiccups/ep05-hiccups-ja.mp4`
 - Video language: Japanese
+- Subtitles file: `ep05-hiccups/ep05-hiccups-ja.srt` (Subtitles → Add language: Japanese → Upload file → With timing)
 - Title: `しゃっくりはなぜ起こる？「ヒック」の正体 #Shorts`
 - Description:
 ```
@@ -351,6 +366,7 @@ Educational only — not medical advice. If you have symptoms, see a healthcare 
 ### ep06-eye-twitch — Spanish  *(Phase 2 — only if the user asks)*
 - File: `ep06-eye-twitch/ep06-eye-twitch-es.mp4`
 - Video language: Spanish
+- Subtitles file: `ep06-eye-twitch/ep06-eye-twitch-es.srt` (Subtitles → Add language: Spanish → Upload file → With timing)
 - Title: `¿Por qué te tiembla el párpado? Esto es lo que pasa #Shorts`
 - Description:
 ```
@@ -365,6 +381,7 @@ Solo con fines educativos: no es consejo médico. Si tienes síntomas, consulta 
 ### ep06-eye-twitch — French  *(Phase 2 — only if the user asks)*
 - File: `ep06-eye-twitch/ep06-eye-twitch-fr.mp4`
 - Video language: French
+- Subtitles file: `ep06-eye-twitch/ep06-eye-twitch-fr.srt` (Subtitles → Add language: French → Upload file → With timing)
 - Title: `Pourquoi ta paupière saute toute seule ? #Shorts`
 - Description:
 ```
@@ -379,6 +396,7 @@ Consulte si ça dure des semaines, si la paupière se ferme ou si le visage tres
 ### ep06-eye-twitch — Japanese  *(Phase 2 — only if the user asks)*
 - File: `ep06-eye-twitch/ep06-eye-twitch-ja.mp4`
 - Video language: Japanese
+- Subtitles file: `ep06-eye-twitch/ep06-eye-twitch-ja.srt` (Subtitles → Add language: Japanese → Upload file → With timing)
 - Title: `まぶたがピクピクするのはなぜ？原因4つ #Shorts`
 - Description:
 ```
@@ -408,6 +426,7 @@ Educational only — not medical advice. If you have symptoms, see a healthcare 
 ### ep07-brain-freeze — Spanish  *(Phase 2 — only if the user asks)*
 - File: `ep07-brain-freeze/ep07-brain-freeze-es.mp4`
 - Video language: Spanish
+- Subtitles file: `ep07-brain-freeze/ep07-brain-freeze-es.srt` (Subtitles → Add language: Spanish → Upload file → With timing)
 - Title: `¿Por qué duele la cabeza con el helado? #Shorts`
 - Description:
 ```
@@ -422,6 +441,7 @@ Solo con fines educativos: no es consejo médico. Si tienes síntomas, consulta 
 ### ep07-brain-freeze — French  *(Phase 2 — only if the user asks)*
 - File: `ep07-brain-freeze/ep07-brain-freeze-fr.mp4`
 - Video language: French
+- Subtitles file: `ep07-brain-freeze/ep07-brain-freeze-fr.srt` (Subtitles → Add language: French → Upload file → With timing)
 - Title: `Pourquoi la glace fait mal à la tête ? #Shorts`
 - Description:
 ```
@@ -436,6 +456,7 @@ Astuce : langue contre le palais ou eau tiède. Pour l’éviter : mange le froi
 ### ep07-brain-freeze — Japanese  *(Phase 2 — only if the user asks)*
 - File: `ep07-brain-freeze/ep07-brain-freeze-ja.mp4`
 - Video language: Japanese
+- Subtitles file: `ep07-brain-freeze/ep07-brain-freeze-ja.srt` (Subtitles → Add language: Japanese → Upload file → With timing)
 - Title: `アイスクリーム頭痛の正体とは？キーンの仕組み #Shorts`
 - Description:
 ```
@@ -467,6 +488,7 @@ Educational only — not medical advice. If you have symptoms, see a healthcare 
 ### ep08-head-rush — Spanish  *(Phase 2 — only if the user asks)*
 - File: `ep08-head-rush/ep08-head-rush-es.mp4`
 - Video language: Spanish
+- Subtitles file: `ep08-head-rush/ep08-head-rush-es.srt` (Subtitles → Add language: Spanish → Upload file → With timing)
 - Title: `¿Por qué te mareas al levantarte rápido? #Shorts`
 - Description:
 ```
@@ -483,6 +505,7 @@ Solo con fines educativos; no es consejo médico. Si tienes síntomas, consulta 
 ### ep08-head-rush — French  *(Phase 2 — only if the user asks)*
 - File: `ep08-head-rush/ep08-head-rush-fr.mp4`
 - Video language: French
+- Subtitles file: `ep08-head-rush/ep08-head-rush-fr.srt` (Subtitles → Add language: French → Upload file → With timing)
 - Title: `Pourquoi la tête tourne quand on se lève vite ? #Shorts`
 - Description:
 ```
@@ -499,6 +522,7 @@ Le plus souvent sans danger — voici pourquoi et comment l'éviter.
 ### ep08-head-rush — Japanese  *(Phase 2 — only if the user asks)*
 - File: `ep08-head-rush/ep08-head-rush-ja.mp4`
 - Video language: Japanese
+- Subtitles file: `ep08-head-rush/ep08-head-rush-ja.srt` (Subtitles → Add language: Japanese → Upload file → With timing)
 - Title: `急に立つとクラッとするのはなぜ？立ちくらみの正体 #Shorts`
 - Description:
 ```
@@ -532,6 +556,7 @@ Educational only — not medical advice. If you have symptoms, see a healthcare 
 ### ep09-nosebleed — Spanish  *(Phase 2 — only if the user asks)*
 - File: `ep09-nosebleed/ep09-nosebleed-es.mp4`
 - Video language: Spanish
+- Subtitles file: `ep09-nosebleed/ep09-nosebleed-es.srt` (Subtitles → Add language: Spanish → Upload file → With timing)
 - Title: `¿Sangrado de nariz? Haz ESTO, no aquello #Shorts`
 - Description:
 ```
@@ -548,6 +573,7 @@ Solo con fines educativos; no es consejo médico. Si tienes síntomas, consulta 
 ### ep09-nosebleed — French  *(Phase 2 — only if the user asks)*
 - File: `ep09-nosebleed/ep09-nosebleed-fr.mp4`
 - Video language: French
+- Subtitles file: `ep09-nosebleed/ep09-nosebleed-fr.srt` (Subtitles → Add language: French → Upload file → With timing)
 - Title: `Saignement de nez : fais ÇA, pas ça ! #Shorts`
 - Description:
 ```
@@ -564,6 +590,7 @@ Et quand il faut aller aux urgences.
 ### ep09-nosebleed — Japanese  *(Phase 2 — only if the user asks)*
 - File: `ep09-nosebleed/ep09-nosebleed-ja.mp4`
 - Video language: Japanese
+- Subtitles file: `ep09-nosebleed/ep09-nosebleed-ja.srt` (Subtitles → Add language: Japanese → Upload file → With timing)
 - Title: `鼻血は上を向かないで！正しい止め方 #Shorts`
 - Description:
 ```
@@ -597,6 +624,7 @@ Educational only — not medical advice. If you have symptoms, see a healthcare 
 ### ep10-foot-asleep — Spanish  *(Phase 2 — only if the user asks)*
 - File: `ep10-foot-asleep/ep10-foot-asleep-es.mp4`
 - Video language: Spanish
+- Subtitles file: `ep10-foot-asleep/ep10-foot-asleep-es.srt` (Subtitles → Add language: Spanish → Upload file → With timing)
 - Title: `¿Por qué se te “duerme” el pie? #Shorts`
 - Description:
 ```
@@ -613,6 +641,7 @@ Solo con fines educativos; no es consejo médico. Si tienes síntomas, consulta 
 ### ep10-foot-asleep — French  *(Phase 2 — only if the user asks)*
 - File: `ep10-foot-asleep/ep10-foot-asleep-fr.mp4`
 - Video language: French
+- Subtitles file: `ep10-foot-asleep/ep10-foot-asleep-fr.srt` (Subtitles → Add language: French → Upload file → With timing)
 - Title: `Pourquoi le pied « s'endort » ? #Shorts`
 - Description:
 ```
@@ -629,6 +658,7 @@ En général sans danger, mais voici quand consulter.
 ### ep10-foot-asleep — Japanese  *(Phase 2 — only if the user asks)*
 - File: `ep10-foot-asleep/ep10-foot-asleep-ja.mp4`
 - Video language: Japanese
+- Subtitles file: `ep10-foot-asleep/ep10-foot-asleep-ja.srt` (Subtitles → Add language: Japanese → Upload file → With timing)
 - Title: `足がしびれるのはなぜ？ジンジンの正体 #Shorts`
 - Description:
 ```
@@ -662,6 +692,7 @@ Educational only — not medical advice. If you have symptoms, see a healthcare 
 ### ep11-stomach-growl — Spanish  *(Phase 2 — only if the user asks)*
 - File: `ep11-stomach-growl/ep11-stomach-growl-es.mp4`
 - Video language: Spanish
+- Subtitles file: `ep11-stomach-growl/ep11-stomach-growl-es.srt` (Subtitles → Add language: Spanish → Upload file → With timing)
 - Title: `¿Por qué ruge tu estómago? No es solo hambre #Shorts`
 - Description:
 ```
@@ -678,6 +709,7 @@ Solo con fines educativos; no es consejo médico. Si tienes síntomas, consulta 
 ### ep11-stomach-growl — French  *(Phase 2 — only if the user asks)*
 - File: `ep11-stomach-growl/ep11-stomach-growl-fr.mp4`
 - Video language: French
+- Subtitles file: `ep11-stomach-growl/ep11-stomach-growl-fr.srt` (Subtitles → Add language: French → Upload file → With timing)
 - Title: `Pourquoi ton ventre gargouille ? Pas seulement la faim #Shorts`
 - Description:
 ```
@@ -694,6 +726,7 @@ Si les bruits s'accompagnent de douleur ou d'autres symptômes, consulte un méd
 ### ep11-stomach-growl — Japanese  *(Phase 2 — only if the user asks)*
 - File: `ep11-stomach-growl/ep11-stomach-growl-ja.mp4`
 - Video language: Japanese
+- Subtitles file: `ep11-stomach-growl/ep11-stomach-growl-ja.srt` (Subtitles → Add language: Japanese → Upload file → With timing)
 - Title: `お腹がグーっと鳴るのはなぜ？空腹だけじゃない #Shorts`
 - Description:
 ```
@@ -726,6 +759,7 @@ Educational only — not medical advice. If you have symptoms, see a healthcare 
 ### ep12-sneeze — Spanish  *(Phase 2 — only if the user asks)*
 - File: `ep12-sneeze/ep12-sneeze-es.mp4`
 - Video language: Spanish
+- Subtitles file: `ep12-sneeze/ep12-sneeze-es.srt` (Subtitles → Add language: Spanish → Upload file → With timing)
 - Title: `¿Por qué estornudamos? Y cómo hacerlo bien #Shorts`
 - Description:
 ```
@@ -741,6 +775,7 @@ Solo con fines educativos; no es consejo médico. Si tienes síntomas, consulta 
 ### ep12-sneeze — French  *(Phase 2 — only if the user asks)*
 - File: `ep12-sneeze/ep12-sneeze-fr.mp4`
 - Video language: French
+- Subtitles file: `ep12-sneeze/ep12-sneeze-fr.srt` (Subtitles → Add language: French → Upload file → With timing)
 - Title: `Pourquoi on éternue ? Et comment bien le faire #Shorts`
 - Description:
 ```
@@ -756,6 +791,7 @@ Les gouttelettes portent des microbes : éternue dans un mouchoir ou ton coude, 
 ### ep12-sneeze — Japanese  *(Phase 2 — only if the user asks)*
 - File: `ep12-sneeze/ep12-sneeze-ja.mp4`
 - Video language: Japanese
+- Subtitles file: `ep12-sneeze/ep12-sneeze-ja.srt` (Subtitles → Add language: Japanese → Upload file → With timing)
 - Title: `くしゃみはなぜ出る？正しいくしゃみのしかた #Shorts`
 - Description:
 ```
@@ -923,6 +959,7 @@ Educational only — not medical advice. If you have symptoms, see a healthcare 
 ### ep15-bee-sting — Spanish  *(Phase 2 — only if the user asks)*
 - File: `ep15-bee-sting/ep15-bee-sting-es.mp4`
 - Video language: Spanish
+- Subtitles file: `ep15-bee-sting/ep15-bee-sting-es.srt` (Subtitles → Add language: Spanish → Upload file → With timing)
 - Title: `Picadura de abeja: qué hacer y señales de alergia grave #Shorts`
 - Description:
 ```
@@ -938,6 +975,7 @@ Solo con fines educativos; no es consejo médico. Si tienes síntomas, consulta 
 ### ep15-bee-sting — French  *(Phase 2 — only if the user asks)*
 - File: `ep15-bee-sting/ep15-bee-sting-fr.mp4`
 - Video language: French
+- Subtitles file: `ep15-bee-sting/ep15-bee-sting-fr.srt` (Subtitles → Add language: French → Upload file → With timing)
 - Title: `Piqûre d’abeille : les bons gestes et les signes d’allergie grave #Shorts`
 - Description:
 ```
@@ -953,6 +991,7 @@ Appelle immédiatement les secours en cas de difficulté à respirer, gonflement
 ### ep15-bee-sting — Japanese  *(Phase 2 — only if the user asks)*
 - File: `ep15-bee-sting/ep15-bee-sting-ja.mp4`
 - Video language: Japanese
+- Subtitles file: `ep15-bee-sting/ep15-bee-sting-ja.srt` (Subtitles → Add language: Japanese → Upload file → With timing)
 - Title: `ハチに刺されたときの応急処置とアナフィラキシーのサイン #Shorts`
 - Description:
 ```

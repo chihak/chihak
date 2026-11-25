@@ -1,0 +1,35 @@
+1
+00:00:00,250 --> 00:00:00,627
+Ce hic ?
+
+2
+00:00:00,627 --> 00:00:02,746
+Tes cordes vocales qui se ferment d’un coup !
+
+3
+00:00:05,250 --> 00:00:09,751
+Sous tes poumons se trouve le diaphragme, le principal muscle de la respiration.
+
+4
+00:00:10,750 --> 00:00:14,291
+Pendant le hoquet, il se contracte brusquement et aspire l’air d’un coup.
+
+5
+00:00:16,250 --> 00:00:20,005
+Une fraction de seconde plus tard, les cordes vocales se ferment : hic !
+
+6
+00:00:21,750 --> 00:00:27,361
+Déclencheurs fréquents : manger vite ou trop, boissons gazeuses, émotions, changement brusque de température.
+
+7
+00:00:28,250 --> 00:00:30,020
+Le plus souvent, il passe tout seul.
+
+8
+00:00:30,020 --> 00:00:32,773
+Retenir son souffle ou boire de l’eau froide peut aider.
+
+9
+00:00:34,250 --> 00:00:39,349
+Consulte un médecin s’il dure plus de 48 heures, ou gêne pour manger, dormir ou respirer.

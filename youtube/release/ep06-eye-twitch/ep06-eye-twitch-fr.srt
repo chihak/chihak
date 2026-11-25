@@ -1,0 +1,39 @@
+1
+00:00:00,250 --> 00:00:01,625
+Ta paupière saute toute seule ?
+
+2
+00:00:01,625 --> 00:00:02,511
+C’est très fréquent.
+
+3
+00:00:05,250 --> 00:00:09,773
+Ça s’appelle la myokymie : de petites contractions involontaires du muscle de la paupière.
+
+4
+00:00:10,750 --> 00:00:13,801
+1 — Le stress : l’un des déclencheurs les plus fréquents.
+
+5
+00:00:15,250 --> 00:00:17,255
+2 — La fatigue et le manque de sommeil.
+
+6
+00:00:19,750 --> 00:00:22,651
+3 — Trop de caféine : café, boissons énergisantes.
+
+7
+00:00:24,250 --> 00:00:26,831
+4 — Yeux fatigués par les écrans, et yeux secs.
+
+8
+00:00:28,750 --> 00:00:31,141
+C’est généralement bénin et ça passe tout seul.
+
+9
+00:00:31,141 --> 00:00:33,379
+Mieux dormir et moins de caféine peut aider.
+
+10
+00:00:34,250 --> 00:00:38,965
+Consulte si ça dure des semaines, si la paupière se ferme ou si le visage tressaute.

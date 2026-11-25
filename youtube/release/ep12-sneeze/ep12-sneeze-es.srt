@@ -1,0 +1,31 @@
+1
+00:00:00,250 --> 00:00:00,622
+¡Achís!
+
+2
+00:00:00,622 --> 00:00:03,813
+El estornudo es el sistema de alarma y limpieza de tu nariz.
+
+3
+00:00:05,250 --> 00:00:10,135
+El polvo, el polen, la pimienta o un virus del resfriado irritan el interior de la nariz.
+
+4
+00:00:11,250 --> 00:00:15,922
+Los nervios de la nariz envían una señal al centro del estornudo en el tronco cerebral.
+
+5
+00:00:17,250 --> 00:00:21,879
+Inspiras hondo y el aire sale disparado por nariz y boca para expulsar lo que irrita.
+
+6
+00:00:23,750 --> 00:00:27,633
+Las gotitas pueden llegar lejos y llevar gérmenes a quienes te rodean.
+
+7
+00:00:29,250 --> 00:00:32,279
+1 — Estornuda en un pañuelo o en el codo, no en las manos.
+
+8
+00:00:35,250 --> 00:00:38,237
+2 — Tira el pañuelo y lávate las manos con agua y jabón.
