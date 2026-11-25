@@ -119,6 +119,7 @@ function setup(ep, lang) {
     art.setAttribute("stroke-linejoin", "round");
     art.innerHTML = sc.svg || "";
     g.appendChild(art);
+    root.appendChild(g); // attach before measuring text widths
     (sc.texts || []).forEach(tx => {
       const el = document.createElementNS("http://www.w3.org/2000/svg", "text");
       el.setAttribute("x", tx.x); el.setAttribute("y", tx.y);
@@ -136,7 +137,6 @@ function setup(ep, lang) {
       let f = +el.getAttribute("font-size");
       while (el.getBBox().width > maxW && f > 20) { f -= 2; el.setAttribute("font-size", f); }
     });
-    root.appendChild(g);
     const rec = { g, from: t, to: t + sc.dur, sc };
     t += sc.dur;
     return rec;
