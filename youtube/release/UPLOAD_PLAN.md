@@ -1928,5 +1928,69 @@ Consulte si elle est profonde, en verre, dans l'œil, ne sort pas, ou en cas de 
 ```
 - Tags: `とげ, とげ 抜き方, とげ 応急手当, ピンセット, 破傷風, スキンケア, 健康, sketch clinic, shorts`
 
+### ep30-tick-bite — English
+- File: `ep30-tick-bite/ep30-tick-bite-en.mp4`
+- Video language: English
+- Subtitles file: `ep30-tick-bite/ep30-tick-bite-en.srt` (Subtitles → Add language: English → Upload file → With timing)
+- Title: `Tick Bite: How to Remove a Tick Safely #Shorts`
+- Description:
+```
+Found a tick? Grip it close to the skin with fine-tipped tweezers, pull straight up slowly and steadily, then clean the bite and your hands. Don't twist, squeeze, burn it, or use petroleum jelly.
+Watch for weeks: a spreading rash, fever or aches means see a doctor and mention the tick bite.
+
+Educational only — not medical advice. If you have symptoms, see a healthcare professional.
+
+#Shorts #FirstAid #TickBite #SketchClinic
+```
+- Tags: `tick bite, how to remove a tick, tick removal, first aid, tweezers, lyme disease, outdoor safety, health, sketch clinic, shorts`
+
+### ep30-tick-bite — Spanish  *(Phase 2 — only if the user asks)*
+- File: `ep30-tick-bite/ep30-tick-bite-es.mp4`
+- Video language: Spanish
+- Subtitles file: `ep30-tick-bite/ep30-tick-bite-es.srt` (Subtitles → Add language: Spanish → Upload file → With timing)
+- Title: `Picadura de garrapata: cómo quitarla con seguridad #Shorts`
+- Description:
+```
+¿Encontraste una garrapata? Agárrala cerca de la piel con pinzas de punta fina, tira hacia arriba despacio y con firmeza, y limpia la picadura y tus manos. No la gires, aprietes ni quemes, ni uses vaselina.
+Vigila durante semanas: si aparece un sarpullido que se extiende, fiebre o dolores, ve al médico y menciona la picadura.
+
+Solo con fines educativos; no es consejo médico. Si tienes síntomas, consulta a un profesional de la salud.
+
+#Shorts #PrimerosAuxilios #Garrapata #SketchClinic
+```
+- Tags: `garrapata, picadura de garrapata, cómo quitar una garrapata, primeros auxilios, pinzas, enfermedad de Lyme, seguridad al aire libre, salud, sketch clinic, shorts`
+
+### ep30-tick-bite — French  *(Phase 2 — only if the user asks)*
+- File: `ep30-tick-bite/ep30-tick-bite-fr.mp4`
+- Video language: French
+- Subtitles file: `ep30-tick-bite/ep30-tick-bite-fr.srt` (Subtitles → Add language: French → Upload file → With timing)
+- Title: `Piqûre de tique : la retirer sans risque #Shorts`
+- Description:
+```
+Une tique ? Saisis-la près de la peau avec une pince à pointes fines, tire droit vers le haut lentement et fermement, puis nettoie la piqûre et tes mains. Ne la tords pas, ne l'écrase pas, ne la brûle pas, pas de vaseline.
+Surveille pendant des semaines : éruption qui s'étend, fièvre ou douleurs = consulte et mentionne la piqûre de tique.
+
+À but éducatif uniquement — pas un avis médical. Si tu as des symptômes, consulte un professionnel de santé.
+
+#Shorts #PremiersSecours #Tique #SketchClinic
+```
+- Tags: `tique, piqûre de tique, retirer une tique, premiers secours, pince à épiler, maladie de Lyme, sécurité en plein air, santé, sketch clinic, shorts`
+
+### ep30-tick-bite — Japanese  *(Phase 2 — only if the user asks)*
+- File: `ep30-tick-bite/ep30-tick-bite-ja.mp4`
+- Video language: Japanese
+- Subtitles file: `ep30-tick-bite/ep30-tick-bite-ja.srt` (Subtitles → Add language: Japanese → Upload file → With timing)
+- Title: `マダニの安全な取り方 #Shorts`
+- Description:
+```
+マダニを見つけたら、先の細いピンセットで皮膚に近いところをつかみ、まっすぐ上にゆっくり引き抜き、刺された所と手を洗います。ひねる、つぶす、焼く、ワセリンを塗るのは避けましょう。
+数週間は様子を見て、広がる発疹・発熱・体の痛みが出たら、マダニに刺されたことを伝えて受診を。
+
+教育目的の情報であり、医療アドバイスではありません。症状がある場合は医療機関を受診してください。
+
+#Shorts #応急手当 #マダニ #SketchClinic
+```
+- Tags: `マダニ, マダニ 取り方, ダニ 刺された, 応急手当, ピンセット, ライム病, アウトドア, 健康, sketch clinic, shorts`
+
 ## Step 3 — Report back
 Send the user: channel URL, and a table of episode → video URL (all Public).
