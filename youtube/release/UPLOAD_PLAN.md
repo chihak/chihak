@@ -1864,5 +1864,69 @@ Consulte en cas de pus, rougeur qui s'étend, douleur ou gonflement croissants, 
 ```
 - Tags: `水ぶくれ, 水ぶくれ つぶす, 水ぶくれ 応急手当, 靴擦れ, スキンケア, 足のケア, 健康, sketch clinic`
 
+### ep29-splinter — English
+- File: `ep29-splinter/ep29-splinter-en.mp4`
+- Video language: English
+- Subtitles file: `ep29-splinter/ep29-splinter-en.srt` (Subtitles → Add language: English → Upload file → With timing)
+- Title: `How to Remove a Splinter Safely #Shorts`
+- Description:
+```
+Got a splinter? Wash your hands and the skin, pull it out with clean tweezers at the same angle it went in, wash again and cover. Don't dig deep with a needle.
+See a doctor if it's deep, glass, in the eye, won't come out, or there's pus, spreading redness, or fever. Check your tetanus shots.
+
+Educational only — not medical advice. If you have symptoms, see a healthcare professional.
+
+#Shorts #FirstAid #Splinter #SketchClinic
+```
+- Tags: `splinter, how to remove a splinter, splinter removal, first aid, tweezers, skin care, tetanus, health, sketch clinic, shorts`
+
+### ep29-splinter — Spanish  *(Phase 2 — only if the user asks)*
+- File: `ep29-splinter/ep29-splinter-es.mp4`
+- Video language: Spanish
+- Subtitles file: `ep29-splinter/ep29-splinter-es.srt` (Subtitles → Add language: Spanish → Upload file → With timing)
+- Title: `Cómo sacar una astilla con seguridad #Shorts`
+- Description:
+```
+¿Tienes una astilla? Lávate las manos y la piel, sácala con pinzas limpias en el mismo ángulo en que entró, lava de nuevo y cubre. No escarbes hondo con una aguja.
+Ve al médico si es profunda, de vidrio, está en el ojo, no sale, o hay pus, enrojecimiento que se extiende o fiebre. Revisa tu vacuna del tétanos.
+
+Solo con fines educativos; no es consejo médico. Si tienes síntomas, consulta a un profesional de la salud.
+
+#Shorts #PrimerosAuxilios #Astilla #SketchClinic
+```
+- Tags: `astilla, cómo sacar una astilla, sacar astilla, primeros auxilios, pinzas, cuidado de la piel, tétanos, salud, sketch clinic, shorts`
+
+### ep29-splinter — French  *(Phase 2 — only if the user asks)*
+- File: `ep29-splinter/ep29-splinter-fr.mp4`
+- Video language: French
+- Subtitles file: `ep29-splinter/ep29-splinter-fr.srt` (Subtitles → Add language: French → Upload file → With timing)
+- Title: `Retirer une écharde sans risque #Shorts`
+- Description:
+```
+Une écharde ? Lave tes mains et la peau, retire-la avec une pince propre dans le même angle qu'à l'entrée, relave et couvre. Ne fouille pas profondément avec une aiguille.
+Consulte si elle est profonde, en verre, dans l'œil, ne sort pas, ou en cas de pus, de rougeur qui s'étend ou de fièvre. Vérifie ton vaccin contre le tétanos.
+
+À but éducatif uniquement — pas un avis médical. Si tu as des symptômes, consulte un professionnel de santé.
+
+#Shorts #PremiersSecours #Écharde #SketchClinic
+```
+- Tags: `écharde, retirer une écharde, enlever une écharde, premiers secours, pince à épiler, soin de la peau, tétanos, santé, sketch clinic, shorts`
+
+### ep29-splinter — Japanese  *(Phase 2 — only if the user asks)*
+- File: `ep29-splinter/ep29-splinter-ja.mp4`
+- Video language: Japanese
+- Subtitles file: `ep29-splinter/ep29-splinter-ja.srt` (Subtitles → Add language: Japanese → Upload file → With timing)
+- Title: `とげの安全な抜き方 #Shorts`
+- Description:
+```
+とげが刺さったら、手と周りの皮膚を洗い、清潔なピンセットで刺さった角度のまま抜き、もう一度洗って覆います。針で深くほじらないでください。
+深い、ガラス、目の中、取れない、膿・広がる赤み・発熱がある場合は受診を。破傷風の予防接種も確認しましょう。
+
+教育目的の情報であり、医療アドバイスではありません。症状がある場合は医療機関を受診してください。
+
+#Shorts #応急手当 #とげ #SketchClinic
+```
+- Tags: `とげ, とげ 抜き方, とげ 応急手当, ピンセット, 破傷風, スキンケア, 健康, sketch clinic, shorts`
+
 ## Step 3 — Report back
 Send the user: channel URL, and a table of episode → video URL (all Private).

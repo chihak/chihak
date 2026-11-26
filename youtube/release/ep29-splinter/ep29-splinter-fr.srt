@@ -1,0 +1,39 @@
+1
+00:00:00,250 --> 00:00:01,636
+Une écharde dans le doigt ?
+
+2
+00:00:01,636 --> 00:00:03,535
+Voici comment la retirer sans risque.
+
+3
+00:00:06,250 --> 00:00:08,746
+Un : lave tes mains et la peau autour à l'eau et au savon.
+
+4
+00:00:12,250 --> 00:00:17,221
+Deux : utilise une pince propre, désinfectée à l'alcool, et tire dans le même angle qu'à l'entrée.
+
+5
+00:00:19,250 --> 00:00:22,471
+Trois : relave la zone à l'eau et au savon, et couvre-la si besoin.
+
+6
+00:00:25,250 --> 00:00:27,299
+Quatre : ne fouille pas avec une aiguille.
+
+7
+00:00:27,299 --> 00:00:29,837
+Si elle ne sort pas, laisse un médecin s'en charger.
+
+8
+00:00:32,250 --> 00:00:35,874
+Si elle est profonde, en verre ou dans l'œil, consulte un médecin.
+
+9
+00:00:35,874 --> 00:00:39,113
+De même en cas de pus, de rougeur qui s'étend ou de fièvre.
+
+10
+00:00:39,113 --> 00:00:42,298
+Vérifie aussi que ton vaccin contre le tétanos est à jour.

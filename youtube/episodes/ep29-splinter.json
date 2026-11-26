@@ -1,0 +1,210 @@
+{
+ "id": "ep29-splinter",
+ "title": {
+  "en": "*Splinter?* Remove It Safely",
+  "es": "¿*Astilla?* Sácala bien",
+  "fr": "*Écharde ?* Retire-la bien",
+  "ja": "*とげ*の安全な抜き方"
+ },
+ "coverTime": 4.0,
+ "steps": 4,
+ "stepsFrom": 1,
+ "scenes": [
+  {
+   "dur": 6,
+   "caption": {
+    "en": "A *splinter* in your finger? Here's how to remove it safely.",
+    "es": "¿Una *astilla* en el dedo? Así se saca con seguridad.",
+    "fr": "Une *écharde* dans le doigt ? Voici comment la retirer sans risque.",
+    "ja": "指に*とげ*が刺さった？ 安全な抜き方です。"
+   },
+   "narration": {
+    "en": "A splinter in your finger? Here's how to remove it safely.",
+    "es": "¿Una astilla en el dedo? Así se saca con seguridad.",
+    "fr": "Une écharde dans le doigt ? Voici comment la retirer sans risque.",
+    "ja": "指にとげが刺さったときの、安全な抜き方です。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 420 980 Q 400 760 470 680 Q 540 620 610 680 Q 680 760 660 980'/><path class='d' data-s='0.9' data-d='0.5' fill='none' stroke='#8a5a2b' stroke-width='9' d='M 500 700 L 600 780'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#e63946",
+     "s": 1.6,
+     "t": {
+      "en": "SPLINTER",
+      "es": "ASTILLA",
+      "fr": "ÉCHARDE",
+      "ja": "とげ"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 6,
+   "step": 1,
+   "caption": {
+    "en": "*1* — *Wash* your hands and the skin around it with soap and water.",
+    "es": "*1* — *Lávate* las manos y la piel alrededor con agua y jabón.",
+    "fr": "*1* — *Lave* tes mains et la peau autour à l'eau et au savon.",
+    "ja": "*1* — *洗う*：手と、とげの周りを石けんと水で洗います。"
+   },
+   "narration": {
+    "en": "Step one. Wash your hands and the skin around it with soap and water.",
+    "es": "Uno: lávate las manos y la piel alrededor con agua y jabón.",
+    "fr": "Un : lave tes mains et la peau autour à l'eau et au savon.",
+    "ja": "一つ目、手と、とげの周りの皮膚を、石けんと水で洗います。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.8' fill='none' stroke='#3a86c8' stroke-width='11' d='M 440 700 Q 440 640 540 640 Q 640 640 640 700 L 620 860 H 460 Z'/><path class='d' data-s='0.9' data-d='0.5' fill='none' stroke='#3a86c8' stroke-width='9' d='M 480 920 Q 460 960 480 990 M 540 920 Q 520 960 540 990 M 600 920 Q 580 960 600 990'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#3a86c8",
+     "s": 1.6,
+     "t": {
+      "en": "WASH FIRST",
+      "es": "LAVA PRIMERO",
+      "fr": "LAVE D'ABORD",
+      "ja": "まず洗う"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 7,
+   "step": 2,
+   "caption": {
+    "en": "*2* — Use *clean tweezers* and pull it out at the *same angle* it went in.",
+    "es": "*2* — Con unas *pinzas limpias*, tira en el *mismo ángulo* en que entró.",
+    "fr": "*2* — Avec une *pince propre*, tire dans le *même angle* qu'à l'entrée.",
+    "ja": "*2* — *清潔なピンセット*で、刺さった*角度のまま*引き抜きます。"
+   },
+   "narration": {
+    "en": "Step two. Use clean tweezers, cleaned with rubbing alcohol, and pull it out at the same angle it went in.",
+    "es": "Dos: usa unas pinzas limpias, desinfectadas con alcohol, y tira en el mismo ángulo en que entró.",
+    "fr": "Deux : utilise une pince propre, désinfectée à l'alcool, et tire dans le même angle qu'à l'entrée.",
+    "ja": "二つ目、アルコールで消毒したピンセットで、刺さった角度のまま、まっすぐ引き抜きます。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 420 980 Q 400 760 470 680 Q 540 620 610 680 Q 680 760 660 980'/><path class='d' data-s='0.9' data-d='0.5' fill='none' stroke='#8a5a2b' stroke-width='9' d='M 500 700 L 600 780'/><path class='d' data-s='1.5' data-d='0.7' fill='none' stroke='#3a86c8' stroke-width='11' d='M 400 560 L 495 690 M 470 540 L 530 680'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#3a86c8",
+     "s": 1.6,
+     "t": {
+      "en": "SAME ANGLE",
+      "es": "MISMO ÁNGULO",
+      "fr": "MÊME ANGLE",
+      "ja": "同じ角度で"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 6,
+   "step": 3,
+   "caption": {
+    "en": "*3* — *Wash* the spot again and *cover* it if needed.",
+    "es": "*3* — *Lava* de nuevo la zona y *cúbrela* si hace falta.",
+    "fr": "*3* — *Relave* la zone et *couvre-la* si besoin.",
+    "ja": "*3* — *もう一度洗い*、必要なら*覆います*。"
+   },
+   "narration": {
+    "en": "Step three. Wash the spot again with soap and water, and cover it if needed.",
+    "es": "Tres: lava de nuevo la zona con agua y jabón, y cúbrela si hace falta.",
+    "fr": "Trois : relave la zone à l'eau et au savon, et couvre-la si besoin.",
+    "ja": "三つ目、もう一度石けんと水で洗い、必要なら絆創膏で覆います。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 420 980 Q 400 760 470 680 Q 540 620 610 680 Q 680 760 660 980'/><path class='d' data-s='0.9' data-d='0.6' fill='none' stroke='#2a9d8f' stroke-width='11' d='M 440 740 H 640 V 800 H 440 Z'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#2a9d8f",
+     "s": 1.6,
+     "t": {
+      "en": "WASH + COVER",
+      "es": "LAVAR Y CUBRIR",
+      "fr": "LAVER, COUVRIR",
+      "ja": "洗って覆う"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 7,
+   "step": 4,
+   "caption": {
+    "en": "*4* — Don't *dig* with a needle. If it won't come out, *leave it* to a doctor.",
+    "es": "*4* — No *escarbes* con una aguja. Si no sale, *déjalo* en manos del médico.",
+    "fr": "*4* — Ne *fouille* pas avec une aiguille. Si elle ne sort pas, *laisse* un médecin faire.",
+    "ja": "*4* — 針で*ほじらない*。取れないときは*医療機関*へ。"
+   },
+   "narration": {
+    "en": "Step four. Don't dig deep with a needle. If it won't come out, let a doctor do it.",
+    "es": "Cuatro: no escarbes con una aguja. Si no sale, deja que lo haga un médico.",
+    "fr": "Quatre : ne fouille pas avec une aiguille. Si elle ne sort pas, laisse un médecin s'en charger.",
+    "ja": "四つ目、針で深くほじらないでください。取れないときは、医師に任せましょう。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 420 980 Q 400 760 470 680 Q 540 620 610 680 Q 680 760 660 980'/><path class='d' data-s='0.9' data-d='0.5' fill='none' stroke='#8a5a2b' stroke-width='9' d='M 500 700 L 600 780'/><path class='d' data-s='1.2' data-d='0.5' fill='none' stroke='#e63946' stroke-width='12' d='M 780 620 L 900 740 M 900 620 L 780 740'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#e63946",
+     "s": 1.6,
+     "t": {
+      "en": "DON'T DIG",
+      "es": "NO ESCARBES",
+      "fr": "NE FOUILLE PAS",
+      "ja": "ほじらない"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 9,
+   "caption": {
+    "en": "*Deep*, glass, in the *eye*, or *pus*, spreading redness, *fever*? See a *doctor*. Check your *tetanus* shots too.",
+    "es": "¿*Profunda*, de vidrio, en el *ojo*, o con *pus*, enrojecimiento que se extiende o *fiebre*? Ve al *médico*. Revisa también el *tétanos*.",
+    "fr": "*Profonde*, en verre, dans l'*œil*, ou *pus*, rougeur qui s'étend, *fièvre* ? Consulte un *médecin*. Vérifie aussi ton *tétanos*.",
+    "ja": "*深い*、ガラス、*目*の中、または*膿*、広がる赤み、*発熱*は*受診*を。*破傷風*の予防接種も確認しましょう。"
+   },
+   "narration": {
+    "en": "If it's deep, glass, or in the eye, see a doctor. Same for pus, spreading redness, or a fever. Also check that your tetanus shots are up to date.",
+    "es": "Si es profunda, de vidrio o está en el ojo, ve al médico. Lo mismo con pus, enrojecimiento que se extiende o fiebre. Comprueba también que tu vacuna del tétanos esté al día.",
+    "fr": "Si elle est profonde, en verre ou dans l'œil, consulte un médecin. De même en cas de pus, de rougeur qui s'étend ou de fièvre. Vérifie aussi que ton vaccin contre le tétanos est à jour.",
+    "ja": "深いとき、ガラスのとき、目に入ったときは受診してください。膿や、広がる赤み、発熱がある場合も同じです。破傷風の予防接種が済んでいるかも確認しましょう。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.9' fill='none' stroke='#3a86c8' stroke-width='12' d='M 440 640 H 640 V 760 H 760 V 860 H 640 V 980 H 440 V 860 H 320 V 760 H 440 Z'/><path class='f' data-s='0.8' data-d='0.5' data-o='0.25' d='M 440 640 H 640 V 760 H 760 V 860 H 640 V 980 H 440 V 860 H 320 V 760 H 440 Z' fill='#3a86c8' opacity='0'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#3a86c8",
+     "s": 1.6,
+     "t": {
+      "en": "SEE A DOCTOR",
+      "es": "VE AL MÉDICO",
+      "fr": "VOIR UN MÉDECIN",
+      "ja": "受診しよう"
+     },
+     "maxW": 920
+    }
+   ]
+  }
+ ]
+}
