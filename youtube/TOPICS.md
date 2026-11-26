@@ -7,7 +7,7 @@ Covered by ep01-ep20: stroke, heart attack, leg cramps, knuckle cracking, hiccup
 - done: ep21-minor-burn - Minor burn first aid (cool running water 20 min)
 - done: ep22-fainting - Fainting - what to do when someone passes out
 - done: ep24-goosebumps - Why do we get goosebumps?
-- todo: Why do fingers wrinkle in water?
+- in progress: ep31-wrinkly-fingers - Why do fingers wrinkle in water?
 - done: ep26-sprained-ankle - Sprained ankle first aid (PRICE / POLICE)
 - done: ep27-sunburn - Sunburn - treat it and when to worry
 - done: ep29-splinter - How to remove a splinter safely
