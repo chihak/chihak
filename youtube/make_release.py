@@ -45,12 +45,12 @@ L = []
 w = L.append
 w("# Sketch Clinic — YouTube channel setup & upload plan")
 w("")
-w("> **For the user (한국어 요약):** 이 문서를 Aside에게 그대로 넘기면 됩니다. 채널 만들기 → 로고/배너 → 영상 업로드 순서로 진행하고, 영상은 처음엔 **비공개(Private)**로 올립니다. 공개 전환은 직접 확인 후에 하세요.")
+w("> **For the user (한국어 요약):** 이 문서를 Aside에게 그대로 넘기면 됩니다. 채널 만들기 → 로고/배너 → 영상 업로드 순서로 진행하고, 영상은 **공개(Public)**로 올립니다.")
 w("")
 w("## Instructions for the browser agent")
 w("You are working in the user's own browser, already signed in to their Google account. Do the steps in order. "
-  "Do not change any other Google/YouTube settings. Do not make anything Public — leave every video **Private** "
-  "(the user will review and publish). Stop and ask the user if Google asks for a password, phone verification, "
+  "Do not change any other Google/YouTube settings. Publish every video as **Public** "
+  "(the user decided this on 2026-11-26). Stop and ask the user if Google asks for a password, phone verification, "
   "payment, or anything not described here. When done, report the channel URL and the list of uploaded video URLs.")
 w("")
 w("All files are in this folder (`youtube/release/` of the repository branch `claude/vibrant-mayer-8ogz3v`, "
@@ -71,14 +71,14 @@ w("Educational only — not medical advice. If you have symptoms, see a healthca
 w("```")
 w("")
 w("7. Settings → Channel → Basic info: Country = (user's choice), keywords: `health, medical explained, body, shorts, first aid, sketch clinic`.")
-w("8. Settings → Upload defaults: Visibility **Private**, Category **Education**, Audience **No, it's not made for kids**.")
+w("8. Settings → Upload defaults: Visibility **Public**, Category **Education**, Audience **No, it's not made for kids**.")
 w("")
-w("## Step 2 — Upload videos (Private)")
+w("## Step 2 — Upload videos (Public)")
 w("Upload from YouTube Studio → **Create → Upload videos**. For each video below fill in exactly the title, description and tags, then:")
 w("- Audience: **No, it's not made for kids**")
 w("- Show more → Language: the video's language (below); Category: Education")
 w("- Altered or synthetic content: **No** (hand-drawn animation, no realistic people)")
-w("- Visibility: **Private** → Save")
+w("- Visibility: **Public** → Publish")
 w("")
 w("Phase 1 uploads the **English** versions only. The Spanish, French and Japanese versions are ready in the same folders; "
   "upload them only if the user says so (they may become separate channels later).")
@@ -104,7 +104,7 @@ if pending:
     w("These episodes are still being produced and will be added to this plan later: " + ", ".join(pending))
     w("")
 w("## Step 3 — Report back")
-w("Send the user: channel URL, and a table of episode → video URL (all Private).")
+w("Send the user: channel URL, and a table of episode → video URL (all Public).")
 (REL / "UPLOAD_PLAN.md").write_text("\n".join(L))
 print("ready:", [r[0] for r in ready])
 print("pending:", pending)

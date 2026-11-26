@@ -1,9 +1,9 @@
 # Sketch Clinic — YouTube channel setup & upload plan
 
-> **For the user (한국어 요약):** 이 문서를 Aside에게 그대로 넘기면 됩니다. 채널 만들기 → 로고/배너 → 영상 업로드 순서로 진행하고, 영상은 처음엔 **비공개(Private)**로 올립니다. 공개 전환은 직접 확인 후에 하세요.
+> **For the user (한국어 요약):** 이 문서를 Aside에게 그대로 넘기면 됩니다. 채널 만들기 → 로고/배너 → 영상 업로드 순서로 진행하고, 영상은 **공개(Public)**로 올립니다.
 
 ## Instructions for the browser agent
-You are working in the user's own browser, already signed in to their Google account. Do the steps in order. Do not change any other Google/YouTube settings. Do not make anything Public — leave every video **Private** (the user will review and publish). Stop and ask the user if Google asks for a password, phone verification, payment, or anything not described here. When done, report the channel URL and the list of uploaded video URLs.
+You are working in the user's own browser, already signed in to their Google account. Do the steps in order. Do not change any other Google/YouTube settings. Publish every video as **Public** (the user decided this on 2026-11-26). Stop and ask the user if Google asks for a password, phone verification, payment, or anything not described here. When done, report the channel URL and the list of uploaded video URLs.
 
 All files are in this folder (`youtube/release/` of the repository branch `claude/vibrant-mayer-8ogz3v`, download/clone it to the computer first).
 
@@ -21,14 +21,14 @@ Educational only — not medical advice. If you have symptoms, see a healthcare 
 ```
 
 7. Settings → Channel → Basic info: Country = (user's choice), keywords: `health, medical explained, body, shorts, first aid, sketch clinic`.
-8. Settings → Upload defaults: Visibility **Private**, Category **Education**, Audience **No, it's not made for kids**.
+8. Settings → Upload defaults: Visibility **Public**, Category **Education**, Audience **No, it's not made for kids**.
 
-## Step 2 — Upload videos (Private)
+## Step 2 — Upload videos (Public)
 Upload from YouTube Studio → **Create → Upload videos**. For each video below fill in exactly the title, description and tags, then:
 - Audience: **No, it's not made for kids**
 - Show more → Language: the video's language (below); Category: Education
 - Altered or synthetic content: **No** (hand-drawn animation, no realistic people)
-- Visibility: **Private** → Save
+- Visibility: **Public** → Publish
 
 Phase 1 uploads the **English** versions only. The Spanish, French and Japanese versions are ready in the same folders; upload them only if the user says so (they may become separate channels later).
 
@@ -1929,4 +1929,4 @@ Consulte si elle est profonde, en verre, dans l'œil, ne sort pas, ou en cas de 
 - Tags: `とげ, とげ 抜き方, とげ 応急手当, ピンセット, 破傷風, スキンケア, 健康, sketch clinic, shorts`
 
 ## Step 3 — Report back
-Send the user: channel URL, and a table of episode → video URL (all Private).
+Send the user: channel URL, and a table of episode → video URL (all Public).
