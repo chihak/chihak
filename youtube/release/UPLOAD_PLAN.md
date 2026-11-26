@@ -1992,5 +1992,69 @@ Surveille pendant des semaines : éruption qui s'étend, fièvre ou douleurs = c
 ```
 - Tags: `マダニ, マダニ 取り方, ダニ 刺された, 応急手当, ピンセット, ライム病, アウトドア, 健康, sketch clinic, shorts`
 
+### ep31-wrinkly-fingers — English
+- File: `ep31-wrinkly-fingers/ep31-wrinkly-fingers-en.mp4`
+- Video language: English
+- Subtitles file: `ep31-wrinkly-fingers/ep31-wrinkly-fingers-en.srt` (Subtitles → Add language: English → Upload file → With timing)
+- Title: `Why Do Fingers Wrinkle in Water? #Shorts`
+- Description:
+```
+Why do your fingers get wrinkly in water? It's not skin swelling - your nerves narrow tiny blood vessels in your fingertips, pulling the skin into wrinkles. It may even improve grip on wet objects (scientists still debate this).
+It's harmless and fades within minutes of drying. See a doctor if skin stays wrinkled, hurts, itches, or you notice numbness.
+
+Educational only - not medical advice. If you have symptoms, see a healthcare professional.
+
+#Shorts #Health #WrinklyFingers #SketchClinic
+```
+- Tags: `wrinkly fingers, why do fingers wrinkle in water, prune fingers, nervous system, blood vessels, body facts, skin, health, sketch clinic, shorts`
+
+### ep31-wrinkly-fingers — Spanish  *(Phase 2 — only if the user asks)*
+- File: `ep31-wrinkly-fingers/ep31-wrinkly-fingers-es.mp4`
+- Video language: Spanish
+- Subtitles file: `ep31-wrinkly-fingers/ep31-wrinkly-fingers-es.srt` (Subtitles → Add language: Spanish → Upload file → With timing)
+- Title: `¿Por qué se arrugan los dedos en el agua? #Shorts`
+- Description:
+```
+¿Por qué se arrugan los dedos en el agua? No es que la piel se hinche: tus nervios estrechan vasos sanguíneos diminutos de las yemas y la piel se pliega. Quizá mejore el agarre de objetos mojados (los científicos aún lo debaten).
+Es inofensivo y se quita a los pocos minutos de secarte. Ve al médico si la piel sigue arrugada, duele, pica o notas entumecimiento.
+
+Solo con fines educativos; no es consejo médico. Si tienes síntomas, consulta a un profesional de la salud.
+
+#Shorts #Salud #DedosArrugados #SketchClinic
+```
+- Tags: `dedos arrugados, por qué se arrugan los dedos, dedos en el agua, sistema nervioso, vasos sanguíneos, curiosidades del cuerpo, piel, salud, sketch clinic, shorts`
+
+### ep31-wrinkly-fingers — French  *(Phase 2 — only if the user asks)*
+- File: `ep31-wrinkly-fingers/ep31-wrinkly-fingers-fr.mp4`
+- Video language: French
+- Subtitles file: `ep31-wrinkly-fingers/ep31-wrinkly-fingers-fr.srt` (Subtitles → Add language: French → Upload file → With timing)
+- Title: `Pourquoi les doigts se plissent dans l'eau ? #Shorts`
+- Description:
+```
+Pourquoi les doigts se plissent-ils dans l'eau ? Ce n'est pas la peau qui gonfle : tes nerfs resserrent de minuscules vaisseaux du bout des doigts et la peau se replie. Cela pourrait améliorer la prise sur les objets mouillés (les scientifiques en débattent).
+C'est inoffensif et ça disparaît en quelques minutes une fois sec. Consulte si la peau reste plissée, fait mal, démange ou s'engourdit.
+
+À but éducatif uniquement — pas un avis médical. Si tu as des symptômes, consulte un professionnel de santé.
+
+#Shorts #Santé #DoigtsPlissés #SketchClinic
+```
+- Tags: `doigts plissés, pourquoi les doigts se plissent, doigts dans l'eau, système nerveux, vaisseaux sanguins, corps humain, peau, santé, sketch clinic, shorts`
+
+### ep31-wrinkly-fingers — Japanese  *(Phase 2 — only if the user asks)*
+- File: `ep31-wrinkly-fingers/ep31-wrinkly-fingers-ja.mp4`
+- Video language: Japanese
+- Subtitles file: `ep31-wrinkly-fingers/ep31-wrinkly-fingers-ja.srt` (Subtitles → Add language: Japanese → Upload file → With timing)
+- Title: `水で指がふやけるのはなぜ？ #Shorts`
+- Description:
+```
+水につかると指がしわしわになるのはなぜ？ 皮ふが水を吸って膨らむのではなく、神経の働きで指先の細い血管が縮み、皮ふが引っ張られてしわになります。濡れた物をつかみやすくする効果があるかもしれません（科学者の間では議論中）。
+無害で、乾けば数分で元に戻ります。しわが続く、痛い、かゆい、しびれがある場合は受診を。
+
+教育目的の情報であり、医療アドバイスではありません。症状がある場合は医療機関を受診してください。
+
+#Shorts #健康 #指のしわ #SketchClinic
+```
+- Tags: `指 ふやける, 指 しわしわ 水, 神経, 血管, 体の豆知識, 皮ふ, 健康, sketch clinic, shorts`
+
 ## Step 3 — Report back
 Send the user: channel URL, and a table of episode → video URL (all Public).
