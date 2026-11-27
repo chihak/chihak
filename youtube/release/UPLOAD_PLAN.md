@@ -2384,5 +2384,77 @@ Appelle les urgences si la crise dure plus de 5 minutes, si c'est sa première c
 ```
 - Tags: `けいれん 応急手当, けいれん発作 対処, てんかん, けいれん, 発作, 回復体位, 応急手当, 救急, 健康, sketch clinic, shorts`
 
+### ep37-concussion — English
+- File: `ep37-concussion/ep37-concussion-en.mp4`
+- Video language: English
+- Subtitles file: `ep37-concussion/ep37-concussion-en.srt` (Subtitles → Add language: English → Upload file → With timing)
+- Title: `Hit Your Head? Concussion Signs + When to Get Help #Shorts`
+- Description:
+```
+A concussion is a brief brain injury caused by a knock or jolt to the head. You don't have to pass out to get one.
+Signs to watch for: headache, dizziness, feeling sick, confusion, blurry vision or memory problems.
+Call emergency services if they won't wake up, have a seizure, can't stay awake, struggle to speak, or have weak arms or legs. Go to the emergency department if they were knocked out even briefly, vomit, have a headache that keeps getting worse, act strangely, or take blood thinners.
+Otherwise: rest, have an adult stay with them for the first 24 hours, use paracetamol for headaches, and avoid alcohol. No contact sport for at least 3 weeks, and don't drive until fully better. Most people recover within 2 weeks.
+
+Educational only - not medical advice. If you have symptoms, see a healthcare professional.
+
+#Shorts #Health #FirstAid #SketchClinic
+```
+- Tags: `concussion, concussion symptoms, head injury, hit my head, head injury warning signs, when to go to the ER, brain injury, first aid, health, sketch clinic, shorts`
+
+### ep37-concussion — Spanish  *(Phase 2 — only if the user asks)*
+- File: `ep37-concussion/ep37-concussion-es.mp4`
+- Video language: Spanish
+- Subtitles file: `ep37-concussion/ep37-concussion-es.srt` (Subtitles → Add language: Spanish → Upload file → With timing)
+- Title: `¿Golpe en la cabeza? Señales de conmoción cerebral #Shorts`
+- Description:
+```
+Una conmoción cerebral es una lesión breve del cerebro por un golpe o sacudida en la cabeza. No hace falta desmayarse para tenerla.
+Señales: dolor de cabeza, mareo, náuseas, confusión, visión borrosa o problemas de memoria.
+Llama a emergencias si no despierta, tiene una convulsión, no puede mantenerse despierto, le cuesta hablar o tiene debilidad en brazos o piernas. Ve a urgencias si perdió el conocimiento aunque sea un momento, vomita, el dolor de cabeza empeora, se comporta raro o toma anticoagulantes.
+Si no: descanso, que un adulto le acompañe las primeras 24 horas, paracetamol para el dolor de cabeza y nada de alcohol. Nada de deportes de contacto durante al menos 3 semanas y no conduzcas hasta estar bien. La mayoría se recupera en 2 semanas.
+
+Solo con fines educativos; no es consejo médico. Si tienes síntomas, consulta a un profesional de la salud.
+
+#Shorts #Salud #PrimerosAuxilios #SketchClinic
+```
+- Tags: `conmoción cerebral, síntomas de conmoción, golpe en la cabeza, traumatismo craneal, señales de alarma, cuándo ir a urgencias, lesión cerebral, primeros auxilios, salud, sketch clinic, shorts`
+
+### ep37-concussion — French  *(Phase 2 — only if the user asks)*
+- File: `ep37-concussion/ep37-concussion-fr.mp4`
+- Video language: French
+- Subtitles file: `ep37-concussion/ep37-concussion-fr.srt` (Subtitles → Add language: French → Upload file → With timing)
+- Title: `Choc à la tête ? Les signes d'une commotion #Shorts`
+- Description:
+```
+Une commotion cérébrale est une lésion brève du cerveau causée par un coup ou une secousse à la tête. Pas besoin de perdre connaissance pour en avoir une.
+Les signes : mal de tête, vertiges, nausées, confusion, vue floue ou trous de mémoire.
+Appelle les urgences s'il ne se réveille pas, fait une crise convulsive, n'arrive pas à rester éveillé, a du mal à parler ou les bras ou jambes faibles. Va aux urgences s'il a perdu connaissance, même brièvement, vomit, a un mal de tête qui empire, se comporte bizarrement ou prend des anticoagulants.
+Sinon : repos, un adulte reste avec lui les 24 premières heures, du paracétamol pour le mal de tête, et pas d'alcool. Pas de sport de contact pendant au moins 3 semaines, et ne conduis pas avant d'aller mieux. La plupart guérissent en 2 semaines.
+
+À but éducatif uniquement — pas un avis médical. Si tu as des symptômes, consulte un professionnel de santé.
+
+#Shorts #Santé #PremiersSecours #SketchClinic
+```
+- Tags: `commotion cérébrale, symptômes commotion, choc à la tête, traumatisme crânien, signes d'alerte, quand aller aux urgences, blessure au cerveau, premiers secours, santé, sketch clinic, shorts`
+
+### ep37-concussion — Japanese  *(Phase 2 — only if the user asks)*
+- File: `ep37-concussion/ep37-concussion-ja.mp4`
+- Video language: Japanese
+- Subtitles file: `ep37-concussion/ep37-concussion-ja.srt` (Subtitles → Add language: Japanese → Upload file → With timing)
+- Title: `頭を打った？ 脳しんとうのサインと受診の目安 #Shorts`
+- Description:
+```
+脳しんとうは、頭への打撲や強い揺れによる一時的な脳のけがです。気を失わなくても起こります。
+注意するサイン：頭痛、めまい、吐き気、混乱、かすみ目、もの忘れ。
+意識が戻らない、けいれん、起きていられない、話しにくい、手足に力が入らないときはすぐ救急車を。少しでも気を失った、吐いた、頭痛が悪化する、様子がおかしい、血液をサラサラにする薬を飲んでいる場合は救急外来へ。
+それ以外は安静に。最初の24時間は大人がそばにいて、頭痛にはアセトアミノフェン、お酒は控えて。接触スポーツは少なくとも3週間休み、すっかり治るまで運転しないで。多くは2週間ほどで回復します。
+
+教育目的の情報であり、医療アドバイスではありません。症状がある場合は医療機関を受診してください。
+
+#Shorts #健康 #応急手当 #SketchClinic
+```
+- Tags: `脳しんとう, 脳震盪 症状, 頭を打った, 頭部外傷, 危険なサイン, 受診の目安, 脳のけが, 応急手当, 健康, sketch clinic, shorts`
+
 ## Step 3 — Report back
 Send the user: channel URL, and a table of episode → video URL (all Public).
