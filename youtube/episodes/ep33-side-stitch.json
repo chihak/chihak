@@ -1,0 +1,168 @@
+{
+ "id": "ep33-side-stitch",
+ "title": {
+  "en": "Why Do You Get a *Side Stitch*?",
+  "es": "¿Por qué da *flato* al correr?",
+  "fr": "Pourquoi le *point de côté* ?",
+  "ja": "走ると*わき腹が痛い*のはなぜ？"
+ },
+ "coverTime": 4.0,
+ "scenes": [
+  {
+   "dur": 6,
+   "caption": {
+    "en": "Sharp *pain in your side* when you run? That's a *stitch*.",
+    "es": "¿Un *dolor agudo en el costado* al correr? Es el *flato*.",
+    "fr": "Une *douleur vive au côté* en courant ? C'est un *point de côté*.",
+    "ja": "走ると*わき腹がズキッ*と痛む？ それが*わき腹痛*です。"
+   },
+   "svg": "<circle class='d' data-s='0' data-d='0.4' cx='540' cy='560' r='55' fill='none' stroke='#1d1d1d' stroke-width='11'/><path class='d' data-s='0.4' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 530 615 L 500 800'/><path class='d' data-s='0.8' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 500 800 L 420 900 L 380 990'/><path class='d' data-s='1.0' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 500 800 L 600 880 L 590 990'/><path class='d' data-s='1.2' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 520 670 L 440 740 L 400 700'/><path class='d' data-s='1.3' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 520 670 L 610 720 L 660 660'/><path class='d' data-s='1.8' data-d='0.5' fill='none' stroke='#e63946' stroke-width='10' d='M 540 720 L 575 745 L 545 765 L 580 790'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#e63946",
+     "s": 1.6,
+     "t": {
+      "en": "SIDE STITCH",
+      "es": "FLATO",
+      "fr": "POINT DE CÔTÉ",
+      "ja": "わき腹痛"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 9,
+   "caption": {
+    "en": "It's usually just *under the ribs*, often on the *right*. It's common in *running*, *swimming* and *horse riding*.",
+    "es": "Suele estar *bajo las costillas*, a menudo a la *derecha*. Es común al *correr*, *nadar* o *montar a caballo*.",
+    "fr": "Il se situe souvent *sous les côtes*, plutôt à *droite*. Fréquent en *course*, *natation* ou *équitation*.",
+    "ja": "たいてい*肋骨のすぐ下*、よく*右側*に出ます。*ランニング*や*水泳*、*乗馬*でよく起こります。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 400 560 Q 380 760 420 960 L 660 960 Q 700 760 680 560 Q 540 500 400 560 Z'/><path class='d' data-s='0.8' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='7' d='M 420 640 Q 540 600 660 640'/><path class='d' data-s='1.0' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='7' d='M 415 700 Q 540 660 665 700'/><path class='d' data-s='1.2' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='7' d='M 412 760 Q 540 720 668 760'/><circle class='d' data-s='1.6' data-d='0.6' cx='600' cy='830' r='50' fill='none' stroke='#e63946' stroke-width='10'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#e63946",
+     "s": 1.6,
+     "t": {
+      "en": "UNDER THE RIBS",
+      "es": "BAJO LAS COSTILLAS",
+      "fr": "SOUS LES CÔTES",
+      "ja": "肋骨の下"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 9,
+   "caption": {
+    "en": "The exact cause is *unknown*. One idea: the *lining* inside your belly gets *irritated* as it rubs and jolts.",
+    "es": "La causa exacta se *desconoce*. Una idea: el *revestimiento* del abdomen se *irrita* con el roce y los golpes.",
+    "fr": "La cause exacte est *inconnue*. Une piste : la *membrane* du ventre s'*irrite* avec les frottements et secousses.",
+    "ja": "はっきりした原因は*不明*です。一説では、おなかの内側の*膜*が、こすれや揺れで*刺激*されるため。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 400 560 Q 380 760 420 960 L 660 960 Q 700 760 680 560 Q 540 500 400 560 Z'/><path class='d' data-s='0.8' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='7' d='M 420 640 Q 540 600 660 640'/><path class='d' data-s='1.0' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='7' d='M 415 700 Q 540 660 665 700'/><path class='d' data-s='1.2' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='7' d='M 412 760 Q 540 720 668 760'/><path class='d' data-s='1.6' data-d='0.8' fill='none' stroke='#e63946' stroke-width='9' d='M 430 820 Q 450 800 470 820 Q 490 840 510 820 Q 530 800 550 820 Q 570 840 590 820 Q 610 800 630 820 Q 650 840 660 820'/><path class='d' data-s='2.4' data-d='0.4' fill='none' stroke='#3a86c8' stroke-width='8' d='M 330 760 L 370 790 M 330 860 L 370 840 M 750 760 L 710 790 M 750 860 L 710 840'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#3a86c8",
+     "s": 1.6,
+     "t": {
+      "en": "CAUSE UNCLEAR",
+      "es": "CAUSA INCIERTA",
+      "fr": "CAUSE INCERTAINE",
+      "ja": "原因ははっきりしない"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 8,
+   "caption": {
+    "en": "A *big meal* or *sugary drinks* before exercise make it *more likely*. Eat 2 hours before and *sip* water.",
+    "es": "Una *comida copiosa* o *bebidas azucaradas* antes del ejercicio lo hacen *más probable*. Come 2 horas antes y bebe a *sorbos*.",
+    "fr": "Un *gros repas* ou des *boissons sucrées* avant l'effort le rendent *plus probable*. Mange 2 h avant et bois par *gorgées*.",
+    "ja": "運動前の*食べすぎ*や*甘い飲み物*で起こり*やすく*なります。食事は2時間前までに、水は*少しずつ*。"
+   },
+   "svg": "<circle class='d' data-s='0' data-d='0.7' cx='420' cy='820' r='130' fill='none' stroke='#1d1d1d' stroke-width='11'/><circle class='d' data-s='0.6' data-d='0.5' cx='420' cy='820' r='80' fill='none' stroke='#1d1d1d' stroke-width='7'/><path class='d' data-s='1.0' data-d='0.7' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 640 700 L 660 960 L 760 960 L 780 700 Z'/><path class='d' data-s='1.6' data-d='0.5' fill='none' stroke='#3a86c8' stroke-width='8' d='M 650 780 Q 710 760 770 780'/><path class='d' data-s='2.1' data-d='0.5' fill='none' stroke='#e63946' stroke-width='12' d='M 290 680 L 550 960'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#e63946",
+     "s": 1.6,
+     "t": {
+      "en": "EAT EARLIER",
+      "es": "COME ANTES",
+      "fr": "MANGE PLUS TÔT",
+      "ja": "食事は早めに"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 10,
+   "caption": {
+    "en": "To ease it: *slow down* or walk, take *slow, deep breaths*, *press* on the spot, and *stretch* the other arm overhead.",
+    "es": "Para aliviarlo: *baja el ritmo* o camina, respira *lento y hondo*, *presiona* la zona y *estira* el otro brazo hacia arriba.",
+    "fr": "Pour le soulager : *ralentis* ou marche, respire *lentement et profondément*, *appuie* sur la zone et *étire* l'autre bras au-dessus de la tête.",
+    "ja": "和らげるには、*ペースを落とす*か歩き、*ゆっくり深呼吸*。痛む所を*押さえ*、反対の腕を上に*伸ばし*ます。"
+   },
+   "svg": "<circle class='d' data-s='0' data-d='0.4' cx='540' cy='560' r='55' fill='none' stroke='#1d1d1d' stroke-width='11'/><path class='d' data-s='0.4' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 540 615 L 540 820'/><path class='d' data-s='0.8' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 540 820 L 480 990 M 540 820 L 600 990'/><path class='d' data-s='1.1' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 540 660 L 470 560 L 450 450'/><path class='d' data-s='1.4' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 540 670 L 620 730 L 580 760'/><circle class='d' data-s='1.8' data-d='0.4' cx='580' cy='760' r='26' fill='none' stroke='#e63946' stroke-width='9'/><path class='d' data-s='2.2' data-d='0.6' fill='none' stroke='#3a86c8' stroke-width='8' d='M 640 560 Q 690 540 720 570 M 650 600 Q 710 590 740 620'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#2a9d8f",
+     "s": 1.6,
+     "t": {
+      "en": "BREATHE + STRETCH",
+      "es": "RESPIRA Y ESTIRA",
+      "fr": "RESPIRE ET ÉTIRE",
+      "ja": "深呼吸＋ストレッチ"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 10,
+   "caption": {
+    "en": "It should *fade* within minutes of stopping. *Chest pain*, *breathlessness* or pain that *won't go away*? Get *urgent help*.",
+    "es": "Debería *pasar* a los pocos minutos de parar. ¿*Dolor en el pecho*, *falta de aire* o dolor que *no se va*? Pide *ayuda urgente*.",
+    "fr": "Il doit *passer* quelques minutes après l'arrêt. *Douleur thoracique*, *essoufflement* ou douleur qui *persiste* ? Appelle les *urgences*.",
+    "ja": "止まれば数分で*おさまる*はず。*胸の痛み*、*息苦しさ*、*治まらない痛み*があれば、すぐに*救急*へ。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.9' fill='none' stroke='#e63946' stroke-width='12' d='M 540 980 Q 340 830 360 690 Q 380 580 470 590 Q 520 600 540 660 Q 560 600 610 590 Q 700 580 720 690 Q 740 830 540 980 Z'/><path class='d' data-s='1.0' data-d='0.6' fill='none' stroke='#e63946' stroke-width='10' d='M 420 760 L 490 760 L 515 700 L 555 830 L 585 760 L 660 760'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#e63946",
+     "s": 1.6,
+     "t": {
+      "en": "RED FLAGS: GET HELP",
+      "es": "SEÑALES DE ALARMA",
+      "fr": "SIGNES D'ALERTE",
+      "ja": "危険なサインは受診"
+     },
+     "maxW": 920
+    }
+   ]
+  }
+ ]
+}

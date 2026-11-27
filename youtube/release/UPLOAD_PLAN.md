@@ -2120,5 +2120,69 @@ Ce qui aide : regarder l'horizon, s'asseoir à l'avant ou au milieu du bateau, �
 ```
 - Tags: `乗り物酔い, 車酔い, 船酔い, 酔い止め, 内耳, 吐き気, 旅行, 健康, sketch clinic, shorts`
 
+### ep33-side-stitch — English
+- File: `ep33-side-stitch/ep33-side-stitch-en.mp4`
+- Video language: English
+- Subtitles file: `ep33-side-stitch/ep33-side-stitch-en.srt` (Subtitles → Add language: English → Upload file → With timing)
+- Title: `Why Do You Get a Side Stitch When Running? #Shorts`
+- Description:
+```
+That sharp pain under your ribs when you run is a side stitch (exercise-related transient abdominal pain). The exact cause is unknown - one idea is irritation of the lining inside your belly. Big meals or sugary drinks before exercise make it more likely.
+To ease it: slow down or walk, take slow deep breaths, press on the spot and stretch the opposite arm overhead. It should fade within minutes of stopping. Chest pain, breathlessness, or pain that won't go away? Get urgent medical help.
+
+Educational only - not medical advice. If you have symptoms, see a healthcare professional.
+
+#Shorts #Health #Running #SketchClinic
+```
+- Tags: `side stitch, stitch when running, side cramp, running tips, exercise, abdominal pain, fitness, health, sketch clinic, shorts`
+
+### ep33-side-stitch — Spanish  *(Phase 2 — only if the user asks)*
+- File: `ep33-side-stitch/ep33-side-stitch-es.mp4`
+- Video language: Spanish
+- Subtitles file: `ep33-side-stitch/ep33-side-stitch-es.srt` (Subtitles → Add language: Spanish → Upload file → With timing)
+- Title: `¿Por qué da flato al correr? #Shorts`
+- Description:
+```
+Ese dolor agudo bajo las costillas al correr es el flato (dolor abdominal transitorio por ejercicio). La causa exacta se desconoce; una idea es que se irrita el revestimiento interno del abdomen. Comer mucho o tomar bebidas azucaradas antes del ejercicio lo hace más probable.
+Para aliviarlo: baja el ritmo o camina, respira lento y hondo, presiona la zona y estira el brazo contrario hacia arriba. Debería pasar a los pocos minutos de parar. ¿Dolor en el pecho, falta de aire o dolor que no se va? Pide ayuda médica urgente.
+
+Solo con fines educativos; no es consejo médico. Si tienes síntomas, consulta a un profesional de la salud.
+
+#Shorts #Salud #Correr #SketchClinic
+```
+- Tags: `flato, flato al correr, dolor de costado, correr, ejercicio, dolor abdominal, deporte, salud, sketch clinic, shorts`
+
+### ep33-side-stitch — French  *(Phase 2 — only if the user asks)*
+- File: `ep33-side-stitch/ep33-side-stitch-fr.mp4`
+- Video language: French
+- Subtitles file: `ep33-side-stitch/ep33-side-stitch-fr.srt` (Subtitles → Add language: French → Upload file → With timing)
+- Title: `Pourquoi a-t-on un point de côté en courant ? #Shorts`
+- Description:
+```
+Cette douleur vive sous les côtes en courant, c'est le point de côté (douleur abdominale transitoire liée à l'effort). La cause exacte est inconnue ; une piste est l'irritation de la membrane qui tapisse le ventre. Un gros repas ou des boissons sucrées avant l'effort le rendent plus probable.
+Pour le soulager : ralentis ou marche, respire lentement et profondément, appuie sur la zone et étire le bras opposé au-dessus de la tête. Il doit passer quelques minutes après l'arrêt. Douleur thoracique, essoufflement ou douleur qui persiste ? Appelle les urgences.
+
+À but éducatif uniquement — pas un avis médical. Si tu as des symptômes, consulte un professionnel de santé.
+
+#Shorts #Santé #Course #SketchClinic
+```
+- Tags: `point de côté, point de côté course, douleur au côté, course à pied, sport, douleur abdominale, forme, santé, sketch clinic, shorts`
+
+### ep33-side-stitch — Japanese  *(Phase 2 — only if the user asks)*
+- File: `ep33-side-stitch/ep33-side-stitch-ja.mp4`
+- Video language: Japanese
+- Subtitles file: `ep33-side-stitch/ep33-side-stitch-ja.srt` (Subtitles → Add language: Japanese → Upload file → With timing)
+- Title: `走るとわき腹が痛くなるのはなぜ？ #Shorts`
+- Description:
+```
+走ると肋骨の下がズキッと痛む「わき腹痛」。はっきりした原因は不明ですが、おなかの内側の膜が刺激されるという説があります。運動前の食べすぎや甘い飲み物で起こりやすくなります。
+和らげるには、ペースを落とすか歩き、ゆっくり深呼吸。痛む所を押さえ、反対の腕を上に伸ばします。止まれば数分でおさまるはず。胸の痛み、息苦しさ、治まらない痛みがあれば、すぐに救急へ。
+
+教育目的の情報であり、医療アドバイスではありません。症状がある場合は医療機関を受診してください。
+
+#Shorts #健康 #ランニング #SketchClinic
+```
+- Tags: `わき腹痛, わき腹 痛い 走る, 横腹 痛い, ランニング, 運動, 腹痛, 健康, sketch clinic, shorts`
+
 ## Step 3 — Report back
 Send the user: channel URL, and a table of episode → video URL (all Public).

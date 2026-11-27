@@ -15,7 +15,7 @@ Covered by ep01-ep20: stroke, heart attack, leg cramps, knuckle cracking, hiccup
 - todo: Dehydration signs and what to do
 - done: ep28-blisters - Blisters - to pop or not to pop
 - todo: Black eye / blow to the eye - when to get checked
-- in progress: ep33-side-stitch - Why do we get a stitch (side cramp) when running?
+- done: ep33-side-stitch - Why do we get a stitch (side cramp) when running?
 - done: ep30-tick-bite - Tick bite - how to remove it and what to watch
 - todo: Jellyfish sting first aid
 - todo: Why do we get a lump in the throat when sad?
