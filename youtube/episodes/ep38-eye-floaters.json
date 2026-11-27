@@ -1,0 +1,287 @@
+{
+  "id": "ep38-eye-floaters",
+  "title": {
+    "en": "What Are Those *Floaters* in Your Eyes?",
+    "es": "¿Qué son esas *manchas flotantes* en tus ojos?",
+    "fr": "C'est quoi ces *taches* qui flottent dans tes yeux ?",
+    "ja": "目の前を*ふわふわ*漂うものの正体は？"
+  },
+  "coverTime": 20.0,
+  "scenes": [
+    {
+      "dur": 4.5,
+      "caption": {
+        "en": "Tiny *specks and squiggles* drifting across your vision? You're not imagining them.",
+        "es": "¿Ves *puntitos y hilos* flotando en tu vista? No te lo estás imaginando.",
+        "fr": "Des *points et filaments* qui flottent devant tes yeux ? Tu ne rêves pas.",
+        "ja": "視界に*小さな点や糸くず*がふわふわ？気のせいではありません。"
+      },
+      "svg": "<path class='d' data-s='0' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 200 500 L 880 500 Q 900 500 900 520 L 900 1080 Q 900 1100 880 1100 L 200 1100 Q 180 1100 180 1080 L 180 520 Q 180 500 200 500 Z'/><circle class='d' data-s='0.4' data-d='0.5' cx='770' cy='620' r='55' fill='none' stroke='#e0a800' stroke-width='9'/><path class='d' data-s='0.7' data-d='0.4' fill='none' stroke='#e0a800' stroke-width='7' d='M 770 535 L 770 510 M 770 705 L 770 730 M 685 620 L 660 620 M 855 620 L 880 620 M 710 560 L 692 542 M 830 560 L 848 542 M 710 680 L 692 698 M 830 680 L 848 698'/><path class='d' data-s='0.9' data-d='0.7' fill='none' stroke='#555' stroke-width='8' d='M 300 760 C 360 690 420 850 480 760 S 580 690 620 790'/><circle class='p' data-s='1.3' data-d='0.3' cx='330' cy='920' r='16' fill='none' stroke='#1d1d1d' stroke-width='6'/><circle class='p' data-s='1.4' data-d='0.3' cx='362' cy='935' r='13' fill='none' stroke='#1d1d1d' stroke-width='6'/><circle class='p' data-s='1.5' data-d='0.3' cx='392' cy='944' r='11' fill='none' stroke='#1d1d1d' stroke-width='6'/><circle class='p' data-s='1.6' data-d='0.3' cx='420' cy='950' r='9' fill='none' stroke='#1d1d1d' stroke-width='6'/><path class='d' data-s='1.4' data-d='0.6' fill='none' stroke='#555' stroke-width='7' d='M 560 900 C 610 870 650 960 700 920 C 740 890 760 960 800 940'/><circle class='p' data-s='1.7' data-d='0.3' cx='450' cy='620' r='14' fill='none' stroke='#1d1d1d' stroke-width='6'/><circle class='p' data-s='1.8' data-d='0.3' cx='520' cy='600' r='9' fill='none' stroke='#1d1d1d' stroke-width='6'/><circle class='p' data-s='1.9' data-d='#555' cx='640' cy='1000' r='9' fill='#1d1d1d'/><circle class='p' data-s='2.0' data-d='#555' cx='260' cy='640' r='8' fill='#1d1d1d'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1205,
+          "size": 96,
+          "color": "#e63946",
+          "s": 2.1,
+          "t": {
+            "en": "WHAT ARE THESE?",
+            "es": "¿QUÉ SON?",
+            "fr": "C'EST QUOI ?",
+            "ja": "これは何？"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 5.5,
+      "caption": {
+        "en": "Doctors call them *floaters*. Their old Latin name: *muscae volitantes*.",
+        "es": "Se llaman *moscas volantes*, del latín *muscae volitantes*.",
+        "fr": "On les appelle *corps flottants* ou *mouches volantes*, du latin *muscae volitantes*.",
+        "ja": "これが「*飛蚊症*」。蚊が飛んでいるように見えるのが名前の由来です。"
+      },
+      "svg": "<ellipse class='d' data-s='0' data-d='0.6' cx='540' cy='740' rx='70' ry='95' fill='none' stroke='#1d1d1d' stroke-width='10'/><circle class='d' data-s='0.3' data-d='0.4' cx='540' cy='615' r='42' fill='none' stroke='#1d1d1d' stroke-width='10'/><circle class='p' data-s='0.6' data-d='0.3' cx='522' cy='605' r='9' fill='#1d1d1d'/><circle class='p' data-s='0.6' data-d='0.3' cx='558' cy='605' r='9' fill='#1d1d1d'/><ellipse class='d' data-s='0.6' data-d='0.5' cx='420' cy='640' rx='110' ry='50' transform='rotate(25 420 640)' fill='none' stroke='#888' stroke-width='8'/><ellipse class='d' data-s='0.7' data-d='0.5' cx='660' cy='640' rx='110' ry='50' transform='rotate(-25 660 640)' fill='none' stroke='#888' stroke-width='8'/><path class='d' data-s='0.9' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='7' d='M 480 700 L 420 760 L 400 820 M 475 760 L 410 820 L 400 880 M 600 700 L 660 760 L 680 820 M 605 760 L 670 820 L 680 880'/><path class='d' data-s='1.0' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='7' d='M 470 830 L 610 830 M 480 870 L 600 870'/><path class='d' data-s='1.2' data-d='0.4' fill='none' stroke='#e63946' stroke-width='8' stroke-dasharray='14 12' d='M 200 760 L 280 760 M 180 820 L 290 820 M 820 760 L 880 760 M 800 820 L 900 820'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1000,
+          "size": 56,
+          "color": "#1d1d1d",
+          "s": 1.6,
+          "t": {
+            "en": "Latin for “flying flies”",
+            "es": "«moscas volantes» en latín",
+            "fr": "« mouches volantes » en latin",
+            "ja": "「飛ぶ蚊」のように見える"
+          },
+          "weight": 700,
+          "maxW": 820
+        },
+        {
+          "x": 540,
+          "y": 1205,
+          "size": 88,
+          "color": "#e63946",
+          "s": 1.0,
+          "t": {
+            "en": "MUSCAE VOLITANTES",
+            "es": "MUSCAE VOLITANTES",
+            "fr": "MUSCAE VOLITANTES",
+            "ja": "飛蚊症"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 5,
+      "caption": {
+        "en": "Your eyeball is filled with a clear jelly called the *vitreous*.",
+        "es": "Tu ojo está lleno de un gel transparente: el *humor vítreo*.",
+        "fr": "Ton œil est rempli d'un gel transparent : le *vitré*.",
+        "ja": "眼球の中は、*硝子体*という透明なゼリーで満たされています。"
+      },
+      "svg": "<path class='f' data-s='0.5' data-d='0.5' data-o='0.15' fill='#888' opacity='0' d='M 315 790 a 245 245 0 1 0 490 0 a 245 245 0 1 0 -490 0 Z'/><circle class='d' data-s='0' data-d='0.9' cx='560' cy='790' r='260' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='0.4' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 335 670 Q 255 790 335 910'/><path class='d' data-s='0.6' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 335 700 L 335 745 M 335 835 L 335 880'/><path class='d' data-s='0.6' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 365 705 Q 400 790 365 875 Q 330 790 365 705 Z'/><path class='d' data-s='0.8' data-d='0.6' fill='none' stroke='#e63946' stroke-width='9' d='M 682 578 A 245 245 0 0 1 682 1002'/><path class='d' data-s='0.9' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 815 755 L 905 735 M 815 825 L 905 845'/><path class='d' data-s='0' data-d='0.1' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 560 790 L 560 790'/>",
+      "texts": [
+        {
+          "x": 330,
+          "y": 500,
+          "size": 46,
+          "color": "#1d1d1d",
+          "s": 0.9,
+          "t": {
+            "en": "lens",
+            "es": "cristalino",
+            "fr": "cristallin",
+            "ja": "水晶体"
+          },
+          "weight": 700,
+          "maxW": 260
+        },
+        {
+          "x": 860,
+          "y": 545,
+          "size": 46,
+          "color": "#e63946",
+          "s": 1.2,
+          "t": {
+            "en": "retina",
+            "es": "retina",
+            "fr": "rétine",
+            "ja": "網膜"
+          },
+          "weight": 700,
+          "maxW": 200
+        },
+        {
+          "x": 540,
+          "y": 1205,
+          "size": 96,
+          "color": "#e63946",
+          "s": 1.4,
+          "t": {
+            "en": "VITREOUS GEL",
+            "es": "HUMOR VÍTREO",
+            "fr": "LE VITRÉ",
+            "ja": "硝子体"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 6,
+      "caption": {
+        "en": "Tiny *clumps* of fibers in that gel cast *shadows* on the retina. That's what you see.",
+        "es": "Pequeños *grumos* de fibras en el gel proyectan *sombras* en la retina. Eso es lo que ves.",
+        "fr": "De petits *amas* de fibres dans le gel projettent des *ombres* sur la rétine. C'est ça que tu vois.",
+        "ja": "ゼリーの中の*小さな濁り*が網膜に*影*を落とす。それが見えているのです。"
+      },
+      "svg": "<path class='f' data-s='0.5' data-d='0.5' data-o='0.15' fill='#888' opacity='0' d='M 315 790 a 245 245 0 1 0 490 0 a 245 245 0 1 0 -490 0 Z'/><circle class='d' data-s='0' data-d='0.9' cx='560' cy='790' r='260' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='0.4' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 335 670 Q 255 790 335 910'/><path class='d' data-s='0.6' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 335 700 L 335 745 M 335 835 L 335 880'/><path class='d' data-s='0.6' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 365 705 Q 400 790 365 875 Q 330 790 365 705 Z'/><path class='d' data-s='0.8' data-d='0.6' fill='none' stroke='#e63946' stroke-width='9' d='M 682 578 A 245 245 0 0 1 682 1002'/><path class='d' data-s='0.9' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 815 755 L 905 735 M 815 825 L 905 845'/><path class='d' data-s='0.9' data-d='0.7' fill='none' stroke='#f0b400' stroke-width='9' d='M 150 700 L 365 735 L 803 790'/><path class='d' data-s='0.9' data-d='0.7' fill='none' stroke='#f0b400' stroke-width='9' d='M 150 880 L 365 845 L 803 790'/><path class='d' data-s='1.5' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 580 760 C 600 720 630 800 655 760 C 675 730 700 780 690 805'/><circle class='p' data-s='1.8' data-d='0.3' cx='620' cy='812' r='10' fill='none' stroke='#1d1d1d' stroke-width='6'/><circle class='p' data-s='1.9' data-d='0.3' cx='642' cy='822' r='8' fill='none' stroke='#1d1d1d' stroke-width='6'/><path class='f' data-s='2.3' data-d='0.5' data-o='0.85' fill='none' stroke='#1d1d1d' stroke-width='30' opacity='0' d='M 790 715 A 245 245 0 0 1 804 800'/><path class='d' data-s='2.2' data-d='0.4' fill='none' stroke='#888' stroke-width='6' stroke-dasharray='10 10' d='M 700 790 L 770 760'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1205,
+          "size": 104,
+          "color": "#e63946",
+          "s": 2.5,
+          "t": {
+            "en": "SHADOWS",
+            "es": "SOMBRAS",
+            "fr": "DES OMBRES",
+            "ja": "影が映る"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 5,
+      "caption": {
+        "en": "They *drift* when your eyes move — easiest to spot against a *bright sky* or *white screen*.",
+        "es": "Se *mueven* con tus ojos y se notan más con *cielo claro* o *pantalla blanca*.",
+        "fr": "Elles *bougent* avec tes yeux, surtout visibles sur un *ciel clair* ou un *écran blanc*.",
+        "ja": "目を動かすと*ふわっと*移動。*明るい空*や*白い画面*で目立ちます。"
+      },
+      "svg": "<path class='d' data-s='0' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 230 540 L 850 540 L 850 960 L 230 960 Z'/><path class='d' data-s='0.5' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 540 960 L 540 1030 M 420 1040 L 660 1040'/><path class='d' data-s='0.8' data-d='0.6' fill='none' stroke='#555' stroke-width='8' d='M 380 700 C 430 640 480 760 530 700 S 620 650 650 720'/><circle class='p' data-s='1.1' data-d='0.3' cx='420' cy='820' r='14' fill='none' stroke='#1d1d1d' stroke-width='6'/><circle class='p' data-s='1.2' data-d='0.3' cx='450' cy='834' r='11' fill='none' stroke='#1d1d1d' stroke-width='6'/><circle class='p' data-s='1.3' data-d='0.3' cx='476' cy='842' r='9' fill='none' stroke='#1d1d1d' stroke-width='6'/><circle class='p' data-s='1.3' data-d='0.3' cx='700' cy='640' r='12' fill='none' stroke='#1d1d1d' stroke-width='6'/><path class='d' data-s='1.5' data-d='0.6' fill='none' stroke='#e63946' stroke-width='9' d='M 330 900 Q 540 860 750 900 M 715 875 L 752 900 L 712 920'/><path class='d' data-s='1.8' data-d='0.5' fill='none' stroke='#e63946' stroke-width='8' d='M 680 780 Q 720 740 770 760 M 740 735 L 772 760 L 738 782'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1205,
+          "size": 96,
+          "color": "#e63946",
+          "s": 1.6,
+          "t": {
+            "en": "THEY DRIFT",
+            "es": "SE MUEVEN",
+            "fr": "ELLES DÉRIVENT",
+            "ja": "ふわふわ動く"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 5.5,
+      "caption": {
+        "en": "Very common, especially *with age* as the gel slowly gets more watery. Usually *harmless*.",
+        "es": "Son muy comunes, sobre todo *con la edad*, al volverse el gel más líquido. Suelen ser *inofensivas*.",
+        "fr": "Très fréquent, surtout *avec l'âge*, quand le gel devient plus liquide. En général *bénin*.",
+        "ja": "とてもよくある現象。*年齢とともに*ゼリーが水っぽくなり増えます。多くは*無害*。"
+      },
+      "svg": "<path class='f' data-s='0.4' data-d='0.5' data-o='0.18' fill='#888' opacity='0' d='M 200 760 a 140 140 0 1 0 280 0 a 140 140 0 1 0 -280 0 Z'/><circle class='d' data-s='0' data-d='0.7' cx='340' cy='760' r='150' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='f' data-s='0.6' data-d='0.5' data-o='0.18' fill='#888' opacity='0' d='M 600 760 a 140 140 0 1 0 280 0 a 140 140 0 1 0 -280 0 Z'/><circle class='d' data-s='0.2' data-d='0.7' cx='740' cy='760' r='150' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='1.0' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='7' d='M 650 700 C 680 660 720 720 760 690 C 790 670 820 720 800 750'/><path class='d' data-s='1.2' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='7' d='M 660 820 C 700 790 740 860 790 820'/><circle class='p' data-s='1.3' data-d='0.3' cx='700' cy='760' r='9' fill='none' stroke='#1d1d1d' stroke-width='6'/><circle class='p' data-s='1.4' data-d='0.3' cx='830' cy='800' r='8' fill='none' stroke='#1d1d1d' stroke-width='6'/><path class='d' data-s='1.4' data-d='0.5' fill='none' stroke='#888' stroke-width='6' d='M 620 860 Q 680 840 740 870 Q 800 895 860 860'/><path class='d' data-s='1.0' data-d='0.4' fill='none' stroke='#e63946' stroke-width='9' d='M 490 760 L 580 760 M 555 735 L 582 760 L 555 785'/><path class='d' data-s='2.2' data-d='0.5' fill='none' stroke='#e63946' stroke-width='16' d='M 470 1000 L 520 1050 L 620 950'/>",
+      "texts": [
+        {
+          "x": 340,
+          "y": 560,
+          "size": 50,
+          "color": "#1d1d1d",
+          "s": 0.5,
+          "t": {
+            "en": "young",
+            "es": "joven",
+            "fr": "jeune",
+            "ja": "若い頃"
+          },
+          "weight": 700,
+          "maxW": 280
+        },
+        {
+          "x": 740,
+          "y": 560,
+          "size": 50,
+          "color": "#1d1d1d",
+          "s": 0.7,
+          "t": {
+            "en": "older",
+            "es": "mayor",
+            "fr": "plus âgé",
+            "ja": "年齢とともに"
+          },
+          "weight": 700,
+          "maxW": 300
+        },
+        {
+          "x": 540,
+          "y": 1205,
+          "size": 84,
+          "color": "#e63946",
+          "s": 2.3,
+          "t": {
+            "en": "USUALLY HARMLESS",
+            "es": "SUELEN SER BENIGNAS",
+            "fr": "GÉNÉRALEMENT BÉNIN",
+            "ja": "たいてい無害"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 5.5,
+      "caption": {
+        "en": "But watch for a sudden *shower* of new floaters, *flashes* of light, or a dark *curtain*.",
+        "es": "Pero ojo a una *lluvia* repentina de manchas, *destellos* de luz o una *cortina* oscura.",
+        "fr": "Mais attention à une *pluie* soudaine de taches, des *éclairs* lumineux ou un *rideau* sombre.",
+        "ja": "ただし、急に*大量に増えた*、*光が走る*、*黒いカーテン*がかかる時は要注意。"
+      },
+      "svg": "<clipPath id='vf38'><circle cx='540' cy='790' r='255'/></clipPath><circle class='d' data-s='0' data-d='0.8' cx='540' cy='790' r='260' fill='none' stroke='#1d1d1d' stroke-width='10'/><g clip-path='url(#vf38)'><path class='f' data-s='2.4' data-d='0.8' data-o='0.75' fill='#1d1d1d' opacity='0' d='M 250 960 Q 540 900 830 960 L 830 1060 L 250 1060 Z'/></g><circle class='p' data-s='0.6' data-d='0.3' cx='420' cy='640' r='9' fill='#1d1d1d'/><circle class='p' data-s='0.65' data-d='0.3' cx='460' cy='610' r='7' fill='#1d1d1d'/><circle class='p' data-s='0.7' data-d='0.3' cx='470' cy='670' r='10' fill='#1d1d1d'/><circle class='p' data-s='0.75' data-d='0.3' cx='510' cy='630' r='7' fill='#1d1d1d'/><circle class='p' data-s='0.8' data-d='0.3' cx='400' cy='700' r='8' fill='#1d1d1d'/><circle class='p' data-s='0.85' data-d='0.3' cx='530' cy='700' r='9' fill='#1d1d1d'/><circle class='p' data-s='0.9' data-d='0.3' cx='440' cy='740' r='7' fill='#1d1d1d'/><circle class='p' data-s='0.95' data-d='0.3' cx='560' cy='650' r='8' fill='#1d1d1d'/><circle class='p' data-s='1.0' data-d='0.3' cx='490' cy='760' r='10' fill='#1d1d1d'/><circle class='p' data-s='1.05' data-d='0.3' cx='380' cy='760' r='7' fill='#1d1d1d'/><circle class='p' data-s='1.1' data-d='0.3' cx='580' cy='720' r='7' fill='#1d1d1d'/><circle class='p' data-s='1.15' data-d='0.3' cx='450' cy='800' r='8' fill='#1d1d1d'/><path class='d' data-s='1.5' data-d='0.4' fill='none' stroke='#f0b400' stroke-width='10' d='M 700 600 L 660 680 L 710 680 L 670 770'/><path class='d' data-s='1.7' data-d='0.4' fill='none' stroke='#f0b400' stroke-width='10' d='M 760 700 L 730 760 L 770 760 L 740 830'/><path class='d' data-s='2.0' data-d='0.5' fill='none' stroke='#e63946' stroke-width='10' d='M 880 930 L 940 830 L 1000 930 Z'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1205,
+          "size": 92,
+          "color": "#e63946",
+          "s": 2.6,
+          "t": {
+            "en": "WARNING SIGNS",
+            "es": "SEÑALES DE ALARMA",
+            "fr": "SIGNES D'ALERTE",
+            "ja": "危険なサイン"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 5.5,
+      "caption": {
+        "en": "They can mean a *retinal tear* or detachment. Get eye care *the same day*.",
+        "es": "Pueden indicar un *desgarro* o desprendimiento de retina. Ve al oftalmólogo *ese mismo día*.",
+        "fr": "Ça peut signaler une *déchirure* ou un décollement de la rétine. Consulte *le jour même*.",
+        "ja": "*網膜裂孔*や網膜剥離のサインかも。*その日のうちに*眼科へ。"
+      },
+      "svg": "<path class='f' data-s='0.5' data-d='0.5' data-o='0.15' fill='#888' opacity='0' d='M 315 790 a 245 245 0 1 0 490 0 a 245 245 0 1 0 -490 0 Z'/><circle class='d' data-s='0' data-d='0.9' cx='560' cy='790' r='260' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='0.4' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 335 670 Q 255 790 335 910'/><path class='d' data-s='0.6' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 365 705 Q 400 790 365 875 Q 330 790 365 705 Z'/><path class='d' data-s='0.9' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 815 755 L 905 735 M 815 825 L 905 845'/><path class='d' data-s='0.8' data-d='0.4' fill='none' stroke='#e63946' stroke-width='9' d='M 682 578 A 245 245 0 0 1 785 700'/><path class='d' data-s='1.2' data-d='0.6' fill='none' stroke='#e63946' stroke-width='10' d='M 785 700 Q 740 740 735 800 Q 745 860 800 880'/><path class='d' data-s='1.0' data-d='0.4' fill='none' stroke='#e63946' stroke-width='9' d='M 800 880 A 245 245 0 0 1 682 1002'/><path class='d' data-s='1.7' data-d='0.4' fill='none' stroke='#e63946' stroke-width='7' d='M 755 715 L 720 690 M 745 800 L 700 800 M 765 865 L 730 890'/><circle class='d' data-s='1.8' data-d='0.6' cx='250' cy='560' r='75' fill='none' stroke='#1d1d1d' stroke-width='9'/><path class='d' data-s='2.2' data-d='0.4' fill='none' stroke='#e63946' stroke-width='9' d='M 250 560 L 250 510 M 250 560 L 285 585'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1205,
+          "size": 84,
+          "color": "#e63946",
+          "s": 2.4,
+          "t": {
+            "en": "SAME-DAY EYE CARE",
+            "es": "AL OFTALMÓLOGO HOY",
+            "fr": "CONSULTE LE JOUR MÊME",
+            "ja": "当日中に眼科へ"
+          }
+        }
+      ]
+    }
+  ]
+}
