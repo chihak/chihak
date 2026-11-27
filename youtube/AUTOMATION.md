@@ -1,5 +1,7 @@
 # Sketch Clinic — recurring production runbook
 
+> The live automation is the cloud scheduled task "Sketch Clinic episode every 3h (8/day)", whose prompt is authoritative (one episode per run, TOPICS.md claims, narrated render, Aside hand-off, Public). This file is background on the trend step only.
+
 Each run: analyse trends → make 3 new curiosity Shorts (EN/ES/FR/JA) → refresh the release package
 and upload plan → commit and push. The user's browser agent (Aside, on the user's home PC) pulls the
 branch and uploads new videos **Public** using `youtube/release/UPLOAD_PLAN.md`.
