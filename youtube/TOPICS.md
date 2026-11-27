@@ -19,7 +19,7 @@ Covered by ep01-ep20: stroke, heart attack, leg cramps, knuckle cracking, hiccup
 - done: ep30-tick-bite - Tick bite - how to remove it and what to watch
 - todo: Jellyfish sting first aid
 - todo: Why do we get a lump in the throat when sad?
-- todo: Concussion warning signs
+- in progress: ep37-concussion - Concussion warning signs
 - todo: Dog bite first aid
 - done: ep25-something-in-eye - Something in your eye - what to do
 - todo: Why do we dream / forget dreams?
