@@ -11,7 +11,7 @@ Covered by ep01-ep20: stroke, heart attack, leg cramps, knuckle cracking, hiccup
 - done: ep26-sprained-ankle - Sprained ankle first aid (PRICE / POLICE)
 - done: ep27-sunburn - Sunburn - treat it and when to worry
 - done: ep29-splinter - How to remove a splinter safely
-- in progress: ep32-motion-sickness - Motion sickness - why it happens and what helps
+- done: ep32-motion-sickness - Motion sickness - why it happens and what helps
 - todo: Dehydration signs and what to do
 - done: ep28-blisters - Blisters - to pop or not to pop
 - todo: Black eye / blow to the eye - when to get checked

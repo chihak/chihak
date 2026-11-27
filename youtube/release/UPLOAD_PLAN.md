@@ -2056,5 +2056,69 @@ C'est inoffensif et ça disparaît en quelques minutes une fois sec. Consulte si
 ```
 - Tags: `指 ふやける, 指 しわしわ 水, 神経, 血管, 体の豆知識, 皮ふ, 健康, sketch clinic, shorts`
 
+### ep32-motion-sickness — English
+- File: `ep32-motion-sickness/ep32-motion-sickness-en.mp4`
+- Video language: English
+- Subtitles file: `ep32-motion-sickness/ep32-motion-sickness-en.srt` (Subtitles → Add language: English → Upload file → With timing)
+- Title: `Why Do You Get Car Sick? Motion Sickness Explained #Shorts`
+- Description:
+```
+Why do you feel sick in a car, boat or plane? Your inner ear senses movement while your eyes see a still car or a page - and those mixed signals confuse your brain, causing nausea, dizziness, sweating and headache.
+What helps: look at the horizon, sit in the front seat or the middle of a boat, avoid reading or screens, get fresh air, keep still, eat light and skip alcohol. Ginger may help some people. A pharmacist can suggest motion sickness tablets to take before you travel. See a doctor if you feel this way when you're not travelling.
+
+Educational only - not medical advice. If you have symptoms, see a healthcare professional.
+
+#Shorts #Health #MotionSickness #SketchClinic
+```
+- Tags: `motion sickness, car sickness, sea sickness, why do i get car sick, inner ear, nausea, travel tips, health, sketch clinic, shorts`
+
+### ep32-motion-sickness — Spanish  *(Phase 2 — only if the user asks)*
+- File: `ep32-motion-sickness/ep32-motion-sickness-es.mp4`
+- Video language: Spanish
+- Subtitles file: `ep32-motion-sickness/ep32-motion-sickness-es.srt` (Subtitles → Add language: Spanish → Upload file → With timing)
+- Title: `¿Por qué te mareas en el coche? La cinetosis #Shorts`
+- Description:
+```
+¿Por qué te mareas en coche, barco o avión? Tu oído interno nota el movimiento, pero tus ojos ven un coche quieto o una página. Esas señales opuestas confunden al cerebro y causan náuseas, mareo, sudor y dolor de cabeza.
+Qué ayuda: mira al horizonte, siéntate delante o en el centro del barco, no leas ni mires pantallas, busca aire fresco, quédate quieto, come ligero y evita el alcohol. El jengibre ayuda a algunas personas. El farmacéutico puede recomendarte pastillas para tomar antes del viaje. Ve al médico si te sientes así sin estar viajando.
+
+Solo con fines educativos; no es consejo médico. Si tienes síntomas, consulta a un profesional de la salud.
+
+#Shorts #Salud #Mareo #SketchClinic
+```
+- Tags: `cinetosis, mareo en el coche, mareo en barco, por qué me mareo, oído interno, náuseas, consejos de viaje, salud, sketch clinic, shorts`
+
+### ep32-motion-sickness — French  *(Phase 2 — only if the user asks)*
+- File: `ep32-motion-sickness/ep32-motion-sickness-fr.mp4`
+- Video language: French
+- Subtitles file: `ep32-motion-sickness/ep32-motion-sickness-fr.srt` (Subtitles → Add language: French → Upload file → With timing)
+- Title: `Pourquoi a-t-on le mal des transports ? #Shorts`
+- Description:
+```
+Pourquoi a-t-on la nausée en voiture, en bateau ou en avion ? L'oreille interne sent le mouvement, mais les yeux voient une voiture immobile ou une page. Ces signaux contraires troublent le cerveau : nausée, vertiges, sueurs, maux de tête.
+Ce qui aide : regarder l'horizon, s'asseoir à l'avant ou au milieu du bateau, éviter de lire ou les écrans, prendre l'air, rester immobile, manger léger et éviter l'alcool. Le gingembre aide certaines personnes. Le pharmacien peut conseiller des comprimés à prendre avant le trajet. Consulte un médecin si ça t'arrive en dehors des trajets.
+
+À but éducatif uniquement — pas un avis médical. Si tu as des symptômes, consulte un professionnel de santé.
+
+#Shorts #Santé #MalDesTransports #SketchClinic
+```
+- Tags: `mal des transports, mal de voiture, mal de mer, pourquoi j'ai mal au cœur en voiture, oreille interne, nausée, conseils voyage, santé, sketch clinic, shorts`
+
+### ep32-motion-sickness — Japanese  *(Phase 2 — only if the user asks)*
+- File: `ep32-motion-sickness/ep32-motion-sickness-ja.mp4`
+- Video language: Japanese
+- Subtitles file: `ep32-motion-sickness/ep32-motion-sickness-ja.srt` (Subtitles → Add language: Japanese → Upload file → With timing)
+- Title: `乗り物酔いはなぜ起きる？原因と対策 #Shorts`
+- Description:
+```
+車や船、飛行機で気分が悪くなるのはなぜ？ 内耳は揺れを感じているのに、目は止まった車内や本を見ているため、情報のズレに脳が混乱し、吐き気・めまい・冷や汗・頭痛などが起こります。
+対策：遠くの景色を見る、前の席や船の中央に座る、本やスマホを見ない、新鮮な空気を吸う、なるべく動かない、食事は軽めに、お酒は控える。しょうがが効く人もいます。酔い止めは薬剤師に相談し、乗る前に飲みましょう。乗り物に乗っていない時にも症状があれば受診してください。
+
+教育目的の情報であり、医療アドバイスではありません。症状がある場合は医療機関を受診してください。
+
+#Shorts #健康 #乗り物酔い #SketchClinic
+```
+- Tags: `乗り物酔い, 車酔い, 船酔い, 酔い止め, 内耳, 吐き気, 旅行, 健康, sketch clinic, shorts`
+
 ## Step 3 — Report back
 Send the user: channel URL, and a table of episode → video URL (all Public).
