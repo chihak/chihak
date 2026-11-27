@@ -34,3 +34,8 @@ Covered by ep01-ep20: stroke, heart attack, leg cramps, knuckle cracking, hiccup
 - todo: Why is your pee dark / what urine colour says
 - todo: Insect in the ear
 - todo: Why do we get sleepy after lunch?
+- in progress: ep38-eye-floaters - What are the things floating in your eyes? (floaters; red flags for retinal tear)
+- in progress: ep39-funny-bone - Why does hitting your funny bone feel so weird? (ulnar nerve)
+- in progress: ep40-seeing-stars - Why do you see stars when you rub your eyes? (phosphenes)
+- in progress: ep41-recorded-voice - Why does your voice sound weird on recordings? (bone conduction)
+- in progress: ep42-butterflies - Why do you get butterflies when nervous? (fight-or-flight, gut-brain)
