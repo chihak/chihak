@@ -40,18 +40,17 @@ L = []
 w = L.append
 w("# Sketch Clinic — YouTube channel setup & upload plan")
 w("")
-w("> **For the user (한국어 요약):** 이 문서를 Aside에게 그대로 넘기면 됩니다. 채널 만들기 → 로고/배너 → 영상 업로드 순서로 진행하고, 영상은 처음엔 **비공개(Private)**로 올립니다. 공개 전환은 직접 확인 후에 하세요.")
+w("> **For the user (한국어 요약):** 이 문서를 Aside에게 그대로 넘기면 됩니다. 채널에 아직 없는 영상만 골라 **바로 공개(Public)**로 올립니다.")
 w("")
 w("## Instructions for the browser agent")
 w("You are working in the user's own browser, already signed in to their Google account. Do the steps in order. "
-  "Do not change any other Google/YouTube settings. Do not make anything Public — leave every video **Private** "
-  "(the user will review and publish). Stop and ask the user if Google asks for a password, phone verification, "
+  "Do not change any other Google/YouTube settings. The user has asked for videos to be published **Public** right away. Stop and ask the user if Google asks for a password, phone verification, "
   "payment, or anything not described here. When done, report the channel URL and the list of uploaded video URLs.")
 w("")
 w("All files are in this folder (`youtube/release/` of the repository branch `claude/vibrant-mayer-8ogz3v`, "
   "download/clone it to the computer first).")
 w("")
-w("## Step 1 — Create the channel")
+w("## Step 1 — Channel (skip if https://www.youtube.com/@SketchClinic already exists)")
 w("1. Go to https://www.youtube.com → profile icon → **Create a channel** (if the account already has a personal channel, "
   "create a new channel via Settings → **Add or manage your channel(s)** → **Create a channel**, so it becomes a separate brand channel).")
 w("2. Name: **Sketch Clinic**")
@@ -66,14 +65,15 @@ w("Educational only — not medical advice. If you have symptoms, see a healthca
 w("```")
 w("")
 w("7. Settings → Channel → Basic info: Country = (user's choice), keywords: `health, medical explained, body, shorts, first aid, sketch clinic`.")
-w("8. Settings → Upload defaults: Visibility **Private**, Category **Education**, Audience **No, it's not made for kids**.")
+w("8. Settings → Upload defaults: Visibility **Public**, Category **Education**, Audience **No, it's not made for kids**.")
 w("")
-w("## Step 2 — Upload videos (Private)")
-w("Upload from YouTube Studio → **Create → Upload videos**. For each video below fill in exactly the title, description and tags, then:")
+w("## Step 2 — Upload new videos (Public)")
+w("First open YouTube Studio → Content and note every title already on the channel. **Skip any video below whose title (or a near-identical title) is already there** — never upload a duplicate. "
+  "For each remaining video, upload from **Create → Upload videos**, fill in exactly the title, description and tags, then:")
 w("- Audience: **No, it's not made for kids**")
 w("- Show more → Language: the video's language (below); Category: Education")
 w("- Altered or synthetic content: **No** (hand-drawn animation, no realistic people)")
-w("- Visibility: **Private** → Save")
+w("- Visibility: **Public** → Publish")
 w("")
 w("Phase 1 uploads the **English** versions only. The Spanish, French and Japanese versions are ready in the same folders; "
   "upload them only if the user says so (they may become separate channels later).")
@@ -97,7 +97,7 @@ if pending:
     w("These episodes are still being produced and will be added to this plan later: " + ", ".join(pending))
     w("")
 w("## Step 3 — Report back")
-w("Send the user: channel URL, and a table of episode → video URL (all Private).")
+w("Send the user: a table of episode → video URL for what you uploaded this time, and which ones you skipped as already present.")
 (REL / "UPLOAD_PLAN.md").write_text("\n".join(L))
 print("ready:", [r[0] for r in ready])
 print("pending:", pending)
