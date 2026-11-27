@@ -1,0 +1,47 @@
+1
+00:00:00,250 --> 00:00:02,258
+Soif, fatigue, pas dans ton assiette ?
+
+2
+00:00:02,258 --> 00:00:03,685
+Tu es peut-être déshydraté.
+
+3
+00:00:06,250 --> 00:00:08,377
+Tu perds plus de liquide que tu n'en bois.
+
+4
+00:00:08,377 --> 00:00:11,669
+Premiers signes : bouche sèche, mal de tête, vertiges ou fatigue.
+
+5
+00:00:14,250 --> 00:00:16,707
+Regarde ton urine : jaune pâle, c'est bien.
+
+6
+00:00:16,707 --> 00:00:20,479
+Jaune foncé, odeur forte ou uriner moins souvent : bois davantage.
+
+7
+00:00:23,250 --> 00:00:27,282
+Bois de l'eau tout au long de la journée, par petites gorgées si tu as la nausée.
+
+8
+00:00:27,282 --> 00:00:29,223
+Avec la chaleur ou le sport, bois plus.
+
+9
+00:00:32,250 --> 00:00:33,623
+Vomissements ou diarrhée ?
+
+10
+00:00:33,623 --> 00:00:37,161
+Une solution de réhydratation en pharmacie remplace aussi les sels.
+
+11
+00:00:37,161 --> 00:00:39,695
+Bébés et personnes âgées sont les plus à risque.
+
+12
+00:00:42,250 --> 00:00:48,821
+Appelle les urgences si la personne est confuse, très somnolente, a le cœur qui s'emballe ou n'a pas uriné de la journée.

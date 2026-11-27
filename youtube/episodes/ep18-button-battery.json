@@ -1,0 +1,241 @@
+{
+ "id": "ep18-button-battery",
+ "title": {
+  "en": "Child Swallowed a *Button Battery*?",
+  "es": "¿Tragó una *pila de botón*?",
+  "fr": "Pile bouton *avalée* ?",
+  "ja": "*ボタン電池*を飲みこんだら"
+ },
+ "coverTime": 15.5,
+ "steps": 3,
+ "stepsFrom": 2,
+ "scenes": [
+  {
+   "dur": 5.5,
+   "caption": {
+    "en": "A child swallowed a *button battery*, or you think they might have? This is an *emergency*.",
+    "es": "¿Un niño tragó una *pila de botón*, o crees que pudo hacerlo? Es una *emergencia*.",
+    "fr": "Un enfant a avalé une *pile bouton*, ou tu as un doute ? C'est une *urgence*.",
+    "ja": "子どもが*ボタン電池*を飲みこんだ、またはその疑いがある？ それは*緊急事態*です。"
+   },
+   "svg": "<circle class='p' data-s='0' data-d='0.4' cx='540' cy='700' r='150' fill='#c9ced4'/><circle class='d' data-s='0.1' data-d='0.5' cx='540' cy='700' r='150' fill='none' stroke='#1d1d1d' stroke-width='9'/><circle class='d' data-s='0.4' data-d='0.4' cx='540' cy='700' r='112.5' fill='none' stroke='#888' stroke-width='5'/><path class='d' data-s='0.6' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='9'  d='M 495.0 700 H 585.0 M 540 655.0 V 745.0'/><path class='d' data-s='1.2' data-d='0.4' fill='none' stroke='#e63946' stroke-width='9'  d='M 300 480 l 40 40 M 780 480 l -40 40 M 540 470 v 50'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 100,
+     "color": "#e63946",
+     "s": 1.8,
+     "t": {
+      "en": "EMERGENCY",
+      "es": "EMERGENCIA",
+      "fr": "URGENCE",
+      "ja": "緊急事態"
+     },
+     "maxW": 900
+    }
+   ]
+  },
+  {
+   "dur": 6.5,
+   "caption": {
+    "en": "Stuck in the food pipe, it creates a current that can burn through tissue in as little as *2 hours*.",
+    "es": "Atascada en el esófago, genera una corriente que puede quemar los tejidos en solo *2 horas*.",
+    "fr": "Coincée dans l'œsophage, elle crée un courant qui peut brûler les tissus en *2 heures* seulement.",
+    "ja": "食道にはさまると電流が流れ、わずか*2時間*で組織がやけどのように傷つくことがあります。"
+   },
+   "svg": "<g transform='translate(400 780) scale(0.95) rotate(0) translate(-575 -705)'><path class='d' data-s='0' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='14.3'  d='M 480 920 L 470 830 C 400 760 400 560 540 520 C 640 490 700 560 700 630 L 705 670 L 750 740 L 705 755 L 710 790 L 700 810 L 708 830 C 705 870 670 880 630 870 L 620 920'/><circle class='p' data-s='0.8' data-d='0.4' cx='650' cy='640' r='13' fill='#1d1d1d'/><path class='d' data-s='0.8' data-d='0.6' fill='none' stroke='#e89aa0' stroke-width='22'  d='M 640 830 C 610 860 580 880 560 920 L 550 1000'/><ellipse class='p' data-s='1.3' data-d='0.4' cx='565' cy='905' rx='34' ry='14' fill='#c9ced4' stroke='#1d1d1d' stroke-width='6'/></g><path class='d' data-s='1.8' data-d='0.4' fill='none' stroke='#e63946' stroke-width='8'  d='M 620 860 l 40 -10 M 625 900 l 45 10 M 610 940 l 35 30'/><circle class='d' data-s='1.6' data-d='0.7' cx='830' cy='620' r='90' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='2.1' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 800 510 H 860 M 830 510 V 530'/><path class='f' data-s='2.4' data-d='1.0' data-o='0.85' d='M 830 620 L 830 550 A 70 70 0 0 1 891 586 Z' fill='#e63946' opacity='0'/><path class='d' data-s='2.3' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 830 620 L 830 560'/>",
+   "texts": [
+    {
+     "x": 830,
+     "y": 780,
+     "size": 56,
+     "color": "#1d1d1d",
+     "s": 2.2,
+     "t": {
+      "en": "2 h",
+      "es": "2 h",
+      "fr": "2 h",
+      "ja": "2時間"
+     },
+     "maxW": 260
+    },
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#e63946",
+     "s": 2.6,
+     "t": {
+      "en": "BURNS FAST",
+      "es": "QUEMA RÁPIDO",
+      "fr": "BRÛLE VITE",
+      "ja": "急速に損傷"
+     },
+     "maxW": 900
+    }
+   ]
+  },
+  {
+   "dur": 5.5,
+   "step": 1,
+   "caption": {
+    "en": "*1* — Go to the *emergency room* right away, or call emergency services. Don't wait for symptoms.",
+    "es": "*1* — Ve a *urgencias* de inmediato o llama a emergencias. No esperes a que haya síntomas.",
+    "fr": "*1* — Va *aux urgences* tout de suite, ou appelle les secours. N'attends pas les symptômes.",
+    "ja": "*1* すぐに*救急外来*へ、または119番。症状が出るのを待たないで。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 360 910 V 660 H 720 V 910 M 310 910 H 770 M 490 910 V 820 H 590 V 910 M 400 730 h 60 v 50 h -60 z M 620 730 h 60 v 50 h -60 z'/><circle class='d' data-s='0.8' data-d='0.6' cx='540' cy='590' r='60' fill='none' stroke='#e63946' stroke-width='10'/><path class='p' data-s='1.3' data-d='0.4' fill='#e63946' d='M 526.8 550.4 H 553.2 V 576.8 H 579.6 V 603.2 H 553.2 V 629.6 H 526.8 V 603.2 H 500.4 V 576.8 H 526.8 Z'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1050,
+     "size": 72,
+     "color": "#e63946",
+     "s": 1.6,
+     "t": {
+      "en": "911 · 999 · 112",
+      "es": "112 · 911",
+      "fr": "15 · 112",
+      "ja": "119"
+     },
+     "maxW": 800
+    },
+    {
+     "x": 540,
+     "y": 1205,
+     "size": 84,
+     "color": "#e63946",
+     "s": 2.2,
+     "t": {
+      "en": "GO TO THE ER NOW",
+      "es": "A URGENCIAS YA",
+      "fr": "URGENCES MAINTENANT",
+      "ja": "今すぐ救急へ"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 6,
+   "step": 2,
+   "caption": {
+    "en": "*2* — *Don't* make them vomit, and don't give food or drink unless a medical professional tells you to.",
+    "es": "*2* — *No* provoques el vómito ni des comida o bebida, salvo indicación médica.",
+    "fr": "*2* — *Ne fais pas* vomir, ne donne ni à manger ni à boire, sauf avis médical.",
+    "ja": "*2* 無理に*吐かせない*。医療者の指示がない限り、食べ物や飲み物も与えないで。"
+   },
+   "svg": "<circle class='d' data-s='0' data-d='0.6' cx='330' cy='700' r='110' fill='none' stroke='#1d1d1d' stroke-width='10'/><circle class='p' data-s='0.6' data-d='0.4' cx='295' cy='670' r='10' fill='#1d1d1d'/><circle class='p' data-s='0.6' data-d='0.4' cx='370' cy='670' r='10' fill='#1d1d1d'/><ellipse class='d' data-s='0.8' data-d='0.3' cx='330' cy='750' rx='30' ry='22' fill='none' stroke='#1d1d1d' stroke-width='8'/><path class='d' data-s='1.2' data-d='0.5' fill='none' stroke='#e63946' stroke-width='14'  d='M 234.0 604.0 L 426.0 796.0 M 426.0 604.0 L 234.0 796.0'/><path class='d' data-s='1.4' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 700 600 H 820 L 805 840 H 715 Z'/><path class='d' data-s='1.8' data-d='0.5' fill='none' stroke='#e63946' stroke-width='12'  d='M 640 860 H 880 M 660 560 L 860 900'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 76,
+     "color": "#e63946",
+     "s": 2.4,
+     "t": {
+      "en": "DON'T INDUCE VOMITING",
+      "es": "NO PROVOCAR EL VÓMITO",
+      "fr": "NE PAS FAIRE VOMIR",
+      "ja": "吐かせない"
+     },
+     "maxW": 940
+    }
+   ]
+  },
+  {
+   "dur": 5,
+   "step": 3,
+   "caption": {
+    "en": "*3* — If you can, bring the battery packaging or a matching battery.",
+    "es": "*3* — Si puedes, lleva el envase de la pila o una pila igual.",
+    "fr": "*3* — Si possible, apporte l'emballage ou une pile identique.",
+    "ja": "*3* できれば電池のパッケージや同じ電池を持って行きましょう。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 260 560 H 560 V 940 H 260 Z M 260 640 H 560'/><circle class='p' data-s='0.8' data-d='0.4' cx='410' cy='780' r='80' fill='#c9ced4'/><circle class='d' data-s='0.9' data-d='0.5' cx='410' cy='780' r='80' fill='none' stroke='#1d1d1d' stroke-width='9'/><circle class='d' data-s='1.2' data-d='0.4' cx='410' cy='780' r='60.0' fill='none' stroke='#888' stroke-width='5'/><path class='d' data-s='1.4' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='9'  d='M 386.0 780 H 434.0 M 410 756.0 V 804.0'/><path class='d' data-s='1.4' data-d='0.5' fill='none' stroke='#e63946' stroke-width='9'  d='M 620 760 L 760 760 M 739 772 L 760 760 L 739 748'/><circle class='p' data-s='1.7' data-d='0.4' cx='860' cy='760' r='70' fill='#c9ced4'/><circle class='d' data-s='1.8' data-d='0.5' cx='860' cy='760' r='70' fill='none' stroke='#1d1d1d' stroke-width='9'/><circle class='d' data-s='2.1' data-d='0.4' cx='860' cy='760' r='52.5' fill='none' stroke='#888' stroke-width='5'/><path class='d' data-s='2.3' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='9'  d='M 839.0 760 H 881.0 M 860 739.0 V 781.0'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 84,
+     "color": "#e63946",
+     "s": 2.2,
+     "t": {
+      "en": "BRING THE PACK",
+      "es": "LLEVA EL ENVASE",
+      "fr": "APPORTE L’EMBALLAGE",
+      "ja": "パッケージ持参"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 6,
+   "caption": {
+    "en": "Signs can be subtle: drooling, coughing, pain swallowing, vomiting. Or *none at all*.",
+    "es": "Señales leves: babeo, tos, dolor al tragar, vómitos… o *ninguna*.",
+    "fr": "Les signes peuvent être discrets : bave, toux, douleur à la déglutition, vomissements… ou *aucun*.",
+    "ja": "よだれ、せき、飲みこむと痛い、嘔吐…。でも*症状が出ないこともある*のです。"
+   },
+   "svg": "<circle class='d' data-s='0' data-d='0.6' cx='540' cy='700' r='120' fill='none' stroke='#1d1d1d' stroke-width='10'/><circle class='p' data-s='0.6' data-d='0.4' cx='500' cy='670' r='11' fill='#1d1d1d'/><circle class='p' data-s='0.6' data-d='0.4' cx='580' cy='670' r='11' fill='#1d1d1d'/><path class='d' data-s='0.8' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='8'  d='M 500 760 q 40 -20 80 0'/><path class='p' data-s='1.0' data-d='0.4' fill='#3a86c8' d='M 560 780 C 560 780 543.8 802.5 543.8 813.3 A 16.2 16.2 0 0 0 576.2 813.3 C 576.2 802.5 560 780 560 780 Z'/><path class='d' data-s='1.3' data-d='0.4' fill='none' stroke='#888' stroke-width='8'  d='M 330 620 q -40 40 0 80 M 750 620 q 40 40 0 80'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 930,
+     "size": 56,
+     "color": "#1d1d1d",
+     "s": 1.6,
+     "t": {
+      "en": "OR NO SYMPTOMS",
+      "es": "O NINGÚN SÍNTOMA",
+      "fr": "OU AUCUN SYMPTÔME",
+      "ja": "無症状のことも"
+     },
+     "maxW": 800
+    },
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 96,
+     "color": "#e63946",
+     "s": 2.4,
+     "t": {
+      "en": "DON'T WAIT",
+      "es": "NO ESPERES",
+      "fr": "N'ATTENDS PAS",
+      "ja": "待たない"
+     },
+     "maxW": 900
+    }
+   ]
+  },
+  {
+   "dur": 6,
+   "caption": {
+    "en": "Prevent it: keep batteries and gadgets *out of reach*, and *tape* battery covers shut.",
+    "es": "Prevención: guarda pilas y aparatos *fuera de su alcance* y *cierra con cinta* las tapas de las pilas.",
+    "fr": "Prévention : piles et appareils *hors de portée*, et compartiments *fermés avec du ruban*.",
+    "ja": "予防：電池や電池入りの機器は*手の届かない所*へ。電池のふたは*テープで固定*。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 230 560 h 160 a 20 20 0 0 1 20 20 v 380 a 20 20 0 0 1 -20 20 h -160 a 20 20 0 0 1 -20 -20 v -380 a 20 20 0 0 1 20 -20 z'/><circle class='d' data-s='0.6' data-d='0.3' cx='270' cy='630' r='18' fill='none' stroke='#1d1d1d' stroke-width='7'/><circle class='d' data-s='0.6' data-d='0.3' cx='350' cy='630' r='18' fill='none' stroke='#1d1d1d' stroke-width='7'/><path class='d' data-s='1.0' data-d='0.5' fill='none' stroke='#e0a040' stroke-width='14'  d='M 190 860 L 430 820 M 190 900 L 430 860'/><path class='d' data-s='1.4' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 600 700 H 940 M 620 700 V 560 H 920 V 700'/><circle class='p' data-s='1.9' data-d='0.4' cx='770' cy='640' r='45' fill='#c9ced4'/><circle class='d' data-s='2.0' data-d='0.5' cx='770' cy='640' r='45' fill='none' stroke='#1d1d1d' stroke-width='9'/><circle class='d' data-s='2.3' data-d='0.4' cx='770' cy='640' r='33.75' fill='none' stroke='#888' stroke-width='5'/><path class='d' data-s='2.5' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='9'  d='M 756.5 640 H 783.5 M 770 626.5 V 653.5'/><path class='d' data-s='2.2' data-d='0.5' fill='none' stroke='#888' stroke-width='8'  d='M 770 1000 L 770 780 M 782 801 L 770 780 L 758 801'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 84,
+     "color": "#e63946",
+     "s": 2.4,
+     "t": {
+      "en": "OUT OF REACH",
+      "es": "FUERA DE ALCANCE",
+      "fr": "HORS DE PORTÉE",
+      "ja": "手の届かない所へ"
+     },
+     "maxW": 920
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+1
+00:00:00,250 --> 00:00:01,622
+¿Una astilla en el dedo?
+
+2
+00:00:01,622 --> 00:00:03,109
+Así se saca con seguridad.
+
+3
+00:00:06,250 --> 00:00:09,599
+Uno: lávate las manos y la piel alrededor con agua y jabón.
+
+4
+00:00:12,250 --> 00:00:17,327
+Dos: usa unas pinzas limpias, desinfectadas con alcohol, y tira en el mismo ángulo en que entró.
+
+5
+00:00:19,250 --> 00:00:23,069
+Tres: lava de nuevo la zona con agua y jabón, y cúbrela si hace falta.
+
+6
+00:00:25,250 --> 00:00:27,138
+Cuatro: no escarbes con una aguja.
+
+7
+00:00:27,138 --> 00:00:29,303
+Si no sale, deja que lo haga un médico.
+
+8
+00:00:32,250 --> 00:00:35,372
+Si es profunda, de vidrio o está en el ojo, ve al médico.
+
+9
+00:00:35,372 --> 00:00:38,548
+Lo mismo con pus, enrojecimiento que se extiende o fiebre.
+
+10
+00:00:38,548 --> 00:00:41,615
+Comprueba también que tu vacuna del tétanos esté al día.

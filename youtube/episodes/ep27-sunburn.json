@@ -1,0 +1,210 @@
+{
+ "id": "ep27-sunburn",
+ "title": {
+  "en": "*Sunburn?* What to Do",
+  "es": "¿*Quemadura solar?* Qué hacer",
+  "fr": "*Coup de soleil ?* Que faire",
+  "ja": "*日焼け*のケア"
+ },
+ "coverTime": 4.0,
+ "steps": 4,
+ "stepsFrom": 1,
+ "scenes": [
+  {
+   "dur": 6,
+   "caption": {
+    "en": "Too much sun? Here's how to care for *sunburn*.",
+    "es": "¿Demasiado sol? Cómo cuidar una *quemadura solar*.",
+    "fr": "Trop de soleil ? Voici comment soigner un *coup de soleil*.",
+    "ja": "日差しを浴びすぎた？ *日焼け*のケアです。"
+   },
+   "narration": {
+    "en": "Too much sun? Here's how to care for sunburn.",
+    "es": "¿Demasiado sol? Cómo cuidar una quemadura solar.",
+    "fr": "Trop de soleil ? Voici comment soigner un coup de soleil.",
+    "ja": "日差しを浴びすぎたら。日焼けのケアです。"
+   },
+   "svg": "<circle class='d' data-s='0' data-d='0.6' cx='540' cy='700' r='110' fill='none' stroke='#e63946' stroke-width='11'/><path class='d' data-s='0.6' data-d='0.7' fill='none' stroke='#e63946' stroke-width='11' d='M 540 520 V 450 M 540 880 V 950 M 360 700 H 290 M 720 700 H 790 M 412 572 L 362 522 M 668 828 L 718 878 M 668 572 L 718 522 M 412 828 L 362 878'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#e63946",
+     "s": 1.6,
+     "t": {
+      "en": "SUNBURN",
+      "es": "QUEMADURA SOLAR",
+      "fr": "COUP DE SOLEIL",
+      "ja": "日焼け"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 6.5,
+   "step": 1,
+   "caption": {
+    "en": "*1* — *Cool* the skin with cool water or a cool shower. Skip the ice.",
+    "es": "*1* — *Enfría* la piel con agua fresca o una ducha fresca. Sin hielo.",
+    "fr": "*1* — *Rafraîchis* la peau à l'eau fraîche ou sous une douche fraîche. Pas de glace.",
+    "ja": "*1* — *冷やす*：冷たい水やぬるめのシャワーで。氷は使わないで。"
+   },
+   "narration": {
+    "en": "Step one. Cool the skin with cool water or a cool shower. Don't use ice directly on the skin.",
+    "es": "Uno: enfría la piel con agua fresca o una ducha fresca. No uses hielo directamente.",
+    "fr": "Un : rafraîchis la peau à l'eau fraîche ou sous une douche fraîche, sans glace directe.",
+    "ja": "一つ目、冷やします。冷たい水やシャワーで。氷を直接当てないでください。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.7' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 340 560 Q 540 480 740 560'/><path class='d' data-s='0.8' data-d='0.35' fill='none' stroke='#3a86c8' stroke-width='11' d='M 400 640 Q 374 700 400 730 Q 426 700 400 640 Z'/><path class='d' data-s='0.9500000000000001' data-d='0.35' fill='none' stroke='#3a86c8' stroke-width='11' d='M 540 640 Q 514 700 540 730 Q 566 700 540 640 Z'/><path class='d' data-s='1.1' data-d='0.35' fill='none' stroke='#3a86c8' stroke-width='11' d='M 680 640 Q 654 700 680 730 Q 706 700 680 640 Z'/><path class='d' data-s='1.5' data-d='0.4' fill='none' stroke='#3a86c8' stroke-width='9' d='M 400 800 V 880 M 540 820 V 930 M 680 800 V 880'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#3a86c8",
+     "s": 1.6,
+     "t": {
+      "en": "COOL IT",
+      "es": "REFRESCA",
+      "fr": "RAFRAÎCHIS",
+      "ja": "冷やす"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 6,
+   "step": 2,
+   "caption": {
+    "en": "*2* — *Soothe* it with a moisturiser or after-sun lotion. Aloe vera gel can help.",
+    "es": "*2* — *Calma* la piel con crema hidratante o loción after-sun. El gel de aloe vera ayuda.",
+    "fr": "*2* — *Apaise* avec une crème hydratante ou un après-soleil. Le gel d'aloe vera peut aider.",
+    "ja": "*2* — *保湿*：保湿剤やアフターサンローションを。アロエジェルも有効です。"
+   },
+   "narration": {
+    "en": "Step two. Soothe it with a moisturiser or after-sun lotion. Aloe vera gel can help.",
+    "es": "Dos: calma la piel con crema hidratante o loción after-sun. El gel de aloe vera ayuda.",
+    "fr": "Deux : apaise avec une crème hydratante ou un après-soleil. L'aloe vera peut aider.",
+    "ja": "二つ目、保湿します。保湿剤やアフターサンローション、アロエジェルもおすすめです。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.9' fill='none' stroke='#3a86c8' stroke-width='11' d='M 480 560 H 600 V 620 Q 680 650 680 740 V 980 Q 680 1010 650 1010 H 430 Q 400 1010 400 980 V 740 Q 400 650 480 620 Z'/><path class='d' data-s='0.9' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 440 780 H 640 M 440 860 H 640'/><path class='d' data-s='1.3' data-d='0.4' fill='none' stroke='#2a9d8f' stroke-width='9' d='M 540 540 V 480 M 500 560 L 470 500 M 580 560 L 610 500'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#3a86c8",
+     "s": 1.6,
+     "t": {
+      "en": "SOOTHE",
+      "es": "CALMA",
+      "fr": "APAISE",
+      "ja": "保湿する"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 6,
+   "step": 3,
+   "caption": {
+    "en": "*3* — *Drink* extra water. Sunburn can leave you dehydrated.",
+    "es": "*3* — *Bebe* más agua. La quemadura solar puede deshidratarte.",
+    "fr": "*3* — *Bois* plus d'eau. Un coup de soleil peut déshydrater.",
+    "ja": "*3* — *水分補給*：日焼けで脱水になることがあります。"
+   },
+   "narration": {
+    "en": "Step three. Drink extra water. Sunburn can leave you dehydrated.",
+    "es": "Tres: bebe más agua. La quemadura solar puede deshidratarte.",
+    "fr": "Trois : bois plus d'eau. Un coup de soleil peut déshydrater.",
+    "ja": "三つ目、水分をとります。日焼けで脱水になることがあります。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.9' fill='none' stroke='#3a86c8' stroke-width='11' d='M 410 560 L 450 1010 H 630 L 670 560 Z'/><path class='d' data-s='0.9' data-d='0.5' fill='none' stroke='#3a86c8' stroke-width='9' d='M 430 720 Q 485 690 540 720 T 650 720'/><path class='f' data-s='0.9' data-d='0.5' data-o='0.25' d='M 430 720 L 450 1010 H 630 L 650 720 Z' fill='#3a86c8' opacity='0'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#3a86c8",
+     "s": 1.6,
+     "t": {
+      "en": "DRINK WATER",
+      "es": "BEBE AGUA",
+      "fr": "BOIS DE L'EAU",
+      "ja": "水を飲む"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 6,
+   "step": 4,
+   "caption": {
+    "en": "*4* — *Cover up* and stay out of the sun until the skin heals. Don't pop blisters.",
+    "es": "*4* — *Cúbrete* y evita el sol hasta que sane. No revientes las ampollas.",
+    "fr": "*4* — *Couvre-toi* et reste à l'ombre jusqu'à la guérison. Ne perce pas les cloques.",
+    "ja": "*4* — *覆う*：治るまで日差しを避け、水ぶくれはつぶさないで。"
+   },
+   "narration": {
+    "en": "Step four. Cover up and stay out of the sun until the skin heals. Don't pop any blisters.",
+    "es": "Cuatro: cúbrete y evita el sol hasta que sane la piel. No revientes las ampollas.",
+    "fr": "Quatre : couvre-toi et reste à l'ombre jusqu'à la guérison. Ne perce pas les cloques.",
+    "ja": "四つ目、肌を覆い、治るまで日差しを避けます。水ぶくれはつぶさないでください。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.7' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 400 800 Q 400 600 540 600 Q 680 600 680 800'/><path class='d' data-s='0.7' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 280 810 Q 540 870 800 810 Q 800 780 680 800 M 280 810 Q 280 780 400 800'/><path class='d' data-s='1.3' data-d='0.5' fill='none' stroke='#e63946' stroke-width='10' d='M 880 560 l 60 -60 M 910 640 h 90 M 860 480 v -60'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#3a86c8",
+     "s": 1.6,
+     "t": {
+      "en": "COVER UP",
+      "es": "CÚBRETE",
+      "fr": "COUVRE-TOI",
+      "ja": "日差しを避ける"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 8.5,
+   "caption": {
+    "en": "*Blisters* over a large area, fever or chills, dizziness, or a burned *baby*? Get *medical care*. See a doctor if it's severe or not improving.",
+    "es": "¿*Ampollas* extensas, fiebre o escalofríos, mareo, o un *bebé* quemado? Busca *atención médica*. Consulta si es grave o no mejora.",
+    "fr": "*Cloques* étendues, fièvre ou frissons, vertiges, ou un *bébé* brûlé ? Consulte un *médecin*, aussi si c'est sévère ou ne s'améliore pas.",
+    "ja": "*広範囲の水ぶくれ*、発熱や悪寒、めまい、*赤ちゃん*の日焼けは*受診*を。ひどい場合や治らない場合も受診してください。"
+   },
+   "narration": {
+    "en": "Blisters over a large area, fever or chills, dizziness, or a sunburned baby? Get medical care. And see a doctor if it's severe or isn't improving.",
+    "es": "Si hay ampollas extensas, fiebre o escalofríos, mareo, o si es un bebé, busca atención médica. Y consulta si es grave o no mejora.",
+    "fr": "Cloques étendues, fièvre ou frissons, vertiges, ou bébé brûlé ? Consulte un médecin, de même si c'est sévère ou ne s'améliore pas.",
+    "ja": "広範囲の水ぶくれ、発熱や悪寒、めまい、赤ちゃんの日焼けは受診してください。ひどい場合や治らないときも受診を。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.9' fill='none' stroke='#3a86c8' stroke-width='12' d='M 440 640 H 640 V 760 H 760 V 860 H 640 V 980 H 440 V 860 H 320 V 760 H 440 Z'/><path class='f' data-s='0.8' data-d='0.5' data-o='0.25' d='M 440 640 H 640 V 760 H 760 V 860 H 640 V 980 H 440 V 860 H 320 V 760 H 440 Z' fill='#3a86c8' opacity='0'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#3a86c8",
+     "s": 1.6,
+     "t": {
+      "en": "SEE A DOCTOR",
+      "es": "VE AL MÉDICO",
+      "fr": "VOIR UN MÉDECIN",
+      "ja": "受診しよう"
+     },
+     "maxW": 920
+    }
+   ]
+  }
+ ]
+}

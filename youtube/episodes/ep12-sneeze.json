@@ -1,0 +1,225 @@
+{
+ "id": "ep12-sneeze",
+ "title": {
+  "en": "Why Do We *Sneeze*?",
+  "es": "¿Por qué *estornudamos*?",
+  "fr": "Pourquoi on *éternue* ?",
+  "ja": "*くしゃみ*はなぜ出る？"
+ },
+ "coverTime": 4.5,
+ "steps": 2,
+ "stepsFrom": 5,
+ "scenes": [
+  {
+   "dur": 5,
+   "caption": {
+    "en": "*Achoo!* A sneeze is your nose's built-in *alarm and cleaning* system.",
+    "es": "*¡Achís!* El estornudo es el sistema de *alarma y limpieza* de tu nariz.",
+    "fr": "*Atchoum !* L'éternuement, c'est le système d'*alarme et de nettoyage* du nez.",
+    "ja": "*ハクション！* くしゃみは鼻の*警報＆おそうじ*システムです。"
+   },
+   "svg": "<g transform='translate(400 800) scale(0.85) rotate(-12) translate(-575 -705)'><path class='d' data-s='0' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='16.0'  d='M 480 920 L 470 830 C 400 760 400 560 540 520 C 640 490 700 560 700 630 L 705 670 L 750 740 L 705 755 L 710 790 L 700 810 L 708 830 C 705 870 670 880 630 870 L 620 920'/><circle class='p' data-s='0.8' data-d='0.4' cx='650' cy='640' r='13' fill='#1d1d1d'/></g><circle class='p' data-s='1.3' data-d='0.3' cx='650' cy='835' r='11' fill='#3a86c8'/><circle class='p' data-s='1.36' data-d='0.3' cx='908' cy='859' r='7' fill='#3a86c8'/><circle class='p' data-s='1.42' data-d='0.3' cx='790' cy='950' r='13' fill='#3a86c8'/><circle class='p' data-s='1.48' data-d='0.3' cx='659' cy='798' r='13' fill='#3a86c8'/><circle class='p' data-s='1.54' data-d='0.3' cx='766' cy='858' r='13' fill='#3a86c8'/><circle class='p' data-s='1.6' data-d='0.3' cx='803' cy='763' r='9' fill='#3a86c8'/><circle class='p' data-s='1.66' data-d='0.3' cx='890' cy='873' r='7' fill='#3a86c8'/><circle class='p' data-s='1.72' data-d='0.3' cx='815' cy='738' r='7' fill='#3a86c8'/><circle class='p' data-s='1.78' data-d='0.3' cx='674' cy='768' r='11' fill='#3a86c8'/><circle class='p' data-s='1.84' data-d='0.3' cx='740' cy='886' r='13' fill='#3a86c8'/><circle class='p' data-s='1.9' data-d='0.3' cx='831' cy='975' r='13' fill='#3a86c8'/><circle class='p' data-s='1.96' data-d='0.3' cx='837' cy='879' r='9' fill='#3a86c8'/><circle class='p' data-s='2.02' data-d='0.3' cx='894' cy='731' r='9' fill='#3a86c8'/><circle class='p' data-s='2.08' data-d='0.3' cx='748' cy='795' r='13' fill='#3a86c8'/><circle class='p' data-s='2.14' data-d='0.3' cx='856' cy='968' r='13' fill='#3a86c8'/><circle class='p' data-s='2.2' data-d='0.3' cx='753' cy='821' r='11' fill='#3a86c8'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 110,
+     "color": "#e63946",
+     "s": 1.8,
+     "t": {
+      "en": "ACHOO!",
+      "es": "¡ACHÍS!",
+      "fr": "ATCHOUM !",
+      "ja": "ハクション！"
+     }
+    }
+   ]
+  },
+  {
+   "dur": 6,
+   "caption": {
+    "en": "Dust, pollen, pepper or a cold virus *irritates* the lining inside your nose.",
+    "es": "El polvo, el polen, la pimienta o un virus del resfriado *irritan* el interior de la nariz.",
+    "fr": "Poussière, pollen, poivre ou virus du rhume *irritent* l'intérieur du nez.",
+    "ja": "ほこり、花粉、こしょう、かぜのウイルスが鼻の中を*刺激*します。"
+   },
+   "svg": "<g transform='translate(330 820) scale(0.85) rotate(0) translate(-575 -705)'><path class='d' data-s='0' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='16.0'  d='M 480 920 L 470 830 C 400 760 400 560 540 520 C 640 490 700 560 700 630 L 705 670 L 750 740 L 705 755 L 710 790 L 700 810 L 708 830 C 705 870 670 880 630 870 L 620 920'/><circle class='p' data-s='0.8' data-d='0.4' cx='650' cy='640' r='13' fill='#1d1d1d'/></g><circle class='d' data-s='1.0' data-d='0.4' cx='760' cy='700' r='24' fill='none' stroke='#e0a040' stroke-width='7'/><path class='d' data-s='1.2' data-d='0.3' fill='none' stroke='#e0a040' stroke-width='6'  d='M 784 700 L 798 700 M 777 717 L 787 727 M 760 724 L 760 738 M 743 717 L 733 727 M 736 700 L 722 700 M 743 683 L 733 673 M 760 676 L 760 662 M 777 683 L 787 673'/><circle class='d' data-s='1.3' data-d='0.4' cx='860' cy='800' r='18' fill='none' stroke='#e0a040' stroke-width='7'/><path class='d' data-s='1.5' data-d='0.3' fill='none' stroke='#e0a040' stroke-width='6'  d='M 878 800 L 892 800 M 873 813 L 883 823 M 860 818 L 860 832 M 847 813 L 837 823 M 842 800 L 828 800 M 847 787 L 837 777 M 860 782 L 860 768 M 873 787 L 883 777'/><circle class='d' data-s='1.5' data-d='0.4' cx='720' cy='880' r='16' fill='none' stroke='#e0a040' stroke-width='7'/><path class='d' data-s='1.7' data-d='0.3' fill='none' stroke='#e0a040' stroke-width='6'  d='M 736 880 L 750 880 M 731 891 L 741 901 M 720 896 L 720 910 M 709 891 L 699 901 M 704 880 L 690 880 M 709 869 L 699 859 M 720 864 L 720 850 M 731 869 L 741 859'/><circle class='p' data-s='1.6' data-d='0.4' cx='800' cy='620' r='8' fill='#888'/><circle class='p' data-s='1.7' data-d='0.4' cx='900' cy='700' r='6' fill='#888'/><circle class='p' data-s='1.8' data-d='0.4' cx='830' cy='920' r='7' fill='#888'/><path class='d' data-s='2.1' data-d='0.4' fill='none' stroke='#e63946' stroke-width='8'  d='M 520 790 l 15 -20 l 15 20 l 15 -20 l 15 20'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#e63946",
+     "s": 2.5,
+     "t": {
+      "en": "IRRITATION",
+      "es": "IRRITACIÓN",
+      "fr": "IRRITATION",
+      "ja": "鼻がムズムズ"
+     },
+     "maxW": 900
+    }
+   ]
+  },
+  {
+   "dur": 6,
+   "caption": {
+    "en": "Nerves in the nose send a signal to the *sneeze center* in your brainstem.",
+    "es": "Los nervios de la nariz envían una señal al *centro del estornudo* en el tronco cerebral.",
+    "fr": "Les nerfs du nez envoient un signal au *centre de l'éternuement*, dans le tronc cérébral.",
+    "ja": "鼻の神経が、脳の奥（脳幹）にある*くしゃみ中枢*へ信号を送ります。"
+   },
+   "svg": "<g transform='translate(470 780) scale(1.05) rotate(0) translate(-575 -705)'><path class='d' data-s='0' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='13.0'  d='M 480 920 L 470 830 C 400 760 400 560 540 520 C 640 490 700 560 700 630 L 705 670 L 750 740 L 705 755 L 710 790 L 700 810 L 708 830 C 705 870 670 880 630 870 L 620 920'/><circle class='p' data-s='0.8' data-d='0.4' cx='650' cy='640' r='13' fill='#1d1d1d'/><path class='d' data-s='0.9' data-d='0.8' fill='none' stroke='#e0a040' stroke-width='9'  d='M 715 735 C 640 700 560 700 500 770'/><circle class='p' data-s='1.6' data-d='0.4' cx='492' cy='780' r='24' fill='#e63946'/><path class='d' data-s='1.9' data-d='0.4' fill='none' stroke='#e63946' stroke-width='6'  d='M 470 700 l -15 25 l 20 0 l -15 25'/></g>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 80,
+     "color": "#e63946",
+     "s": 2.3,
+     "t": {
+      "en": "SNEEZE CENTER",
+      "es": "CENTRO DEL ESTORNUDO",
+      "fr": "CENTRE DE L’ÉTERNUEMENT",
+      "ja": "くしゃみ中枢"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 6.5,
+   "caption": {
+    "en": "You breathe in deeply, then air *bursts out* through nose and mouth to flush the irritant away.",
+    "es": "Inspiras hondo y el aire *sale disparado* por nariz y boca para expulsar lo que irrita.",
+    "fr": "Tu inspires fort, puis l'air *jaillit* par le nez et la bouche pour chasser l'irritant.",
+    "ja": "大きく息を吸い、鼻と口から一気に空気を*吹き出して*、異物を追い出します。"
+   },
+   "svg": "<g transform='translate(330 800) scale(0.8) rotate(10) translate(-575 -705)'><path class='d' data-s='0' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='17.0'  d='M 480 920 L 470 830 C 400 760 400 560 540 520 C 640 490 700 560 700 630 L 705 670 L 750 740 L 705 755 L 710 790 L 700 810 L 708 830 C 705 870 670 880 630 870 L 620 920'/><circle class='p' data-s='0.8' data-d='0.4' cx='650' cy='640' r='13' fill='#1d1d1d'/></g><path class='d' data-s='0.8' data-d='0.5' fill='none' stroke='#3a86c8' stroke-width='9'  d='M 700 620 L 560 700 M 573 680 L 560 700 L 584 700'/><path class='d' data-s='1.6' data-d='0.5' fill='none' stroke='#e63946' stroke-width='10'  d='M 520 840 L 900 740 M 520 860 L 940 860 M 520 880 L 900 980'/><circle class='d' data-s='2.0' data-d='0.4' cx='950' cy='800' r='16' fill='none' stroke='#e0a040' stroke-width='7'/><path class='d' data-s='2.2' data-d='0.3' fill='none' stroke='#e0a040' stroke-width='6'  d='M 966 800 L 980 800 M 961 811 L 971 821 M 950 816 L 950 830 M 939 811 L 929 821 M 934 800 L 920 800 M 939 789 L 929 779 M 950 784 L 950 770 M 961 789 L 971 779'/><circle class='d' data-s='2.1' data-d='0.4' cx='980' cy='920' r='12' fill='none' stroke='#e0a040' stroke-width='7'/><path class='d' data-s='2.3' data-d='0.3' fill='none' stroke='#e0a040' stroke-width='6'  d='M 992 920 L 1006 920 M 988 928 L 998 938 M 980 932 L 980 946 M 972 928 L 962 938 M 968 920 L 954 920 M 972 912 L 962 902 M 980 908 L 980 894 M 988 912 L 998 902'/>",
+   "texts": [
+    {
+     "x": 820,
+     "y": 600,
+     "size": 48,
+     "color": "#3a86c8",
+     "s": 0.8,
+     "t": {
+      "en": "1 IN",
+      "es": "1 INSPIRA",
+      "fr": "1 INSPIRE",
+      "ja": "①吸う"
+     },
+     "maxW": 300
+    },
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#e63946",
+     "s": 2.2,
+     "t": {
+      "en": "2 BLAST OUT",
+      "es": "2 ¡FUERA!",
+      "fr": "2 ÇA SORT !",
+      "ja": "②一気に出す"
+     },
+     "maxW": 900
+    }
+   ]
+  },
+  {
+   "dur": 5.5,
+   "caption": {
+    "en": "The droplets can fly *far* — and they carry germs to the people around you.",
+    "es": "Las gotitas pueden llegar *lejos* y llevar gérmenes a quienes te rodean.",
+    "fr": "Les gouttelettes peuvent aller *loin* et porter des microbes aux autres.",
+    "ja": "しぶきは*遠く*まで飛び、まわりの人にウイルスや細菌を運びます。"
+   },
+   "svg": "<g transform='translate(250 800) scale(0.6) rotate(0) translate(-575 -705)'><path class='d' data-s='0' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='22.7'  d='M 480 920 L 470 830 C 400 760 400 560 540 520 C 640 490 700 560 700 630 L 705 670 L 750 740 L 705 755 L 710 790 L 700 810 L 708 830 C 705 870 670 880 630 870 L 620 920'/><circle class='p' data-s='0.8' data-d='0.4' cx='650' cy='640' r='13' fill='#1d1d1d'/></g><circle class='p' data-s='0.6' data-d='0.3' cx='568' cy='772' r='7' fill='#e63946'/><circle class='p' data-s='0.66' data-d='0.3' cx='438' cy='814' r='11' fill='#e63946'/><circle class='p' data-s='0.72' data-d='0.3' cx='703' cy='965' r='9' fill='#e63946'/><circle class='p' data-s='0.78' data-d='0.3' cx='419' cy='806' r='7' fill='#e63946'/><circle class='p' data-s='0.84' data-d='0.3' cx='525' cy='832' r='7' fill='#e63946'/><circle class='p' data-s='0.9' data-d='0.3' cx='830' cy='727' r='9' fill='#e63946'/><circle class='p' data-s='0.96' data-d='0.3' cx='728' cy='880' r='7' fill='#e63946'/><circle class='p' data-s='1.02' data-d='0.3' cx='700' cy='823' r='9' fill='#e63946'/><circle class='p' data-s='1.08' data-d='0.3' cx='424' cy='828' r='11' fill='#e63946'/><circle class='p' data-s='1.14' data-d='0.3' cx='618' cy='847' r='11' fill='#e63946'/><circle class='p' data-s='1.2' data-d='0.3' cx='691' cy='899' r='7' fill='#e63946'/><circle class='p' data-s='1.26' data-d='0.3' cx='702' cy='890' r='11' fill='#e63946'/><circle class='p' data-s='1.32' data-d='0.3' cx='451' cy='829' r='7' fill='#e63946'/><circle class='p' data-s='1.38' data-d='0.3' cx='722' cy='853' r='13' fill='#e63946'/><circle class='p' data-s='1.44' data-d='0.3' cx='804' cy='854' r='13' fill='#e63946'/><circle class='p' data-s='1.5' data-d='0.3' cx='588' cy='788' r='9' fill='#e63946'/><circle class='p' data-s='1.56' data-d='0.3' cx='763' cy='777' r='11' fill='#e63946'/><circle class='p' data-s='1.62' data-d='0.3' cx='673' cy='942' r='13' fill='#e63946'/><circle class='p' data-s='1.68' data-d='0.3' cx='550' cy='902' r='7' fill='#e63946'/><circle class='p' data-s='1.74' data-d='0.3' cx='666' cy='763' r='11' fill='#e63946'/><circle class='p' data-s='1.8' data-d='0.3' cx='479' cy='817' r='7' fill='#e63946'/><circle class='p' data-s='1.86' data-d='0.3' cx='900' cy='696' r='11' fill='#e63946'/><circle class='p' data-s='1.92' data-d='0.3' cx='577' cy='806' r='13' fill='#e63946'/><circle class='p' data-s='1.98' data-d='0.3' cx='702' cy='839' r='7' fill='#e63946'/><circle class='p' data-s='2.04' data-d='0.3' cx='891' cy='869' r='7' fill='#e63946'/><circle class='p' data-s='2.1' data-d='0.3' cx='432' cy='822' r='13' fill='#e63946'/><circle class='d' data-s='1.4' data-d='0.5' cx='900' cy='620' r='55' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='1.6' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 900 675 V 860 M 900 720 L 840 800 M 900 720 L 960 800 M 900 860 L 850 960 M 900 860 L 950 960'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 80,
+     "color": "#e63946",
+     "s": 2.4,
+     "t": {
+      "en": "GERMS TRAVEL",
+      "es": "LOS GÉRMENES VIAJAN",
+      "fr": "LES MICROBES VOYAGENT",
+      "ja": "ウイルスが飛ぶ"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 6,
+   "step": 1,
+   "caption": {
+    "en": "*1* — Sneeze into a *tissue* or your *elbow*, not into your hands.",
+    "es": "*1* — Estornuda en un *pañuelo* o en el *codo*, no en las manos.",
+    "fr": "*1* — Éternue dans un *mouchoir* ou dans ton *coude*, pas dans tes mains.",
+    "ja": "*1* *ティッシュ*か*ひじの内側*で口と鼻をおおう。手のひらはNG。"
+   },
+   "svg": "<g transform='translate(440 800) scale(0.85) rotate(8) translate(-575 -705)'><path class='d' data-s='0' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='16.0'  d='M 480 920 L 470 830 C 400 760 400 560 540 520 C 640 490 700 560 700 630 L 705 670 L 750 740 L 705 755 L 710 790 L 700 810 L 708 830 C 705 870 670 880 630 870 L 620 920'/><circle class='p' data-s='0.8' data-d='0.4' cx='650' cy='640' r='13' fill='#1d1d1d'/></g><path class='d' data-s='0.8' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='14'  d='M 330 1080 C 430 980 560 940 640 905 C 715 870 715 800 655 785 C 600 765 560 700 520 640'/><path class='d' data-s='1.8' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='12'  d='M 740.0 560 L 785.0 605.0 L 870.0 495.0'/>",
+   "texts": [
+    {
+     "x": 800,
+     "y": 1000,
+     "size": 60,
+     "color": "#e63946",
+     "s": 1.9,
+     "t": {
+      "en": "ELBOW",
+      "es": "CODO",
+      "fr": "COUDE",
+      "ja": "ひじ"
+     },
+     "maxW": 300
+    },
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 80,
+     "color": "#e63946",
+     "s": 2.4,
+     "t": {
+      "en": "TISSUE OR ELBOW",
+      "es": "PAÑUELO O CODO",
+      "fr": "MOUCHOIR OU COUDE",
+      "ja": "ティッシュかひじ"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 5.5,
+   "step": 2,
+   "caption": {
+    "en": "*2* — Throw the tissue away and *wash your hands* with soap and water.",
+    "es": "*2* — Tira el pañuelo y *lávate las manos* con agua y jabón.",
+    "fr": "*2* — Jette le mouchoir et *lave-toi les mains* à l'eau et au savon.",
+    "ja": "*2* ティッシュはすぐ捨てて、石けんで*手を洗う*。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 170 710 H 350 L 330 930 H 190 Z M 150 710 H 370 M 230 710 V 685 H 290 V 710 M 225 750 L 232 900 M 260 750 V 900 M 295 750 L 288 900'/><path class='d' data-s='0.5' data-d='0.4' fill='none' stroke='#888' stroke-width='7'  d='M 230 640 q 20 -40 50 -20 q 30 -30 40 10'/><path class='d' data-s='0.7' data-d='0.5' fill='none' stroke='#888' stroke-width='7'  d='M 260 560 L 260 680 M 248 659 L 260 680 L 272 659'/><path class='d' data-s='1.1' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 460 520 H 690 Q 720 520 720 550 V 600 M 690 600 H 750 M 570 520 V 470 M 530 470 H 610'/><path class='d' data-s='1.9' data-d='0.6' fill='none' stroke='#3a86c8' stroke-width='12'  d='M 720 640 V 780'/><path class='d' data-s='2.1' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 580 890 C 600 810 680 800 720 840 C 760 800 840 810 860 890 M 580 890 C 660 940 780 940 860 890'/><circle class='d' data-s='2.7' data-d='0.3' cx='520' cy='820' r='22' fill='none' stroke='#3a86c8' stroke-width='6'/><circle class='d' data-s='2.82' data-d='0.3' cx='910' cy='800' r='26' fill='none' stroke='#3a86c8' stroke-width='6'/><circle class='d' data-s='2.94' data-d='0.3' cx='500' cy='920' r='16' fill='none' stroke='#3a86c8' stroke-width='6'/><circle class='d' data-s='3.06' data-d='0.3' cx='930' cy='920' r='18' fill='none' stroke='#3a86c8' stroke-width='6'/><circle class='d' data-s='3.18' data-d='0.3' cx='870' cy='720' r='14' fill='none' stroke='#3a86c8' stroke-width='6'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 88,
+     "color": "#e63946",
+     "s": 2.4,
+     "t": {
+      "en": "WASH HANDS",
+      "es": "LÁVATE LAS MANOS",
+      "fr": "LAVE TES MAINS",
+      "ja": "手を洗おう"
+     },
+     "maxW": 900
+    }
+   ]
+  }
+ ]
+}

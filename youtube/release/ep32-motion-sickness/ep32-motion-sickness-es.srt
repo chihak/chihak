@@ -1,0 +1,39 @@
+1
+00:00:00,250 --> 00:00:02,294
+¿Te mareas en coche, barco o avión?
+
+2
+00:00:02,294 --> 00:00:04,922
+Eso es la cinetosis, el mareo por movimiento.
+
+3
+00:00:06,250 --> 00:00:11,169
+Tu oído interno nota el movimiento, pero tus ojos ven un coche quieto o una página.
+
+4
+00:00:11,169 --> 00:00:13,717
+Esas señales opuestas confunden al cerebro.
+
+5
+00:00:15,250 --> 00:00:18,770
+Puedes sentir náuseas, mareo, sudor, palidez o dolor de cabeza.
+
+6
+00:00:22,250 --> 00:00:27,882
+Para aliviarlo, mira al horizonte, siéntate delante o en el centro del barco, y no leas ni mires pantallas.
+
+7
+00:00:31,250 --> 00:00:35,009
+Busca aire fresco, quédate quieto, come ligero y evita el alcohol.
+
+8
+00:00:35,009 --> 00:00:37,117
+El jengibre ayuda a algunas personas.
+
+9
+00:00:39,250 --> 00:00:43,380
+El farmacéutico puede recomendarte pastillas para tomar antes del viaje.
+
+10
+00:00:43,380 --> 00:00:46,247
+Ve al médico si te sientes así sin estar viajando.

@@ -1,0 +1,43 @@
+1
+00:00:00,250 --> 00:00:02,089
+¿Día caluroso y te sientes fatal?
+
+2
+00:00:02,089 --> 00:00:05,711
+Distingue agotamiento por calor y golpe de calor, una emergencia.
+
+3
+00:00:06,410 --> 00:00:12,106
+Agotamiento por calor: mucho sudor, dolor de cabeza, mareo, náuseas, calambres, debilidad y mucha sed.
+
+4
+00:00:12,910 --> 00:00:16,558
+1 — Llévale a un lugar fresco, acuéstale y eleva un poco sus pies.
+
+5
+00:00:18,410 --> 00:00:22,634
+2 — Dale mucha agua o una bebida isotónica o de rehidratación, a sorbos.
+
+6
+00:00:23,410 --> 00:00:26,809
+3 — Enfría la piel: rocía o pasa agua fresca y abanica.
+
+7
+00:00:26,809 --> 00:00:29,405
+Compresas frías en axilas o cuello ayudan.
+
+8
+00:00:30,100 --> 00:00:31,652
+Heatstroke is an emergency.
+
+9
+00:00:31,652 --> 00:00:36,479
+Call if they're confused, faint, seizing, not sweating, or not better in 30 minutes.
+
+10
+00:00:37,180 --> 00:00:39,076
+Mientras esperas, sigue enfriándole.
+
+11
+00:00:39,076 --> 00:00:41,447
+No le des de beber si no está bien despierto.

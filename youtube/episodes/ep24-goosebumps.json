@@ -1,0 +1,250 @@
+{
+ "id": "ep24-goosebumps",
+ "title": {
+  "en": "Why Do We Get *Goosebumps*?",
+  "es": "¿Por qué nos sale *piel de gallina*?",
+  "fr": "Pourquoi a-t-on la *chair de poule* ?",
+  "ja": "*鳥肌*はなぜ立つ？"
+ },
+ "coverTime": 4.0,
+ "scenes": [
+  {
+   "dur": 5,
+   "caption": {
+    "en": "Goosebumps! Why does your *skin* do that?",
+    "es": "¡Piel de gallina! ¿Por qué hace eso tu *piel*?",
+    "fr": "La chair de poule ! Pourquoi ta *peau* fait ça ?",
+    "ja": "鳥肌！なぜ*皮膚*はこうなるの？"
+   },
+   "svg": "<circle class='d' data-s='0' data-d='0.4' cx='540' cy='640' r='70' fill='none' stroke='#1d1d1d' stroke-width='9'/><path class='d' data-s='0.3' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 540 710 V 900 M 540 760 L 440 840 M 540 760 L 640 840'/><path class='d' data-s='1.0' data-d='0.6' fill='none' stroke='#e63946' stroke-width='7' d='M 440 840 l 15 -25 l 15 25 l 15 -25 l 15 25'/><path class='d' data-s='1.3' data-d='0.6' fill='none' stroke='#e63946' stroke-width='7' d='M 610 800 l 15 -25 l 15 25 l 15 -25 l 15 25'/><path class='d' data-s='1.7' data-d='0.5' fill='none' stroke='#bbb' stroke-width='8' d='M 330 600 q -25 40 0 80 M 750 600 q 25 40 0 80'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 110,
+     "color": "#e63946",
+     "s": 2.0,
+     "t": {
+      "en": "GOOSEBUMPS!",
+      "es": "¡PIEL DE GALLINA!",
+      "fr": "CHAIR DE POULE !",
+      "ja": "鳥肌！"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 6,
+   "caption": {
+    "en": "Each *hair* is attached to a tiny muscle in your skin. It's called the *arrector pili*.",
+    "es": "Cada *vello* está unido a un diminuto músculo de la piel, el *músculo erector del pelo*.",
+    "fr": "Chaque *poil* est relié à un minuscule muscle de la peau : le *muscle horripilateur*.",
+    "ja": "どの*毛*にも、皮膚の中の小さな筋肉がつながっています。*立毛筋*といいます。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 100 900 H 980'/><path class='d' data-s='0.4' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 300 900 L 300 740'/><path class='d' data-s='0.7' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 540 900 L 540 740'/><path class='d' data-s='1.0' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 780 900 L 780 740'/><path class='d' data-s='1.3' data-d='0.6' fill='none' stroke='#e63946' stroke-width='12' d='M 300 880 L 230 960 M 540 880 L 470 960 M 780 880 L 710 960'/><path class='d' data-s='1.6' data-d='0.6' fill='none' stroke='#bbb' stroke-width='6' d='M 150 960 H 900 M 150 1010 H 900'/>",
+   "texts": [
+    {
+     "x": 250,
+     "y": 1075,
+     "size": 44,
+     "color": "#e63946",
+     "s": 1.6,
+     "t": {
+      "en": "MUSCLE",
+      "es": "MÚSCULO",
+      "fr": "MUSCLE",
+      "ja": "筋肉"
+     },
+     "maxW": 300
+    },
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#3a86c8",
+     "s": 2.4,
+     "t": {
+      "en": "TINY HAIR MUSCLE",
+      "es": "MÚSCULO DEL VELLO",
+      "fr": "MUSCLE DU POIL",
+      "ja": "毛の筋肉"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 6,
+   "caption": {
+    "en": "When you're *cold* or *scared*, your nerves tell that muscle to *squeeze*.",
+    "es": "Cuando tienes *frío* o *miedo*, los nervios le ordenan a ese músculo que se *contraiga*.",
+    "fr": "Quand tu as *froid* ou *peur*, tes nerfs ordonnent à ce muscle de se *contracter*.",
+    "ja": "*寒さ*や*恐怖*を感じると、神経がその筋肉に*縮め*と指令を出します。"
+   },
+   "svg": "<circle class='d' data-s='0' data-d='0.4' cx='300' cy='640' r='60' fill='none' stroke='#1d1d1d' stroke-width='9'/><path class='d' data-s='0.3' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 300 700 V 760 M 300 740 L 240 800'/><path class='d' data-s='0.8' data-d='0.7' fill='none' stroke='#e63946' stroke-width='9' d='M 360 620 C 500 540 620 540 700 620 L 700 560 M 700 620 L 640 600'/><path class='d' data-s='1.5' data-d='0.6' fill='none' stroke='#e63946' stroke-width='9' d='M 760 800 L 820 740 L 800 780 L 860 720'/><path class='d' data-s='1.9' data-d='0.4' fill='none' stroke='#3a86c8' stroke-width='7' d='M 240 560 l 30 -30 M 300 530 l 0 -40 M 360 560 l 30 -30'/>",
+   "texts": [
+    {
+     "x": 130,
+     "y": 610,
+     "size": 48,
+     "color": "#3a86c8",
+     "s": 1.2,
+     "t": {
+      "en": "COLD!",
+      "es": "¡FRÍO!",
+      "fr": "FROID !",
+      "ja": "寒い！"
+     },
+     "maxW": 200
+    },
+    {
+     "x": 780,
+     "y": 880,
+     "size": 48,
+     "color": "#e63946",
+     "s": 1.8,
+     "t": {
+      "en": "SIGNAL",
+      "es": "SEÑAL",
+      "fr": "SIGNAL",
+      "ja": "信号"
+     },
+     "maxW": 300
+    },
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#e63946",
+     "s": 2.4,
+     "t": {
+      "en": "COLD OR FEAR",
+      "es": "FRÍO O MIEDO",
+      "fr": "FROID OU PEUR",
+      "ja": "寒さ・恐怖"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 6,
+   "caption": {
+    "en": "The muscle *pulls* the hair upright and the skin around it *bunches* into a small bump.",
+    "es": "El músculo *levanta* el vello y la piel de alrededor se *arruga* formando un pequeño bulto.",
+    "fr": "Le muscle *redresse* le poil et la peau autour se *plisse* en une petite bosse.",
+    "ja": "筋肉が毛を*立たせ*、まわりの皮膚が*盛り上がって*小さなぽつぽつになります。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 100 900 H 280 C 300 860 340 860 360 900 H 480 C 500 860 540 860 560 900 H 680 C 700 860 740 860 760 900 H 980'/><path class='d' data-s='0.6' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 320 880 V 700'/><path class='d' data-s='0.9' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 520 880 V 700'/><path class='d' data-s='1.2' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 720 880 V 700'/><path class='d' data-s='1.7' data-d='0.6' fill='none' stroke='#e63946' stroke-width='10' d='M 330 960 L 320 900 M 530 960 L 520 900 M 730 960 L 720 900'/><path class='d' data-s='1.9' data-d='0.5' fill='none' stroke='#e63946' stroke-width='8' d='M 280 800 l 0 -40 M 275 770 l 5 -15 l 5 15'/>",
+   "texts": [
+    {
+     "x": 340,
+     "y": 640,
+     "size": 48,
+     "color": "#e63946",
+     "s": 1.8,
+     "t": {
+      "en": "HAIR UP",
+      "es": "VELLO ERGUIDO",
+      "fr": "POIL DRESSÉ",
+      "ja": "毛が立つ"
+     },
+     "maxW": 300
+    },
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#3a86c8",
+     "s": 2.4,
+     "t": {
+      "en": "HAIR UP · SKIN BUMPS",
+      "es": "VELLO ARRIBA · BULTITOS",
+      "fr": "POILS DRESSÉS · BOSSES",
+      "ja": "毛が立つ・ぽつぽつ"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 7,
+   "caption": {
+    "en": "In furry animals, upright fur *traps warm air* or makes them look *bigger*. For us, it's an old *leftover reflex*.",
+    "es": "En animales con pelaje, el pelo erizado *atrapa aire caliente* o los hace parecer *más grandes*. En nosotros es un *reflejo heredado*.",
+    "fr": "Chez les animaux à fourrure, les poils dressés *retiennent l'air chaud* ou font paraître *plus gros*. Chez nous, c'est un *vieux réflexe*.",
+    "ja": "毛の多い動物は、毛を立てて*暖かい空気をためたり*、体を*大きく見せたり*します。人間では*名残の反射*です。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 300 900 C 260 780 340 700 480 700 C 620 700 720 760 740 900 M 300 900 L 300 980 M 420 900 L 420 980 M 640 900 L 640 980 M 740 900 L 740 980'/><path class='d' data-s='1.0' data-d='0.8' fill='none' stroke='#e63946' stroke-width='8' d='M 350 700 l -10 -50 M 410 690 l -5 -55 M 480 685 l 0 -55 M 550 690 l 5 -55 M 620 700 l 10 -50 M 680 720 l 15 -45'/><path class='d' data-s='1.9' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 300 760 C 240 740 200 780 220 820'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#3a86c8",
+     "s": 2.4,
+     "t": {
+      "en": "OLD REFLEX",
+      "es": "VIEJO REFLEJO",
+      "fr": "VIEUX RÉFLEXE",
+      "ja": "昔の名残"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 6,
+   "caption": {
+    "en": "Strong *emotions* can do it too, like a thrilling song, awe or a big moment.",
+    "es": "Las *emociones* intensas también pueden provocarlo: una canción emocionante, asombro o un gran momento.",
+    "fr": "De fortes *émotions* peuvent aussi la provoquer : une chanson bouleversante, l'émerveillement, un grand moment.",
+    "ja": "強い*感動*でも起こります。心にしみる音楽や、驚き、特別な瞬間などです。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 300 840 V 700 L 440 660 V 800'/><circle class='d' data-s='0.5' data-d='0.3' cx='280' cy='850' r='40' fill='none' stroke='#1d1d1d' stroke-width='9'/><circle class='d' data-s='0.7' data-d='0.3' cx='420' cy='810' r='40' fill='none' stroke='#1d1d1d' stroke-width='9'/><path class='d' data-s='1.1' data-d='0.8' fill='none' stroke='#e63946' stroke-width='8' d='M 520 740 q 40 -40 0 -80 M 580 770 q 60 -70 0 -140 M 640 800 q 80 -100 0 -200'/><path class='d' data-s='1.9' data-d='0.5' fill='none' stroke='#e0a040' stroke-width='8' d='M 760 760 l 0 -40 M 800 780 l 20 -30 M 720 780 l -20 -30'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#e63946",
+     "s": 2.0,
+     "t": {
+      "en": "MUSIC · AWE · THRILL",
+      "es": "MÚSICA · ASOMBRO",
+      "fr": "MUSIQUE · ÉMOTION",
+      "ja": "音楽・感動"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 7,
+   "caption": {
+    "en": "Goosebumps are *harmless* and fade on their own. See a *doctor* if you often get chills with *fever* or feel unwell.",
+    "es": "La piel de gallina es *inofensiva* y se quita sola. Consulta al *médico* si tienes escalofríos con *fiebre* o te sientes mal.",
+    "fr": "La chair de poule est *sans danger* et passe seule. Consulte un *médecin* si tu as souvent des frissons avec de la *fièvre* ou te sens mal.",
+    "ja": "鳥肌は*心配なく*、自然におさまります。熱を伴う悪寒がよくある、体調が悪いときは*受診*を。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.9' fill='none' stroke='#3a86c8' stroke-width='12' d='M 440 640 H 640 V 760 H 760 V 860 H 640 V 980 H 440 V 860 H 320 V 760 H 440 Z'/><path class='f' data-s='0.8' data-d='0.5' data-o='0.25' d='M 440 640 H 640 V 760 H 760 V 860 H 640 V 980 H 440 V 860 H 320 V 760 H 440 Z' fill='#3a86c8' opacity='0'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 84,
+     "color": "#3a86c8",
+     "s": 1.8,
+     "t": {
+      "en": "HARMLESS",
+      "es": "INOFENSIVO",
+      "fr": "SANS DANGER",
+      "ja": "心配なし"
+     },
+     "maxW": 920
+    }
+   ]
+  }
+ ]
+}

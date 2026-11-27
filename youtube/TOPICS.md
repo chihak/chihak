@@ -1,0 +1,36 @@
+# Sketch Clinic topic backlog
+
+Status: `todo`, `in progress: epNN-slug`, or `done: epNN-slug`.
+
+Covered by ep01-ep20: stroke, heart attack, leg cramps, knuckle cracking, hiccups, eye twitch, brain freeze, head rush, nosebleed, foot asleep, stomach growl, sneeze, frostbite, mouth ulcer, bee sting, choking, heat illness, button battery, ear popping, contagious yawn.
+
+- done: ep21-minor-burn - Minor burn first aid (cool running water 20 min)
+- done: ep22-fainting - Fainting - what to do when someone passes out
+- done: ep24-goosebumps - Why do we get goosebumps?
+- done: ep31-wrinkly-fingers - Why do fingers wrinkle in water?
+- done: ep26-sprained-ankle - Sprained ankle first aid (PRICE / POLICE)
+- done: ep27-sunburn - Sunburn - treat it and when to worry
+- done: ep29-splinter - How to remove a splinter safely
+- done: ep32-motion-sickness - Motion sickness - why it happens and what helps
+- done: ep34-dehydration - Dehydration signs and what to do
+- done: ep28-blisters - Blisters - to pop or not to pop
+- done: ep35-black-eye - Black eye / blow to the eye - when to get checked
+- done: ep33-side-stitch - Why do we get a stitch (side cramp) when running?
+- done: ep30-tick-bite - Tick bite - how to remove it and what to watch
+- todo: Jellyfish sting first aid
+- todo: Why do we get a lump in the throat when sad?
+- done: ep37-concussion - Concussion warning signs
+- todo: Dog bite first aid
+- done: ep25-something-in-eye - Something in your eye - what to do
+- todo: Why do we dream / forget dreams?
+- todo: Food poisoning - fluids and warning signs
+- todo: Why do we get a sore throat? When to see a doctor
+- todo: Cold vs flu vs COVID - differences and red flags
+- done: ep23-severe-bleeding - Severe bleeding - direct pressure
+- done: ep36-seizure - Seizure first aid
+- todo: Low blood sugar signs (hypoglycaemia) and what to do
+- todo: Why do we get goosebumps from music (frisson)?
+- todo: Swimmer's ear
+- todo: Why is your pee dark / what urine colour says
+- todo: Insect in the ear
+- todo: Why do we get sleepy after lunch?

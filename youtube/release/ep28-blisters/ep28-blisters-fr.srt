@@ -1,0 +1,43 @@
+1
+00:00:00,250 --> 00:00:00,882
+Une cloque ?
+
+2
+00:00:00,882 --> 00:00:01,882
+Faut-il la percer ?
+
+3
+00:00:01,882 --> 00:00:02,725
+En général, non.
+
+4
+00:00:06,250 --> 00:00:07,563
+Un : laisse-la tranquille.
+
+5
+00:00:07,563 --> 00:00:11,605
+La peau au-dessus protège la peau neuve en dessous et aide à éviter l'infection.
+
+6
+00:00:12,750 --> 00:00:16,185
+Deux : couvre-la d'un pansement lâche ou coussiné, pour éviter les frottements.
+
+7
+00:00:18,750 --> 00:00:22,633
+Trois : si elle éclate, lave-la à l'eau propre, laisse la peau en place et couvre-la.
+
+8
+00:00:25,750 --> 00:00:27,242
+Quatre : réduis les frottements.
+
+9
+00:00:27,242 --> 00:00:29,761
+Porte des chaussures et des chaussettes bien ajustées.
+
+10
+00:00:31,750 --> 00:00:36,268
+Du pus, une rougeur qui s'étend, plus de douleur ou de gonflement, ou de la fièvre ?
+
+11
+00:00:36,268 --> 00:00:40,518
+Consulte un médecin, de même en cas de diabète, de grande cloque ou de brûlure.

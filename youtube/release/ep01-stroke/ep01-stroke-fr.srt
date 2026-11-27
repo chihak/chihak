@@ -1,0 +1,43 @@
+1
+00:00:00,250 --> 00:00:04,474
+À chaque minute d'un AVC, le cerveau peut perdre près de 2 millions de neurones.
+
+2
+00:00:06,250 --> 00:00:10,645
+Il survient quand le sang n'arrive plus à une partie du cerveau : vaisseau bouché ou rompu.
+
+3
+00:00:12,250 --> 00:00:15,343
+1 — Équilibre : vertige soudain ou difficulté à marcher.
+
+4
+00:00:16,750 --> 00:00:19,587
+2 — Yeux : vision floue, double ou perte soudaine de la vue.
+
+5
+00:00:21,250 --> 00:00:23,313
+3 — Visage : demande-lui de sourire.
+
+6
+00:00:23,313 --> 00:00:24,173
+Un côté tombe ?
+
+7
+00:00:25,750 --> 00:00:27,411
+4 — Bras : lever les deux bras.
+
+8
+00:00:27,411 --> 00:00:28,161
+L'un retombe ?
+
+9
+00:00:30,250 --> 00:00:32,426
+5 — Parole : est-elle confuse ou bizarre ?
+
+10
+00:00:34,750 --> 00:00:37,358
+Appelle les secours tout de suite, même si ça passe.
+
+11
+00:00:37,358 --> 00:00:38,462
+Note l'heure du début.

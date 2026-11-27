@@ -1,0 +1,210 @@
+{
+ "id": "ep28-blisters",
+ "title": {
+  "en": "*Blisters?* Pop or Not?",
+  "es": "¿*Ampollas?* ¿Reventar o no?",
+  "fr": "*Cloques ?* À percer ou non ?",
+  "ja": "*水ぶくれ*、つぶす？"
+ },
+ "coverTime": 4.0,
+ "steps": 4,
+ "stepsFrom": 1,
+ "scenes": [
+  {
+   "dur": 6,
+   "caption": {
+    "en": "A blister? Should you pop it? Usually *no*.",
+    "es": "¿Una ampolla? ¿Reventarla? Normalmente *no*.",
+    "fr": "Une cloque ? La percer ? En général, *non*.",
+    "ja": "水ぶくれ、つぶしていい？ 基本は*つぶさない*。"
+   },
+   "narration": {
+    "en": "A blister? Should you pop it? Usually, no.",
+    "es": "¿Una ampolla? ¿Debes reventarla? Normalmente no.",
+    "fr": "Une cloque ? Faut-il la percer ? En général, non.",
+    "ja": "水ぶくれ、つぶしてもいい？ 基本は、つぶさないことです。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 360 900 Q 360 700 520 680 Q 700 660 760 760 Q 800 840 760 900 Z'/><path class='d' data-s='0.9' data-d='0.6' fill='none' stroke='#e63946' stroke-width='11' d='M 560 760 Q 560 690 620 690 Q 680 690 680 760 Q 680 800 620 800 Q 560 800 560 760 Z'/><path class='f' data-s='0.9' data-d='0.6' data-o='0.25' d='M 560 760 Q 560 690 620 690 Q 680 690 680 760 Q 680 800 620 800 Q 560 800 560 760 Z' fill='#e63946' opacity='0'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#e63946",
+     "s": 1.6,
+     "t": {
+      "en": "BLISTER",
+      "es": "AMPOLLA",
+      "fr": "CLOQUE",
+      "ja": "水ぶくれ"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 6.5,
+   "step": 1,
+   "caption": {
+    "en": "*1* — *Leave it* alone. The skin on top protects the new skin underneath.",
+    "es": "*1* — *Déjala*. La piel de encima protege la piel nueva de abajo.",
+    "fr": "*1* — *Laisse-la*. La peau au-dessus protège la peau neuve en dessous.",
+    "ja": "*1* — *そのまま*：上の皮膚が、下の新しい皮膚を守っています。"
+   },
+   "narration": {
+    "en": "Step one. Leave it alone. The skin on top protects the new skin underneath, and helps prevent infection.",
+    "es": "Uno: déjala tranquila. La piel de encima protege la piel nueva de abajo y ayuda a evitar infecciones.",
+    "fr": "Un : laisse-la tranquille. La peau au-dessus protège la peau neuve en dessous et aide à éviter l'infection.",
+    "ja": "一つ目、そのままにします。上の皮膚が下の新しい皮膚を守り、感染を防いでくれます。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.8' fill='none' stroke='#3a86c8' stroke-width='11' d='M 500 700 H 740 V 860 H 500 Z'/><path class='d' data-s='0.8' data-d='0.5' fill='none' stroke='#3a86c8' stroke-width='9' d='M 540 780 H 700'/><path class='d' data-s='1.3' data-d='0.5' fill='none' stroke='#3a86c8' stroke-width='9' d='M 620 740 V 820'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#3a86c8",
+     "s": 1.6,
+     "t": {
+      "en": "LEAVE IT",
+      "es": "NE PAS TOUCHER",
+      "fr": "LAISSE-LA",
+      "ja": "触らない"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 6,
+   "step": 2,
+   "caption": {
+    "en": "*2* — *Cover* it with a loose dressing or a padded plaster.",
+    "es": "*2* — *Cúbrela* con un apósito suelto o una tirita acolchada.",
+    "fr": "*2* — *Couvre-la* d'un pansement lâche ou d'un pansement coussiné.",
+    "ja": "*2* — *保護*：ゆるめのガーゼやクッション付きの絆創膏で覆います。"
+   },
+   "narration": {
+    "en": "Step two. Cover it with a loose dressing or a padded plaster, so it doesn't rub.",
+    "es": "Dos: cúbrela con un apósito suelto o una tirita acolchada, para que no roce.",
+    "fr": "Deux : couvre-la d'un pansement lâche ou coussiné, pour éviter les frottements.",
+    "ja": "二つ目、覆います。ゆるめのガーゼやクッション付きの絆創膏で、こすれを防ぎます。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.7' fill='none' stroke='#3a86c8' stroke-width='11' d='M 400 600 H 640 V 680 H 400 Z'/><path class='d' data-s='0.7' data-d='0.6' fill='none' stroke='#3a86c8' stroke-width='11' d='M 520 700 Q 480 800 520 860 Q 560 800 520 700 Z'/><path class='d' data-s='1.4' data-d='0.5' fill='none' stroke='#2a9d8f' stroke-width='9' d='M 400 960 Q 520 1010 640 960'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#3a86c8",
+     "s": 1.6,
+     "t": {
+      "en": "COVER IT",
+      "es": "CÚBRELA",
+      "fr": "COUVRE-LA",
+      "ja": "覆う"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 7,
+   "step": 3,
+   "caption": {
+    "en": "*3* — If it *bursts*, wash with clean water, leave the skin flap, and cover.",
+    "es": "*3* — Si se *revienta*, lávala con agua limpia, deja la piel y cúbrela.",
+    "fr": "*3* — Si elle *éclate*, lave à l'eau propre, garde la peau et couvre.",
+    "ja": "*3* — *破れたら*：清潔な水で洗い、皮は残して覆います。"
+   },
+   "narration": {
+    "en": "Step three. If it bursts, wash it with clean water, leave the loose skin in place, and cover it.",
+    "es": "Tres: si se revienta, lávala con agua limpia, deja la piel suelta en su sitio y cúbrela.",
+    "fr": "Trois : si elle éclate, lave-la à l'eau propre, laisse la peau en place et couvre-la.",
+    "ja": "三つ目、破れたら、清潔な水で洗い、皮はそのまま残して覆います。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 360 900 Q 360 700 520 680 Q 700 660 760 760 Q 800 840 760 900 Z'/><path class='d' data-s='0.9' data-d='0.5' fill='none' stroke='#2a9d8f' stroke-width='9' d='M 400 940 H 740 M 400 980 H 740'/><path class='d' data-s='1.5' data-d='0.5' fill='none' stroke='#e63946' stroke-width='9' d='M 840 640 l 60 -50 M 860 720 h 90'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#2a9d8f",
+     "s": 1.6,
+     "t": {
+      "en": "IF IT BURSTS",
+      "es": "SI SE ROMPE",
+      "fr": "SI ELLE ÉCLATE",
+      "ja": "破れたら"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 6,
+   "step": 4,
+   "caption": {
+    "en": "*4* — Cut the *friction*: wear well-fitting shoes and socks.",
+    "es": "*4* — Reduce la *fricción*: calzado y calcetines que ajusten bien.",
+    "fr": "*4* — Réduis les *frottements* : chaussures et chaussettes bien ajustées.",
+    "ja": "*4* — *摩擦を減らす*：合う靴と靴下を選びます。"
+   },
+   "narration": {
+    "en": "Step four. Cut the friction. Wear well-fitting shoes and socks.",
+    "es": "Cuatro: reduce la fricción. Usa calzado y calcetines que ajusten bien.",
+    "fr": "Quatre : réduis les frottements. Porte des chaussures et des chaussettes bien ajustées.",
+    "ja": "四つ目、摩擦を減らします。サイズの合う靴と靴下を使いましょう。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 360 900 Q 360 700 520 680 Q 700 660 760 760 Q 800 840 760 900 Z'/><path class='d' data-s='0.9' data-d='0.6' fill='none' stroke='#2a9d8f' stroke-width='11' d='M 560 760 Q 560 690 620 690 Q 680 690 680 760 Q 680 800 620 800 Q 560 800 560 760 Z'/><path class='f' data-s='0.9' data-d='0.6' data-o='0.25' d='M 560 760 Q 560 690 620 690 Q 680 690 680 760 Q 680 800 620 800 Q 560 800 560 760 Z' fill='#2a9d8f' opacity='0'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#3a86c8",
+     "s": 1.6,
+     "t": {
+      "en": "LESS RUBBING",
+      "es": "MENOS ROCE",
+      "fr": "MOINS DE FROTTEMENT",
+      "ja": "摩擦を減らす"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 8.5,
+   "caption": {
+    "en": "*Pus*, spreading redness, more pain or swelling, or *fever*? See a *doctor*. Also if you have diabetes, or it's large or from a burn.",
+    "es": "¿*Pus*, enrojecimiento que se extiende, más dolor o hinchazón, o *fiebre*? Ve al *médico*. También con diabetes, si es grande o por quemadura.",
+    "fr": "*Pus*, rougeur qui s'étend, plus de douleur ou de gonflement, ou *fièvre* ? Consulte un *médecin*, aussi en cas de diabète, de grande cloque ou de brûlure.",
+    "ja": "*膿*、広がる赤み、痛みや腫れの悪化、*発熱*は*受診*を。糖尿病がある場合、大きい場合ややけどの場合も受診してください。"
+   },
+   "narration": {
+    "en": "Pus, spreading redness, more pain or swelling, or a fever? See a doctor. Also see one if you have diabetes, or the blister is large or from a burn.",
+    "es": "¿Pus, enrojecimiento que se extiende, más dolor o hinchazón, o fiebre? Ve al médico. También si tienes diabetes, o si la ampolla es grande o por una quemadura.",
+    "fr": "Du pus, une rougeur qui s'étend, plus de douleur ou de gonflement, ou de la fièvre ? Consulte un médecin, de même en cas de diabète, de grande cloque ou de brûlure.",
+    "ja": "膿、広がる赤み、痛みや腫れの悪化、発熱があれば受診してください。糖尿病がある場合、大きい水ぶくれややけどによる場合も受診を。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.9' fill='none' stroke='#3a86c8' stroke-width='12' d='M 440 640 H 640 V 760 H 760 V 860 H 640 V 980 H 440 V 860 H 320 V 760 H 440 Z'/><path class='f' data-s='0.8' data-d='0.5' data-o='0.25' d='M 440 640 H 640 V 760 H 760 V 860 H 640 V 980 H 440 V 860 H 320 V 760 H 440 Z' fill='#3a86c8' opacity='0'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#3a86c8",
+     "s": 1.6,
+     "t": {
+      "en": "SEE A DOCTOR",
+      "es": "VE AL MÉDICO",
+      "fr": "VOIR UN MÉDECIN",
+      "ja": "受診しよう"
+     },
+     "maxW": 920
+    }
+   ]
+  }
+ ]
+}

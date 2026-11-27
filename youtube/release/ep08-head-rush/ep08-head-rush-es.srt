@@ -1,0 +1,31 @@
+1
+00:00:00,250 --> 00:00:03,701
+¿Te levantas rápido y todo da vueltas o se oscurece un segundo?
+
+2
+00:00:03,701 --> 00:00:04,303
+Te explico.
+
+3
+00:00:05,750 --> 00:00:10,038
+Al ponerte de pie, la gravedad baja cerca de medio litro de sangre a las piernas.
+
+4
+00:00:11,250 --> 00:00:16,221
+La presión arterial baja un instante y llega menos sangre al cerebro: mareo y vista borrosa.
+
+5
+00:00:17,250 --> 00:00:22,306
+Normalmente el cuerpo lo corrige en segundos: el corazón se acelera y los vasos se cierran.
+
+6
+00:00:23,250 --> 00:00:28,263
+Es más probable si estás deshidratado, tras una ducha caliente o con ciertos medicamentos.
+
+7
+00:00:29,250 --> 00:00:33,815
+Consejo: levántate despacio, quédate sentado un momento y toma suficiente agua.
+
+8
+00:00:34,750 --> 00:00:38,803
+Consulta al médico si te desmayas, te pasa seguido o hay dolor en el pecho.

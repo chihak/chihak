@@ -1,0 +1,210 @@
+{
+ "id": "ep26-sprained-ankle",
+ "title": {
+  "en": "*Sprained Ankle?* First Aid",
+  "es": "¿*Esguince de tobillo?* Primeros auxilios",
+  "fr": "*Entorse de cheville ?* Premiers secours",
+  "ja": "*足首の捻挫*の応急手当"
+ },
+ "coverTime": 4.0,
+ "steps": 4,
+ "stepsFrom": 1,
+ "scenes": [
+  {
+   "dur": 6,
+   "caption": {
+    "en": "Rolled your ankle? Here's the first aid for a *sprain*.",
+    "es": "¿Te torciste el tobillo? Primeros auxilios para un *esguince*.",
+    "fr": "Cheville foulée ? Voici les premiers secours pour une *entorse*.",
+    "ja": "足首をひねった？ *捻挫*の応急手当を見ていきましょう。"
+   },
+   "narration": {
+    "en": "Rolled your ankle? Here's the first aid for a sprain.",
+    "es": "¿Te torciste el tobillo? Primeros auxilios para un esguince.",
+    "fr": "Cheville foulée ? Voici les premiers secours pour une entorse.",
+    "ja": "足首をひねったら。捻挫の応急手当です。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 440 520 V 840 Q 440 900 400 950 Q 380 1000 440 1010 H 800 Q 850 1010 840 960 Q 820 930 700 920 Q 600 910 600 840 V 520'/><circle class='d' data-s='0.8' data-d='0.5' cx='520' cy='880' r='62' fill='none' stroke='#e63946' stroke-width='9' stroke-dasharray='16 12'/><path class='d' data-s='1.3' data-d='0.4' fill='none' stroke='#e63946' stroke-width='8' d='M 420 780 l -40 -25 M 440 740 l -25 -45 M 600 780 l 40 -25'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#e63946",
+     "s": 1.6,
+     "t": {
+      "en": "SPRAINED ANKLE",
+      "es": "ESGUINCE DE TOBILLO",
+      "fr": "ENTORSE DE CHEVILLE",
+      "ja": "足首の捻挫"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 6,
+   "step": 1,
+   "caption": {
+    "en": "*1* — *Rest*. Stop and take weight off the ankle. Don't try to walk it off.",
+    "es": "*1* — *Reposo*. Detente y no apoyes el tobillo. No intentes seguir caminando.",
+    "fr": "*1* — *Repos*. Arrête-toi et ne charge pas la cheville. Ne force pas.",
+    "ja": "*1* — *安静*に。足首に体重をかけず、無理に歩かないで。"
+   },
+   "narration": {
+    "en": "Step one. Rest. Stop, and take the weight off the ankle. Don't try to walk it off.",
+    "es": "Uno: reposo. Detente y no apoyes el tobillo. No intentes seguir caminando.",
+    "fr": "Un : repos. Arrête-toi et ne charge pas la cheville.",
+    "ja": "一つ目、安静に。足首に体重をかけず、無理に歩かないでください。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 440 520 V 840 Q 440 900 400 950 Q 380 1000 440 1010 H 800 Q 850 1010 840 960 Q 820 930 700 920 Q 600 910 600 840 V 520'/><circle class='d' data-s='0.8' data-d='0.5' cx='520' cy='880' r='62' fill='none' stroke='#e63946' stroke-width='9' stroke-dasharray='16 12'/><path class='d' data-s='1.0' data-d='0.5' fill='none' stroke='#e63946' stroke-width='16' d='M 330 560 L 750 1040 M 750 560 L 330 1040'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#e63946",
+     "s": 1.6,
+     "t": {
+      "en": "REST IT",
+      "es": "REPOSO",
+      "fr": "REPOS",
+      "ja": "安静に"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 6.5,
+   "step": 2,
+   "caption": {
+    "en": "*2* — *Ice* for 15–20 minutes every 2–3 hours. Wrap the ice in a cloth.",
+    "es": "*2* — *Hielo* 15–20 minutos cada 2–3 horas. Envuélvelo en un paño.",
+    "fr": "*2* — *Glace* 15 à 20 minutes toutes les 2–3 heures. Enveloppe-la dans un linge.",
+    "ja": "*2* — *冷やす*：2〜3時間おきに15〜20分。氷は布で包みます。"
+   },
+   "narration": {
+    "en": "Step two. Ice it for fifteen to twenty minutes, every two to three hours. Wrap the ice in a cloth, never place it directly on skin.",
+    "es": "Dos: hielo durante quince a veinte minutos, cada dos o tres horas. Envuélvelo en un paño.",
+    "fr": "Deux : glace quinze à vingt minutes, toutes les deux à trois heures, dans un linge.",
+    "ja": "二つ目、冷やします。二、三時間おきに十五から二十分。氷は布で包んでください。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 440 520 V 840 Q 440 900 400 950 Q 380 1000 440 1010 H 800 Q 850 1010 840 960 Q 820 930 700 920 Q 600 910 600 840 V 520'/><circle class='d' data-s='0.8' data-d='0.5' cx='520' cy='880' r='62' fill='none' stroke='#e63946' stroke-width='9' stroke-dasharray='16 12'/><rect class='d' data-s='0.9' data-d='0.5' x='650' y='720' width='130' height='130' rx='18' fill='none' stroke='#3a86c8' stroke-width='10'/><path class='d' data-s='1.3' data-d='0.4' fill='none' stroke='#3a86c8' stroke-width='8' d='M 690 760 l 50 50 M 740 760 l -50 50'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#3a86c8",
+     "s": 1.6,
+     "t": {
+      "en": "ICE IT",
+      "es": "HIELO",
+      "fr": "GLACE",
+      "ja": "冷やす"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 6,
+   "step": 3,
+   "caption": {
+    "en": "*3* — *Compress*. Wrap a firm, not-too-tight elastic bandage around the ankle.",
+    "es": "*3* — *Compresión*. Venda el tobillo con una venda elástica firme, sin apretar demasiado.",
+    "fr": "*3* — *Compression*. Entoure la cheville d'une bande élastique ferme, sans trop serrer.",
+    "ja": "*3* — *圧迫*：弾性包帯を、きつすぎない程度にしっかり巻きます。"
+   },
+   "narration": {
+    "en": "Step three. Compress. Wrap the ankle in a firm elastic bandage, but not so tight that it hurts or the toes turn numb.",
+    "es": "Tres: compresión. Venda el tobillo con una venda elástica firme, sin apretar demasiado.",
+    "fr": "Trois : compression. Entoure la cheville d'une bande élastique, sans trop serrer.",
+    "ja": "三つ目、圧迫します。弾性包帯をしっかり、ただしきつすぎないように巻いてください。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 440 520 V 840 Q 440 900 400 950 Q 380 1000 440 1010 H 800 Q 850 1010 840 960 Q 820 930 700 920 Q 600 910 600 840 V 520'/><path class='d' data-s='0.8' data-d='0.8' fill='none' stroke='#3a86c8' stroke-width='14' d='M 432 840 L 608 870 M 432 880 L 608 910 M 440 800 L 608 830'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#3a86c8",
+     "s": 1.6,
+     "t": {
+      "en": "COMPRESS",
+      "es": "COMPRESIÓN",
+      "fr": "COMPRESSION",
+      "ja": "圧迫する"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 6,
+   "step": 4,
+   "caption": {
+    "en": "*4* — *Elevate*. Raise the foot above hip level when resting to reduce swelling.",
+    "es": "*4* — *Eleva* el pie por encima de la cadera al descansar para bajar la hinchazón.",
+    "fr": "*4* — *Élève* le pied au-dessus de la hanche au repos pour réduire le gonflement.",
+    "ja": "*4* — *挙上*：休むときは足を腰より高くして腫れを抑えます。"
+   },
+   "narration": {
+    "en": "Step four. Elevate. When resting, raise the foot above hip level to reduce swelling.",
+    "es": "Cuatro: eleva el pie por encima de la cadera al descansar para bajar la hinchazón.",
+    "fr": "Quatre : élève le pied au-dessus de la hanche pour réduire le gonflement.",
+    "ja": "四つ目、挙上します。休むときは足を腰より高くして、腫れを抑えます。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 440 520 V 840 Q 440 900 400 950 Q 380 1000 440 1010 H 800 Q 850 1010 840 960 Q 820 930 700 920 Q 600 910 600 840 V 520'/><circle class='d' data-s='0.8' data-d='0.5' cx='520' cy='880' r='62' fill='none' stroke='#e63946' stroke-width='9' stroke-dasharray='16 12'/><path class='d' data-s='0.9' data-d='0.6' fill='none' stroke='#3a86c8' stroke-width='12' d='M 900 900 V 560 M 850 610 L 900 560 L 950 610'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#3a86c8",
+     "s": 1.6,
+     "t": {
+      "en": "ELEVATE",
+      "es": "ELEVA",
+      "fr": "ÉLÈVE",
+      "ja": "高くする"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 8,
+   "caption": {
+    "en": "*Can't put weight* on it, severe pain, a deformed joint, or numbness? Get *medical care*. See a doctor too if it isn't improving in a few days.",
+    "es": "¿*No puedes apoyar* el pie, dolor intenso, articulación deformada o entumecimiento? Busca *atención médica*. Consulta también si no mejora en unos días.",
+    "fr": "*Impossible d'appuyer*, douleur intense, articulation déformée ou engourdie ? Consulte un *médecin*, aussi si ça ne s'améliore pas en quelques jours.",
+    "ja": "*体重をかけられない*、強い痛み、関節の変形、しびれがあれば*受診*を。数日で良くならない場合も受診してください。"
+   },
+   "narration": {
+    "en": "Can't put weight on it, or have severe pain, a misshapen joint, or numbness? Get medical care. And see a doctor if it isn't improving after a few days.",
+    "es": "Si no puedes apoyar el pie, o hay dolor intenso, deformidad o entumecimiento, busca atención médica. Y consulta si no mejora en unos días.",
+    "fr": "Impossible d'appuyer, douleur intense, articulation déformée ou engourdie ? Consulte un médecin, de même si ça ne s'améliore pas en quelques jours.",
+    "ja": "体重をかけられない、強い痛み、関節の変形、しびれがあれば受診してください。数日で良くならないときも受診を。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.9' fill='none' stroke='#3a86c8' stroke-width='12' d='M 440 640 H 640 V 760 H 760 V 860 H 640 V 980 H 440 V 860 H 320 V 760 H 440 Z'/><path class='f' data-s='0.8' data-d='0.5' data-o='0.25' d='M 440 640 H 640 V 760 H 760 V 860 H 640 V 980 H 440 V 860 H 320 V 760 H 440 Z' fill='#3a86c8' opacity='0'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#3a86c8",
+     "s": 1.6,
+     "t": {
+      "en": "SEE A DOCTOR",
+      "es": "VE AL MÉDICO",
+      "fr": "VOIR UN MÉDECIN",
+      "ja": "受診しよう"
+     },
+     "maxW": 920
+    }
+   ]
+  }
+ ]
+}

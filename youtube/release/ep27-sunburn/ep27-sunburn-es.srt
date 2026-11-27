@@ -1,0 +1,47 @@
+1
+00:00:00,250 --> 00:00:01,115
+¿Demasiado sol?
+
+2
+00:00:01,115 --> 00:00:02,959
+Cómo cuidar una quemadura solar.
+
+3
+00:00:06,250 --> 00:00:09,498
+Uno: enfría la piel con agua fresca o una ducha fresca.
+
+4
+00:00:09,498 --> 00:00:11,093
+No uses hielo directamente.
+
+5
+00:00:12,750 --> 00:00:16,037
+Dos: calma la piel con crema hidratante o loción after-sun.
+
+6
+00:00:16,037 --> 00:00:17,486
+El gel de aloe vera ayuda.
+
+7
+00:00:18,750 --> 00:00:19,900
+Tres: bebe más agua.
+
+8
+00:00:19,900 --> 00:00:22,142
+La quemadura solar puede deshidratarte.
+
+9
+00:00:24,750 --> 00:00:27,745
+Cuatro: cúbrete y evita el sol hasta que sane la piel.
+
+10
+00:00:27,745 --> 00:00:29,187
+No revientes las ampollas.
+
+11
+00:00:30,750 --> 00:00:36,066
+Si hay ampollas extensas, fiebre o escalofríos, mareo, o si es un bebé, busca atención médica.
+
+12
+00:00:36,066 --> 00:00:38,046
+Y consulta si es grave o no mejora.

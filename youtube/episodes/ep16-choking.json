@@ -1,0 +1,240 @@
+{
+ "id": "ep16-choking",
+ "title": {
+  "en": "Someone Is *Choking*: What to Do",
+  "es": "Alguien se *atraganta*: qué hacer",
+  "fr": "Quelqu’un *s’étouffe* : que faire ?",
+  "ja": "*窒息*しそうな人の助け方"
+ },
+ "coverTime": 28.0,
+ "steps": 3,
+ "stepsFrom": 2,
+ "scenes": [
+  {
+   "dur": 6,
+   "caption": {
+    "en": "Clutching their throat, unable to speak or breathe? An adult may be *choking*.",
+    "es": "¿Se agarra el cuello y no puede hablar ni respirar? Un adulto puede estar *atragantándose*.",
+    "fr": "Mains sur la gorge, impossible de parler ou respirer ? Un adulte s'*étouffe* peut-être.",
+    "ja": "のどをつかみ、声が出ない・息ができない？ それは*窒息*のサインかもしれません。"
+   },
+   "svg": "<g transform='translate(0 70)'><circle class='d' data-s='0' data-d='0.6' cx='540' cy='540' r='70' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='0.5' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='12'  d='M 540 610 V 880 M 540 880 L 480 1000 M 540 880 L 600 1000'/><path class='d' data-s='1.0' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='12'  d='M 540 660 L 430 760 L 525 625 M 540 660 L 650 760 L 555 625'/><path class='d' data-s='1.8' data-d='0.4' fill='none' stroke='#e63946' stroke-width='9'  d='M 430 500 l -40 -20 M 650 500 l 40 -20 M 540 455 v -30'/></g>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 96,
+     "color": "#e63946",
+     "s": 2.2,
+     "t": {
+      "en": "CHOKING",
+      "es": "ATRAGANTAMIENTO",
+      "fr": "ÉTOUFFEMENT",
+      "ja": "窒息"
+     },
+     "maxW": 900
+    }
+   ]
+  },
+  {
+   "dur": 5.5,
+   "caption": {
+    "en": "If they *can cough*, encourage them to keep coughing. That's the best way to clear it.",
+    "es": "Si *puede toser*, anímale a seguir tosiendo. Es la mejor forma de expulsarlo.",
+    "fr": "S'il *peut tousser*, encourage-le à tousser. C'est le meilleur moyen de l'expulser.",
+    "ja": "*せきができる*なら、そのまませきを続けてもらいます。それがいちばん効果的です。"
+   },
+   "svg": "<g transform='translate(420 800) scale(0.85) rotate(0) translate(-575 -705)'><path class='d' data-s='0' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='16.0'  d='M 480 920 L 470 830 C 400 760 400 560 540 520 C 640 490 700 560 700 630 L 705 670 L 750 740 L 705 755 L 710 790 L 700 810 L 708 830 C 705 870 670 880 630 870 L 620 920'/><circle class='p' data-s='0.8' data-d='0.4' cx='650' cy='640' r='13' fill='#1d1d1d'/></g><path class='d' data-s='1.0' data-d='0.6' fill='none' stroke='#888' stroke-width='8'  d='M 600 790 q 40 -20 80 0 q 40 20 80 0 M 600 840 q 50 0 100 30 M 600 740 q 50 -10 100 -50'/><path class='d' data-s='1.8' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='12'  d='M 760.0 560 L 805.0 605.0 L 890.0 495.0'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 84,
+     "color": "#e63946",
+     "s": 2.3,
+     "t": {
+      "en": "KEEP COUGHING",
+      "es": "QUE SIGA TOSIENDO",
+      "fr": "CONTINUE À TOUSSER",
+      "ja": "せきを続けて"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 5,
+   "step": 1,
+   "caption": {
+    "en": "*1* — If they *can't* cough, speak or breathe, call emergency services, or have someone call.",
+    "es": "*1* — Si *no puede* toser, hablar ni respirar, llama a emergencias o pide a alguien que llame.",
+    "fr": "*1* — S'il *ne peut pas* tousser, parler ni respirer, appelle les secours ou fais appeler.",
+    "ja": "*1* せき・声・呼吸が*できない*なら、119番（周りの人に頼んでも）。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.7' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 470.0 588.0 H 610.0 Q 628.0 588.0 628.0 606.0 V 874.0 Q 628.0 892.0 610.0 892.0 H 470.0 Q 452.0 892.0 452.0 874.0 V 606.0 Q 452.0 588.0 470.0 588.0 Z'/><path class='d' data-s='0.6' data-d='0.2' fill='none' stroke='#1d1d1d' stroke-width='8'  d='M 525 870.0 H 555'/><path class='d' data-s='0.8' data-d='0.5' fill='none' stroke='#e63946' stroke-width='8'  d='M 648.0 598.0 q 25 25 0 50 M 673.0 578.0 q 45 45 0 90'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1050,
+     "size": 80,
+     "color": "#e63946",
+     "s": 1.2,
+     "t": {
+      "en": "911 · 999 · 112",
+      "es": "112 · 911",
+      "fr": "15 · 112",
+      "ja": "119"
+     },
+     "maxW": 800
+    },
+    {
+     "x": 540,
+     "y": 1205,
+     "size": 84,
+     "color": "#e63946",
+     "s": 2.0,
+     "t": {
+      "en": "CALL FOR HELP",
+      "es": "LLAMA A EMERGENCIAS",
+      "fr": "APPELLE LES SECOURS",
+      "ja": "救急要請"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 6.5,
+   "step": 2,
+   "caption": {
+    "en": "*2* — Lean them forward. Give up to *5 firm back blows* between the shoulder blades.",
+    "es": "*2* — Hasta *5 golpes en la espalda*: inclínale hacia adelante y golpea fuerte entre los omóplatos.",
+    "fr": "*2* — Jusqu'à *5 tapes dans le dos* : penche-le en avant, frappe fort entre les omoplates.",
+    "ja": "*2* 前かがみにさせ、肩甲骨の間を手のひらの付け根で強く*最大5回たたく*（背部叩打法）。"
+   },
+   "svg": "<circle class='d' data-s='0' data-d='0.5' cx='360' cy='680' r='62' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='0.4' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='12'  d='M 410 720 L 600 880 M 600 880 L 580 1060 M 600 880 L 660 1060 M 470 770 L 450 900'/><circle class='d' data-s='0.9' data-d='0.5' cx='790' cy='520' r='62' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='1.2' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='12'  d='M 790 585 V 860 M 790 860 L 740 1060 M 790 860 L 840 1060'/><path class='d' data-s='1.6' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='12'  d='M 790 640 L 650 680 L 560 770'/><path class='d' data-s='2.2' data-d='0.3' fill='none' stroke='#e63946' stroke-width='8'  d='M 520 700 l -25 -35 M 560 690 l 0 -45 M 600 700 l 25 -35'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 84,
+     "color": "#e63946",
+     "s": 2.6,
+     "t": {
+      "en": "5 BACK BLOWS",
+      "es": "5 GOLPES EN LA ESPALDA",
+      "fr": "5 TAPES DANS LE DOS",
+      "ja": "背中を5回"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 6.5,
+   "step": 3,
+   "caption": {
+    "en": "*3* — Then up to *5 abdominal thrusts*: fist just above the belly button, pull sharply *in and up*.",
+    "es": "*3* — Luego hasta *5 compresiones abdominales*: puño sobre el ombligo, tira *hacia dentro y arriba*.",
+    "fr": "*3* — Puis jusqu'à *5 compressions abdominales* : poing au-dessus du nombril, tire *vers toi et vers le haut*.",
+    "ja": "*3* 次に*腹部突き上げ*を最大5回。へその少し上でこぶしを握り、*手前上方へ*強く引き上げます。"
+   },
+   "svg": "<circle class='d' data-s='0' data-d='0.5' cx='430' cy='540' r='62' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='0.4' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='12'  d='M 450 605 C 470 700 460 800 470 880 M 470 880 L 430 1060 M 470 880 L 520 1060'/><circle class='d' data-s='0.8' data-d='0.5' cx='650' cy='520' r='62' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='1.1' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='12'  d='M 660 585 V 880 M 660 880 L 620 1060 M 660 880 L 720 1060'/><path class='d' data-s='1.5' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='12'  d='M 650 650 C 560 700 480 720 440 760'/><circle class='p' data-s='1.9' data-d='0.4' cx='430' cy='770' r='26' fill='#e63946'/><circle class='p' data-s='1.9' data-d='0.4' cx='470' cy='800' r='7' fill='#1d1d1d'/><path class='d' data-s='2.3' data-d='0.6' fill='none' stroke='#e63946' stroke-width='9'  d='M 360 850 C 330 790 360 730 410 700 M 386 700 L 412 698 L 404 722'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 80,
+     "color": "#e63946",
+     "s": 2.7,
+     "t": {
+      "en": "5 ABDOMINAL THRUSTS",
+      "es": "5 COMPRESIONES",
+      "fr": "5 COMPRESSIONS",
+      "ja": "腹部突き上げ5回"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 5.5,
+   "caption": {
+    "en": "Keep alternating *5 back blows* and *5 thrusts* until the object comes out or help arrives.",
+    "es": "Alterna *5 golpes* y *5 compresiones* hasta que salga el objeto o llegue la ayuda.",
+    "fr": "Alterne *5 tapes* et *5 compressions* jusqu'à ce que l'objet sorte ou que les secours arrivent.",
+    "ja": "*背部叩打5回*と*腹部突き上げ5回*を、異物が出るか救急隊が来るまでくり返します。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.8' fill='none' stroke='#e63946' stroke-width='10'  d='M 330 740 A 210 210 0 0 1 750 740 M 722 712 L 750 744 L 778 710'/><path class='d' data-s='0.5' data-d='0.8' fill='none' stroke='#e63946' stroke-width='10'  d='M 750 820 A 210 210 0 0 1 330 820 M 358 848 L 330 816 L 302 850'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 830,
+     "size": 150,
+     "color": "#1d1d1d",
+     "s": 0.8,
+     "t": {
+      "en": "5 + 5",
+      "es": "5 + 5",
+      "fr": "5 + 5",
+      "ja": "5 + 5"
+     }
+    },
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 96,
+     "color": "#e63946",
+     "s": 2.0,
+     "t": {
+      "en": "REPEAT",
+      "es": "REPITE",
+      "fr": "RECOMMENCE",
+      "ja": "くり返す"
+     },
+     "maxW": 900
+    }
+   ]
+  },
+  {
+   "dur": 6.5,
+   "caption": {
+    "en": "If they become *unresponsive*, start *CPR*. After abdominal thrusts, always *see a doctor*.",
+    "es": "Si *deja de responder*, empieza la *RCP*. Tras compresiones abdominales, *ve siempre al médico*.",
+    "fr": "S'il *ne réagit plus*, commence la *RCP*. Après des compressions abdominales, *consulte toujours*.",
+    "ja": "*反応がなくなったら*、すぐ*心肺蘇生（CPR）*を。腹部突き上げを受けた人は、あとで必ず*受診*を。"
+   },
+   "svg": "<circle class='d' data-s='0' data-d='0.4' cx='190' cy='940' r='50' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='0.3' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='12'  d='M 240 950 H 560 M 560 950 L 700 960'/><circle class='d' data-s='0.8' data-d='0.4' cx='430' cy='620' r='55' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='1.0' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='12'  d='M 445 675 L 520 820 L 640 880 L 640 945 M 520 820 L 560 940'/><path class='d' data-s='1.4' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='12'  d='M 450 700 L 400 930'/><path class='d' data-s='1.8' data-d='0.3' fill='none' stroke='#e63946' stroke-width='8'  d='M 360 905 v -40 M 440 905 v -40'/><circle class='d' data-s='2.3' data-d='0.6' cx='840' cy='640' r='80' fill='none' stroke='#e63946' stroke-width='10'/><path class='p' data-s='2.8' data-d='0.4' fill='#e63946' d='M 822.4 587.2 H 857.6 V 622.4 H 892.8 V 657.6 H 857.6 V 692.8 H 822.4 V 657.6 H 787.2 V 622.4 H 822.4 Z'/>",
+   "texts": [
+    {
+     "x": 400,
+     "y": 1080,
+     "size": 60,
+     "color": "#e63946",
+     "s": 1.7,
+     "t": {
+      "en": "CPR",
+      "es": "RCP",
+      "fr": "RCP",
+      "ja": "心肺蘇生"
+     },
+     "maxW": 380
+    },
+    {
+     "x": 540,
+     "y": 1205,
+     "size": 92,
+     "color": "#e63946",
+     "s": 2.6,
+     "t": {
+      "en": "SEE A DOCTOR",
+      "es": "VE AL MÉDICO",
+      "fr": "VOIS UN MÉDECIN",
+      "ja": "必ず受診"
+     },
+     "maxW": 900
+    }
+   ]
+  }
+ ]
+}
