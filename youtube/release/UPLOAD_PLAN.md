@@ -2316,5 +2316,73 @@ Consulte en urgence si ta vue change (floue, double ou perdue), s'il y a du sang
 ```
 - Tags: `目のあざ, 目の内出血, 目をぶつけた, 青あざ, 目のけが, 冷やす, 頭を打った, 応急手当, 健康, sketch clinic, shorts`
 
+### ep36-seizure — English
+- File: `ep36-seizure/ep36-seizure-en.mp4`
+- Video language: English
+- Subtitles file: `ep36-seizure/ep36-seizure-en.srt` (Subtitles → Add language: English → Upload file → With timing)
+- Title: `Someone Having a Seizure? First Aid Steps (Do's and Don'ts) #Shorts`
+- Description:
+```
+What to do if someone has a seizure: stay calm and stay with them. Most seizures stop on their own within a few minutes.
+Keep them safe: move hard or sharp objects away, cushion their head, loosen anything tight around the neck, and note the time it started. Don't hold them down and never put anything in their mouth - they can't swallow their tongue. When the shaking stops, gently roll them onto their side (recovery position), check their breathing, and stay with them until they're fully awake.
+Call emergency services if the seizure lasts more than 5 minutes, it's their first seizure, another one starts soon after, they're injured, they have trouble breathing, or it happened in water.
+
+Educational only - not medical advice. If you have symptoms, see a healthcare professional.
+
+#Shorts #Health #FirstAid #SketchClinic
+```
+- Tags: `seizure first aid, what to do during a seizure, epilepsy, seizure, convulsion, recovery position, first aid, emergency, health, sketch clinic, shorts`
+
+### ep36-seizure — Spanish  *(Phase 2 — only if the user asks)*
+- File: `ep36-seizure/ep36-seizure-es.mp4`
+- Video language: Spanish
+- Subtitles file: `ep36-seizure/ep36-seizure-es.srt` (Subtitles → Add language: Spanish → Upload file → With timing)
+- Title: `¿Alguien tiene una convulsión? Primeros auxilios: qué hacer y qué no #Shorts`
+- Description:
+```
+Qué hacer si alguien tiene una convulsión: mantén la calma y quédate a su lado. La mayoría paran solas en pocos minutos.
+Protégela: aparta objetos duros o afilados, protege su cabeza con algo blando, afloja lo que apriete el cuello y mira la hora a la que empezó. No la sujetes y nunca le metas nada en la boca: no puede tragarse la lengua. Cuando paren las sacudidas, ponla de lado con cuidado (posición lateral de seguridad), comprueba que respira y quédate hasta que esté bien despierta.
+Llama a emergencias si dura más de 5 minutos, es su primera convulsión, empieza otra poco después, se ha herido, le cuesta respirar o pasó en el agua.
+
+Solo con fines educativos; no es consejo médico. Si tienes síntomas, consulta a un profesional de la salud.
+
+#Shorts #Salud #PrimerosAuxilios #SketchClinic
+```
+- Tags: `convulsión primeros auxilios, qué hacer en una convulsión, epilepsia, convulsión, crisis epiléptica, posición lateral de seguridad, primeros auxilios, emergencia, salud, sketch clinic, shorts`
+
+### ep36-seizure — French  *(Phase 2 — only if the user asks)*
+- File: `ep36-seizure/ep36-seizure-fr.mp4`
+- Video language: French
+- Subtitles file: `ep36-seizure/ep36-seizure-fr.srt` (Subtitles → Add language: French → Upload file → With timing)
+- Title: `Crise d'épilepsie : les bons gestes (à faire, à éviter) #Shorts`
+- Description:
+```
+Que faire si quelqu'un fait une crise d'épilepsie : reste calme et reste avec lui. La plupart des crises s'arrêtent seules en quelques minutes.
+Protège-le : éloigne les objets durs ou coupants, protège sa tête avec quelque chose de mou, desserre ce qui serre le cou et note l'heure du début. Ne le retiens pas et ne mets jamais rien dans sa bouche : il ne peut pas avaler sa langue. Quand les secousses s'arrêtent, mets-le doucement sur le côté (position latérale de sécurité), vérifie qu'il respire et reste jusqu'à ce qu'il soit bien réveillé.
+Appelle les urgences si la crise dure plus de 5 minutes, si c'est sa première crise, si une autre commence peu après, s'il est blessé, s'il respire mal ou si c'est arrivé dans l'eau.
+
+À but éducatif uniquement — pas un avis médical. Si tu as des symptômes, consulte un professionnel de santé.
+
+#Shorts #Santé #PremiersSecours #SketchClinic
+```
+- Tags: `crise d'épilepsie, que faire crise épilepsie, épilepsie, convulsions, crise convulsive, position latérale de sécurité, premiers secours, urgence, santé, sketch clinic, shorts`
+
+### ep36-seizure — Japanese  *(Phase 2 — only if the user asks)*
+- File: `ep36-seizure/ep36-seizure-ja.mp4`
+- Video language: Japanese
+- Subtitles file: `ep36-seizure/ep36-seizure-ja.srt` (Subtitles → Add language: Japanese → Upload file → With timing)
+- Title: `けいれん発作を起こした人がいたら？ 応急手当とNG行動 #Shorts`
+- Description:
+```
+けいれん発作を起こした人がいたら、落ち着いてそばにいてください。多くの発作は数分で自然に止まります。
+安全を確保：硬い物やとがった物をどけ、頭の下にやわらかい物を入れ、首元をゆるめ、始まった時刻を確認します。体を押さえつけたり、口に物を入れたりしないで。舌をのみこむことはありません。けいれんが止まったら、そっと横向き（回復体位）に寝かせ、呼吸を確認し、意識がはっきりするまでそばにいてください。
+発作が5分以上続く、初めての発作、すぐにくり返す、けがをした、呼吸が苦しそう、水中で起きた、といった場合は救急車（119）を呼んでください。
+
+教育目的の情報であり、医療アドバイスではありません。症状がある場合は医療機関を受診してください。
+
+#Shorts #健康 #応急手当 #SketchClinic
+```
+- Tags: `けいれん 応急手当, けいれん発作 対処, てんかん, けいれん, 発作, 回復体位, 応急手当, 救急, 健康, sketch clinic, shorts`
+
 ## Step 3 — Report back
 Send the user: channel URL, and a table of episode → video URL (all Public).

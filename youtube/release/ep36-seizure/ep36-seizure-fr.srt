@@ -1,0 +1,31 @@
+1
+00:00:00,250 --> 00:00:02,273
+Quelqu'un fait une crise d'épilepsie ?
+
+2
+00:00:02,273 --> 00:00:03,870
+Reste calme et reste avec lui.
+
+3
+00:00:03,870 --> 00:00:06,479
+La plupart s'arrêtent seules en quelques minutes.
+
+4
+00:00:07,250 --> 00:00:13,394
+Protège-le : éloigne les objets durs ou coupants, protège sa tête avec du mou, desserre ce qui serre le cou et note l'heure.
+
+5
+00:00:17,250 --> 00:00:20,101
+Ne le retiens pas et ne mets jamais rien dans sa bouche.
+
+6
+00:00:20,101 --> 00:00:21,730
+Il ne peut pas avaler sa langue.
+
+7
+00:00:26,250 --> 00:00:32,501
+Quand les secousses s'arrêtent, mets-le sur le côté doucement, vérifie qu'il respire et reste jusqu'à ce qu'il soit bien réveillé.
+
+8
+00:00:36,250 --> 00:00:44,805
+Appelle les urgences si ça dure plus de 5 minutes, si c'est sa première crise, si une autre commence, s'il est blessé, respire mal ou si c'est arrivé dans l'eau.
