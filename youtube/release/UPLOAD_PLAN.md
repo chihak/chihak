@@ -2248,5 +2248,73 @@ Que faire : bois de l'eau tout au long de la journée, par petites gorgées si t
 ```
 - Tags: `脱水, 脱水症状, 脱水 サイン, 尿の色, 水分補給, 経口補水液, 熱中症対策, 応急手当, 健康, sketch clinic, shorts`
 
+### ep35-black-eye — English
+- File: `ep35-black-eye/ep35-black-eye-en.mp4`
+- Video language: English
+- Subtitles file: `ep35-black-eye/ep35-black-eye-en.srt` (Subtitles → Add language: English → Upload file → With timing)
+- Title: `Got a Black Eye? What to Do + When to Worry #Shorts`
+- Description:
+```
+A black eye is a bruise around the eye after a knock: blood leaking under the skin.
+What to do: cool it soon with an ice pack or frozen peas wrapped in a cloth, about 20 minutes, a few times a day for the first 2 days. Don't press on the eye itself. Rest, keep your head raised, and take paracetamol for pain if needed. Swelling eases in a few days; the bruise turns purple, then green and yellow, and usually fades within 2 to 3 weeks.
+Get urgent care if your vision changes (blurry, double or lost), there's blood in the coloured part of the eye, or you can't move the eye. After a head injury, call emergency services for bruising around both eyes, vomiting, a bad headache or drowsiness.
+
+Educational only - not medical advice. If you have symptoms, see a healthcare professional.
+
+#Shorts #Health #FirstAid #SketchClinic
+```
+- Tags: `black eye, black eye treatment, how to treat a black eye, bruised eye, eye injury, cold compress, head injury, first aid, health, sketch clinic, shorts`
+
+### ep35-black-eye — Spanish  *(Phase 2 — only if the user asks)*
+- File: `ep35-black-eye/ep35-black-eye-es.mp4`
+- Video language: Spanish
+- Subtitles file: `ep35-black-eye/ep35-black-eye-es.srt` (Subtitles → Add language: Spanish → Upload file → With timing)
+- Title: `¿Ojo morado? Qué hacer y cuándo preocuparse #Shorts`
+- Description:
+```
+Un ojo morado es un moratón alrededor del ojo tras un golpe: sangre que se filtra bajo la piel.
+Qué hacer: enfríalo pronto con hielo o guisantes congelados envueltos en un paño, unos 20 minutos, varias veces al día durante los 2 primeros días. No presiones el ojo. Descansa, mantén la cabeza elevada y toma paracetamol para el dolor si hace falta. La hinchazón baja en unos días; el moratón se vuelve morado, luego verde y amarillo, y suele irse en 2 o 3 semanas.
+Busca atención urgente si cambia tu visión (borrosa, doble o pérdida), hay sangre en la parte de color del ojo o no puedes moverlo. Tras un golpe en la cabeza, llama a emergencias si ambos ojos están morados, hay vómitos, dolor de cabeza fuerte o somnolencia.
+
+Solo con fines educativos; no es consejo médico. Si tienes síntomas, consulta a un profesional de la salud.
+
+#Shorts #Salud #PrimerosAuxilios #SketchClinic
+```
+- Tags: `ojo morado, ojo morado tratamiento, golpe en el ojo, moratón, lesión ocular, compresa fría, golpe en la cabeza, primeros auxilios, salud, sketch clinic, shorts`
+
+### ep35-black-eye — French  *(Phase 2 — only if the user asks)*
+- File: `ep35-black-eye/ep35-black-eye-fr.mp4`
+- Video language: French
+- Subtitles file: `ep35-black-eye/ep35-black-eye-fr.srt` (Subtitles → Add language: French → Upload file → With timing)
+- Title: `Œil au beurre noir ? Que faire et quand s'inquiéter #Shorts`
+- Description:
+```
+Un œil au beurre noir, c'est un bleu autour de l'œil après un coup : du sang sous la peau.
+Que faire : refroidis vite avec de la glace ou des petits pois surgelés dans un linge, environ 20 minutes, plusieurs fois par jour pendant les 2 premiers jours. N'appuie pas sur l'œil. Repose-toi, garde la tête surélevée et prends du paracétamol si ça fait mal. Le gonflement diminue en quelques jours ; le bleu devient violet, puis vert et jaune, et part en général en 2 à 3 semaines.
+Consulte en urgence si ta vue change (floue, double ou perdue), s'il y a du sang dans la partie colorée de l'œil ou si l'œil ne bouge plus. Après un choc à la tête, appelle les urgences en cas de bleus autour des deux yeux, vomissements, gros mal de tête ou somnolence.
+
+À but éducatif uniquement — pas un avis médical. Si tu as des symptômes, consulte un professionnel de santé.
+
+#Shorts #Santé #PremiersSecours #SketchClinic
+```
+- Tags: `œil au beurre noir, coquard, coup dans l'œil, bleu, blessure à l'œil, compresse froide, choc à la tête, premiers secours, santé, sketch clinic, shorts`
+
+### ep35-black-eye — Japanese  *(Phase 2 — only if the user asks)*
+- File: `ep35-black-eye/ep35-black-eye-ja.mp4`
+- Video language: Japanese
+- Subtitles file: `ep35-black-eye/ep35-black-eye-ja.srt` (Subtitles → Add language: Japanese → Upload file → With timing)
+- Title: `目のまわりのあざ、どうする？ 対処法と受診の目安 #Shorts`
+- Description:
+```
+目のまわりのあざは、ぶつけたことで皮膚の下に血がにじんだ内出血です。
+対処法：早めに保冷剤や冷凍の豆を布で包んで約20分冷やし、最初の2日間は1日に数回くり返します。目そのものは押さないで。安静にして頭を高くし、痛ければアセトアミノフェンなどの痛み止めを。腫れは数日でひき、あざは紫から緑、黄色へと変わって、ふつう2〜3週間で消えます。
+見え方が変（ぼやける・二重に見える・見えない）、黒目に血がたまる、目が動かせないときはすぐ受診を。頭を打ったあとに両目のあざ、嘔吐、ひどい頭痛、強い眠気があれば、すぐに救急車を呼んでください。
+
+教育目的の情報であり、医療アドバイスではありません。症状がある場合は医療機関を受診してください。
+
+#Shorts #健康 #応急手当 #SketchClinic
+```
+- Tags: `目のあざ, 目の内出血, 目をぶつけた, 青あざ, 目のけが, 冷やす, 頭を打った, 応急手当, 健康, sketch clinic, shorts`
+
 ## Step 3 — Report back
 Send the user: channel URL, and a table of episode → video URL (all Public).
