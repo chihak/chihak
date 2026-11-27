@@ -2184,5 +2184,69 @@ Pour le soulager : ralentis ou marche, respire lentement et profondément, appui
 ```
 - Tags: `わき腹痛, わき腹 痛い 走る, 横腹 痛い, ランニング, 運動, 腹痛, 健康, sketch clinic, shorts`
 
+### ep34-dehydration — English
+- File: `ep34-dehydration/ep34-dehydration-en.mp4`
+- Video language: English
+- Subtitles file: `ep34-dehydration/ep34-dehydration-en.srt` (Subtitles → Add language: English → Upload file → With timing)
+- Title: `Are You Dehydrated? Signs and What to Do #Shorts`
+- Description:
+```
+Dehydration means you're losing more fluid than you take in. Early signs: thirst, dry mouth, headache, feeling dizzy or tired, and dark yellow, strong-smelling pee or peeing less often. Pale straw-coloured pee is a good sign.
+What to do: drink water through the day, in small sips if you feel sick, and more in heat or exercise. With vomiting or diarrhoea, an oral rehydration solution from a pharmacy also replaces lost salts. Babies and older people are most at risk. Get urgent help if someone is confused, very drowsy, has a racing heart, or hasn't peed all day.
+
+Educational only - not medical advice. If you have symptoms, see a healthcare professional.
+
+#Shorts #Health #FirstAid #SketchClinic
+```
+- Tags: `dehydration, dehydration signs, signs of dehydration, urine colour, drink water, oral rehydration solution, hydration, first aid, health, sketch clinic, shorts`
+
+### ep34-dehydration — Spanish  *(Phase 2 — only if the user asks)*
+- File: `ep34-dehydration/ep34-dehydration-es.mp4`
+- Video language: Spanish
+- Subtitles file: `ep34-dehydration/ep34-dehydration-es.srt` (Subtitles → Add language: Spanish → Upload file → With timing)
+- Title: `¿Estás deshidratado? Señales y qué hacer #Shorts`
+- Description:
+```
+La deshidratación significa que pierdes más líquido del que tomas. Primeras señales: sed, boca seca, dolor de cabeza, mareo o cansancio, y orina amarillo oscuro, con olor fuerte, o orinar menos. Una orina amarillo claro es buena señal.
+Qué hacer: bebe agua a lo largo del día, a sorbos si tienes náuseas, y más con calor o ejercicio. Con vómitos o diarrea, un suero oral de farmacia repone también las sales. Bebés y personas mayores corren más riesgo. Pide ayuda urgente si alguien está confuso, muy somnoliento, tiene el corazón acelerado o no ha orinado en todo el día.
+
+Solo con fines educativos; no es consejo médico. Si tienes síntomas, consulta a un profesional de la salud.
+
+#Shorts #Salud #PrimerosAuxilios #SketchClinic
+```
+- Tags: `deshidratación, señales de deshidratación, color de la orina, beber agua, suero oral, hidratación, primeros auxilios, salud, sketch clinic, shorts`
+
+### ep34-dehydration — French  *(Phase 2 — only if the user asks)*
+- File: `ep34-dehydration/ep34-dehydration-fr.mp4`
+- Video language: French
+- Subtitles file: `ep34-dehydration/ep34-dehydration-fr.srt` (Subtitles → Add language: French → Upload file → With timing)
+- Title: `Es-tu déshydraté ? Signes et que faire #Shorts`
+- Description:
+```
+La déshydratation, c'est perdre plus de liquide qu'on n'en boit. Premiers signes : soif, bouche sèche, mal de tête, vertiges ou fatigue, et urine jaune foncé, à l'odeur forte, ou uriner moins souvent. Une urine jaune pâle est bon signe.
+Que faire : bois de l'eau tout au long de la journée, par petites gorgées si tu as la nausée, et davantage avec la chaleur ou le sport. En cas de vomissements ou de diarrhée, une solution de réhydratation orale en pharmacie remplace aussi les sels. Bébés et personnes âgées sont les plus à risque. Appelle les urgences si la personne est confuse, très somnolente, a le cœur qui s'emballe ou n'a pas uriné de la journée.
+
+À but éducatif uniquement — pas un avis médical. Si tu as des symptômes, consulte un professionnel de santé.
+
+#Shorts #Santé #PremiersSecours #SketchClinic
+```
+- Tags: `déshydratation, signes de déshydratation, couleur de l'urine, boire de l'eau, soluté de réhydratation orale, hydratation, premiers secours, santé, sketch clinic, shorts`
+
+### ep34-dehydration — Japanese  *(Phase 2 — only if the user asks)*
+- File: `ep34-dehydration/ep34-dehydration-ja.mp4`
+- Video language: Japanese
+- Subtitles file: `ep34-dehydration/ep34-dehydration-ja.srt` (Subtitles → Add language: Japanese → Upload file → With timing)
+- Title: `それ、脱水かも？ サインと対処法 #Shorts`
+- Description:
+```
+脱水とは、出ていく水分がとる水分より多い状態。初期のサインは、のどの渇き、口の渇き、頭痛、めまい、だるさ、そして濃い黄色やにおいの強い尿、尿の回数が減ること。薄い黄色の尿ならOKです。
+対処法：1日を通して水を飲み、吐き気があれば少しずつ。暑い日や運動時は多めに。嘔吐や下痢のときは、薬局の経口補水液で失った塩分も補えます。赤ちゃんと高齢者は特に注意。意識がぼんやりする、ひどく眠そう、脈が速い、1日尿が出ないときは、すぐに救急へ。
+
+教育目的の情報であり、医療アドバイスではありません。症状がある場合は医療機関を受診してください。
+
+#Shorts #健康 #応急手当 #SketchClinic
+```
+- Tags: `脱水, 脱水症状, 脱水 サイン, 尿の色, 水分補給, 経口補水液, 熱中症対策, 応急手当, 健康, sketch clinic, shorts`
+
 ## Step 3 — Report back
 Send the user: channel URL, and a table of episode → video URL (all Public).

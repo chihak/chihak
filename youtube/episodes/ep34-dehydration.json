@@ -1,0 +1,168 @@
+{
+ "id": "ep34-dehydration",
+ "title": {
+  "en": "Are You *Dehydrated*?",
+  "es": "¿Estás *deshidratado*?",
+  "fr": "Es-tu *déshydraté* ?",
+  "ja": "それ、*脱水*かも？"
+ },
+ "coverTime": 4.0,
+ "scenes": [
+  {
+   "dur": 6,
+   "caption": {
+    "en": "Feeling *thirsty*, *tired* and a bit *off*? You might be *dehydrated*.",
+    "es": "¿Tienes *sed*, *cansancio* y te sientes *raro*? Puede que estés *deshidratado*.",
+    "fr": "*Soif*, *fatigue*, pas dans ton assiette ? Tu es peut-être *déshydraté*.",
+    "ja": "*のどが渇く*、*だるい*、なんだか*不調*？ それは*脱水*かもしれません。"
+   },
+   "svg": "<circle class='d' data-s='0' data-d='0.4' cx='450' cy='600' r='70' fill='none' stroke='#1d1d1d' stroke-width='11'/><path class='d' data-s='0.4' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 425 585 L 440 585 M 465 585 L 480 585'/><path class='d' data-s='0.6' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 420 640 Q 450 620 480 640'/><path class='d' data-s='0.8' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 450 670 L 450 880 M 450 720 L 370 820 M 450 720 L 530 800 M 450 880 L 400 1000 M 450 880 L 500 1000'/><path class='d' data-s='1.1' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 620 700 L 640 960 L 760 960 L 780 700'/><path class='d' data-s='1.6' data-d='0.4' fill='none' stroke='#3a86c8' stroke-width='8' d='M 560 540 Q 575 570 560 585 Q 545 570 560 540 Z'/><path class='d' data-s='1.8' data-d='0.4' fill='none' stroke='#3a86c8' stroke-width='8' d='M 360 520 Q 375 550 360 565 Q 345 550 360 520 Z'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#e63946",
+     "s": 1.6,
+     "t": {
+      "en": "DEHYDRATED?",
+      "es": "¿DESHIDRATADO?",
+      "fr": "DÉSHYDRATÉ ?",
+      "ja": "脱水かも？"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 8,
+   "caption": {
+    "en": "It means you're *losing more fluid* than you take in. Early signs: *dry mouth*, *headache*, feeling *dizzy* or *tired*.",
+    "es": "Significa que *pierdes más líquido* del que tomas. Primeras señales: *boca seca*, *dolor de cabeza*, *mareo* o *cansancio*.",
+    "fr": "Tu *perds plus de liquide* que tu n'en bois. Premiers signes : *bouche sèche*, *mal de tête*, *vertiges* ou *fatigue*.",
+    "ja": "*出ていく水分*が、とる水分より多い状態です。初期のサインは*口の渇き*、*頭痛*、*めまい*、*だるさ*。"
+   },
+   "svg": "<circle class='d' data-s='0' data-d='0.5' cx='540' cy='700' r='140' fill='none' stroke='#1d1d1d' stroke-width='11'/><path class='d' data-s='0.5' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 485 680 L 515 680 M 565 680 L 595 680'/><path class='d' data-s='0.7' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 495 770 Q 540 750 585 770'/><path class='d' data-s='1.1' data-d='0.5' fill='none' stroke='#e63946' stroke-width='9' d='M 430 560 L 455 590 L 440 600 L 470 630'/><path class='d' data-s='1.3' data-d='0.5' fill='none' stroke='#e63946' stroke-width='9' d='M 650 560 L 625 590 L 640 600 L 610 630'/><path class='d' data-s='1.7' data-d='0.7' fill='none' stroke='#3a86c8' stroke-width='8' d='M 760 640 Q 800 600 830 640 Q 860 690 800 700 Q 760 690 780 660'/><path class='d' data-s='1.9' data-d='0.7' fill='none' stroke='#3a86c8' stroke-width='8' d='M 320 640 Q 280 600 250 640 Q 220 690 280 700 Q 320 690 300 660'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#e63946",
+     "s": 1.6,
+     "t": {
+      "en": "EARLY SIGNS",
+      "es": "PRIMERAS SEÑALES",
+      "fr": "PREMIERS SIGNES",
+      "ja": "初期のサイン"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 9,
+   "caption": {
+    "en": "Check your pee: *pale straw* is good. *Dark yellow*, *strong-smelling*, or peeing *less often* means drink more.",
+    "es": "Mira tu orina: *amarillo claro* está bien. *Amarillo oscuro*, *olor fuerte* u orinar *menos* indica que bebas más.",
+    "fr": "Regarde ton urine : *jaune pâle*, c'est bien. *Jaune foncé*, *odeur forte* ou uriner *moins souvent* : bois davantage.",
+    "ja": "おしっこの色をチェック。*薄い黄色*ならOK。*濃い黄色*、*においが強い*、*回数が少ない*なら水分を。"
+   },
+   "svg": "<path class='d' data-s='0.0' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 220 720 L 240 960 L 380 960 L 400 720'/><path class='f' data-s='0.6' data-d='0.5' fill='#f6e7a1' opacity='0' d='M 232 780 L 248 952 L 372 952 L 388 780 Z'/><path class='d' data-s='0.3' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 450 720 L 470 960 L 610 960 L 630 720'/><path class='f' data-s='0.8999999999999999' data-d='0.5' fill='#f2c94c' opacity='0' d='M 462 780 L 478 952 L 602 952 L 618 780 Z'/><path class='d' data-s='0.6' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 680 720 L 700 960 L 840 960 L 860 720'/><path class='f' data-s='1.2' data-d='0.5' fill='#c27c0e' opacity='0' d='M 692 780 L 708 952 L 832 952 L 848 780 Z'/><path class='d' data-s='1.8' data-d='0.4' fill='none' stroke='#2a9d8f' stroke-width='12' d='M 270 640 L 305 675 L 360 610'/><path class='d' data-s='2.1' data-d='0.4' fill='none' stroke='#e63946' stroke-width='12' d='M 730 610 L 810 680 M 810 610 L 730 680'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#3a86c8",
+     "s": 1.6,
+     "t": {
+      "en": "CHECK YOUR PEE",
+      "es": "MIRA TU ORINA",
+      "fr": "REGARDE TON URINE",
+      "ja": "尿の色をチェック"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 9,
+   "caption": {
+    "en": "*Drink* water through the day, in *small sips* if you feel sick. In *heat* or *exercise*, drink *more*.",
+    "es": "*Bebe* agua a lo largo del día, a *sorbos* si tienes náuseas. Con *calor* o *ejercicio*, bebe *más*.",
+    "fr": "*Bois* de l'eau tout au long de la journée, par *petites gorgées* si tu as la nausée. Avec la *chaleur* ou le *sport*, bois *plus*.",
+    "ja": "1日を通して*水を飲み*ましょう。吐き気があれば*少しずつ*。*暑い日*や*運動*のときは*多めに*。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 400 640 L 420 980 L 600 980 L 620 640'/><path class='f' data-s='0.5' data-d='0.5' fill='#a8d8f0' opacity='0' d='M 412 720 L 428 972 L 592 972 L 608 720 Z'/><path class='d' data-s='0.9' data-d='0.5' fill='none' stroke='#3a86c8' stroke-width='8' d='M 430 760 Q 510 740 590 760'/><circle class='d' data-s='1.2' data-d='0.5' cx='800' cy='600' r='60' fill='none' stroke='#f2a20c' stroke-width='9'/><path class='d' data-s='1.5' data-d='0.5' fill='none' stroke='#f2a20c' stroke-width='8' d='M 800 500 L 800 520 M 800 680 L 800 700 M 700 600 L 720 600 M 880 600 L 900 600 M 730 530 L 745 545 M 855 655 L 870 670 M 870 530 L 855 545 M 730 670 L 745 655'/><path class='d' data-s='1.9' data-d='0.5' fill='none' stroke='#3a86c8' stroke-width='8' d='M 290 620 Q 320 660 290 690 Q 260 660 290 620 Z'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#2a9d8f",
+     "s": 1.6,
+     "t": {
+      "en": "SIP WATER",
+      "es": "BEBE A SORBOS",
+      "fr": "BOIS PAR GORGÉES",
+      "ja": "少しずつ水分を"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 10,
+   "caption": {
+    "en": "*Vomiting* or *diarrhoea*? A pharmacy *rehydration solution* replaces lost *salts* too. *Babies* and *older people* are most at risk.",
+    "es": "¿*Vómitos* o *diarrea*? Un *suero oral* de farmacia repone también las *sales*. *Bebés* y *mayores* corren más riesgo.",
+    "fr": "*Vomissements* ou *diarrhée* ? Une *solution de réhydratation* en pharmacie remplace aussi les *sels*. *Bébés* et *personnes âgées* sont les plus à risque.",
+    "ja": "*嘔吐*や*下痢*のときは、薬局の*経口補水液*で失った*塩分*も補えます。*赤ちゃん*と*高齢者*は特に注意。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.7' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 260 640 L 500 640 L 500 960 L 260 960 Z'/><path class='d' data-s='0.6' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='7' d='M 260 690 L 500 690'/><path class='d' data-s='0.9' data-d='0.5' fill='none' stroke='#2a9d8f' stroke-width='12' d='M 380 760 L 380 880 M 320 820 L 440 820'/><path class='d' data-s='1.2' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 600 660 L 620 960 L 780 960 L 800 660'/><path class='f' data-s='1.7' data-d='0.5' fill='#cfe9f7' opacity='0' d='M 612 730 L 628 952 L 772 952 L 788 730 Z'/><path class='d' data-s='2.0' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 520 600 Q 560 560 600 600'/><path class='d' data-s='2.3' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 585 585 L 600 600 L 580 610'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#2a9d8f",
+     "s": 1.6,
+     "t": {
+      "en": "REHYDRATION SALTS",
+      "es": "SUERO ORAL",
+      "fr": "SELS DE RÉHYDRATATION",
+      "ja": "経口補水液"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 10,
+   "caption": {
+    "en": "Get *urgent help* if someone is *confused*, very *drowsy*, has a *racing heart*, or hasn't *peed all day*.",
+    "es": "Pide *ayuda urgente* si alguien está *confuso*, muy *somnoliento*, tiene el *corazón acelerado* o *no ha orinado* en todo el día.",
+    "fr": "Appelle les *urgences* si la personne est *confuse*, très *somnolente*, a le *cœur qui s'emballe* ou *n'a pas uriné* de la journée.",
+    "ja": "*意識がぼんやり*する、ひどく*眠そう*、*脈が速い*、1日*尿が出ない*ときは、すぐに*救急*へ。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.9' fill='none' stroke='#e63946' stroke-width='12' d='M 540 520 L 800 960 L 280 960 Z'/><path class='d' data-s='0.9' data-d='0.4' fill='none' stroke='#e63946' stroke-width='14' d='M 540 660 L 540 830'/><circle class='d' data-s='1.3' data-d='0.2' cx='540' cy='890' r='12' fill='none' stroke='#e63946' stroke-width='12'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#e63946",
+     "s": 1.6,
+     "t": {
+      "en": "RED FLAGS: GET HELP",
+      "es": "SEÑALES DE ALARMA",
+      "fr": "SIGNES D'ALERTE",
+      "ja": "危険なサインは受診"
+     },
+     "maxW": 920
+    }
+   ]
+  }
+ ]
+}
