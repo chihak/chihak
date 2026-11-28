@@ -1,0 +1,205 @@
+{
+  "id": "ep43-spicy-food",
+  "title": {
+    "en": "What Really Happens When You Eat *Spicy Food*?",
+    "es": "¿Qué pasa de verdad cuando comes *picante*?",
+    "fr": "Que se passe-t-il vraiment quand on mange *épicé* ?",
+    "ja": "辛いものを食べると体で*何*が⁠起⁠き⁠て⁠る⁠？"
+  },
+  "steps": 3,
+  "stepsFrom": 2,
+  "coverTime": 4.5,
+  "scenes": [
+    {
+      "dur": 5,
+      "caption": {
+        "en": "You bite a chili and your mouth is on *fire*. But nothing is actually burning.",
+        "es": "Muerdes un chile y tu boca está en *llamas*. Pero nada se está quemando de verdad.",
+        "fr": "Tu croques un piment et ta bouche est en *feu*. Pourtant, rien ne brûle vraiment.",
+        "ja": "唐辛子をかじると口の中が*火事*みたい。でも、本当は何も燃えていません。"
+      },
+      "svg": "<g transform='translate(-40 0)'><path class='f' data-s='0.6' data-d='0.5' data-o='0.9' fill='#e63946' opacity='0' d='M 400 640 C 520 600 650 690 700 820 C 730 900 745 960 725 995 C 680 955 600 890 520 825 C 440 765 375 705 400 640 Z'/><path class='d' data-s='0.0' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 400 640 C 520 600 650 690 700 820 C 730 900 745 960 725 995 C 680 955 600 890 520 825 C 440 765 375 705 400 640 Z'/><path class='d' data-s='0.5' data-d='0.4' fill='none' stroke='#2a9d8f' stroke-width='12' d='M 395 650 Q 360 620 375 560 M 375 660 Q 400 610 445 640'/><path class='d' data-s='0.9' data-d='0.3' fill='none' stroke='#fbfaf5' stroke-width='8' d='M 470 690 Q 560 700 620 790'/></g><g transform='translate(720 640) scale(1.0)'><path class='p' data-s='1.1' data-d='0.4' fill='#ffd166' stroke='#1d1d1d' stroke-width='6' d='M 0 0 C -60 -50 -30 -110 0 -170 C 20 -120 70 -90 50 -30 C 40 -5 20 5 0 0 Z'/><path class='p' data-s='1.25' data-d='0.3' fill='#e63946' d='M 4 -12 C -25 -35 -12 -70 4 -100 C 14 -72 34 -55 26 -25 C 22 -12 12 -8 4 -12 Z'/></g><g transform='translate(830 720) scale(0.75)'><path class='p' data-s='1.3' data-d='0.4' fill='#ffd166' stroke='#1d1d1d' stroke-width='6' d='M 0 0 C -60 -50 -30 -110 0 -170 C 20 -120 70 -90 50 -30 C 40 -5 20 5 0 0 Z'/><path class='p' data-s='1.45' data-d='0.3' fill='#e63946' d='M 4 -12 C -25 -35 -12 -70 4 -100 C 14 -72 34 -55 26 -25 C 22 -12 12 -8 4 -12 Z'/></g><g transform='translate(620 560) scale(0.6)'><path class='p' data-s='1.5' data-d='0.4' fill='#ffd166' stroke='#1d1d1d' stroke-width='6' d='M 0 0 C -60 -50 -30 -110 0 -170 C 20 -120 70 -90 50 -30 C 40 -5 20 5 0 0 Z'/><path class='p' data-s='1.65' data-d='0.3' fill='#e63946' d='M 4 -12 C -25 -35 -12 -70 4 -100 C 14 -72 34 -55 26 -25 C 22 -12 12 -8 4 -12 Z'/></g><path class='d' data-s='1.7' data-d='0.4' fill='none' stroke='#e63946' stroke-width='7' d='M 250 560 q 12 -18 24 0 t 24 0 M 820 880 q 12 -18 24 0 t 24 0'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 100,
+          "color": "#e63946",
+          "s": 1.8,
+          "t": {
+            "en": "ON FIRE?!",
+            "es": "¡EN LLAMAS!",
+            "fr": "EN FEU ?!",
+            "ja": "口が火事!?"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 6,
+      "caption": {
+        "en": "Chilies contain *capsaicin*. It latches onto *TRPV1*, a nerve sensor that normally detects painful *heat*.",
+        "es": "El chile tiene *capsaicina*. Se une a un sensor de los nervios que normalmente detecta el *calor* que duele.",
+        "fr": "Le piment contient de la *capsaïcine*. Elle se fixe sur un capteur nerveux qui détecte d'habitude la *chaleur* douloureuse.",
+        "ja": "辛味の正体は*カプサイシン*。本来は*やけどするような熱*を感じる神経のセンサーにくっつきます。"
+      },
+      "svg": "<path class='d' data-s='0' data-d='0.7' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 180 900 L 440 900 M 640 900 L 900 900 M 180 940 L 900 940'/><path class='f' data-s='0.6' data-d='0.4' data-o='0.35' fill='#3a86c8' opacity='0' d='M 440 900 L 440 790 Q 440 750 480 750 L 500 750 L 500 830 L 580 830 L 580 750 L 600 750 Q 640 750 640 790 L 640 900 Z'/><path class='d' data-s='0.3' data-d='0.7' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 440 900 L 440 790 Q 440 750 480 750 L 500 750 L 500 830 L 580 830 L 580 750 L 600 750 Q 640 750 640 790 L 640 900'/><g><path class='p' data-s='1.0' data-d='0.4' fill='#e63946' stroke='#1d1d1d' stroke-width='7' d='M 582 584 L 540 608 L 498 584 L 498 536 L 540 512 L 582 536 Z'/><path class='d' data-s='1.3' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 582 536 L 630 510 L 670 540 L 715 512 L 755 540'/></g><path class='d' data-s='1.7' data-d='0.4' fill='none' stroke='#e63946' stroke-width='9' d='M 540 640 L 540 735 M 515 708 L 540 738 L 565 708'/><path class='d' data-s='0.8' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 260 600 L 260 760 M 240 600 Q 240 570 260 570 Q 280 570 280 600 L 280 760'/><circle class='p' data-s='1.1' data-d='0.3' cx='270' cy='790' r='34' fill='#e63946' stroke='#1d1d1d' stroke-width='7'/><path class='p' data-s='1.2' data-d='0.3' fill='#e63946' d='M 262 640 L 278 640 L 278 770 L 262 770 Z'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1010,
+          "size": 56,
+          "color": "#1d1d1d",
+          "s": 1.5,
+          "t": {
+            "en": "TRPV1",
+            "es": "TRPV1",
+            "fr": "TRPV1",
+            "ja": "TRPV1"
+          }
+        },
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 96,
+          "color": "#e63946",
+          "s": 2.0,
+          "t": {
+            "en": "CAPSAICIN",
+            "es": "CAPSAICINA",
+            "fr": "CAPSAÏCINE",
+            "ja": "カプサイシン"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 5.5,
+      "step": 1,
+      "caption": {
+        "en": "*1* — Your brain gets a false *“HOT!”* alarm. Spiciness isn't a taste: it's a *pain* signal.",
+        "es": "*1* — Tu cerebro recibe una falsa alarma de *“¡QUEMA!”*. El picante no es un sabor: es una señal de *dolor*.",
+        "fr": "*1* — Ton cerveau reçoit une fausse alerte *« ÇA BRÛLE ! »*. Le piquant n'est pas un goût : c'est un signal de *douleur*.",
+        "ja": "*１* 脳には「*熱い！*」というニセの警報が。辛さは味ではなく*痛み*の信号です。"
+      },
+      "svg": "<g transform='translate(540 820) scale(0.85) translate(-620 -720)'><path class='f' data-s='0.6' data-d='0.5' data-o='0.2' fill='#e63946' opacity='0' d='M 420 760 C 380 640 480 560 580 580 C 640 540 760 560 800 640 C 860 700 850 800 790 830 C 760 880 680 870 640 850 C 580 880 480 870 450 830 C 410 820 400 790 420 760 Z'/><path class='d' data-s='0' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 420 760 C 380 640 480 560 580 580 C 640 540 760 560 800 640 C 860 700 850 800 790 830 C 760 880 680 870 640 850 C 580 880 480 870 450 830 C 410 820 400 790 420 760 Z'/><path class='d' data-s='0.6' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='7' d='M 520 640 Q 560 690 520 740 M 620 620 Q 600 680 660 710 M 560 800 Q 620 770 690 800 M 700 640 Q 740 670 720 720'/></g><path class='p' data-s='1.0' data-d='0.4' fill='#e63946' stroke='#1d1d1d' stroke-width='8' d='M 480 560 Q 480 470 540 470 Q 600 470 600 560 L 610 580 L 470 580 Z'/><path class='d' data-s='1.3' data-d='0.4' fill='none' stroke='#e63946' stroke-width='10' d='M 440 500 L 400 470 M 430 560 L 380 560 M 640 500 L 680 470 M 650 560 L 700 560'/><path class='d' data-s='1.8' data-d='0.4' fill='none' stroke='#e63946' stroke-width='7' d='M 330 1000 q 12 -18 24 0 t 24 0 t 24 0 M 680 1000 q 12 -18 24 0 t 24 0 t 24 0'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 96,
+          "color": "#e63946",
+          "s": 2.0,
+          "t": {
+            "en": "FALSE ALARM",
+            "es": "FALSA ALARMA",
+            "fr": "FAUSSE ALERTE",
+            "ja": "ニセの警報"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 5.5,
+      "step": 2,
+      "caption": {
+        "en": "*2* — Your body tries to *cool down*: sweating, a red face, a runny nose, watery eyes.",
+        "es": "*2* — Tu cuerpo intenta *enfriarse*: sudor, cara roja, nariz que gotea y ojos llorosos.",
+        "fr": "*2* — Ton corps essaie de se *refroidir* : sueur, visage rouge, nez qui coule, yeux qui pleurent.",
+        "ja": "*２* 体は*冷まそう*とします。汗、赤い顔、鼻水、涙。"
+      },
+      "svg": "<path class='f' data-s='0.6' data-d='0.5' data-o='0.3' fill='#e63946' opacity='0' d='M 540 520 C 400 520 360 640 370 760 C 380 900 460 980 540 980 C 620 980 700 900 710 760 C 720 640 680 520 540 520 Z'/><path class='d' data-s='0' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 540 520 C 400 520 360 640 370 760 C 380 900 460 980 540 980 C 620 980 700 900 710 760 C 720 640 680 520 540 520 Z'/><path class='d' data-s='0.5' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 450 700 Q 470 680 490 700 M 590 700 Q 610 680 630 700 M 540 730 L 525 800 L 550 805'/><path class='f' data-s='0.8' data-d='0.4' data-o='1' fill='#e63946' opacity='0' d='M 480 860 Q 540 830 600 860 Q 590 920 540 925 Q 490 920 480 860 Z'/><path class='d' data-s='0.7' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 480 860 Q 540 830 600 860 Q 590 920 540 925 Q 490 920 480 860 Z'/><path class='p' data-s='1.1' data-d='0.3' fill='#3a86c8' d='M 470 720 C 454 744 456 760 470 760 C 484 760 486 744 470 720 Z'/><path class='p' data-s='1.2' data-d='0.3' fill='#3a86c8' d='M 610 720 C 594 744 596 760 610 760 C 624 760 626 744 610 720 Z'/><path class='p' data-s='1.35' data-d='0.3' fill='#3a86c8' d='M 553 815 C 537 839 539 855 553 855 C 567 855 569 839 553 815 Z'/><path class='p' data-s='1.5' data-d='0.3' fill='#3a86c8' d='M 350 580 C 334 604 336 620 350 620 C 364 620 366 604 350 580 Z'/><path class='p' data-s='1.6' data-d='0.3' fill='#3a86c8' d='M 735 600 C 719 624 721 640 735 640 C 749 640 751 624 735 600 Z'/><path class='p' data-s='1.7' data-d='0.3' fill='#3a86c8' d='M 320 700 C 304 724 306 740 320 740 C 334 740 336 724 320 700 Z'/><path class='p' data-s='1.8' data-d='0.3' fill='#3a86c8' d='M 760 720 C 744 744 746 760 760 760 C 774 760 776 744 760 720 Z'/><path class='d' data-s='1.9' data-d='0.4' fill='none' stroke='#e63946' stroke-width='7' d='M 410 760 l 20 -10 M 420 785 l 20 -10 M 630 750 l 20 10 M 620 775 l 20 10'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 96,
+          "color": "#e63946",
+          "s": 2.0,
+          "t": {
+            "en": "COOL DOWN!",
+            "es": "¡A ENFRIAR!",
+            "fr": "REFROIDIR !",
+            "ja": "冷却モード"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 5.5,
+      "step": 3,
+      "caption": {
+        "en": "*3* — Scientists think the pain also triggers *endorphins*, which may be why some people *love* the burn.",
+        "es": "*3* — Se cree que el dolor también libera *endorfinas*: quizá por eso a algunos les *encanta* el picante.",
+        "fr": "*3* — Les scientifiques pensent que la douleur libère des *endorphines* : c'est peut-être pour ça qu'on *adore* le piquant.",
+        "ja": "*３* 痛みで*エンドルフィン*が出るとも考えられ、辛いものが*やみつき*になる理由かもしれません。"
+      },
+      "svg": "<g transform='translate(540 760) scale(2.2) translate(-540 -690)'><path class='f' data-s='0.5' data-d='0.5' data-o='0.85' fill='#e63946' opacity='0' d='M 540 760 C 440 690 450 600 540 640 C 630 600 640 690 540 760 Z'/><path class='d' data-s='0' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='5' d='M 540 760 C 440 690 450 600 540 640 C 630 600 640 690 540 760 Z'/></g><path class='d' data-s='0.9' data-d='0.4' fill='none' stroke='#fbfaf5' stroke-width='10' d='M 470 700 Q 490 680 510 700 M 570 700 Q 590 680 610 700 M 480 760 Q 540 820 600 760'/><circle class='p' data-s='1.3' data-d='0.3' cx='300' cy='560' r='22' fill='#ffd166' stroke='#1d1d1d' stroke-width='5'/><circle class='p' data-s='1.42' data-d='0.3' cx='800' cy='540' r='26' fill='#ffd166' stroke='#1d1d1d' stroke-width='5'/><circle class='p' data-s='1.54' data-d='0.3' cx='260' cy='820' r='18' fill='#ffd166' stroke='#1d1d1d' stroke-width='5'/><circle class='p' data-s='1.6600000000000001' data-d='0.3' cx='830' cy='860' r='22' fill='#ffd166' stroke='#1d1d1d' stroke-width='5'/><circle class='p' data-s='1.78' data-d='0.3' cx='400' cy='450' r='16' fill='#ffd166' stroke='#1d1d1d' stroke-width='5'/><circle class='p' data-s='1.9' data-d='0.3' cx='690' cy='440' r='18' fill='#ffd166' stroke='#1d1d1d' stroke-width='5'/><path class='d' data-s='2.1' data-d='0.4' fill='none' stroke='#ffd166' stroke-width='8' d='M 330 650 l -40 -10 M 760 650 l 40 -10 M 350 950 l -30 25 M 730 950 l 30 25'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 96,
+          "color": "#e63946",
+          "s": 2.1,
+          "t": {
+            "en": "ENDORPHINS",
+            "es": "ENDORFINAS",
+            "fr": "ENDORPHINES",
+            "ja": "エンドルフィン"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 5.5,
+      "caption": {
+        "en": "Water barely helps: capsaicin is *oily*. *Milk or yogurt* helps wash it away.",
+        "es": "El agua casi no ayuda: la capsaicina es *grasa*. La *leche o el yogur* ayudan a arrastrarla.",
+        "fr": "L'eau aide peu : la capsaïcine est *huileuse*. Le *lait ou le yaourt* aident à l'éliminer.",
+        "ja": "水はあまり効きません。カプサイシンは*油に溶ける*から。*牛乳やヨーグルト*がおすすめ。"
+      },
+      "svg": "<path class='f' data-s='0.4' data-d='0.4' data-o='0.35' fill='#3a86c8' opacity='0' d='M 240 700 L 420 700 L 405 960 L 255 960 Z'/><path class='d' data-s='0' data-d='0.7' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 230 620 L 430 620 L 405 960 L 255 960 Z'/><path class='d' data-s='1.0' data-d='0.4' fill='none' stroke='#e63946' stroke-width='14' d='M 230 640 L 430 940 M 430 640 L 230 940'/><path class='f' data-s='1.6' data-d='0.4' data-o='1' fill='#fbfaf5' opacity='0' d='M 650 640 L 850 640 L 850 960 L 650 960 Z M 650 640 L 700 560 L 800 560 L 850 640 M 700 560 L 700 640'/><path class='d' data-s='1.3' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 650 640 L 850 640 L 850 960 L 650 960 Z M 650 640 L 700 560 L 800 560 L 850 640 M 700 560 L 700 640'/><path class='p' data-s='1.8' data-d='0.4' fill='#3a86c8' d='M 690 740 L 810 740 L 810 820 L 690 820 Z'/><path class='d' data-s='2.2' data-d='0.4' fill='none' stroke='#2a9d8f' stroke-width='16' d='M 700 1010 L 740 1050 L 820 970'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 96,
+          "color": "#e63946",
+          "s": 2.4,
+          "t": {
+            "en": "TRY MILK",
+            "es": "PRUEBA LECHE",
+            "fr": "DU LAIT",
+            "ja": "牛乳を"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 6,
+      "caption": {
+        "en": "After a *chili challenge*, get *urgent help* for *chest pain*, trouble breathing or nonstop vomiting.",
+        "es": "Tras un *reto picante*, busca *ayuda urgente* si hay *dolor en el pecho*, falta de aire o vómitos sin parar.",
+        "fr": "Après un *défi piment*, appelle les *urgences* en cas de *douleur à la poitrine*, de souffle court ou de vomissements sans fin.",
+        "ja": "激辛チャレンジの後、*胸の痛み*・息苦しさ・止まらない嘔吐があれば*すぐに救急*へ。"
+      },
+      "svg": "<g transform='translate(250 560) scale(0.55) translate(-560 -800)'><path class='f' data-s='0.6' data-d='0.5' data-o='0.9' fill='#e63946' opacity='0' d='M 400 640 C 520 600 650 690 700 820 C 730 900 745 960 725 995 C 680 955 600 890 520 825 C 440 765 375 705 400 640 Z'/><path class='d' data-s='0.0' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 400 640 C 520 600 650 690 700 820 C 730 900 745 960 725 995 C 680 955 600 890 520 825 C 440 765 375 705 400 640 Z'/><path class='d' data-s='0.5' data-d='0.4' fill='none' stroke='#2a9d8f' stroke-width='12' d='M 395 650 Q 360 620 375 560 M 375 660 Q 400 610 445 640'/><path class='d' data-s='0.9' data-d='0.3' fill='none' stroke='#fbfaf5' stroke-width='8' d='M 470 690 Q 560 700 620 790'/></g><path class='d' data-s='0.7' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 560 540 L 880 540 L 880 980 L 560 980 Z'/><path class='p' data-s='1.2' data-d='0.4' fill='#e63946' d='M 690 600 L 750 600 L 750 700 L 850 700 L 850 760 L 750 760 L 750 860 L 690 860 L 690 760 L 590 760 L 590 700 L 690 700 Z'/><path class='d' data-s='1.6' data-d='0.4' fill='none' stroke='#e63946' stroke-width='10' d='M 380 820 L 520 820 M 490 790 L 522 820 L 490 850'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 96,
+          "color": "#e63946",
+          "s": 2.2,
+          "t": {
+            "en": "GET HELP",
+            "es": "BUSCA AYUDA",
+            "fr": "URGENCES",
+            "ja": "すぐ救急へ"
+          }
+        }
+      ]
+    }
+  ]
+}

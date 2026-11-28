@@ -39,7 +39,7 @@ Covered by ep01-ep20: stroke, heart attack, leg cramps, knuckle cracking, hiccup
 - done: ep40-seeing-stars - Why do you see stars when you rub your eyes? (phosphenes)
 - done: ep41-recorded-voice - Why does your voice sound weird on recordings? (bone conduction)
 - done: ep42-butterflies - Why do you get butterflies when nervous? (fight-or-flight, gut-brain)
-- in progress: ep43-spicy-food - What really happens when you eat spicy food? (capsaicin, TRPV1 heat receptors; milk vs water)
+- done: ep43-spicy-food - What really happens when you eat spicy food? (capsaicin, TRPV1 heat receptors; milk vs water)
 - todo: Why do onions make you cry? (syn-propanethial-S-oxide)
 - todo: Why do you get a headache from ice cream vs. hunger headache?
 - todo: Why do your ears ring after a concert? (tinnitus, noise damage)

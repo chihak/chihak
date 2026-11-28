@@ -2776,5 +2776,69 @@ C'est normal et ça passe ; respirer lentement aide. Consulte si les troubles s
 ```
 - Tags: `緊張 お腹, お腹 ソワソワ, 緊張 腹痛, 闘争逃走反応, アドレナリン, 腸脳相関, 第二の脳, 迷走神経, ストレス, 体の雑学, sketch clinic`
 
+### ep43-spicy-food — English
+- File: `ep43-spicy-food/ep43-spicy-food-en.mp4`
+- Video language: English
+- Subtitles file: `ep43-spicy-food/ep43-spicy-food-en.srt` (Subtitles → Add language: English → Upload file → With timing)
+- Title: `What Really Happens When You Eat Spicy Food? #Shorts`
+- Description:
+```
+Chili heat isn't a taste — it's a pain signal. Capsaicin latches onto TRPV1, a nerve sensor that normally detects painful heat, so your brain gets a false "HOT!" alarm.
+Your body tries to cool down (sweat, red face, runny nose, watery eyes), and scientists think endorphins may be part of why some people love the burn.
+Water barely helps because capsaicin is oily; milk or yogurt helps wash it away. After an extreme chili challenge, get urgent help for chest pain, trouble breathing or nonstop vomiting.
+Educational only — not medical advice. If you have symptoms, see a healthcare professional.
+
+#spicyfood #capsaicin #bodyfacts #health #Shorts
+```
+- Tags: `spicy food, what happens when you eat spicy food, capsaicin, TRPV1, why is spicy food hot, chili pepper, milk vs water spicy, endorphins, body facts, sketch clinic`
+
+### ep43-spicy-food — Spanish  *(Phase 2 — only if the user asks)*
+- File: `ep43-spicy-food/ep43-spicy-food-es.mp4`
+- Video language: Spanish
+- Subtitles file: `ep43-spicy-food/ep43-spicy-food-es.srt` (Subtitles → Add language: Spanish → Upload file → With timing)
+- Title: `¿Qué pasa de verdad cuando comes picante? #Shorts`
+- Description:
+```
+El picante no es un sabor: es una señal de dolor. La capsaicina se une a un sensor de los nervios que detecta el calor que duele, y tu cerebro recibe una falsa alarma de "¡QUEMA!".
+Tu cuerpo intenta enfriarse (sudor, cara roja, nariz que gotea, ojos llorosos), y se cree que las endorfinas explican en parte por qué a algunos les encanta.
+El agua casi no ayuda porque la capsaicina es grasa; la leche o el yogur ayudan. Tras un reto picante extremo, busca ayuda urgente si hay dolor en el pecho, falta de aire o vómitos sin parar.
+Solo con fines educativos: no es consejo médico. Si tienes síntomas, consulta a un profesional de la salud.
+
+#picante #capsaicina #cuerpohumano #salud #Shorts
+```
+- Tags: `comida picante, qué pasa cuando comes picante, capsaicina, por qué pica el chile, chile, leche o agua picante, endorfinas, curiosidades del cuerpo, salud, sketch clinic`
+
+### ep43-spicy-food — French  *(Phase 2 — only if the user asks)*
+- File: `ep43-spicy-food/ep43-spicy-food-fr.mp4`
+- Video language: French
+- Subtitles file: `ep43-spicy-food/ep43-spicy-food-fr.srt` (Subtitles → Add language: French → Upload file → With timing)
+- Title: `Que se passe-t-il vraiment quand on mange épicé ? #Shorts`
+- Description:
+```
+Le piquant n'est pas un goût : c'est un signal de douleur. La capsaïcine se fixe sur un capteur nerveux qui détecte la chaleur douloureuse, et ton cerveau reçoit une fausse alerte « ça brûle ! ».
+Ton corps essaie de se refroidir (sueur, visage rouge, nez qui coule, yeux qui pleurent), et les scientifiques pensent que les endorphines expliquent en partie pourquoi on adore ça.
+L'eau aide peu car la capsaïcine est huileuse ; le lait ou le yaourt aident. Après un défi piment extrême, appelle les urgences en cas de douleur à la poitrine, de souffle court ou de vomissements sans fin.
+À but éducatif uniquement, ce n'est pas un avis médical. En cas de symptômes, consulte un professionnel de santé.
+
+#piment #capsaïcine #corpshumain #santé #Shorts
+```
+- Tags: `nourriture épicée, que se passe-t-il quand on mange épicé, capsaïcine, pourquoi le piment brûle, piment, lait ou eau piment, endorphines, corps humain, santé, sketch clinic`
+
+### ep43-spicy-food — Japanese  *(Phase 2 — only if the user asks)*
+- File: `ep43-spicy-food/ep43-spicy-food-ja.mp4`
+- Video language: Japanese
+- Subtitles file: `ep43-spicy-food/ep43-spicy-food-ja.srt` (Subtitles → Add language: Japanese → Upload file → With timing)
+- Title: `辛いものを食べると体で何が起きてる？ #Shorts`
+- Description:
+```
+辛さは味ではなく「痛み」の信号。カプサイシンが、本来はやけどするような熱を感じる神経のセンサー（TRPV1）にくっつき、脳に「熱い！」というニセの警報が届きます。
+体は冷まそうとして汗・赤い顔・鼻水・涙が出ます。痛みでエンドルフィンが出ることが、やみつきになる理由の一つと考えられています。
+カプサイシンは油に溶けるので水はあまり効かず、牛乳やヨーグルトがおすすめ。激辛チャレンジの後、胸の痛み・息苦しさ・止まらない嘔吐があればすぐに救急へ。
+教育目的の情報であり、医療アドバイスではありません。症状がある場合は医療機関を受診してください。
+
+#辛いもの #カプサイシン #体の雑学 #健康 #Shorts
+```
+- Tags: `辛いもの, 辛い 理由, カプサイシン, TRPV1, 唐辛子, 辛い 牛乳, エンドルフィン, 激辛, 体の雑学, sketch clinic`
+
 ## Step 3 — Report back
 Send the user: channel URL, and a table of episode → video URL (all Public).
