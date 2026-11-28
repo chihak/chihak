@@ -3096,5 +3096,69 @@ C'est en général sans danger et ça passe en se calmant ; respirer lentement e
 ```
 - Tags: `喉のつまり, ヒステリー球, 咽喉頭異常感症, 泣くと喉が痛い, 声門, 闘争逃走反応, 体の雑学, 健康, なぜ体はこうなる, sketch clinic`
 
+### ep48-hold-breath — English
+- File: `ep48-hold-breath/ep48-hold-breath-en.mp4`
+- Video language: English
+- Subtitles file: `ep48-hold-breath/ep48-hold-breath-en.srt` (Subtitles → Add language: English → Upload file → With timing)
+- Title: `What Really Happens When You Hold Your Breath? #Shorts`
+- Description:
+```
+Take a deep breath and hold it… what really happens inside your body?
+The urge to breathe isn't mainly from low oxygen: it's carbon dioxide building up. Sensors in your brainstem notice your blood getting more acidic and tell you to breathe. Soon your diaphragm, the breathing muscle under your lungs, starts twitching on its own. Your heart may also slow down, especially with your face in cold water: the diving reflex.
+On dry land, your brain usually forces you to take a breath long before it gets dangerous. But never breathe fast (hyperventilate) to prepare, or do breath-holding games underwater: you can black out without warning and drown. If someone passes out in water, get them out safely and call emergency services. Never swim alone.
+Educational only — not medical advice. If you have symptoms, see a healthcare professional.
+
+#holdingbreath #bodyfacts #watersafety #health #Shorts
+```
+- Tags: `holding your breath, what happens when you hold your breath, why can't I hold my breath longer, carbon dioxide, diaphragm, diving reflex, shallow water blackout, water safety, body facts, sketch clinic`
+
+### ep48-hold-breath — Spanish  *(Phase 2 — only if the user asks)*
+- File: `ep48-hold-breath/ep48-hold-breath-es.mp4`
+- Video language: Spanish
+- Subtitles file: `ep48-hold-breath/ep48-hold-breath-es.srt` (Subtitles → Add language: Spanish → Upload file → With timing)
+- Title: `¿Qué pasa realmente cuando aguantas la respiración? #Shorts`
+- Description:
+```
+Respira hondo y aguanta… ¿qué pasa realmente dentro de tu cuerpo?
+Las ganas de respirar no vienen sobre todo de la falta de oxígeno, sino del dióxido de carbono que se acumula. Unos sensores en tu tronco encefálico notan que la sangre se vuelve más ácida y te dicen que respires. Pronto tu diafragma, el músculo bajo los pulmones, empieza a contraerse solo. Tu corazón también puede ir más lento, sobre todo con la cara en agua fría: el reflejo de inmersión.
+En tierra firme, tu cerebro suele obligarte a respirar mucho antes de que sea peligroso. Pero nunca respires rápido (hiperventilar) para prepararte ni hagas juegos de aguantar la respiración bajo el agua: puedes desmayarte sin aviso y ahogarte. Si alguien se desmaya en el agua, sácalo con seguridad y llama a emergencias. Nunca nades solo.
+Solo con fines educativos: no es consejo médico. Si tienes síntomas, consulta a un profesional de la salud.
+
+#aguantarlarespiracion #cuerpohumano #seguridadenelagua #salud #Shorts
+```
+- Tags: `aguantar la respiración, qué pasa si aguantas la respiración, apnea, dióxido de carbono, diafragma, reflejo de inmersión, desmayo en el agua, seguridad en el agua, curiosidades del cuerpo, sketch clinic`
+
+### ep48-hold-breath — French  *(Phase 2 — only if the user asks)*
+- File: `ep48-hold-breath/ep48-hold-breath-fr.mp4`
+- Video language: French
+- Subtitles file: `ep48-hold-breath/ep48-hold-breath-fr.srt` (Subtitles → Add language: French → Upload file → With timing)
+- Title: `Que se passe-t-il vraiment quand tu retiens ton souffle ? #Shorts`
+- Description:
+```
+Inspire à fond et retiens ton souffle… que se passe-t-il vraiment dans ton corps ?
+L'envie de respirer ne vient pas surtout du manque d'oxygène, mais du dioxyde de carbone qui s'accumule. Des capteurs dans ton tronc cérébral sentent que ton sang devient plus acide et te disent de respirer. Bientôt, ton diaphragme, le muscle sous les poumons, se contracte tout seul. Ton cœur peut aussi ralentir, surtout le visage dans l'eau froide : le réflexe d'immersion.
+Sur la terre ferme, ton cerveau te force en général à respirer bien avant que ça devienne dangereux. Mais ne respire jamais vite (hyperventilation) pour te préparer, et pas de jeux d'apnée sous l'eau : tu peux perdre connaissance sans prévenir et te noyer. Si quelqu'un perd connaissance dans l'eau, sors-le en sécurité et appelle les secours. Ne nage jamais seul.
+À but éducatif uniquement, ce n'est pas un avis médical. En cas de symptômes, consulte un professionnel de santé.
+
+#apnée #corpshumain #sécuritéaquatique #santé #Shorts
+```
+- Tags: `retenir son souffle, que se passe-t-il quand on retient sa respiration, apnée, dioxyde de carbone, diaphragme, réflexe d'immersion, syncope en apnée, sécurité aquatique, corps humain, sketch clinic`
+
+### ep48-hold-breath — Japanese  *(Phase 2 — only if the user asks)*
+- File: `ep48-hold-breath/ep48-hold-breath-ja.mp4`
+- Video language: Japanese
+- Subtitles file: `ep48-hold-breath/ep48-hold-breath-ja.srt` (Subtitles → Add language: Japanese → Upload file → With timing)
+- Title: `息を止めると体で本当に起きていること #Shorts`
+- Description:
+```
+大きく息を吸って止めて…そのとき体の中では何が起きているのでしょう？
+息苦しさの主な原因は酸素不足ではなく、たまっていく二酸化炭素です。脳幹のセンサーが血液が酸性に傾くのを感じとり、息をするよう命令します。やがて肺の下の呼吸筋「横隔膜」が勝手にピクピク動き始めます。特に冷たい水に顔をつけると心臓の鼓動がゆっくりになる「潜水反射」も起きます。
+陸の上なら、危険になるずっと前に脳がふつう強制的に息をさせます。でも、息を止める前に速く呼吸する（過換気）のは絶対ダメ。水中での息止めゲームも危険で、前ぶれなく気を失い、おぼれることがあります。水中で誰かが気を失ったら、安全に引き上げて救急車を呼んでください。一人で泳がないこと。
+教育目的の情報であり、医療アドバイスではありません。症状がある場合は医療機関を受診してください。
+
+#息止め #体の雑学 #水の事故防止 #健康 #Shorts
+```
+- Tags: `息を止める, 息を止めるとどうなる, 二酸化炭素, 横隔膜, 潜水反射, ブラックアウト, 水の事故, 体の雑学, 健康, sketch clinic`
+
 ## Step 3 — Report back
 Send the user: channel URL, and a table of episode → video URL (all Public).

@@ -1,0 +1,212 @@
+{
+  "id": "ep48-hold-breath",
+  "title": {
+    "en": "What Really Happens When You *Hold Your Breath*?",
+    "es": "¿Qué pasa realmente cuando *aguantas la respiración*?",
+    "fr": "Que se passe-t-il quand tu *retiens ton souffle* ?",
+    "ja": "*息を止める*と体で何が起きる？"
+  },
+  "coverTime": 4.5,
+  "scenes": [
+    {
+      "dur": 5,
+      "caption": {
+        "en": "Take a deep breath and *hold it*… What really happens inside your body?",
+        "es": "Respira hondo y *aguanta*… ¿Qué pasa realmente dentro de tu cuerpo?",
+        "fr": "Inspire à fond et *retiens ton souffle*… Que se passe-t-il vraiment dans ton corps ?",
+        "ja": "息を吸って*止めて*…。体の中では何が起きている？"
+      },
+      "svg": "<circle class='p' data-s='0' data-d='0.4' cx='420' cy='700' r='160' fill='#ffd166' stroke='#1d1d1d' stroke-width='9'/><circle class='p' data-s='0.4' data-d='0.3' cx='320' cy='740' r='55' fill='#f4a3a8' stroke='#1d1d1d' stroke-width='6'/><circle class='p' data-s='0.4' data-d='0.3' cx='520' cy='740' r='55' fill='#f4a3a8' stroke='#1d1d1d' stroke-width='6'/><path class='d' data-s='0.6' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 350 650 Q 375 670 400 650 M 440 650 Q 465 670 490 650 M 400 790 L 440 790'/><circle class='p' data-s='1.0' data-d='0.4' cx='790' cy='720' r='130' fill='#fbfaf5' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='1.0' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='12' d='M 790 590 L 790 550 M 760 545 L 820 545'/><path class='d' data-s='1.4' data-d='0.6' fill='none' stroke='#e63946' stroke-width='10' stroke-linecap='round' d='M 790 720 L 790 630 M 790 720 L 860 760'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 110,
+          "color": "#e63946",
+          "s": 1.8,
+          "t": {
+            "en": "HOLD IT!",
+            "es": "¡AGUANTA!",
+            "fr": "RETIENS !",
+            "ja": "息を止めて！"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 6,
+      "caption": {
+        "en": "Surprise: the urge to breathe isn't mainly from low oxygen. It's from *carbon dioxide* building up.",
+        "es": "Sorpresa: las ganas de respirar no vienen sobre todo de la falta de oxígeno, sino del *dióxido de carbono* que se acumula.",
+        "fr": "Surprise : l'envie de respirer ne vient pas surtout du manque d'oxygène, mais du *dioxyde de carbone* qui s'accumule.",
+        "ja": "息苦しさの主な原因は、酸素不足ではなく、たまっていく*二酸化炭素*です。"
+      },
+      "svg": "<path class='d' data-s='0' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 150 560 Q 540 500 930 560 M 150 900 Q 540 960 930 900'/><path class='f' data-s='0.3' data-d='0.4' data-o='0.25' fill='#e63946' opacity='0' d='M 150 560 Q 540 500 930 560 L 930 900 Q 540 960 150 900 Z'/><circle class='p' data-s='0.7' data-d='0.2' cx='260' cy='730' r='40' fill='#e63946' stroke='#1d1d1d' stroke-width='5'/><circle class='p' data-s='0.9' data-d='0.2' cx='400' cy='650' r='45' fill='#8d99ae' stroke='#1d1d1d' stroke-width='5'/><circle class='p' data-s='1.0' data-d='0.2' cx='500' cy='800' r='50' fill='#8d99ae' stroke='#1d1d1d' stroke-width='5'/><circle class='p' data-s='1.1' data-d='0.2' cx='620' cy='660' r='55' fill='#8d99ae' stroke='#1d1d1d' stroke-width='5'/><circle class='p' data-s='1.2' data-d='0.2' cx='740' cy='790' r='60' fill='#8d99ae' stroke='#1d1d1d' stroke-width='5'/><circle class='p' data-s='1.3' data-d='0.2' cx='850' cy='680' r='55' fill='#8d99ae' stroke='#1d1d1d' stroke-width='5'/><path class='d' data-s='1.6' data-d='0.4' fill='none' stroke='#e63946' stroke-width='12' d='M 540 1080 L 540 990 M 500 1030 L 540 985 L 580 1030'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 92,
+          "color": "#e63946",
+          "s": 1.8,
+          "t": {
+            "en": "CO2 RISING",
+            "es": "SUBE EL CO2",
+            "fr": "LE CO2 MONTE",
+            "ja": "CO2が増える"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 6,
+      "caption": {
+        "en": "Sensors in your *brainstem* notice your blood getting more *acidic* and tell you: *breathe!*",
+        "es": "Unos sensores en tu *tronco encefálico* notan que la sangre se vuelve más *ácida* y te dicen: *¡respira!*",
+        "fr": "Des capteurs dans ton *tronc cérébral* sentent que ton sang devient plus *acide* et te disent : *respire !*",
+        "ja": "*脳幹*のセンサーが血液の*酸性化*を感じ、「*息をして！*」と命令します。"
+      },
+      "svg": "<path class='p' data-s='0' data-d='0.5' fill='#f4a3a8' stroke='#1d1d1d' stroke-width='9' d='M 330 760 Q 280 560 470 520 Q 640 470 740 580 Q 820 680 740 780 Q 660 830 600 800 Q 520 830 420 810 Q 350 800 330 760 Z'/><path class='d' data-s='0.4' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='6' d='M 420 620 Q 470 580 520 630 Q 570 580 630 630 M 450 720 Q 520 680 600 730'/><path class='p' data-s='0.8' data-d='0.4' fill='#3a86c8' stroke='#1d1d1d' stroke-width='8' d='M 560 800 Q 600 810 610 840 L 600 990 L 550 990 Z'/><circle class='p' data-s='1.2' data-d='0.3' cx='585' cy='880' r='22' fill='#ffd166' stroke='#1d1d1d' stroke-width='5'/><path class='d' data-s='1.4' data-d='0.4' fill='none' stroke='#e63946' stroke-width='9' d='M 660 870 L 760 830 M 670 920 L 790 920 M 660 970 L 760 1010 M 510 870 L 410 830 M 500 920 L 380 920 M 510 970 L 410 1010'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 110,
+          "color": "#e63946",
+          "s": 1.8,
+          "t": {
+            "en": "BREATHE!",
+            "es": "¡RESPIRA!",
+            "fr": "RESPIRE !",
+            "ja": "息をして！"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 6,
+      "caption": {
+        "en": "Soon your *diaphragm*, the breathing muscle under your lungs, starts *twitching* on its own.",
+        "es": "Pronto tu *diafragma*, el músculo que hay bajo los pulmones, empieza a *contraerse* solo.",
+        "fr": "Bientôt, ton *diaphragme*, le muscle sous les poumons, se met à *se contracter* tout seul.",
+        "ja": "やがて肺の下の筋肉「*横隔膜*」が勝手に*ピクピク*動きます。"
+      },
+      "svg": "<path class='p' data-s='0' data-d='0.4' fill='#f4a3a8' stroke='#1d1d1d' stroke-width='9' d='M 510 520 Q 330 520 300 760 Q 290 860 380 860 Q 470 860 510 800 Z'/><path class='p' data-s='0.2' data-d='0.4' fill='#f4a3a8' stroke='#1d1d1d' stroke-width='9' d='M 570 520 Q 750 520 780 760 Q 790 860 700 860 Q 610 860 570 800 Z'/><path class='d' data-s='0' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='12' d='M 540 430 L 540 640 M 540 640 L 500 690 M 540 640 L 580 690'/><path class='d' data-s='0.7' data-d='0.5' fill='none' stroke='#e63946' stroke-width='16' stroke-linecap='round' d='M 250 960 Q 540 780 830 960'/><path class='d' data-s='1.3' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 300 1020 l 20 -30 l 20 30 l 20 -30 M 500 1000 l 20 -30 l 20 30 l 20 -30 M 700 1020 l 20 -30 l 20 30 l 20 -30'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 96,
+          "color": "#e63946",
+          "s": 1.8,
+          "t": {
+            "en": "DIAPHRAGM",
+            "es": "DIAFRAGMA",
+            "fr": "DIAPHRAGME",
+            "ja": "横隔膜"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 6,
+      "caption": {
+        "en": "Your *heart* may also *slow down*, especially with your face in cold water. That's the *diving reflex*.",
+        "es": "Tu *corazón* también puede *ir más lento*, sobre todo con la cara en agua fría. Es el *reflejo de inmersión*.",
+        "fr": "Ton *cœur* peut aussi *ralentir*, surtout le visage dans l'eau froide. C'est le *réflexe d'immersion*.",
+        "ja": "冷たい水に顔をつけると、*心臓*が*ゆっくり*に。これが「*潜水反射*」です。"
+      },
+      "svg": "<path class='p' data-s='0' data-d='0.4' fill='#e63946' stroke='#1d1d1d' stroke-width='8' d='M 540 820 L 400 680 Q 350 620 400 570 Q 460 520 540 600 Q 620 520 680 570 Q 730 620 680 680 Z'/><path class='d' data-s='0.5' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 140 930 L 400 930 l 30 -80 l 40 160 l 30 -80 L 940 930'/><path class='f' data-s='1.0' data-d='0.4' data-o='0.5' fill='#3a86c8' opacity='0' d='M 140 1010 Q 240 980 340 1010 T 540 1010 T 740 1010 T 940 1010 L 940 1100 L 140 1100 Z'/><path class='d' data-s='1.2' data-d='0.4' fill='none' stroke='#3a86c8' stroke-width='8' d='M 140 1010 Q 240 980 340 1010 T 540 1010 T 740 1010 T 940 1010'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 84,
+          "color": "#3a86c8",
+          "s": 1.8,
+          "t": {
+            "en": "DIVING REFLEX",
+            "es": "REFLEJO DE INMERSIÓN",
+            "fr": "RÉFLEXE D'IMMERSION",
+            "ja": "潜水反射"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 6,
+      "caption": {
+        "en": "On dry land, your brain usually *forces* you to take a breath *long before* it gets dangerous.",
+        "es": "En tierra firme, tu cerebro suele *obligarte* a respirar *mucho antes* de que sea peligroso.",
+        "fr": "Sur la terre ferme, ton cerveau te *force* en général à respirer *bien avant* que ça devienne dangereux.",
+        "ja": "陸の上なら、危険になる*ずっと前*に、脳がふつう*強制的に*息をさせます。"
+      },
+      "svg": "<circle class='p' data-s='0' data-d='0.4' cx='460' cy='720' r='160' fill='#ffd166' stroke='#1d1d1d' stroke-width='9'/><path class='d' data-s='0.4' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 390 660 L 390 690 M 530 660 L 530 690'/><ellipse class='p' data-s='0.6' data-d='0.3' cx='460' cy='790' rx='45' ry='55' fill='#7a1f1f' stroke='#1d1d1d' stroke-width='7'/><path class='d' data-s='0.9' data-d='0.5' fill='none' stroke='#3a86c8' stroke-width='12' stroke-linecap='round' d='M 880 700 Q 760 720 640 780 M 900 820 Q 770 820 640 810 M 870 930 Q 760 900 640 840'/><path class='d' data-s='1.5' data-d='0.5' fill='none' stroke='#2a9d8f' stroke-width='26' stroke-linecap='round' d='M 300 1000 L 380 1070 L 520 930'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 110,
+          "color": "#2a9d8f",
+          "s": 1.8,
+          "t": {
+            "en": "GASP!",
+            "es": "¡AIRE!",
+            "fr": "INSPIRE !",
+            "ja": "ぷはっ！"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 7,
+      "caption": {
+        "en": "But *never* breathe fast to prepare, or do breath-holding games *underwater*. You can *black out* without warning and drown.",
+        "es": "Pero *nunca* respires rápido para prepararte ni hagas juegos de aguantar la respiración *bajo el agua*. Puedes *desmayarte* sin aviso y ahogarte.",
+        "fr": "Mais *ne respire jamais vite* pour te préparer, et pas de jeux d'apnée *sous l'eau*. Tu peux *perdre connaissance* sans prévenir et te noyer.",
+        "ja": "でも、止める前の*速い呼吸*や、*水中*の息止めゲームはダメ。突然*気を失い*、おぼれることがあります。"
+      },
+      "svg": "<path class='f' data-s='0' data-d='0.4' data-o='0.45' fill='#3a86c8' opacity='0' d='M 120 620 Q 230 590 340 620 T 560 620 T 780 620 T 960 620 L 960 1080 L 120 1080 Z'/><path class='d' data-s='0' data-d='0.5' fill='none' stroke='#3a86c8' stroke-width='9' d='M 120 620 Q 230 590 340 620 T 560 620 T 780 620 T 960 620'/><circle class='p' data-s='0.5' data-d='0.3' cx='330' cy='860' r='60' fill='#ffd166' stroke='#1d1d1d' stroke-width='8'/><path class='d' data-s='0.7' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 390 870 L 560 900 M 450 880 L 420 960 M 500 890 L 530 960 M 560 900 L 640 870 M 560 900 L 640 940'/><path class='d' data-s='0.9' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='6' d='M 300 845 l 20 20 m 0 -20 l -20 20'/><path class='p' data-s='1.3' data-d='0.4' fill='#ffd166' stroke='#1d1d1d' stroke-width='9' stroke-linejoin='round' d='M 790 370 L 930 595 L 650 595 Z'/><path class='d' data-s='1.6' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='14' stroke-linecap='round' d='M 790 445 L 790 520 M 790 555 L 790 560'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 80,
+          "color": "#e63946",
+          "s": 2.2,
+          "t": {
+            "en": "DANGER IN WATER",
+            "es": "PELIGRO EN EL AGUA",
+            "fr": "DANGER DANS L'EAU",
+            "ja": "水中は危険"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 6.5,
+      "caption": {
+        "en": "If someone *passes out in water*, get them out safely and *call emergency services*. Never swim alone.",
+        "es": "Si alguien *se desmaya en el agua*, sácalo con seguridad y *llama a emergencias*. Nunca nades solo.",
+        "fr": "Si quelqu'un *perd connaissance dans l'eau*, sors-le en sécurité et *appelle les secours*. Ne nage jamais seul.",
+        "ja": "*水中で気を失った人*がいたら、安全に引き上げて*救急車を*。一人で泳がないで。"
+      },
+      "svg": "<circle class='p' data-s='0' data-d='0.4' cx='340' cy='760' r='170' fill='#e63946' stroke='#1d1d1d' stroke-width='9'/><circle class='p' data-s='0.2' data-d='0.3' cx='340' cy='760' r='85' fill='#fbfaf5' stroke='#1d1d1d' stroke-width='9'/><path class='d' data-s='0.5' data-d='0.4' fill='none' stroke='#fbfaf5' stroke-width='34' d='M 340 590 L 340 675 M 340 845 L 340 930 M 170 760 L 255 760 M 425 760 L 510 760'/><path class='p' data-s='0.9' data-d='0.4' fill='#fbfaf5' stroke='#1d1d1d' stroke-width='10' d='M 640 560 L 860 560 Q 890 560 890 590 L 890 960 Q 890 990 860 990 L 640 990 Q 610 990 610 960 L 610 590 Q 610 560 640 560 Z'/><path class='p' data-s='1.3' data-d='0.4' fill='#e63946' d='M 725 680 L 775 680 L 775 750 L 845 750 L 845 800 L 775 800 L 775 870 L 725 870 L 725 800 L 655 800 L 655 750 L 725 750 Z'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 88,
+          "color": "#e63946",
+          "s": 2.0,
+          "t": {
+            "en": "CALL FOR HELP",
+            "es": "PIDE AYUDA",
+            "fr": "APPELLE À L'AIDE",
+            "ja": "助けを呼ぶ"
+          }
+        }
+      ]
+    }
+  ]
+}
