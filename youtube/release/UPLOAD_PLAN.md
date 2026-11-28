@@ -2456,5 +2456,136 @@ Sinon : repos, un adulte reste avec lui les 24 premières heures, du paracétamo
 ```
 - Tags: `脳しんとう, 脳震盪 症状, 頭を打った, 頭部外傷, 危険なサイン, 受診の目安, 脳のけが, 応急手当, 健康, sketch clinic, shorts`
 
+### ep38-eye-floaters — English
+- File: `ep38-eye-floaters/ep38-eye-floaters-en.mp4`
+- Video language: English
+- Subtitles file: `ep38-eye-floaters/ep38-eye-floaters-en.srt` (Subtitles → Add language: English → Upload file → With timing)
+- Title: `What Are Those Things Floating in Your Eye? (They Have a Name) #Shorts`
+- Description:
+```
+Those specks and squiggles are floaters (muscae volitantes): tiny clumps in the eye's vitreous gel casting shadows on the retina.
+Very common, more so with age, and usually harmless.
+A sudden shower of new floaters, flashes of light or a dark curtain? Get eye care the same day.
+Educational only — not medical advice. If you have symptoms, see a healthcare professional.
+
+#floaters #eyes #eyehealth #science #shorts
+```
+- Tags: `eye floaters, floaters in vision, muscae volitantes, vitreous, why do I see floaters, retinal detachment signs, flashes of light, eye health, health facts, sketch clinic`
+
+### ep38-eye-floaters — Spanish  *(Phase 2 — only if the user asks)*
+- File: `ep38-eye-floaters/ep38-eye-floaters-es.mp4`
+- Video language: Spanish
+- Subtitles file: `ep38-eye-floaters/ep38-eye-floaters-es.srt` (Subtitles → Add language: Spanish → Upload file → With timing)
+- Title: `¿Qué son esas manchas que flotan en tus ojos? (Tienen nombre) #Shorts`
+- Description:
+```
+Esos puntitos y hilos son moscas volantes (muscae volitantes): grumos del gel del ojo que proyectan sombras en la retina.
+Son muy comunes, más con la edad, y suelen ser inofensivas.
+¿Una lluvia repentina de manchas, destellos o una cortina oscura? Ve al oftalmólogo ese mismo día.
+Solo con fines educativos, no es consejo médico. Si tienes síntomas, consulta a un profesional de la salud.
+
+#moscasvolantes #ojos #saludvisual #ciencia #shorts
+```
+- Tags: `moscas volantes, manchas en la vista, muscae volitantes, humor vítreo, por qué veo manchas flotantes, desprendimiento de retina, destellos de luz, salud visual, salud, sketch clinic`
+
+### ep38-eye-floaters — French  *(Phase 2 — only if the user asks)*
+- File: `ep38-eye-floaters/ep38-eye-floaters-fr.mp4`
+- Video language: French
+- Subtitles file: `ep38-eye-floaters/ep38-eye-floaters-fr.srt` (Subtitles → Add language: French → Upload file → With timing)
+- Title: `C'est quoi ces taches qui flottent dans tes yeux ? #Shorts`
+- Description:
+```
+Ces points et filaments, ce sont des corps flottants (mouches volantes) : de petits amas dans le vitré qui projettent des ombres sur la rétine.
+Très fréquents, surtout avec l'âge, et généralement bénins.
+Une pluie soudaine de taches, des éclairs ou un rideau sombre ? Consulte un ophtalmo le jour même.
+À but éducatif uniquement, ce n'est pas un avis médical. En cas de symptômes, consulte un professionnel de santé.
+
+#mouchesvolantes #yeux #santé #science #shorts
+```
+- Tags: `mouches volantes, corps flottants, taches dans les yeux, muscae volitantes, vitré, décollement de rétine, éclairs lumineux, santé des yeux, santé, sketch clinic`
+
+### ep38-eye-floaters — Japanese  *(Phase 2 — only if the user asks)*
+- File: `ep38-eye-floaters/ep38-eye-floaters-ja.mp4`
+- Video language: Japanese
+- Subtitles file: `ep38-eye-floaters/ep38-eye-floaters-ja.srt` (Subtitles → Add language: Japanese → Upload file → With timing)
+- Title: `目の前をふわふわ漂うものの正体は？名前は「飛蚊症」 #Shorts`
+- Description:
+```
+視界の点や糸くずは「飛蚊症」。目の中のゼリー（硝子体）の濁りが網膜に影を落としています。
+とてもよくある現象で、年齢とともに増えがち。多くは無害です。
+急に大量に増えた、光が走る、黒い影が覆う時はその日のうちに眼科へ。
+教育目的の情報であり、医療アドバイスではありません。症状がある場合は医療機関を受診してください。
+
+#飛蚊症 #目の健康 #雑学 #健康 #shorts
+```
+- Tags: `飛蚊症, 目の前のふわふわ, 硝子体, 網膜剥離, 網膜裂孔, 光視症, 目の健康, 健康 雑学, 医療 解説, スケッチクリニック`
+
+### ep39-funny-bone — English
+- File: `ep39-funny-bone/ep39-funny-bone-en.mp4`
+- Video language: English
+- Subtitles file: `ep39-funny-bone/ep39-funny-bone-en.srt` (Subtitles → Add language: English → Upload file → With timing)
+- Title: `Why Does Hitting Your Funny Bone Feel So Weird? #Shorts`
+- Description:
+```
+Your funny bone isn't a bone: it's the ulnar nerve, sitting in a shallow groove at the elbow under just skin and fat.
+A bump squeezes it against the bone, so you feel a zap in your ring and little fingers.
+If those fingers often stay numb or tingly, see a doctor.
+Educational only — not medical advice. If you have symptoms, see a healthcare professional.
+
+#funnybone #ulnarnerve #nerves #science #shorts
+```
+- Tags: `funny bone, hit funny bone, why does hitting your funny bone hurt, ulnar nerve, elbow tingling, ring and little finger, humerus, nerves, health facts, sketch clinic`
+
+### ep39-funny-bone — Spanish  *(Phase 2 — only if the user asks)*
+- File: `ep39-funny-bone/ep39-funny-bone-es.mp4`
+- Video language: Spanish
+- Subtitles file: `ep39-funny-bone/ep39-funny-bone-es.srt` (Subtitles → Add language: Spanish → Upload file → With timing)
+- Title: `¿Por qué duele tan raro el «hueso de la risa»? #Shorts`
+- Description:
+```
+El “hueso de la risa” no es un hueso: es el nervio cubital, que pasa por el codo cubierto solo por piel y grasa.
+Un golpe lo aprieta contra el hueso y sientes un calambrazo hasta el anular y el meñique.
+Si esos dedos se quedan dormidos a menudo, consulta al médico.
+Solo con fines educativos, no es consejo médico. Si tienes síntomas, consulta a un profesional de la salud.
+
+#huesodelarisa #nerviocubital #codo #ciencia #shorts
+```
+- Tags: `hueso de la risa, golpe en el codo, calambre en el codo, nervio cubital, hormigueo en los dedos, anular y meñique, húmero, nervios, salud, sketch clinic`
+
+### ep39-funny-bone — French  *(Phase 2 — only if the user asks)*
+- File: `ep39-funny-bone/ep39-funny-bone-fr.mp4`
+- Video language: French
+- Subtitles file: `ep39-funny-bone/ep39-funny-bone-fr.srt` (Subtitles → Add language: French → Upload file → With timing)
+- Title: `Pourquoi un coup au coude fait si bizarre ? (Pas un os !) #Shorts`
+- Description:
+```
+Ce qui fait « zap » n'est pas un os : c'est le nerf ulnaire, juste sous la peau au niveau du coude.
+Un choc l'écrase contre l'os et la décharge file jusqu'à l'annulaire et l'auriculaire.
+Si ces doigts restent souvent engourdis, consulte un médecin.
+À but éducatif uniquement, ce n'est pas un avis médical. En cas de symptômes, consulte un professionnel de santé.
+
+#coude #nerfulnaire #nerfs #science #shorts
+```
+- Tags: `coup au coude, décharge électrique coude, nerf ulnaire, nerf cubital, funny bone, fourmillements doigts, annulaire auriculaire, nerfs, santé, sketch clinic`
+
+### ep39-funny-bone — Japanese  *(Phase 2 — only if the user asks)*
+- File: `ep39-funny-bone/ep39-funny-bone-ja.mp4`
+- Video language: Japanese
+- Subtitles file: `ep39-funny-bone/ep39-funny-bone-ja.srt` (Subtitles → Add language: Japanese → Upload file → With timing)
+- Title: `肘をぶつけるとビリッ！その正体は骨じゃない #Shorts`
+- Description:
+```
+肘のビリッの正体は「尺骨神経」。肘では皮膚と脂肪のすぐ下を通っています。
+ぶつけると神経が骨に押しつけられ、薬指と小指までジーンと響きます。
+小指側のしびれが続く・よく起こる場合は受診を。
+教育目的の情報であり、医療アドバイスではありません。症状がある場合は医療機関を受診してください。
+
+#肘 #尺骨神経 #雑学 #健康 #shorts
+```
+- Tags: `肘 ビリッ, 肘をぶつける, 尺骨神経, 肘 しびれ, 小指 しびれ, funny bone, 神経, 健康 雑学, 医療 解説, スケッチクリニック`
+
+## Not ready yet
+These episodes are still being produced and will be added to this plan later: ep40-seeing-stars, ep41-recorded-voice, ep42-butterflies
+
 ## Step 3 — Report back
 Send the user: channel URL, and a table of episode → video URL (all Public).
