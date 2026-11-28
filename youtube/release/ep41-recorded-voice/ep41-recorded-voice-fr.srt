@@ -1,0 +1,35 @@
+1
+00:00:00,250 --> 00:00:02,895
+Tu t'entends enregistré et tu te dis : « C'est vraiment moi ?
+
+2
+00:00:02,895 --> 00:00:02,938
+»
+
+3
+00:00:05,250 --> 00:00:08,237
+Quand tu parles, ta voix arrive à tes oreilles par deux chemins.
+
+4
+00:00:10,750 --> 00:00:14,078
+1 — Par l'air : le son sort de ta bouche et entre dans tes oreilles.
+
+5
+00:00:16,250 --> 00:00:20,431
+2 — Par les os : les vibrations traversent le crâne jusqu'à l'oreille interne.
+
+6
+00:00:21,750 --> 00:00:26,102
+Les os transmettent bien les sons graves : ta voix te semble plus grave et plus pleine.
+
+7
+00:00:27,750 --> 00:00:32,145
+Un enregistrement ne capte que le son transmis par l'air : celui qu'entendent les autres.
+
+8
+00:00:33,250 --> 00:00:35,677
+L'enregistrement est plus proche de ta vraie voix.
+
+9
+00:00:35,677 --> 00:00:37,133
+Avec le temps, on s'y habitue.

@@ -36,6 +36,6 @@ Covered by ep01-ep20: stroke, heart attack, leg cramps, knuckle cracking, hiccup
 - todo: Why do we get sleepy after lunch?
 - done: ep38-eye-floaters - What are the things floating in your eyes? (floaters; red flags for retinal tear)
 - done: ep39-funny-bone - Why does hitting your funny bone feel so weird? (ulnar nerve)
-- in progress: ep40-seeing-stars - Why do you see stars when you rub your eyes? (phosphenes)
-- in progress: ep41-recorded-voice - Why does your voice sound weird on recordings? (bone conduction)
-- in progress: ep42-butterflies - Why do you get butterflies when nervous? (fight-or-flight, gut-brain)
+- done: ep40-seeing-stars - Why do you see stars when you rub your eyes? (phosphenes)
+- done: ep41-recorded-voice - Why does your voice sound weird on recordings? (bone conduction)
+- done: ep42-butterflies - Why do you get butterflies when nervous? (fight-or-flight, gut-brain)

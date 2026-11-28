@@ -2584,8 +2584,197 @@ Si ces doigts restent souvent engourdis, consulte un médecin.
 ```
 - Tags: `肘 ビリッ, 肘をぶつける, 尺骨神経, 肘 しびれ, 小指 しびれ, funny bone, 神経, 健康 雑学, 医療 解説, スケッチクリニック`
 
-## Not ready yet
-These episodes are still being produced and will be added to this plan later: ep40-seeing-stars, ep41-recorded-voice, ep42-butterflies
+### ep40-seeing-stars — English
+- File: `ep40-seeing-stars/ep40-seeing-stars-en.mp4`
+- Video language: English
+- Subtitles file: `ep40-seeing-stars/ep40-seeing-stars-en.srt` (Subtitles → Add language: English → Upload file → With timing)
+- Title: `Why You See Stars When You Rub Your Eyes (They Have a Name) #Shorts`
+- Description:
+```
+Those sparkles when you rub your eyes have a name: phosphenes.
+Pressure on the eyeball stimulates retinal cells, and your brain reads the signal as light.
+Rub gently. Flashes that appear on their own, with new floaters or a shadow over your vision, need urgent care.
+Educational only — not medical advice. If you have symptoms, see a healthcare professional.
+
+#phosphenes #eyes #science #health #Shorts
+```
+- Tags: `phosphenes, seeing stars, rubbing eyes, why do I see stars, retina, optic nerve, eye facts, flashes of light, floaters, health facts, sketch clinic`
+
+### ep40-seeing-stars — Spanish  *(Phase 2 — only if the user asks)*
+- File: `ep40-seeing-stars/ep40-seeing-stars-es.mp4`
+- Video language: Spanish
+- Subtitles file: `ep40-seeing-stars/ep40-seeing-stars-es.srt` (Subtitles → Add language: Spanish → Upload file → With timing)
+- Title: `¿Por qué ves estrellitas al frotarte los ojos? (Tienen nombre) #Shorts`
+- Description:
+```
+Esos destellos al frotarte los ojos tienen nombre: fosfenos.
+La presión sobre el ojo estimula las células de la retina y el cerebro lo interpreta como luz.
+Frota con suavidad. Si ves destellos sin motivo, nuevas moscas volantes o una sombra en la vista, acude al médico con urgencia.
+Solo con fines educativos: no es consejo médico. Si tienes síntomas, consulta a un profesional de la salud.
+
+#fosfenos #ojos #ciencia #salud #Shorts
+```
+- Tags: `fosfenos, ver estrellitas, frotarse los ojos, por qué veo luces, retina, nervio óptico, destellos de luz, moscas volantes, salud ocular, curiosidades, sketch clinic`
+
+### ep40-seeing-stars — French  *(Phase 2 — only if the user asks)*
+- File: `ep40-seeing-stars/ep40-seeing-stars-fr.mp4`
+- Video language: French
+- Subtitles file: `ep40-seeing-stars/ep40-seeing-stars-fr.srt` (Subtitles → Add language: French → Upload file → With timing)
+- Title: `Pourquoi voit-on des étoiles en se frottant les yeux ? #Shorts`
+- Description:
+```
+Ces étincelles quand on se frotte les yeux ont un nom : les phosphènes.
+La pression sur l'œil stimule les cellules de la rétine, et le cerveau lit ce signal comme de la lumière.
+Frotte doucement. Des éclairs spontanés, de nouveaux corps flottants ou une ombre sur la vue imposent de consulter en urgence.
+À but éducatif uniquement, ce n'est pas un avis médical. En cas de symptômes, consulte un professionnel de santé.
+
+#phosphènes #yeux #science #santé #Shorts
+```
+- Tags: `phosphènes, voir des étoiles, se frotter les yeux, pourquoi je vois des étoiles, rétine, nerf optique, éclairs lumineux, corps flottants, santé des yeux, le saviez-vous, sketch clinic`
+
+### ep40-seeing-stars — Japanese  *(Phase 2 — only if the user asks)*
+- File: `ep40-seeing-stars/ep40-seeing-stars-ja.mp4`
+- Video language: Japanese
+- Subtitles file: `ep40-seeing-stars/ep40-seeing-stars-ja.srt` (Subtitles → Add language: Japanese → Upload file → With timing)
+- Title: `目をこすると光が見えるのはなぜ？名前があります #Shorts`
+- Description:
+```
+目をこすると見えるキラキラには「眼内閃光（フォスフェン）」という名前があります。
+眼球への圧力で網膜の細胞が刺激され、脳がそれを光と判断します。
+こするならやさしく。突然光が走る・飛蚊症が急に増えた・視界に影がある時はすぐ眼科へ。
+教育目的の情報であり、医療アドバイスではありません。症状がある場合は医療機関を受診してください。
+
+#眼内閃光 #目 #雑学 #健康 #Shorts
+```
+- Tags: `眼内閃光, フォスフェン, 目をこする, 目 光が見える, 網膜, 視神経, 光視症, 飛蚊症, 目の雑学, 健康 雑学, sketch clinic`
+
+### ep41-recorded-voice — English
+- File: `ep41-recorded-voice/ep41-recorded-voice-en.mp4`
+- Video language: English
+- Subtitles file: `ep41-recorded-voice/ep41-recorded-voice-en.srt` (Subtitles → Add language: English → Upload file → With timing)
+- Title: `Why Does Your Voice Sound Weird on Recordings? #Shorts`
+- Description:
+```
+When you talk, you hear your voice through the air AND through vibrations in your skull bones.
+Bone conduction boosts low tones, so you sound deeper to yourself. A recording only captures the air version — the voice everyone else hears.
+The more you hear it, the more normal it sounds.
+Educational only — not medical advice. If you have symptoms, see a healthcare professional.
+
+#voice #hearing #science #bodyfacts #Shorts
+```
+- Tags: `recorded voice, why does my voice sound weird, voice on recording, bone conduction, hearing, inner ear, voice confrontation, science facts, body facts, sketch clinic`
+
+### ep41-recorded-voice — Spanish  *(Phase 2 — only if the user asks)*
+- File: `ep41-recorded-voice/ep41-recorded-voice-es.mp4`
+- Video language: Spanish
+- Subtitles file: `ep41-recorded-voice/ep41-recorded-voice-es.srt` (Subtitles → Add language: Spanish → Upload file → With timing)
+- Title: `¿Por qué tu voz suena rara cuando la grabas? #Shorts`
+- Description:
+```
+Al hablar, oyes tu voz por el aire Y por las vibraciones de los huesos del cráneo.
+Los huesos transmiten bien los tonos graves, así que te oyes más grave. La grabación solo capta la versión del aire: la que oyen los demás.
+Cuanto más la escuchas, más normal te suena.
+Solo con fines educativos: no es consejo médico. Si tienes síntomas, consulta a un profesional de la salud.
+
+#voz #oído #ciencia #curiosidades #Shorts
+```
+- Tags: `voz grabada, por qué mi voz suena rara, escuchar mi voz, conducción ósea, oído, oído interno, curiosidades del cuerpo, ciencia, salud, sketch clinic`
+
+### ep41-recorded-voice — French  *(Phase 2 — only if the user asks)*
+- File: `ep41-recorded-voice/ep41-recorded-voice-fr.mp4`
+- Video language: French
+- Subtitles file: `ep41-recorded-voice/ep41-recorded-voice-fr.srt` (Subtitles → Add language: French → Upload file → With timing)
+- Title: `Pourquoi ta voix sonne bizarre quand tu l'enregistres ? #Shorts`
+- Description:
+```
+Quand tu parles, tu entends ta voix par l'air ET par les vibrations des os du crâne.
+Les os transmettent bien les sons graves : ta voix te semble plus grave. L'enregistrement ne capte que le son transmis par l'air, celui qu'entendent les autres.
+Plus tu l'écoutes, plus elle te semble normale.
+À but éducatif uniquement, ce n'est pas un avis médical. En cas de symptômes, consulte un professionnel de santé.
+
+#voix #audition #science #lesaviezvous #Shorts
+```
+- Tags: `voix enregistrée, pourquoi ma voix est bizarre, entendre sa voix, conduction osseuse, audition, oreille interne, le saviez-vous, science, corps humain, sketch clinic`
+
+### ep41-recorded-voice — Japanese  *(Phase 2 — only if the user asks)*
+- File: `ep41-recorded-voice/ep41-recorded-voice-ja.mp4`
+- Video language: Japanese
+- Subtitles file: `ep41-recorded-voice/ep41-recorded-voice-ja.srt` (Subtitles → Add language: Japanese → Upload file → With timing)
+- Title: `録音した自分の声が変に聞こえるのはなぜ？ #Shorts`
+- Description:
+```
+話す時、自分の声は「空気」と「頭の骨の振動（骨伝導）」の2つのルートで耳に届きます。
+骨伝導は低い音を伝えやすいので、自分では低く厚く聞こえます。録音は空気を伝わる声だけ、つまり周りの人が聞いている声です。
+聞くうちに、だんだん慣れていきます。
+教育目的の情報であり、医療アドバイスではありません。症状がある場合は医療機関を受診してください。
+
+#骨伝導 #声 #雑学 #科学 #Shorts
+```
+- Tags: `録音 自分の声, 自分の声 変, 声 違和感, 骨伝導, 聴覚, 内耳, 体の雑学, 科学, 雑学, sketch clinic`
+
+### ep42-butterflies — English
+- File: `ep42-butterflies/ep42-butterflies-en.mp4`
+- Video language: English
+- Subtitles file: `ep42-butterflies/ep42-butterflies-en.srt` (Subtitles → Add language: English → Upload file → With timing)
+- Title: `Why Do You Get Butterflies When You're Nervous? #Shorts`
+- Description:
+```
+Those butterflies are your fight-or-flight response: adrenaline rises and blood is sent away from your gut to your muscles.
+Digestion slows, and your gut's own nerve network — the “second brain,” linked to the brain by the vagus nerve — feels it.
+It's normal and it passes; slow, deep breaths can help. See a doctor if stomach symptoms are frequent or disrupt daily life.
+Educational only — not medical advice. If you have symptoms, see a healthcare professional.
+
+#butterflies #gutbrain #stress #health #Shorts
+```
+- Tags: `butterflies in stomach, nervous stomach, why do I get butterflies, fight or flight, adrenaline, gut brain connection, second brain, vagus nerve, anxiety stomach, body facts, sketch clinic`
+
+### ep42-butterflies — Spanish  *(Phase 2 — only if the user asks)*
+- File: `ep42-butterflies/ep42-butterflies-es.mp4`
+- Video language: Spanish
+- Subtitles file: `ep42-butterflies/ep42-butterflies-es.srt` (Subtitles → Add language: Spanish → Upload file → With timing)
+- Title: `¿Por qué sientes mariposas en el estómago? #Shorts`
+- Description:
+```
+Las mariposas son tu respuesta de lucha o huida: sube la adrenalina y la sangre se desvía del intestino a los músculos.
+La digestión se frena, y la red de nervios del intestino —el “segundo cerebro”, unido al cerebro por el nervio vago— lo nota.
+Es normal y se pasa; respirar lento ayuda. Consulta si las molestias son frecuentes o afectan tu vida diaria.
+Solo con fines educativos: no es consejo médico. Si tienes síntomas, consulta a un profesional de la salud.
+
+#mariposas #estrés #intestino #salud #Shorts
+```
+- Tags: `mariposas en el estómago, nervios en el estómago, por qué siento mariposas, lucha o huida, adrenalina, eje intestino cerebro, segundo cerebro, nervio vago, estrés, salud, sketch clinic`
+
+### ep42-butterflies — French  *(Phase 2 — only if the user asks)*
+- File: `ep42-butterflies/ep42-butterflies-fr.mp4`
+- Video language: French
+- Subtitles file: `ep42-butterflies/ep42-butterflies-fr.srt` (Subtitles → Add language: French → Upload file → With timing)
+- Title: `Pourquoi a-t-on des papillons dans le ventre ? #Shorts`
+- Description:
+```
+Les papillons, c'est la réaction de combat ou fuite : l'adrénaline monte et le sang quitte le ventre pour les muscles.
+La digestion ralentit, et le réseau de nerfs de l'intestin, le « deuxième cerveau » relié au cerveau par le nerf vague, le ressent.
+C'est normal et ça passe ; respirer lentement aide. Consulte si les troubles sont fréquents ou gênent ton quotidien.
+À but éducatif uniquement, ce n'est pas un avis médical. En cas de symptômes, consulte un professionnel de santé.
+
+#papillons #stress #intestin #santé #Shorts
+```
+- Tags: `papillons dans le ventre, ventre noué, stress ventre, combat ou fuite, adrénaline, axe intestin cerveau, deuxième cerveau, nerf vague, trac, santé, sketch clinic`
+
+### ep42-butterflies — Japanese  *(Phase 2 — only if the user asks)*
+- File: `ep42-butterflies/ep42-butterflies-ja.mp4`
+- Video language: Japanese
+- Subtitles file: `ep42-butterflies/ep42-butterflies-ja.srt` (Subtitles → Add language: Japanese → Upload file → With timing)
+- Title: `緊張するとお腹がソワソワするのはなぜ？ #Shorts`
+- Description:
+```
+緊張でお腹がソワソワするのは「闘争・逃走反応」。アドレナリンが出て、血液が胃腸から筋肉へ回されます。
+消化がゆっくりになり、腸の神経網＝「第二の脳」が迷走神経を通じて脳とやりとりします。
+正常な反応で、すぐおさまります。ゆっくり深呼吸を。お腹の症状がしょっちゅう起こり生活に支障が出るなら受診を。
+教育目的の情報であり、医療アドバイスではありません。症状がある場合は医療機関を受診してください。
+
+#緊張 #腸脳相関 #ストレス #雑学 #Shorts
+```
+- Tags: `緊張 お腹, お腹 ソワソワ, 緊張 腹痛, 闘争逃走反応, アドレナリン, 腸脳相関, 第二の脳, 迷走神経, ストレス, 体の雑学, sketch clinic`
 
 ## Step 3 — Report back
 Send the user: channel URL, and a table of episode → video URL (all Public).

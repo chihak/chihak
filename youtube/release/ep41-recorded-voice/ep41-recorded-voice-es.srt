@@ -1,0 +1,31 @@
+1
+00:00:00,250 --> 00:00:03,151
+Oyes tu voz grabada y piensas: “¿De verdad soy yo?”
+
+2
+00:00:05,250 --> 00:00:08,343
+Al hablar, tu voz llega a tus oídos por dos caminos a la vez.
+
+3
+00:00:10,750 --> 00:00:14,313
+1 — Por el aire: el sonido sale de tu boca y entra en tus oídos.
+
+4
+00:00:16,250 --> 00:00:20,495
+2 — Por los huesos: las vibraciones viajan por el cráneo hasta el oído interno.
+
+5
+00:00:21,750 --> 00:00:26,593
+Los huesos transmiten bien los tonos graves: por eso tu voz te suena más grave y llena.
+
+6
+00:00:27,750 --> 00:00:31,803
+Una grabación solo capta la versión del aire: la voz que oyen los demás.
+
+7
+00:00:33,250 --> 00:00:35,615
+La grabación se parece más a tu voz real.
+
+8
+00:00:35,615 --> 00:00:37,346
+Con el tiempo, te acostumbras.
