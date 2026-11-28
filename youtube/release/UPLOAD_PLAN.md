@@ -2840,5 +2840,69 @@ L'eau aide peu car la capsaïcine est huileuse ; le lait ou le yaourt aident. Ap
 ```
 - Tags: `辛いもの, 辛い 理由, カプサイシン, TRPV1, 唐辛子, 辛い 牛乳, エンドルフィン, 激辛, 体の雑学, sketch clinic`
 
+### ep44-hypnic-jerk — English
+- File: `ep44-hypnic-jerk/ep44-hypnic-jerk-en.mp4`
+- Video language: English
+- Subtitles file: `ep44-hypnic-jerk/ep44-hypnic-jerk-en.srt` (Subtitles → Add language: English → Upload file → With timing)
+- Title: `Why Do You Jerk Awake When Falling Asleep? (It Has a Name) #Shorts`
+- Description:
+```
+That sudden jolt as you drift off is called a hypnic jerk, or sleep start, and most people get them now and then.
+As you fall asleep your muscles relax; scientists think the brain may misread that as falling and fire a sudden jolt. Caffeine, stress, being overtired and late workouts make them more likely.
+They're harmless. Less caffeine late in the day and a regular bedtime can help. See a doctor if they keep you from sleeping, happen during the day, or come with tongue biting or confusion.
+Educational only — not medical advice. If you have symptoms, see a healthcare professional.
+
+#hypnicjerk #sleep #bodyfacts #health #Shorts
+```
+- Tags: `hypnic jerk, sleep start, why do I jerk awake, falling feeling sleep, jerking when falling asleep, sleep twitch, sleep facts, body facts, health, sketch clinic`
+
+### ep44-hypnic-jerk — Spanish  *(Phase 2 — only if the user asks)*
+- File: `ep44-hypnic-jerk/ep44-hypnic-jerk-es.mp4`
+- Video language: Spanish
+- Subtitles file: `ep44-hypnic-jerk/ep44-hypnic-jerk-es.srt` (Subtitles → Add language: Spanish → Upload file → With timing)
+- Title: `¿Por qué das un sacudón al dormirte? (Tiene nombre) #Shorts`
+- Description:
+```
+Ese sacudón justo al quedarte dormido se llama sacudida hípnica o mioclonía del sueño, y a casi todos nos pasa a veces.
+Al dormirte, tus músculos se relajan; los científicos creen que el cerebro puede confundirlo con una caída y lanza una sacudida. La cafeína, el estrés, el cansancio y el ejercicio por la noche las hacen más probables.
+Son inofensivas. Menos cafeína por la tarde y un horario fijo para dormir pueden ayudar. Consulta al médico si no te dejan dormir, ocurren de día o vienen con mordedura de lengua o confusión.
+Solo con fines educativos: no es consejo médico. Si tienes síntomas, consulta a un profesional de la salud.
+
+#sueño #sacudidahipnica #cuerpohumano #salud #Shorts
+```
+- Tags: `sacudida hípnica, mioclonía del sueño, por qué me sacudo al dormir, sensación de caída al dormir, espasmo al dormir, sueño, curiosidades del cuerpo, salud, dormir, sketch clinic`
+
+### ep44-hypnic-jerk — French  *(Phase 2 — only if the user asks)*
+- File: `ep44-hypnic-jerk/ep44-hypnic-jerk-fr.mp4`
+- Video language: French
+- Subtitles file: `ep44-hypnic-jerk/ep44-hypnic-jerk-fr.srt` (Subtitles → Add language: French → Upload file → With timing)
+- Title: `Pourquoi on sursaute en s'endormant ? (Ça a un nom) #Shorts`
+- Description:
+```
+Ce sursaut au moment de s'endormir s'appelle une secousse hypnique, ou sursaut d'endormissement, et presque tout le monde en a parfois.
+Quand tu t'endors, tes muscles se relâchent ; les scientifiques pensent que le cerveau peut prendre ça pour une chute et déclenche une secousse. La caféine, le stress, la fatigue et le sport tard le soir les rendent plus fréquentes.
+C'est sans danger. Moins de caféine l'après-midi et un coucher régulier peuvent aider. Consulte un médecin si elles t'empêchent de dormir, arrivent en journée, ou avec morsure de langue ou confusion.
+À but éducatif uniquement, ce n'est pas un avis médical. En cas de symptômes, consulte un professionnel de santé.
+
+#sommeil #secoussehypnique #corpshumain #santé #Shorts
+```
+- Tags: `secousse hypnique, sursaut d'endormissement, pourquoi je sursaute en m'endormant, sensation de chute, myoclonie d'endormissement, sommeil, corps humain, santé, dormir, sketch clinic`
+
+### ep44-hypnic-jerk — Japanese  *(Phase 2 — only if the user asks)*
+- File: `ep44-hypnic-jerk/ep44-hypnic-jerk-ja.mp4`
+- Video language: Japanese
+- Subtitles file: `ep44-hypnic-jerk/ep44-hypnic-jerk-ja.srt` (Subtitles → Add language: Japanese → Upload file → With timing)
+- Title: `寝る瞬間ビクッとするのはなぜ？（名前があります） #Shorts`
+- Description:
+```
+眠りに落ちる瞬間のビクッは「ジャーキング」（入眠時ミオクローヌス）。多くの人が経験します。
+眠りに入ると筋肉がゆるみ、脳がそれを「落ちている」と勘違いして体をビクッとさせるという説があります。カフェイン、ストレス、寝不足、夜遅くの運動で起こりやすくなります。
+無害なので心配はいりません。夕方からのカフェインを控え、寝る時間をそろえると良いでしょう。眠れないほど続く、日中にも起こる、舌をかむ・意識が混乱する場合は受診を。
+教育目的の情報であり、医療アドバイスではありません。症状がある場合は医療機関を受診してください。
+
+#ジャーキング #睡眠 #体の雑学 #健康 #Shorts
+```
+- Tags: `ジャーキング, 入眠時ミオクローヌス, 寝る時 ビクッ, 寝る瞬間 びくっとする, 落ちる感覚, 睡眠, 体の雑学, 健康, 睡眠の豆知識, sketch clinic`
+
 ## Step 3 — Report back
 Send the user: channel URL, and a table of episode → video URL (all Public).

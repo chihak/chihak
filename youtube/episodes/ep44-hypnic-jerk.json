@@ -1,0 +1,187 @@
+{
+  "id": "ep44-hypnic-jerk",
+  "title": {
+    "en": "Why Do You *Jerk Awake* Falling Asleep?",
+    "es": "¿Por qué das un *sacudón* al dormirte?",
+    "fr": "Pourquoi on *sursaute* en s'endormant ?",
+    "ja": "寝る瞬間*ビクッ*とするのはなぜ？"
+  },
+  "coverTime": 4.5,
+  "scenes": [
+    {
+      "dur": 5,
+      "caption": {
+        "en": "You're drifting off to sleep… then *JOLT!* Your whole body jerks awake.",
+        "es": "Te estás quedando dormido… y de repente, *¡ZAS!* Todo tu cuerpo se sacude.",
+        "fr": "Tu t'endors doucement… et soudain, *SURSAUT !* Tout ton corps se réveille d'un coup.",
+        "ja": "ウトウトしていたら…*ビクッ！*体が急に動いて目が覚める。"
+      },
+      "svg": "<path class='d' data-s='0' data-d='0.7' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 150 940 L 930 940 M 170 940 L 170 1010 M 910 940 L 910 1010 M 150 945 L 150 780'/><path class='p' data-s='0.5' data-d='0.3' fill='#fbfaf5' stroke='#1d1d1d' stroke-width='7' d='M 175 860 Q 175 815 230 815 L 340 815 Q 390 815 390 860 Q 390 900 340 900 L 230 900 Q 175 900 175 860 Z'/><path class='f' data-s='0.8' data-d='0.4' data-o='0.55' fill='#3a86c8' opacity='0' d='M 370 850 Q 620 780 910 840 L 910 940 L 370 940 Z'/><path class='d' data-s='0.6' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 370 850 Q 620 780 910 840 L 910 940 L 370 940 Z'/><circle class='p' data-s='1.0' data-d='0.3' cx='300' cy='790' r='62' fill='#ffd166' stroke='#1d1d1d' stroke-width='8'/><circle class='p' data-s='1.6' data-d='0.2' cx='280' cy='780' r='9' fill='#1d1d1d'/><circle class='p' data-s='1.6' data-d='0.2' cx='322' cy='780' r='9' fill='#1d1d1d'/><circle class='p' data-s='1.7' data-d='0.2' cx='301' cy='818' r='11' fill='#1d1d1d'/><path class='d' data-s='1.6' data-d='0.3' fill='none' stroke='#e63946' stroke-width='9' d='M 220 690 l 15 -40 l 15 30 l 15 -40 M 330 680 l 15 -40 l 15 30 l 15 -40 M 520 740 l 20 -50 l 20 40 l 20 -50 M 720 750 l 20 -50 l 20 40 l 20 -50'/><path class='d' data-s='1.2' data-d='0.3' fill='none' stroke='#3a86c8' stroke-width='7' d='M 560 560 L 610 560 L 560 610 L 610 610 M 650 500 L 685 500 L 650 535 L 685 535'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 110,
+          "color": "#e63946",
+          "s": 1.8,
+          "t": {
+            "en": "JOLT!",
+            "es": "¡ZAS!",
+            "fr": "SURSAUT !",
+            "ja": "ビクッ！"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 6,
+      "caption": {
+        "en": "It has a name: a *hypnic jerk*, or *sleep start*. Most people get them now and then.",
+        "es": "Tiene nombre: *sacudida hípnica* o *mioclonía del sueño*. A casi todos nos pasa a veces.",
+        "fr": "Ça a un nom : la *secousse hypnique*, ou *sursaut d'endormissement*. Presque tout le monde en a parfois.",
+        "ja": "名前があります。「*ジャーキング*」、または入眠時ミオクローヌス。多くの人が経験します。"
+      },
+      "svg": "<path class='f' data-s='0.6' data-d='0.4' data-o='1' fill='#ffd166' opacity='0' d='M 600 470 L 430 780 L 540 780 L 470 1010 L 690 670 L 570 670 L 650 470 Z'/><path class='d' data-s='0' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 600 470 L 430 780 L 540 780 L 470 1010 L 690 670 L 570 670 L 650 470 Z'/><path class='d' data-s='1.0' data-d='0.4' fill='none' stroke='#3a86c8' stroke-width='9' d='M 220 560 L 300 560 L 220 640 L 300 640 M 300 470 L 350 470 L 300 520 L 350 520'/><path class='d' data-s='1.3' data-d='0.4' fill='none' stroke='#e63946' stroke-width='8' d='M 760 600 L 840 560 M 770 700 L 870 700 M 760 800 L 840 840'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 90,
+          "color": "#e63946",
+          "s": 1.6,
+          "t": {
+            "en": "HYPNIC JERK",
+            "es": "SACUDIDA HÍPNICA",
+            "fr": "SECOUSSE HYPNIQUE",
+            "ja": "ジャーキング"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 5.5,
+      "caption": {
+        "en": "As you fall asleep, your *muscles relax* and your brain shifts into *sleep mode*.",
+        "es": "Al dormirte, tus *músculos se relajan* y tu cerebro entra en *modo sueño*.",
+        "fr": "Quand tu t'endors, tes *muscles se relâchent* et ton cerveau passe en *mode sommeil*.",
+        "ja": "眠りに落ちるとき、*筋肉がゆるみ*、脳は*睡眠モード*へ切り替わります。"
+      },
+      "svg": "<g transform='translate(820 560)'><path class='p' data-s='0.2' data-d='0.4' fill='#ffd166' stroke='#1d1d1d' stroke-width='6' d='M 0 -70 A 70 70 0 1 0 60 35 A 55 55 0 1 1 0 -70 Z'/></g><path class='d' data-s='0.4' data-d='1.4' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 130 820 l 25 -60 l 25 120 l 25 -120 l 25 120 l 25 -120 l 25 60 Q 360 700 440 820 T 600 820 T 760 820 T 920 820'/><path class='d' data-s='1.4' data-d='0.4' fill='none' stroke='#3a86c8' stroke-width='10' d='M 540 900 L 540 1040 M 500 1000 L 540 1045 L 580 1000'/><path class='d' data-s='1.8' data-d='0.3' fill='none' stroke='#3a86c8' stroke-width='7' d='M 230 560 L 280 560 L 230 610 L 280 610'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 96,
+          "color": "#e63946",
+          "s": 2.0,
+          "t": {
+            "en": "RELAX…",
+            "es": "RELAJACIÓN…",
+            "fr": "DÉTENTE…",
+            "ja": "力が抜ける…"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 6,
+      "caption": {
+        "en": "Scientists think the brain may misread that relaxing as *falling*, and fires a sudden jolt.",
+        "es": "Los científicos creen que el cerebro puede confundir esa relajación con una *caída* y lanza una sacudida.",
+        "fr": "Les scientifiques pensent que le cerveau peut prendre ce relâchement pour une *chute*, et déclenche une secousse.",
+        "ja": "脳がこのゆるみを「*落ちている*」と勘違いして、体をビクッとさせるという説があります。"
+      },
+      "svg": "<circle class='p' data-s='0.2' data-d='0.3' cx='540' cy='600' r='55' fill='#ffd166' stroke='#1d1d1d' stroke-width='8'/><path class='d' data-s='0.5' data-d='0.7' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 540 655 L 540 820 M 540 700 L 440 610 M 540 700 L 640 610 M 540 820 L 470 920 M 540 820 L 620 900'/><path class='d' data-s='1.1' data-d='0.5' fill='none' stroke='#3a86c8' stroke-width='10' d='M 290 540 L 290 900 M 250 860 L 290 905 L 330 860 M 790 540 L 790 900 M 750 860 L 790 905 L 830 860'/><path class='d' data-s='1.7' data-d='0.3' fill='none' stroke='#e63946' stroke-width='10' d='M 660 500 l -35 55 l 30 0 l -35 55'/><path class='d' data-s='1.9' data-d='0.3' fill='none' stroke='#e63946' stroke-width='8' d='M 400 990 l 15 -40 l 15 30 l 15 -40 M 620 990 l 15 -40 l 15 30 l 15 -40'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 96,
+          "color": "#e63946",
+          "s": 2.0,
+          "t": {
+            "en": "FALLING?!",
+            "es": "¿CAYENDO?",
+            "fr": "CHUTE ?!",
+            "ja": "落ちてる!?"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 5.5,
+      "caption": {
+        "en": "They're more likely with *caffeine*, *stress*, being *overtired*, or a *late workout*.",
+        "es": "Son más frecuentes con *cafeína*, *estrés*, *cansancio* o *ejercicio* por la noche.",
+        "fr": "C'est plus fréquent avec la *caféine*, le *stress*, la *fatigue* ou le *sport* tard le soir.",
+        "ja": "*カフェイン*、*ストレス*、*寝不足*、夜遅くの*運動*で起こりやすくなります。"
+      },
+      "svg": "<path class='p' data-s='0.1' data-d='0.3' fill='#fbfaf5' stroke='#1d1d1d' stroke-width='8' d='M 270 570 L 410 570 L 395 690 L 285 690 Z'/><path class='d' data-s='0.3' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 410 595 Q 455 600 450 630 Q 445 660 402 655 M 315 540 q -15 -25 0 -50 M 360 540 q -15 -25 0 -50'/><path class='f' data-s='0.8' data-d='0.4' data-o='0.35' fill='#3a86c8' opacity='0' d='M 660 660 Q 630 660 635 625 Q 640 590 680 595 Q 690 555 735 560 Q 775 555 790 590 Q 835 590 835 625 Q 835 660 800 660 Z'/><path class='d' data-s='0.6' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 660 660 Q 630 660 635 625 Q 640 590 680 595 Q 690 555 735 560 Q 775 555 790 590 Q 835 590 835 625 Q 835 660 800 660 Z'/><path class='d' data-s='1.0' data-d='0.3' fill='none' stroke='#e63946' stroke-width='9' d='M 740 675 l -20 40 l 25 0 l -20 40'/><circle class='p' data-s='1.2' data-d='0.3' cx='340' cy='910' r='78' fill='#ffd166' stroke='#1d1d1d' stroke-width='8'/><path class='d' data-s='1.4' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='7' d='M 298 895 L 328 895 M 352 895 L 382 895 M 300 918 Q 313 928 326 918 M 354 918 Q 367 928 380 918 M 315 960 Q 340 950 365 960'/><path class='d' data-s='1.7' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='16' d='M 660 910 L 830 910'/><path class='p' data-s='1.9' data-d='0.3' fill='#e63946' stroke='#1d1d1d' stroke-width='6' d='M 640 860 L 672 860 L 672 960 L 640 960 Z'/><path class='p' data-s='2.0' data-d='0.3' fill='#e63946' stroke='#1d1d1d' stroke-width='6' d='M 818 860 L 850 860 L 850 960 L 818 960 Z'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 96,
+          "color": "#e63946",
+          "s": 2.2,
+          "t": {
+            "en": "TRIGGERS",
+            "es": "DETONANTES",
+            "fr": "DÉCLENCHEURS",
+            "ja": "起こりやすい時"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 5.5,
+      "caption": {
+        "en": "They're *harmless*. Less caffeine late in the day and a *regular bedtime* can help.",
+        "es": "Son *inofensivas*. Menos cafeína por la tarde y un *horario fijo* para dormir pueden ayudar.",
+        "fr": "C'est *sans danger*. Moins de caféine l'après-midi et un *coucher régulier* peuvent aider.",
+        "ja": "ジャーキングは*無害*です。夕方からのカフェインを控え、*寝る時間をそろえる*と良いでしょう。"
+      },
+      "svg": "<g transform='translate(250 560)'><path class='p' data-s='0.2' data-d='0.4' fill='#ffd166' stroke='#1d1d1d' stroke-width='6' d='M 0 -70 A 70 70 0 1 0 60 35 A 55 55 0 1 1 0 -70 Z'/></g><path class='d' data-s='0.5' data-d='0.7' fill='none' stroke='#2a9d8f' stroke-width='34' stroke-linecap='round' d='M 340 800 L 480 940 L 770 600'/><path class='d' data-s='1.4' data-d='0.3' fill='none' stroke='#3a86c8' stroke-width='8' d='M 760 900 L 820 900 L 760 960 L 820 960 M 850 830 L 890 830 L 850 870 L 890 870'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 96,
+          "color": "#2a9d8f",
+          "s": 1.6,
+          "t": {
+            "en": "HARMLESS",
+            "es": "INOFENSIVO",
+            "fr": "SANS DANGER",
+            "ja": "心配なし"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 6.5,
+      "caption": {
+        "en": "See a doctor if jerks *keep you from sleeping*, happen *during the day*, or come with *tongue biting* or *confusion*.",
+        "es": "Consulta al médico si no te dejan *dormir*, ocurren *de día* o vienen con *mordedura de lengua* o *confusión*.",
+        "fr": "Consulte un médecin si elles t'empêchent de *dormir*, arrivent *en journée*, ou avec *morsure de langue* ou *confusion*.",
+        "ja": "*眠れない*ほど続く、*日中*にも起こる、*舌をかむ*・*意識が混乱する*といった場合は受診を。"
+      },
+      "svg": "<path class='d' data-s='0' data-d='0.7' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 170 560 L 470 560 L 470 930 L 170 930 Z M 170 640 L 470 640 M 240 530 L 240 590 M 400 530 L 400 590'/><circle class='p' data-s='0.7' data-d='0.2' cx='215' cy='700' r='18' fill='#e63946'/><circle class='p' data-s='0.8' data-d='0.2' cx='285' cy='700' r='18' fill='#e63946'/><circle class='p' data-s='0.9' data-d='0.2' cx='355' cy='700' r='18' fill='#e63946'/><circle class='p' data-s='1.0' data-d='0.2' cx='425' cy='700' r='18' fill='#e63946'/><circle class='p' data-s='1.1' data-d='0.2' cx='215' cy='780' r='18' fill='#e63946'/><circle class='p' data-s='1.2' data-d='0.2' cx='285' cy='780' r='18' fill='#e63946'/><circle class='p' data-s='1.3' data-d='0.2' cx='355' cy='780' r='18' fill='#e63946'/><circle class='p' data-s='1.4' data-d='0.2' cx='425' cy='780' r='18' fill='#e63946'/><path class='d' data-s='1.4' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 600 560 L 910 560 L 910 930 L 600 930 Z'/><path class='p' data-s='1.9' data-d='0.4' fill='#e63946' d='M 725 620 L 785 620 L 785 715 L 880 715 L 880 775 L 785 775 L 785 870 L 725 870 L 725 775 L 630 775 L 630 715 L 725 715 Z'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 96,
+          "color": "#e63946",
+          "s": 2.2,
+          "t": {
+            "en": "SEE A DOCTOR",
+            "es": "VE AL MÉDICO",
+            "fr": "CONSULTE",
+            "ja": "受診を"
+          }
+        }
+      ]
+    }
+  ]
+}
