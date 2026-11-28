@@ -1,0 +1,212 @@
+{
+  "id": "ep49-no-sleep",
+  "title": {
+    "en": "What Really Happens When You *Don't Sleep*?",
+    "es": "¿Qué pasa realmente si *no duermes*?",
+    "fr": "Que se passe-t-il vraiment si tu *ne dors pas* ?",
+    "ja": "*一晩寝ない*と体で何が起きる？"
+  },
+  "coverTime": 4.5,
+  "scenes": [
+    {
+      "dur": 5,
+      "caption": {
+        "en": "Up *all night*? Here's what really happens to your body after *one sleepless night*.",
+        "es": "¿Toda la *noche sin dormir*? Esto es lo que pasa en tu cuerpo tras *una noche en vela*.",
+        "fr": "Une *nuit blanche* ? Voici ce qui se passe vraiment dans ton corps après *une nuit sans dormir*.",
+        "ja": "*一晩寝ない*と、体では本当に何が起きる？"
+      },
+      "svg": "<path class='p' data-s='0' data-d='0.4' fill='#ffd166' stroke='#1d1d1d' stroke-width='8' d='M 840 400 A 110 110 0 1 0 930 560 A 90 90 0 1 1 840 400 Z'/><circle class='p' data-s='0.4' data-d='0.4' cx='440' cy='760' r='170' fill='#ffd166' stroke='#1d1d1d' stroke-width='9'/><path class='d' data-s='0.8' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 350 710 L 410 710 M 470 710 L 530 710 M 400 830 Q 440 810 480 830'/><path class='d' data-s='1.0' data-d='0.4' fill='none' stroke='#8d99ae' stroke-width='7' d='M 345 740 Q 380 765 415 740 M 465 740 Q 500 765 535 740'/><circle class='p' data-s='1.2' data-d='0.4' cx='800' cy='840' r='120' fill='#fbfaf5' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='1.5' data-d='0.5' fill='none' stroke='#e63946' stroke-width='10' stroke-linecap='round' d='M 800 840 L 800 750 M 800 840 L 860 870'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 110,
+          "color": "#e63946",
+          "s": 1.8,
+          "t": {
+            "en": "NO SLEEP",
+            "es": "SIN DORMIR",
+            "fr": "NUIT BLANCHE",
+            "ja": "徹夜"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 6,
+      "caption": {
+        "en": "Sleep is when your brain *stores memories*, and scientists think it also *clears out waste*. Skip it, and *focus* and *memory* slip.",
+        "es": "Al dormir, el cerebro *guarda recuerdos*, y los científicos creen que también *limpia desechos*. Sin sueño, fallan la *concentración* y la *memoria*.",
+        "fr": "Pendant le sommeil, le cerveau *range les souvenirs*, et les scientifiques pensent qu'il *élimine des déchets*. Sans sommeil, *concentration* et *mémoire* flanchent.",
+        "ja": "睡眠中、脳は*記憶を整理*し、*老廃物を掃除*するとも。寝ないと*集中力*が落ちます。"
+      },
+      "svg": "<path class='p' data-s='0' data-d='0.5' fill='#f4a3a8' stroke='#1d1d1d' stroke-width='9' d='M 330 820 Q 260 560 480 520 Q 680 480 770 620 Q 830 740 740 820 Q 660 870 540 850 Q 420 870 330 820 Z'/><path class='d' data-s='0.4' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='6' d='M 410 640 Q 460 600 510 650 Q 560 600 620 650 M 440 750 Q 520 710 610 760'/><path class='p' data-s='0.9' data-d='0.3' fill='#3a86c8' stroke='#1d1d1d' stroke-width='6' d='M 200 950 L 300 950 L 300 1030 L 200 1030 Z'/><path class='p' data-s='1.0' data-d='0.3' fill='#2a9d8f' stroke='#1d1d1d' stroke-width='6' d='M 330 950 L 430 950 L 430 1030 L 330 1030 Z'/><path class='d' data-s='1.2' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 780 1040 L 880 900 M 750 1040 L 830 1040 L 810 1090 L 730 1090 Z'/><circle class='p' data-s='1.4' data-d='0.2' cx='660' cy='1060' r='14' fill='#8d99ae'/><circle class='p' data-s='1.5' data-d='0.2' cx='620' cy='1040' r='10' fill='#8d99ae'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 84,
+          "color": "#3a86c8",
+          "s": 1.8,
+          "t": {
+            "en": "BRAIN CLEAN-UP",
+            "es": "LIMPIEZA CEREBRAL",
+            "fr": "GRAND MÉNAGE",
+            "ja": "脳のおそうじ"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 6,
+      "caption": {
+        "en": "After about *17 hours awake*, studies show your *reactions* can be about as slow as after *drinking alcohol*.",
+        "es": "Tras unas *17 horas despierto*, los estudios muestran que tus *reflejos* pueden ser tan lentos como tras *beber alcohol*.",
+        "fr": "Après environ *17 heures éveillé*, des études montrent que tes *réflexes* peuvent être aussi lents qu'après *avoir bu de l'alcool*.",
+        "ja": "*17時間ほど起きている*と、*反応*は*お酒を飲んだ*ときと同じくらい遅くなることがあります。"
+      },
+      "svg": "<circle class='p' data-s='0' data-d='0.4' cx='340' cy='780' r='170' fill='#fbfaf5' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='0' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='12' d='M 340 610 L 340 570 M 310 565 L 370 565'/><path class='d' data-s='0.5' data-d='0.6' fill='none' stroke='#e63946' stroke-width='10' stroke-linecap='round' d='M 340 780 L 340 670 M 340 780 L 420 820'/><path class='d' data-s='1.0' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 640 600 L 860 600 Q 860 760 750 780 L 750 960 M 670 960 L 830 960'/><path class='f' data-s='1.3' data-d='0.4' data-o='0.6' fill='#c0392b' opacity='0' d='M 655 660 L 845 660 Q 835 760 750 770 Q 665 760 655 660 Z'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 84,
+          "color": "#e63946",
+          "s": 1.8,
+          "t": {
+            "en": "SLOW REACTIONS",
+            "es": "REFLEJOS LENTOS",
+            "fr": "RÉFLEXES LENTS",
+            "ja": "反応が遅い"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 6,
+      "caption": {
+        "en": "Your brain may slip into *microsleeps*: a few seconds of sleep you don't even notice. That's why *drowsy driving* is so dangerous.",
+        "es": "Tu cerebro puede caer en *microsueños*: segundos de sueño que ni notas. Por eso *conducir con sueño* es tan peligroso.",
+        "fr": "Ton cerveau peut tomber en *micro-sommeil* : quelques secondes de sommeil sans t'en rendre compte. D'où le danger de *conduire fatigué*.",
+        "ja": "数秒だけ眠る「*マイクロスリープ*」に気づかないことも。*眠気運転*は危険です。"
+      },
+      "svg": "<circle class='p' data-s='0' data-d='0.4' cx='540' cy='780' r='230' fill='#fbfaf5' stroke='#1d1d1d' stroke-width='14'/><circle class='p' data-s='0.2' data-d='0.3' cx='540' cy='780' r='55' fill='#8d99ae' stroke='#1d1d1d' stroke-width='8'/><path class='d' data-s='0.4' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='14' d='M 320 760 L 485 770 M 595 770 L 760 760 M 540 835 L 540 1005'/><path class='d' data-s='1.0' data-d='0.5' fill='none' stroke='#3a86c8' stroke-width='10' stroke-linejoin='round' d='M 760 420 L 840 420 L 760 500 L 840 500 M 870 360 L 920 360 L 870 410 L 920 410'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 90,
+          "color": "#3a86c8",
+          "s": 1.8,
+          "t": {
+            "en": "MICROSLEEP",
+            "es": "MICROSUEÑO",
+            "fr": "MICRO-SOMMEIL",
+            "ja": "マイクロスリープ"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 6,
+      "caption": {
+        "en": "Your *hunger hormones* shift too, so you tend to crave *sugary, fatty snacks* the next day.",
+        "es": "Tus *hormonas del hambre* también cambian, así que al día siguiente sueles querer *dulces y comida grasa*.",
+        "fr": "Tes *hormones de la faim* changent aussi : le lendemain, tu as souvent envie de *sucré et de gras*.",
+        "ja": "*食欲ホルモン*も乱れ、翌日は*甘いものや脂っこいもの*が欲しくなりがちです。"
+      },
+      "svg": "<circle class='p' data-s='0' data-d='0.4' cx='360' cy='760' r='160' fill='#e9a15b' stroke='#1d1d1d' stroke-width='9'/><circle class='p' data-s='0.3' data-d='0.3' cx='360' cy='760' r='55' fill='#fbfaf5' stroke='#1d1d1d' stroke-width='8'/><path class='d' data-s='0.6' data-d='0.4' fill='none' stroke='#e63946' stroke-width='10' stroke-linecap='round' d='M 260 690 l 20 -10 M 420 650 l 15 15 M 460 780 l 15 -15 M 290 850 l 20 5 M 400 870 l 10 -15'/><path class='p' data-s='0.9' data-d='0.4' fill='#ffd166' stroke='#1d1d1d' stroke-width='9' d='M 640 700 Q 760 580 880 700 Z'/><path class='p' data-s='1.1' data-d='0.3' fill='#7a3b1f' stroke='#1d1d1d' stroke-width='8' d='M 630 720 L 890 720 L 890 770 L 630 770 Z'/><path class='p' data-s='1.3' data-d='0.3' fill='#ffd166' stroke='#1d1d1d' stroke-width='9' d='M 630 790 L 890 790 Q 890 850 760 850 Q 630 850 630 790 Z'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 100,
+          "color": "#e9a15b",
+          "s": 1.8,
+          "t": {
+            "en": "CRAVINGS",
+            "es": "ANTOJOS",
+            "fr": "FRINGALES",
+            "ja": "食べすぎ注意"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 6,
+      "caption": {
+        "en": "Emotions get *harder to control*. You may feel more *irritable*, anxious or low than usual.",
+        "es": "Las emociones se vuelven *más difíciles de controlar*. Puedes estar más *irritable*, ansioso o decaído.",
+        "fr": "Les émotions deviennent *plus dures à gérer*. Tu peux être plus *irritable*, anxieux ou déprimé que d'habitude.",
+        "ja": "感情の*コントロールが難しく*なり、いつもより*イライラ*したり不安になったりします。"
+      },
+      "svg": "<path class='p' data-s='0' data-d='0.5' fill='#8d99ae' stroke='#1d1d1d' stroke-width='9' d='M 330 560 Q 330 460 440 470 Q 490 390 590 430 Q 700 400 730 500 Q 820 520 790 600 L 340 600 Q 290 590 330 560 Z'/><path class='d' data-s='0.4' data-d='0.3' fill='none' stroke='#ffd166' stroke-width='12' stroke-linejoin='round' d='M 560 600 L 520 660 L 570 660 L 530 730'/><circle class='p' data-s='0.6' data-d='0.4' cx='540' cy='880' r='150' fill='#ffd166' stroke='#1d1d1d' stroke-width='9'/><path class='d' data-s='1.0' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 450 820 L 510 845 M 630 820 L 570 845 M 480 950 Q 540 910 600 950'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 110,
+          "color": "#e63946",
+          "s": 1.8,
+          "t": {
+            "en": "GRUMPY",
+            "es": "DE MAL HUMOR",
+            "fr": "GROGNON",
+            "ja": "イライラ"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 6.5,
+      "caption": {
+        "en": "Good news: for most people, *one bad night* isn't harmful long term. A good night's sleep helps you *bounce back*.",
+        "es": "Buena noticia: para la mayoría, *una mala noche* no hace daño a largo plazo. Dormir bien después te ayuda a *recuperarte*.",
+        "fr": "Bonne nouvelle : pour la plupart des gens, *une mauvaise nuit* n'est pas grave à long terme. Bien dormir ensuite aide à *récupérer*.",
+        "ja": "安心して：*一晩の徹夜*なら多くの人は大丈夫。しっかり眠れば*回復*します。"
+      },
+      "svg": "<path class='p' data-s='0' data-d='0.4' fill='#3a86c8' stroke='#1d1d1d' stroke-width='9' d='M 200 820 L 880 820 L 880 920 L 200 920 Z'/><path class='p' data-s='0.2' data-d='0.4' fill='#fbfaf5' stroke='#1d1d1d' stroke-width='8' d='M 220 760 Q 220 720 270 720 L 400 720 Q 440 720 440 760 L 440 820 L 220 820 Z'/><path class='d' data-s='0.3' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 200 700 L 200 1010 M 880 820 L 880 1010'/><path class='p' data-s='0.6' data-d='0.4' fill='#2a9d8f' stroke='#1d1d1d' stroke-width='8' d='M 420 760 Q 650 700 880 760 L 880 820 L 420 820 Z'/><circle class='p' data-s='1.0' data-d='0.4' cx='800' cy='520' r='80' fill='#ffd166' stroke='#1d1d1d' stroke-width='8'/><path class='d' data-s='1.3' data-d='0.4' fill='none' stroke='#ffd166' stroke-width='10' stroke-linecap='round' d='M 800 410 L 800 380 M 690 520 L 660 520 M 910 520 L 940 520 M 725 445 L 700 420 M 875 445 L 900 420'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 84,
+          "color": "#2a9d8f",
+          "s": 1.8,
+          "t": {
+            "en": "SLEEP IT OFF",
+            "es": "DUERME Y RECUPERA",
+            "fr": "RATTRAPE-TOI",
+            "ja": "しっかり寝よう"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 6.5,
+      "caption": {
+        "en": "Adults need about *7 to 9 hours*. If you often *can't sleep* or feel *exhausted for weeks*, talk to a *doctor*.",
+        "es": "Los adultos necesitan unas *7 a 9 horas*. Si a menudo *no puedes dormir* o estás *agotado durante semanas*, consulta a un *médico*.",
+        "fr": "Un adulte a besoin d'environ *7 à 9 heures*. Si tu *dors mal* souvent ou es *épuisé depuis des semaines*, parles-en à un *médecin*.",
+        "ja": "大人は*7〜9時間*の睡眠を。*眠れない*日が多い、*疲れが何週間も続く*なら*医師に相談*を。"
+      },
+      "svg": "<path class='p' data-s='0' data-d='0.4' fill='#fbfaf5' stroke='#1d1d1d' stroke-width='10' d='M 230 560 L 520 560 Q 550 560 550 590 L 550 1000 Q 550 1030 520 1030 L 230 1030 Q 200 1030 200 1000 L 200 590 Q 200 560 230 560 Z'/><path class='p' data-s='0.2' data-d='0.3' fill='#e63946' d='M 350 630 L 400 630 L 400 680 L 450 680 L 450 730 L 400 730 L 400 780 L 350 780 L 350 730 L 300 730 L 300 680 L 350 680 Z'/><path class='d' data-s='0.5' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 250 860 L 500 860 M 250 930 L 450 930'/><circle class='p' data-s='0.8' data-d='0.4' cx='770' cy='790' r='150' fill='#fbfaf5' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='1.1' data-d='0.4' fill='none' stroke='#2a9d8f' stroke-width='12' stroke-linecap='round' d='M 770 790 L 770 680 M 770 790 L 840 840'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 100,
+          "color": "#2a9d8f",
+          "s": 1.8,
+          "t": {
+            "en": "7-9 HOURS",
+            "es": "7-9 HORAS",
+            "fr": "7 À 9 HEURES",
+            "ja": "7〜9時間"
+          }
+        }
+      ]
+    }
+  ]
+}

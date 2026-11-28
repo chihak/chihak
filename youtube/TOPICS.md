@@ -53,7 +53,7 @@ Covered by ep01-ep20: stroke, heart attack, leg cramps, knuckle cracking, hiccup
 - todo: Why does your stomach hurt when you laugh too hard?
 - todo: Why do your joints ache before rain? (what science says)
 - todo: Why do you get a "food coma"?
-- in progress: ep49-no-sleep - What really happens when you don't sleep for a night?
+- done: ep49-no-sleep - What really happens when you don't sleep for a night?
 - todo: Why do you get a cold sore? (HSV-1, triggers)
 - todo: Why do your eyes get puffy in the morning?
 - todo: Why do you shiver when you have a fever?

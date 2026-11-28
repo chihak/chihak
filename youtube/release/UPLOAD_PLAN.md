@@ -3160,5 +3160,69 @@ Sur la terre ferme, ton cerveau te force en général à respirer bien avant que
 ```
 - Tags: `息を止める, 息を止めるとどうなる, 二酸化炭素, 横隔膜, 潜水反射, ブラックアウト, 水の事故, 体の雑学, 健康, sketch clinic`
 
+### ep49-no-sleep — English
+- File: `ep49-no-sleep/ep49-no-sleep-en.mp4`
+- Video language: English
+- Subtitles file: `ep49-no-sleep/ep49-no-sleep-en.srt` (Subtitles → Add language: English → Upload file → With timing)
+- Title: `What Really Happens When You Don't Sleep for a Night? #Shorts`
+- Description:
+```
+Up all night? Here's what really happens to your body after one sleepless night.
+Sleep is when your brain stores memories, and scientists think it also clears out waste, so skipping it hurts focus and memory. After about 17 hours awake, studies show your reactions can be about as slow as after drinking alcohol. Your brain may slip into microsleeps, a few seconds of sleep you don't even notice, which is why drowsy driving is so dangerous. Your hunger hormones shift, so you crave sugary, fatty snacks, and emotions get harder to control.
+Good news: for most people, one bad night isn't harmful long term, and a good night's sleep helps you bounce back. Don't drive if you feel drowsy. Adults need about 7 to 9 hours. If you often can't sleep or feel exhausted for weeks, talk to a doctor.
+Educational only - not medical advice. If you have symptoms, see a healthcare professional.
+
+#sleep #allnighter #bodyfacts #health #Shorts
+```
+- Tags: `sleep deprivation, what happens when you don't sleep, all nighter, no sleep, microsleep, drowsy driving, how much sleep do I need, sleep and memory, body facts, sketch clinic`
+
+### ep49-no-sleep — Spanish  *(Phase 2 — only if the user asks)*
+- File: `ep49-no-sleep/ep49-no-sleep-es.mp4`
+- Video language: Spanish
+- Subtitles file: `ep49-no-sleep/ep49-no-sleep-es.srt` (Subtitles → Add language: Spanish → Upload file → With timing)
+- Title: `¿Qué pasa realmente si no duermes en toda la noche? #Shorts`
+- Description:
+```
+¿Toda la noche sin dormir? Esto es lo que pasa realmente en tu cuerpo tras una noche en vela.
+Al dormir, el cerebro guarda recuerdos, y los científicos creen que también limpia desechos, así que sin sueño fallan la concentración y la memoria. Tras unas 17 horas despierto, los estudios muestran que tus reflejos pueden ser tan lentos como tras beber alcohol. Tu cerebro puede caer en microsueños, segundos de sueño que ni notas: por eso conducir con sueño es tan peligroso. Tus hormonas del hambre cambian, así que quieres dulces y comida grasa, y las emociones cuestan más de controlar.
+Buena noticia: para la mayoría, una mala noche no hace daño a largo plazo, y dormir bien después te ayuda a recuperarte. No conduzcas si tienes sueño. Los adultos necesitan unas 7 a 9 horas. Si a menudo no puedes dormir o estás agotado durante semanas, consulta a un médico.
+Solo con fines educativos: no es consejo médico. Si tienes síntomas, consulta a un profesional de la salud.
+
+#sueño #nocheenvela #cuerpohumano #salud #Shorts
+```
+- Tags: `falta de sueño, qué pasa si no duermes, noche en vela, no dormir, microsueño, conducir con sueño, cuántas horas dormir, sueño y memoria, curiosidades del cuerpo, sketch clinic`
+
+### ep49-no-sleep — French  *(Phase 2 — only if the user asks)*
+- File: `ep49-no-sleep/ep49-no-sleep-fr.mp4`
+- Video language: French
+- Subtitles file: `ep49-no-sleep/ep49-no-sleep-fr.srt` (Subtitles → Add language: French → Upload file → With timing)
+- Title: `Que se passe-t-il vraiment après une nuit blanche ? #Shorts`
+- Description:
+```
+Une nuit blanche ? Voici ce qui se passe vraiment dans ton corps après une nuit sans dormir.
+Pendant le sommeil, le cerveau range les souvenirs, et les scientifiques pensent qu'il élimine aussi des déchets : sans sommeil, concentration et mémoire flanchent. Après environ 17 heures éveillé, des études montrent que tes réflexes peuvent être aussi lents qu'après avoir bu de l'alcool. Ton cerveau peut tomber en micro-sommeil, quelques secondes de sommeil sans t'en rendre compte : d'où le danger de conduire fatigué. Tes hormones de la faim changent, tu as envie de sucré et de gras, et les émotions sont plus dures à gérer.
+Bonne nouvelle : pour la plupart des gens, une mauvaise nuit n'est pas grave à long terme, et bien dormir ensuite aide à récupérer. Ne conduis pas si tu as sommeil. Un adulte a besoin d'environ 7 à 9 heures. Si tu dors mal souvent ou es épuisé depuis des semaines, parles-en à un médecin.
+À but éducatif uniquement, ce n'est pas un avis médical. En cas de symptômes, consulte un professionnel de santé.
+
+#sommeil #nuitblanche #corpshumain #santé #Shorts
+```
+- Tags: `manque de sommeil, nuit blanche, que se passe-t-il si on ne dort pas, ne pas dormir, micro-sommeil, somnolence au volant, combien d'heures dormir, sommeil et mémoire, corps humain, sketch clinic`
+
+### ep49-no-sleep — Japanese  *(Phase 2 — only if the user asks)*
+- File: `ep49-no-sleep/ep49-no-sleep-ja.mp4`
+- Video language: Japanese
+- Subtitles file: `ep49-no-sleep/ep49-no-sleep-ja.srt` (Subtitles → Add language: Japanese → Upload file → With timing)
+- Title: `一晩寝ないと体で本当に起きていること #Shorts`
+- Description:
+```
+徹夜をすると、体の中では本当に何が起きているのでしょう？
+睡眠中、脳は記憶を整理し、老廃物を掃除しているとも考えられています。寝ないと集中力や記憶力が落ちます。17時間ほど起きていると、反応はお酒を飲んだときと同じくらい遅くなることが研究でわかっています。脳が数秒だけ眠る「マイクロスリープ」が気づかないうちに起きることもあり、眠気運転はとても危険です。食欲ホルモンも乱れて甘いものや脂っこいものが欲しくなり、感情のコントロールも難しくなります。
+安心して：多くの人にとって一晩の徹夜が長く害を残すことはなく、しっかり眠れば回復します。眠いときは運転しないで。大人に必要な睡眠は7〜9時間ほど。眠れない日が多い、何週間も疲れが取れないときは医師に相談してください。
+教育目的の情報であり、医療アドバイスではありません。症状がある場合は医療機関を受診してください。
+
+#睡眠 #徹夜 #体の雑学 #健康 #Shorts
+```
+- Tags: `徹夜, 寝ないとどうなる, 睡眠不足, マイクロスリープ, 居眠り運転, 睡眠時間, 睡眠と記憶, 体の雑学, 健康, sketch clinic`
+
 ## Step 3 — Report back
 Send the user: channel URL, and a table of episode → video URL (all Public).
