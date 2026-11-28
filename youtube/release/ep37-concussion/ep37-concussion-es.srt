@@ -1,0 +1,35 @@
+1
+00:00:00,250 --> 00:00:01,548
+¿Un golpe en la cabeza?
+
+2
+00:00:01,548 --> 00:00:06,007
+Una conmoción cerebral es una lesión breve del cerebro por un golpe o sacudida.
+
+3
+00:00:06,007 --> 00:00:07,418
+No hace falta desmayarse.
+
+4
+00:00:08,120 --> 00:00:13,304
+Atento a dolor de cabeza, mareo, náuseas, confusión, visión borrosa o problemas de memoria.
+
+5
+00:00:17,120 --> 00:00:24,885
+Llama a emergencias si no despierta, tiene una convulsión, no puede mantenerse despierto, le cuesta hablar o tiene debilidad en brazos o piernas.
+
+6
+00:00:27,120 --> 00:00:34,885
+Ve a urgencias si perdió el conocimiento aunque sea un momento, vomita, el dolor de cabeza empeora, se comporta raro o toma anticoagulantes.
+
+7
+00:00:37,120 --> 00:00:44,096
+Si no, descanso, que un adulto le acompañe las primeras 24 horas, paracetamol para el dolor de cabeza y nada de alcohol.
+
+8
+00:00:47,120 --> 00:00:52,237
+Nada de deportes de contacto durante al menos 3 semanas y no conduzcas hasta estar bien.
+
+9
+00:00:52,237 --> 00:00:54,331
+La mayoría se recupera en 2 semanas.

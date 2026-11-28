@@ -1,0 +1,31 @@
+1
+00:00:00,250 --> 00:00:03,514
+You hear your voice on a recording and think: “Is that really me?”
+
+2
+00:00:05,250 --> 00:00:08,642
+When you speak, your voice reaches your ears by two paths at once.
+
+3
+00:00:10,750 --> 00:00:14,675
+1 — Through the air: sound leaves your mouth and travels into your ears.
+
+4
+00:00:16,250 --> 00:00:20,538
+2 — Through your bones: vibrations travel through your skull to your inner ear.
+
+5
+00:00:21,750 --> 00:00:26,230
+Bone conduction carries low tones well, so your voice sounds deeper and fuller to you.
+
+6
+00:00:27,750 --> 00:00:31,761
+A recording only captures the air version — the voice everyone else hears.
+
+7
+00:00:33,250 --> 00:00:35,936
+So the recording is closer to your real voice.
+
+8
+00:00:35,936 --> 00:00:37,687
+With time, you get used to it.

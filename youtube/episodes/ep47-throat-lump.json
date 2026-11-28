@@ -1,0 +1,187 @@
+{
+  "id": "ep47-throat-lump",
+  "title": {
+    "en": "Why Do You Get a *Lump in Your Throat*?",
+    "es": "¿Por qué sientes un *nudo en la garganta*?",
+    "fr": "Pourquoi a-t-on une *boule dans la gorge* ?",
+    "ja": "泣くと*喉がつまる*のはなぜ？"
+  },
+  "coverTime": 4.5,
+  "scenes": [
+    {
+      "dur": 5,
+      "caption": {
+        "en": "You're about to cry… and suddenly there's a *lump in your throat*.",
+        "es": "Estás a punto de llorar… y de repente sientes un *nudo en la garganta*.",
+        "fr": "Tu es sur le point de pleurer… et soudain, une *boule dans la gorge*.",
+        "ja": "泣きそうになると…急に*喉に何かがつまった*感じがする。"
+      },
+      "svg": "<circle class='p' data-s='0' data-d='0.4' cx='540' cy='640' r='150' fill='#ffd166' stroke='#1d1d1d' stroke-width='9'/><path class='d' data-s='0.4' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 460 600 Q 480 585 500 600 M 580 600 Q 600 585 620 600 M 480 710 Q 540 670 600 710 M 450 570 L 500 555 M 630 570 L 580 555'/><path class='p' data-s='0.9' data-d='0.3' fill='#3a86c8' stroke='#1d1d1d' stroke-width='5' d='M 480 630 Q 465 665 480 680 Q 495 665 480 630 Z'/><path class='d' data-s='0.6' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 490 785 L 490 960 M 590 785 L 590 960 M 340 1040 Q 380 960 490 960 M 590 960 Q 700 960 740 1040'/><circle class='p' data-s='1.4' data-d='0.3' cx='540' cy='860' r='34' fill='#e63946' stroke='#1d1d1d' stroke-width='6'/><path class='d' data-s='1.7' data-d='0.4' fill='none' stroke='#e63946' stroke-width='9' d='M 800 860 L 610 860 M 650 825 L 605 860 L 650 895'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 110,
+          "color": "#e63946",
+          "s": 1.8,
+          "t": {
+            "en": "LUMP?!",
+            "es": "¿UN NUDO?",
+            "fr": "UNE BOULE ?!",
+            "ja": "喉に何か!?"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 6,
+      "caption": {
+        "en": "It has a name: the *globus sensation*. But nothing is actually stuck there.",
+        "es": "Tiene nombre: *sensación de globo* o globo faríngeo. Pero en realidad no hay nada atascado.",
+        "fr": "Ça a un nom : le *globus pharyngé*. Mais en réalité, rien n'est coincé.",
+        "ja": "名前があります。「*ヒステリー球*」、医学的には咽喉頭異常感症。でも、実際には何もつまっていません。"
+      },
+      "svg": "<path class='d' data-s='0' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 470 480 L 470 1040 M 610 480 L 610 1040'/><path class='d' data-s='0.6' data-d='0.4' fill='none' stroke='#e63946' stroke-width='8' stroke-dasharray='18 14' d='M 540 700 m -55 0 a 55 55 0 1 0 110 0 a 55 55 0 1 0 -110 0'/><circle class='p' data-s='1.0' data-d='0.3' cx='780' cy='640' r='95' fill='#fbfaf5' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='1.2' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='16' stroke-linecap='round' d='M 850 710 L 930 800'/><path class='d' data-s='1.5' data-d='0.4' fill='none' stroke='#3a86c8' stroke-width='10' d='M 750 610 Q 750 575 782 575 Q 815 575 815 605 Q 815 630 782 640 L 782 665 M 782 695 L 782 700'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 100,
+          "color": "#e63946",
+          "s": 1.6,
+          "t": {
+            "en": "GLOBUS",
+            "es": "GLOBO",
+            "fr": "GLOBUS",
+            "ja": "ヒステリー球"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 5.5,
+      "caption": {
+        "en": "When you're upset, your nervous system switches into *fight-or-flight* mode.",
+        "es": "Cuando te angustias, tu sistema nervioso entra en modo *lucha o huida*.",
+        "fr": "Quand tu es bouleversé, ton système nerveux passe en mode *combat ou fuite*.",
+        "ja": "つらい気持ちになると、神経が*闘争・逃走モード*に切り替わります。"
+      },
+      "svg": "<path class='p' data-s='0' data-d='0.4' fill='#e63946' stroke='#1d1d1d' stroke-width='8' d='M 540 900 L 380 740 Q 330 680 380 620 Q 450 560 540 650 Q 630 560 700 620 Q 750 680 700 740 Z'/><path class='d' data-s='0.5' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 150 1000 L 330 1000 l 30 -70 l 40 140 l 40 -140 l 40 140 l 40 -140 l 40 140 l 30 -70 L 930 1000'/><path class='p' data-s='1.2' data-d='0.3' fill='#ffd166' stroke='#1d1d1d' stroke-width='7' d='M 230 480 L 170 600 L 230 600 L 190 700 L 290 570 L 230 570 L 270 480 Z'/><path class='p' data-s='1.4' data-d='0.3' fill='#ffd166' stroke='#1d1d1d' stroke-width='7' d='M 850 480 L 790 600 L 850 600 L 810 700 L 910 570 L 850 570 L 890 480 Z'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 84,
+          "color": "#e63946",
+          "s": 1.8,
+          "t": {
+            "en": "FIGHT OR FLIGHT",
+            "es": "LUCHA O HUIDA",
+            "fr": "COMBAT OU FUITE",
+            "ja": "闘争・逃走"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 6,
+      "caption": {
+        "en": "Scientists think it holds your *glottis*, the gap between your vocal cords, *open* to pull in more air.",
+        "es": "Los científicos creen que mantiene *abierta* la *glotis*, el espacio entre las cuerdas vocales, para que entre más aire.",
+        "fr": "Les scientifiques pensent qu'il garde la *glotte*, l'espace entre les cordes vocales, *ouverte* pour faire entrer plus d'air.",
+        "ja": "このとき、声帯のすき間「*声門*」が、空気を多く取り込むために*開く*と考えられています。"
+      },
+      "svg": "<path class='f' data-s='0' data-d='0.4' data-o='0.35' fill='#e63946' opacity='0' d='M 540 1000 Q 300 780 380 520 Q 540 440 700 520 Q 780 780 540 1000 Z'/><path class='d' data-s='0' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 540 1000 Q 300 780 380 520 Q 540 440 700 520 Q 780 780 540 1000 Z'/><path class='d' data-s='0.6' data-d='0.5' fill='none' stroke='#fbfaf5' stroke-width='30' stroke-linecap='round' d='M 540 950 L 410 560 M 540 950 L 670 560'/><path class='d' data-s='0.6' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='6' d='M 540 950 L 410 560 M 540 950 L 670 560'/><path class='d' data-s='1.3' data-d='0.4' fill='none' stroke='#3a86c8' stroke-width='10' d='M 330 700 L 210 700 M 245 665 L 205 700 L 245 735 M 750 700 L 870 700 M 835 665 L 875 700 L 835 735'/><path class='d' data-s='1.7' data-d='0.4' fill='none' stroke='#3a86c8' stroke-width='8' d='M 540 380 L 540 470 M 505 440 L 540 475 L 575 440'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 96,
+          "color": "#3a86c8",
+          "s": 2.0,
+          "t": {
+            "en": "OPEN",
+            "es": "ABIERTA",
+            "fr": "OUVERTE",
+            "ja": "開く"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 6,
+      "caption": {
+        "en": "But *swallowing* needs it to *close*. Muscles pulling both ways may feel like a *lump*.",
+        "es": "Pero al *tragar* tiene que *cerrarse*. Los músculos tirando en dos sentidos pueden sentirse como un *nudo*.",
+        "fr": "Mais pour *avaler*, elle doit se *fermer*. Ces muscles qui tirent dans les deux sens donneraient la sensation de *boule*.",
+        "ja": "でも*飲み込む*ときは声門を*閉じる*必要があります。この綱引きが「*つまり*」の正体だという説です。"
+      },
+      "svg": "<path class='f' data-s='0' data-d='0.4' data-o='0.35' fill='#e63946' opacity='0' d='M 540 1000 Q 300 780 380 520 Q 540 440 700 520 Q 780 780 540 1000 Z'/><path class='d' data-s='0' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 540 1000 Q 300 780 380 520 Q 540 440 700 520 Q 780 780 540 1000 Z'/><path class='d' data-s='0.6' data-d='0.5' fill='none' stroke='#fbfaf5' stroke-width='30' stroke-linecap='round' d='M 540 950 L 450 560 M 540 950 L 630 560'/><path class='d' data-s='0.6' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='6' d='M 540 950 L 450 560 M 540 950 L 630 560'/><path class='d' data-s='1.1' data-d='0.4' fill='none' stroke='#3a86c8' stroke-width='10' d='M 330 650 L 210 650 M 245 615 L 205 650 L 245 685 M 750 650 L 870 650 M 835 615 L 875 650 L 835 685'/><path class='d' data-s='1.5' data-d='0.4' fill='none' stroke='#e63946' stroke-width='10' d='M 210 820 L 330 820 M 295 785 L 335 820 L 295 855 M 870 820 L 750 820 M 785 785 L 745 820 L 785 855'/><path class='d' data-s='1.9' data-d='0.3' fill='none' stroke='#e63946' stroke-width='8' d='M 440 470 l 15 -40 l 15 30 l 15 -40 M 600 470 l 15 -40 l 15 30 l 15 -40'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 96,
+          "color": "#e63946",
+          "s": 2.0,
+          "t": {
+            "en": "TUG OF WAR",
+            "es": "TIRA Y AFLOJA",
+            "fr": "BRAS DE FER",
+            "ja": "綱引き"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 5.5,
+      "caption": {
+        "en": "It's usually *harmless* and fades as you calm down. *Slow breaths* and *sips of water* can help.",
+        "es": "Suele ser *inofensivo* y se va al calmarte. *Respirar despacio* y *beber sorbos de agua* puede ayudar.",
+        "fr": "C'est en général *sans danger* et ça passe en se calmant. *Respirer lentement* et *boire un peu d'eau* peut aider.",
+        "ja": "たいていは*無害*で、落ち着けば消えます。*ゆっくり呼吸*し、*水を少し飲む*と楽になります。"
+      },
+      "svg": "<path class='p' data-s='0' data-d='0.4' fill='#fbfaf5' stroke='#1d1d1d' stroke-width='9' d='M 170 560 L 350 560 L 330 900 L 190 900 Z'/><path class='f' data-s='0.4' data-d='0.4' data-o='0.6' fill='#3a86c8' opacity='0' d='M 178 680 L 342 680 L 330 895 L 190 895 Z'/><path class='d' data-s='0.7' data-d='0.7' fill='none' stroke='#2a9d8f' stroke-width='34' stroke-linecap='round' d='M 460 780 L 590 910 L 880 560'/><path class='d' data-s='1.5' data-d='0.5' fill='none' stroke='#3a86c8' stroke-width='7' d='M 560 1010 Q 620 980 680 1010 T 800 1010 M 600 1060 Q 660 1030 720 1060 T 840 1060'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 96,
+          "color": "#2a9d8f",
+          "s": 1.6,
+          "t": {
+            "en": "HARMLESS",
+            "es": "INOFENSIVO",
+            "fr": "SANS DANGER",
+            "ja": "心配なし"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 6.5,
+      "caption": {
+        "en": "See a doctor if it *won't go away*, or comes with *trouble* or *pain swallowing*, *weight loss*, or a *hoarse voice* for 3+ weeks.",
+        "es": "Consulta al médico si *no se va*, o hay *dificultad* o *dolor al tragar*, *pérdida de peso* o *ronquera* de más de 3 semanas.",
+        "fr": "Consulte un médecin si ça *ne passe pas*, ou avec *difficulté* ou *douleur à avaler*, *perte de poids* ou *voix enrouée* plus de 3 semaines.",
+        "ja": "*ずっと治らない*、*飲み込みにくい*・*飲み込むと痛い*、*体重が減る*、*声がれが3週間以上*続く場合は受診を。"
+      },
+      "svg": "<path class='d' data-s='0' data-d='0.7' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 170 560 L 470 560 L 470 930 L 170 930 Z M 170 640 L 470 640 M 240 530 L 240 590 M 400 530 L 400 590'/><circle class='p' data-s='0.7' data-d='0.2' cx='215' cy='700' r='18' fill='#e63946'/><circle class='p' data-s='0.8' data-d='0.2' cx='285' cy='700' r='18' fill='#e63946'/><circle class='p' data-s='0.9' data-d='0.2' cx='355' cy='700' r='18' fill='#e63946'/><circle class='p' data-s='1.0' data-d='0.2' cx='425' cy='700' r='18' fill='#e63946'/><circle class='p' data-s='1.1' data-d='0.2' cx='215' cy='780' r='18' fill='#e63946'/><circle class='p' data-s='1.2' data-d='0.2' cx='285' cy='780' r='18' fill='#e63946'/><circle class='p' data-s='1.3' data-d='0.2' cx='355' cy='780' r='18' fill='#e63946'/><circle class='p' data-s='1.4' data-d='0.2' cx='425' cy='780' r='18' fill='#e63946'/><path class='d' data-s='1.4' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 600 560 L 910 560 L 910 930 L 600 930 Z'/><path class='p' data-s='1.9' data-d='0.4' fill='#e63946' d='M 725 620 L 785 620 L 785 715 L 880 715 L 880 775 L 785 775 L 785 870 L 725 870 L 725 775 L 630 775 L 630 715 L 725 715 Z'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 96,
+          "color": "#e63946",
+          "s": 2.2,
+          "t": {
+            "en": "SEE A DOCTOR",
+            "es": "VE AL MÉDICO",
+            "fr": "CONSULTE",
+            "ja": "受診を"
+          }
+        }
+      ]
+    }
+  ]
+}

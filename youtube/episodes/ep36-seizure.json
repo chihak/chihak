@@ -1,0 +1,142 @@
+{
+ "id": "ep36-seizure",
+ "title": {
+  "en": "Someone Having a *Seizure*?",
+  "es": "¿Alguien tiene una *convulsión*?",
+  "fr": "Une *crise d'épilepsie* ?",
+  "ja": "*けいれん発作*、どうする？"
+ },
+ "coverTime": 4.0,
+ "scenes": [
+  {
+   "dur": 7,
+   "caption": {
+    "en": "Someone having a *seizure*? *Stay calm* and *stay with them*. Most seizures *stop on their own* within a few minutes.",
+    "es": "¿Alguien tiene una *convulsión*? *Mantén la calma* y *quédate a su lado*. La mayoría *paran solas* en pocos minutos.",
+    "fr": "Quelqu'un fait une *crise d'épilepsie* ? *Reste calme* et *reste avec lui*. La plupart *s'arrêtent seules* en quelques minutes.",
+    "ja": "*けいれん発作*を起こした人がいたら？ *落ち着いて* *そばにいて*。多くは数分で*自然に止まります*。"
+   },
+   "svg": "<circle class='d' data-s='0' data-d='0.4' cx='240' cy='780' r='60' fill='none' stroke='#1d1d1d' stroke-width='11'/><path class='d' data-s='0.3' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 300 780 L 660 780'/><path class='d' data-s='0.6' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 660 780 L 840 750 M 660 780 L 840 810'/><path class='d' data-s='0.8' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 400 780 L 500 690 M 400 780 L 500 850'/><path class='d' data-s='1.2' data-d='0.3' fill='none' stroke='#e63946' stroke-width='9' d='M 330 660 L 360 620 L 390 660 L 420 620'/><path class='d' data-s='1.4' data-d='0.3' fill='none' stroke='#e63946' stroke-width='9' d='M 620 660 L 650 620 L 680 660 L 710 620'/><path class='d' data-s='1.6' data-d='0.3' fill='none' stroke='#e63946' stroke-width='9' d='M 330 920 L 360 960 L 390 920 L 420 960'/><path class='d' data-s='1.8' data-d='0.3' fill='none' stroke='#e63946' stroke-width='9' d='M 620 920 L 650 960 L 680 920 L 710 960'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#e63946",
+     "s": 1.6,
+     "t": {
+      "en": "SEIZURE: STAY CALM",
+      "es": "CONVULSIÓN: CALMA",
+      "fr": "CRISE : RESTE CALME",
+      "ja": "けいれん：落ち着いて"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 10,
+   "caption": {
+    "en": "Keep them *safe*: move *hard or sharp things* away, *cushion their head*, loosen anything *tight around the neck*, and *note the time*.",
+    "es": "Protégela: aparta objetos *duros o afilados*, *protege su cabeza* con algo blando, afloja lo que *apriete el cuello* y *mira la hora*.",
+    "fr": "Protège-le : éloigne les objets *durs ou coupants*, *protège sa tête* avec du mou, desserre ce qui *serre le cou* et *note l'heure*.",
+    "ja": "*安全を確保*：*硬い物やとがった物*をどけ、*頭の下にやわらかい物*を、*首元をゆるめ*、*始まった時刻*を確認。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.6' fill='none' stroke='#3a86c8' stroke-width='10' d='M 120 860 Q 120 800 200 800 L 330 800 Q 400 800 400 860 Q 400 910 330 910 L 200 910 Q 120 910 120 860 Z'/><path class='f' data-s='0.5' data-d='0.4' fill='#cfe9f7' opacity='0' d='M 135 860 Q 135 812 200 812 L 330 812 Q 388 812 388 860 Q 388 898 330 898 L 200 898 Q 135 898 135 860 Z'/><circle class='d' data-s='0.7' data-d='0.4' cx='265' cy='740' r='60' fill='none' stroke='#1d1d1d' stroke-width='11'/><path class='d' data-s='1.0' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 325 760 L 620 800'/><circle class='d' data-s='1.4' data-d='0.5' cx='800' cy='600' r='110' fill='none' stroke='#1d1d1d' stroke-width='11'/><path class='d' data-s='1.8' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 800 600 L 800 530 M 800 600 L 860 630'/><path class='d' data-s='2.1' data-d='0.5' fill='none' stroke='#e63946' stroke-width='11' d='M 690 860 L 900 1000 M 900 860 L 690 1000'/><path class='d' data-s='2.0' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 720 880 L 860 880 L 790 990 Z'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#3a86c8",
+     "s": 1.6,
+     "t": {
+      "en": "CUSHION HEAD · TIME IT",
+      "es": "PROTEGE LA CABEZA",
+      "fr": "PROTÈGE LA TÊTE",
+      "ja": "頭を守る・時間を計る"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 9,
+   "caption": {
+    "en": "*Don't hold them down* and *never put anything in their mouth*. They *can't swallow their tongue*.",
+    "es": "*No la sujetes* y *nunca le metas nada en la boca*. *No puede tragarse la lengua*.",
+    "fr": "*Ne le retiens pas* et *ne mets jamais rien dans sa bouche*. Il *ne peut pas avaler sa langue*.",
+    "ja": "*押さえつけない*、*口に何も入れない*。*舌をのみこむことはありません*。"
+   },
+   "svg": "<circle class='d' data-s='0' data-d='0.5' cx='330' cy='720' r='130' fill='none' stroke='#1d1d1d' stroke-width='11'/><path class='d' data-s='0.4' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 270 800 Q 330 840 390 800'/><circle class='d' data-s='0.6' data-d='0.2' cx='290' cy='690' r='10' fill='none' stroke='#1d1d1d' stroke-width='10'/><circle class='d' data-s='0.7' data-d='0.2' cx='370' cy='690' r='10' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='0.9' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 430 830 L 560 790 L 580 830 L 450 870 Z'/><path class='d' data-s='1.4' data-d='0.5' fill='none' stroke='#e63946' stroke-width='12' d='M 200 560 L 470 900 M 470 560 L 200 900'/><circle class='d' data-s='1.6' data-d='0.3' cx='640' cy='800' r='35' fill='none' stroke='#1d1d1d' stroke-width='11'/><path class='d' data-s='1.8' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 675 800 L 940 800'/><path class='d' data-s='2.0' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 720 620 L 720 760 M 690 730 L 720 760 L 750 730'/><path class='d' data-s='2.1' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 870 620 L 870 760 M 840 730 L 870 760 L 900 730'/><path class='d' data-s='2.3' data-d='0.5' fill='none' stroke='#e63946' stroke-width='12' d='M 600 560 L 960 900 M 960 560 L 600 900'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#e63946",
+     "s": 1.6,
+     "t": {
+      "en": "NOTHING IN THE MOUTH",
+      "es": "NADA EN LA BOCA",
+      "fr": "RIEN DANS LA BOUCHE",
+      "ja": "口に何も入れない"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 10,
+   "caption": {
+    "en": "When the shaking stops, gently *roll them onto their side*, *check their breathing*, and *stay with them* until they're *fully awake*.",
+    "es": "Cuando paren las sacudidas, *ponla de lado* con cuidado, *comprueba que respira* y *quédate* hasta que esté *bien despierta*.",
+    "fr": "Quand les secousses s'arrêtent, *mets-le sur le côté* doucement, *vérifie qu'il respire* et *reste* jusqu'à ce qu'il soit *bien réveillé*.",
+    "ja": "けいれんが止まったら、そっと*横向き*に寝かせ、*呼吸を確認*し、*意識がはっきりするまで*そばにいて。"
+   },
+   "svg": "<circle class='d' data-s='0' data-d='0.4' cx='260' cy='760' r='60' fill='none' stroke='#1d1d1d' stroke-width='11'/><path class='d' data-s='0.3' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 320 780 Q 480 740 620 790'/><path class='d' data-s='0.7' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 620 790 L 760 720 L 800 860'/><path class='d' data-s='0.9' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 620 790 L 840 840'/><path class='d' data-s='1.1' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 400 770 L 330 870 L 420 880'/><path class='d' data-s='1.4' data-d='0.5' fill='none' stroke='#2a9d8f' stroke-width='9' d='M 120 660 Q 150 620 180 660'/><path class='d' data-s='1.6' data-d='0.5' fill='none' stroke='#2a9d8f' stroke-width='9' d='M 100 620 Q 150 560 200 620'/><path class='d' data-s='1.9' data-d='0.6' fill='none' stroke='#999999' stroke-width='8' d='M 120 960 L 960 960'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#2a9d8f",
+     "s": 1.6,
+     "t": {
+      "en": "ON THEIR SIDE",
+      "es": "DE LADO",
+      "fr": "SUR LE CÔTÉ",
+      "ja": "横向きに寝かせる"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 12,
+   "caption": {
+    "en": "Call *emergency services* if it lasts *over 5 minutes*, it's their *first seizure*, another one starts, they're *hurt*, *struggle to breathe*, or it happened *in water*.",
+    "es": "Llama a *emergencias* si dura *más de 5 minutos*, es su *primera convulsión*, empieza otra, se ha *herido*, *le cuesta respirar* o pasó *en el agua*.",
+    "fr": "Appelle les *urgences* si ça dure *plus de 5 minutes*, si c'est sa *première crise*, si une autre commence, s'il est *blessé*, *respire mal* ou si c'est arrivé *dans l'eau*.",
+    "ja": "*5分以上*続く、*初めての発作*、*くり返す*、*けがをした*、*呼吸が苦しそう*、*水中*で起きたときは*救急車*を。"
+   },
+   "svg": "<circle class='d' data-s='0' data-d='0.6' cx='330' cy='740' r='170' fill='none' stroke='#1d1d1d' stroke-width='11'/><path class='d' data-s='0.5' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 330 740 L 330 620 M 330 740 L 420 790'/><path class='f' data-s='0.8' data-d='0.5' fill='#f4a3a8' opacity='0' d='M 330 740 L 330 570 A 170 170 0 0 1 492 688 Z'/><path class='d' data-s='1.3' data-d='0.7' fill='none' stroke='#e63946' stroke-width='11' d='M 690 600 L 790 600 L 800 680 L 760 700 Q 790 790 850 830 L 880 800 L 950 840 L 930 920 Q 760 920 690 700 Z'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#e63946",
+     "s": 1.6,
+     "t": {
+      "en": "5+ MINUTES? CALL",
+      "es": "¿+5 MIN? LLAMA",
+      "fr": "+5 MIN ? APPELLE",
+      "ja": "5分以上は救急車"
+     },
+     "maxW": 920
+    }
+   ]
+  }
+ ]
+}

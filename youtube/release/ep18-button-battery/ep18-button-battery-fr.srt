@@ -1,0 +1,35 @@
+1
+00:00:00,250 --> 00:00:03,034
+Un enfant a avalé une pile bouton, ou tu as un doute ?
+
+2
+00:00:03,034 --> 00:00:03,962
+C'est une urgence.
+
+3
+00:00:05,750 --> 00:00:10,251
+Coincée dans l'œsophage, elle crée un courant qui peut brûler les tissus en 2 heures seulement.
+
+4
+00:00:12,250 --> 00:00:15,084
+1 — Va aux urgences tout de suite, ou appelle les secours.
+
+5
+00:00:15,084 --> 00:00:16,453
+N'attends pas les symptômes.
+
+6
+00:00:17,750 --> 00:00:21,675
+2 — Ne fais pas vomir, ne donne ni à manger ni à boire, sauf avis médical.
+
+7
+00:00:23,750 --> 00:00:26,929
+3 — Si possible, apporte l'emballage ou une pile identique.
+
+8
+00:00:28,750 --> 00:00:33,379
+Les signes peuvent être discrets : bave, toux, douleur à la déglutition, vomissements… ou aucun.
+
+9
+00:00:34,750 --> 00:00:39,166
+Prévention : piles et appareils hors de portée, et compartiments fermés avec du ruban.

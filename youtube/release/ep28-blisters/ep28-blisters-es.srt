@@ -1,0 +1,47 @@
+1
+00:00:00,250 --> 00:00:01,040
+¿Una ampolla?
+
+2
+00:00:01,040 --> 00:00:02,133
+¿Debes reventarla?
+
+3
+00:00:02,133 --> 00:00:03,045
+Normalmente no.
+
+4
+00:00:06,250 --> 00:00:07,508
+Uno: déjala tranquila.
+
+5
+00:00:07,508 --> 00:00:11,967
+La piel de encima protege la piel nueva de abajo y ayuda a evitar infecciones.
+
+6
+00:00:12,750 --> 00:00:16,867
+Dos: cúbrela con un apósito suelto o una tirita acolchada, para que no roce.
+
+7
+00:00:18,750 --> 00:00:23,465
+Tres: si se revienta, lávala con agua limpia, deja la piel suelta en su sitio y cúbrela.
+
+8
+00:00:25,750 --> 00:00:27,353
+Cuatro: reduce la fricción.
+
+9
+00:00:27,353 --> 00:00:29,846
+Usa calzado y calcetines que ajusten bien.
+
+10
+00:00:31,750 --> 00:00:35,317
+¿Pus, enrojecimiento que se extiende, más dolor o hinchazón, o fiebre?
+
+11
+00:00:35,317 --> 00:00:35,979
+Ve al médico.
+
+12
+00:00:35,979 --> 00:00:39,750
+También si tienes diabetes, o si la ampolla es grande o por una quemadura.

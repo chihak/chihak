@@ -1,0 +1,210 @@
+{
+ "id": "ep30-tick-bite",
+ "title": {
+  "en": "*Tick Bite?* Remove It Right",
+  "es": "¿*Garrapata?* Quítala bien",
+  "fr": "*Tique ?* Retire-la bien",
+  "ja": "*マダニ*の安全な取り方"
+ },
+ "coverTime": 4.0,
+ "steps": 4,
+ "stepsFrom": 1,
+ "scenes": [
+  {
+   "dur": 6,
+   "caption": {
+    "en": "A *tick* on your skin? Here's how to remove it safely.",
+    "es": "¿Una *garrapata* en la piel? Así se quita con seguridad.",
+    "fr": "Une *tique* sur la peau ? Voici comment la retirer sans risque.",
+    "ja": "皮膚に*マダニ*が？ 安全な取り方です。"
+   },
+   "narration": {
+    "en": "A tick on your skin? Here's how to remove it safely.",
+    "es": "¿Una garrapata en la piel? Así se quita con seguridad.",
+    "fr": "Une tique sur la peau ? Voici comment la retirer sans risque.",
+    "ja": "皮膚にマダニがついたときの、安全な取り方です。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 420 980 Q 400 760 470 680 Q 540 620 610 680 Q 680 760 660 980'/><circle class='d' data-s='0.9' data-d='0.5' cx='540' cy='690' r='22' fill='none' stroke='#8a5a2b' stroke-width='9'/><path class='d' data-s='1.2' data-d='0.5' fill='none' stroke='#8a5a2b' stroke-width='8' d='M 520 676 L 500 656 M 560 676 L 580 656 M 518 700 L 496 710 M 562 700 L 584 710'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#e63946",
+     "s": 1.6,
+     "t": {
+      "en": "TICK BITE",
+      "es": "GARRAPATA",
+      "fr": "TIQUE",
+      "ja": "マダニ"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 7,
+   "step": 1,
+   "caption": {
+    "en": "*1* — Use *fine-tipped tweezers*. Grip the tick *close to the skin*.",
+    "es": "*1* — Usa *pinzas de punta fina*. Agarra la garrapata *cerca de la piel*.",
+    "fr": "*1* — Prends une *pince à pointes fines*. Saisis la tique *près de la peau*.",
+    "ja": "*1* — *先の細いピンセット*で、*皮膚に近い*ところをつかみます。"
+   },
+   "narration": {
+    "en": "Step one. Use fine-tipped tweezers and grip the tick as close to the skin as you can.",
+    "es": "Uno: usa unas pinzas de punta fina y agarra la garrapata lo más cerca posible de la piel.",
+    "fr": "Un : prends une pince à pointes fines et saisis la tique au plus près de la peau.",
+    "ja": "一つ目、先の細いピンセットで、できるだけ皮膚に近いところをつかみます。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 420 980 Q 400 760 470 680 Q 540 620 610 680 Q 680 760 660 980'/><circle class='d' data-s='0.9' data-d='0.5' cx='540' cy='690' r='22' fill='none' stroke='#8a5a2b' stroke-width='9'/><path class='d' data-s='1.2' data-d='0.5' fill='none' stroke='#8a5a2b' stroke-width='8' d='M 520 676 L 500 656 M 560 676 L 580 656 M 518 700 L 496 710 M 562 700 L 584 710'/><path class='d' data-s='1.6' data-d='0.7' fill='none' stroke='#3a86c8' stroke-width='11' d='M 400 560 L 515 672 M 470 540 L 545 668'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#3a86c8",
+     "s": 1.6,
+     "t": {
+      "en": "GRIP CLOSE",
+      "es": "AGARRA CERCA",
+      "fr": "SAISIS PRÈS",
+      "ja": "近くをつかむ"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 7,
+   "step": 2,
+   "caption": {
+    "en": "*2* — Pull *straight up*, slowly and steadily. Don't *twist* or *squeeze* it.",
+    "es": "*2* — Tira *hacia arriba*, despacio y con firmeza. No lo *gires* ni lo *aprietes*.",
+    "fr": "*2* — Tire *droit vers le haut*, lentement et fermement. Ne *tords* pas, n'*écrase* pas.",
+    "ja": "*2* — *まっすぐ上に*ゆっくり引きます。*ひねらず*、*つぶさない*で。"
+   },
+   "narration": {
+    "en": "Step two. Pull straight up, slowly and steadily. Don't twist or squeeze it.",
+    "es": "Dos: tira hacia arriba, despacio y con firmeza. No lo gires ni lo aprietes.",
+    "fr": "Deux : tire droit vers le haut, lentement et fermement. Ne tords pas la tique et ne l'écrase pas.",
+    "ja": "二つ目、まっすぐ上へ、ゆっくり一定の力で引き抜きます。ひねったり、つぶしたりしないでください。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 420 980 Q 400 760 470 680 Q 540 620 610 680 Q 680 760 660 980'/><circle class='d' data-s='0.9' data-d='0.5' cx='540' cy='690' r='22' fill='none' stroke='#8a5a2b' stroke-width='9'/><path class='d' data-s='1.2' data-d='0.5' fill='none' stroke='#8a5a2b' stroke-width='8' d='M 520 676 L 500 656 M 560 676 L 580 656 M 518 700 L 496 710 M 562 700 L 584 710'/><path class='d' data-s='1.2' data-d='0.7' fill='none' stroke='#2a9d8f' stroke-width='12' d='M 540 620 V 470 M 495 515 L 540 470 L 585 515'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#2a9d8f",
+     "s": 1.6,
+     "t": {
+      "en": "PULL STRAIGHT UP",
+      "es": "TIRA RECTO",
+      "fr": "TIRE DROIT",
+      "ja": "まっすぐ引く"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 6,
+   "step": 3,
+   "caption": {
+    "en": "*3* — *Clean* the bite and your hands with soap and water or alcohol.",
+    "es": "*3* — *Limpia* la picadura y tus manos con agua y jabón o alcohol.",
+    "fr": "*3* — *Nettoie* la piqûre et tes mains à l'eau et au savon ou à l'alcool.",
+    "ja": "*3* — 刺された所と手を、石けんと水かアルコールで*洗います*。"
+   },
+   "narration": {
+    "en": "Step three. Clean the bite and your hands with soap and water, or rubbing alcohol.",
+    "es": "Tres: limpia la picadura y tus manos con agua y jabón, o con alcohol.",
+    "fr": "Trois : nettoie la piqûre et tes mains à l'eau et au savon, ou à l'alcool.",
+    "ja": "三つ目、刺された所と手を、石けんと水、またはアルコールで洗います。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 420 980 Q 400 760 470 680 Q 540 620 610 680 Q 680 760 660 980'/><path class='d' data-s='0.9' data-d='0.6' fill='none' stroke='#3a86c8' stroke-width='11' d='M 480 760 Q 460 800 480 830 M 540 760 Q 520 800 540 830 M 600 760 Q 580 800 600 830'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#3a86c8",
+     "s": 1.6,
+     "t": {
+      "en": "CLEAN THE SPOT",
+      "es": "LIMPIA LA ZONA",
+      "fr": "NETTOIE LA ZONE",
+      "ja": "洗って消毒"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 7,
+   "step": 4,
+   "caption": {
+    "en": "*4* — No *burning*, no *petroleum jelly*, no *nail polish*. Just pull it out.",
+    "es": "*4* — Nada de *quemarla*, *vaselina* ni *esmalte*. Solo sácala.",
+    "fr": "*4* — Pas de *flamme*, de *vaseline* ni de *vernis*. Retire-la simplement.",
+    "ja": "*4* — *火*や*ワセリン*、*マニキュア*は使わず、ただ抜きます。"
+   },
+   "narration": {
+    "en": "Step four. Don't burn it, or smother it with petroleum jelly or nail polish. Just pull it out.",
+    "es": "Cuatro: no la quemes ni la cubras con vaselina o esmalte de uñas. Solo sácala.",
+    "fr": "Quatre : ne la brûle pas et ne la recouvre pas de vaseline ou de vernis. Retire-la simplement.",
+    "ja": "四つ目、火で焼いたり、ワセリンやマニキュアを塗ったりしないでください。ただ引き抜きます。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 420 980 Q 400 760 470 680 Q 540 620 610 680 Q 680 760 660 980'/><circle class='d' data-s='0.9' data-d='0.5' cx='540' cy='690' r='22' fill='none' stroke='#8a5a2b' stroke-width='9'/><path class='d' data-s='1.2' data-d='0.5' fill='none' stroke='#8a5a2b' stroke-width='8' d='M 520 676 L 500 656 M 560 676 L 580 656 M 518 700 L 496 710 M 562 700 L 584 710'/><path class='d' data-s='1.2' data-d='0.5' fill='none' stroke='#e63946' stroke-width='12' d='M 780 620 L 900 740 M 900 620 L 780 740'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#e63946",
+     "s": 1.6,
+     "t": {
+      "en": "NO BURNING",
+      "es": "NO LA QUEMES",
+      "fr": "PAS DE FLAMME",
+      "ja": "焼かない"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 10,
+   "caption": {
+    "en": "Over the next weeks, a *rash*, *fever*, or aches? See a *doctor* — say you had a *tick bite*.",
+    "es": "En las próximas semanas, ¿*sarpullido*, *fiebre* o dolores? Ve al *médico* y menciona la *garrapata*.",
+    "fr": "Dans les semaines suivantes : *éruption*, *fièvre*, courbatures ? Consulte et parle de la *tique*.",
+    "ja": "数週間のうちに*発疹*、*発熱*、体の痛みが出たら*受診*を。*マダニ*のことも伝えて。"
+   },
+   "narration": {
+    "en": "Over the next few weeks, watch for a spreading rash, fever, or aches. If you get any, see a doctor and mention the tick bite. If part of the tick stays in, or you're unsure, get medical advice.",
+    "es": "Durante las próximas semanas, vigila si aparece un sarpullido que se extiende, fiebre o dolores. Si ocurre, ve al médico y menciona la picadura. Si parte de la garrapata queda dentro, o tienes dudas, pide consejo médico.",
+    "fr": "Dans les semaines suivantes, surveille une éruption qui s'étend, de la fièvre ou des douleurs. Si cela arrive, consulte et parle de la piqûre de tique. Si une partie reste dans la peau, ou en cas de doute, demande un avis médical.",
+    "ja": "その後数週間は、広がる発疹、発熱、体の痛みに注意してください。出たら受診して、マダニに刺されたことを伝えましょう。一部が残った場合や不安なときも、医療機関に相談してください。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.9' fill='none' stroke='#3a86c8' stroke-width='12' d='M 440 640 H 640 V 760 H 760 V 860 H 640 V 980 H 440 V 860 H 320 V 760 H 440 Z'/><path class='f' data-s='0.8' data-d='0.5' data-o='0.25' d='M 440 640 H 640 V 760 H 760 V 860 H 640 V 980 H 440 V 860 H 320 V 760 H 440 Z' fill='#3a86c8' opacity='0'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#3a86c8",
+     "s": 1.6,
+     "t": {
+      "en": "WATCH FOR WEEKS",
+      "es": "VIGILA SEMANAS",
+      "fr": "SURVEILLE",
+      "ja": "数週間観察"
+     },
+     "maxW": 920
+    }
+   ]
+  }
+ ]
+}

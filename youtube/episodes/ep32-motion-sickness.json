@@ -1,0 +1,198 @@
+{
+ "id": "ep32-motion-sickness",
+ "title": {
+  "en": "Why Do You Get *Car Sick*?",
+  "es": "¿Por qué te *mareas* en el coche?",
+  "fr": "Pourquoi le *mal des transports* ?",
+  "ja": "*乗り物酔い*はなぜ起きる？"
+ },
+ "coverTime": 4.0,
+ "scenes": [
+  {
+   "dur": 6,
+   "caption": {
+    "en": "Feel *sick* in a car, boat or plane? That's *motion sickness*.",
+    "es": "¿Te *mareas* en coche, barco o avión? Es la *cinetosis*.",
+    "fr": "*Nausée* en voiture, en bateau ou en avion ? C'est le *mal des transports*.",
+    "ja": "車や船、飛行機で*気分が悪くなる*？ それは*乗り物酔い*です。"
+   },
+   "narration": {
+    "en": "Feel sick in a car, boat or plane? That's motion sickness.",
+    "es": "¿Te mareas en coche, barco o avión? Eso es la cinetosis, el mareo por movimiento.",
+    "fr": "La nausée en voiture, en bateau ou en avion ? C'est le mal des transports.",
+    "ja": "車や船、飛行機で、気分が悪くなりますか？ それは乗り物酔いです。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 300 900 L 300 820 Q 330 750 420 740 L 470 670 Q 490 650 520 650 L 640 650 Q 670 650 690 680 L 730 740 Q 790 750 790 820 L 790 900 Z'/><circle class='d' data-s='1.0' data-d='0.4' cx='400' cy='910' r='42' fill='none' stroke='#1d1d1d' stroke-width='10'/><circle class='d' data-s='1.2' data-d='0.4' cx='690' cy='910' r='42' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='1.5' data-d='0.6' fill='none' stroke='#2a9d8f' stroke-width='9' d='M 470 560 Q 500 530 530 560 Q 560 590 590 560 Q 620 530 650 560'/><path class='d' data-s='1.9' data-d='0.6' fill='none' stroke='#2a9d8f' stroke-width='9' d='M 470 500 Q 500 470 530 500 Q 560 530 590 500 Q 620 470 650 500'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#e63946",
+     "s": 1.6,
+     "t": {
+      "en": "MOTION SICKNESS",
+      "es": "CINETOSIS",
+      "fr": "MAL DES TRANSPORTS",
+      "ja": "乗り物酔い"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 9,
+   "caption": {
+    "en": "Your *inner ear* feels the movement, but your *eyes* see a still car or a page. These *mixed signals* confuse your brain.",
+    "es": "Tu *oído interno* nota el movimiento, pero tus *ojos* ven un coche quieto o una página. Esas *señales opuestas* confunden al cerebro.",
+    "fr": "L'*oreille interne* sent le mouvement, mais les *yeux* voient une voiture immobile ou une page. Ces *signaux contraires* troublent le cerveau.",
+    "ja": "*内耳*は揺れを感じるのに、*目*は止まった車内や本を見ています。この*情報のズレ*に脳が混乱します。"
+   },
+   "narration": {
+    "en": "Your inner ear feels the movement, but your eyes see a still car, or a page. These mixed signals confuse your brain.",
+    "es": "Tu oído interno nota el movimiento, pero tus ojos ven un coche quieto o una página. Esas señales opuestas confunden al cerebro.",
+    "fr": "L'oreille interne sent le mouvement, mais les yeux voient une voiture immobile, ou une page. Ces signaux contraires troublent le cerveau.",
+    "ja": "内耳は揺れを感じているのに、目は止まった車内や本を見ています。この情報のズレに、脳が混乱するのです。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 260 860 Q 340 780 420 860 Q 340 940 260 860 Z'/><circle class='d' data-s='0.8' data-d='0.3' cx='340' cy='860' r='18' fill='#1d1d1d' stroke='#1d1d1d' stroke-width='6'/><path class='d' data-s='1.0' data-d='0.8' fill='none' stroke='#3a86c8' stroke-width='11' d='M 700 960 Q 660 960 660 900 Q 660 790 740 790 Q 820 790 820 870 Q 820 920 770 930 Q 740 940 740 900'/><path class='d' data-s='2.0' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 360 770 L 480 650 M 720 760 L 600 650'/><path class='d' data-s='2.6' data-d='0.5' fill='none' stroke='#e63946' stroke-width='12' d='M 500 560 Q 500 510 540 510 Q 580 510 580 550 Q 580 580 540 600 L 540 630'/><circle class='d' data-s='3.0' data-d='0.2' cx='540' cy='665' r='9' fill='#e63946' stroke='#e63946' stroke-width='6'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#3a86c8",
+     "s": 1.6,
+     "t": {
+      "en": "MIXED SIGNALS",
+      "es": "SEÑALES OPUESTAS",
+      "fr": "SIGNAUX CONTRAIRES",
+      "ja": "情報のズレ"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 7,
+   "caption": {
+    "en": "You may feel *nauseous*, *dizzy*, sweaty and pale, or get a *headache*.",
+    "es": "Puedes sentir *náuseas*, *mareo*, sudor, palidez o *dolor de cabeza*.",
+    "fr": "On peut avoir la *nausée*, des *vertiges*, des sueurs, être pâle ou avoir *mal à la tête*.",
+    "ja": "*吐き気*、*めまい*、冷や汗、顔色が悪くなる、*頭痛*などが起こります。"
+   },
+   "svg": "<circle class='d' data-s='0' data-d='0.9' cx='540' cy='800' r='190' fill='none' stroke='#1d1d1d' stroke-width='11'/><path class='d' data-s='0.9' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 450 760 L 490 760 M 590 760 L 630 760'/><path class='d' data-s='1.2' data-d='0.5' fill='none' stroke='#2a9d8f' stroke-width='10' d='M 460 880 Q 480 860 500 880 Q 520 900 540 880 Q 560 860 580 880 Q 600 900 620 880'/><path class='d' data-s='1.7' data-d='0.4' fill='none' stroke='#3a86c8' stroke-width='9' d='M 740 680 Q 770 730 740 750 Q 710 730 740 680'/><path class='d' data-s='2.0' data-d='0.4' fill='none' stroke='#3a86c8' stroke-width='9' d='M 330 700 Q 360 750 330 770 Q 300 750 330 700'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#e63946",
+     "s": 1.6,
+     "t": {
+      "en": "NAUSEA & DIZZINESS",
+      "es": "NÁUSEAS Y MAREO",
+      "fr": "NAUSÉE, VERTIGES",
+      "ja": "吐き気・めまい"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 9,
+   "caption": {
+    "en": "To help: look at the *horizon*, sit in the *front seat* or the middle of a boat, and *don't read* or use screens.",
+    "es": "Para aliviarlo: mira al *horizonte*, siéntate *delante* o en el centro del barco, y *no leas* ni mires pantallas.",
+    "fr": "Pour aider : regarde l'*horizon*, assieds-toi *à l'avant* ou au milieu du bateau, et *ne lis pas*, pas d'écran.",
+    "ja": "対策：*遠くの景色*を見る、*前の席*や船の中央に座る、*本やスマホを見ない*。"
+   },
+   "narration": {
+    "en": "To help, look at the horizon, sit in the front seat or the middle of a boat, and don't read or use screens.",
+    "es": "Para aliviarlo, mira al horizonte, siéntate delante o en el centro del barco, y no leas ni mires pantallas.",
+    "fr": "Pour aider, regarde l'horizon, assieds-toi à l'avant ou au milieu du bateau, et évite de lire ou de regarder un écran.",
+    "ja": "対策は、遠くの景色を見ること。前の席や、船の中央に座り、本やスマホは見ないようにしましょう。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.7' fill='none' stroke='#3a86c8' stroke-width='11' d='M 240 760 H 840'/><path class='d' data-s='0.6' data-d='0.7' fill='none' stroke='#f4a261' stroke-width='11' d='M 450 760 A 90 90 0 0 1 630 760'/><path class='d' data-s='1.6' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 480 840 H 600 V 1040 H 480 Z'/><path class='d' data-s='2.3' data-d='0.5' fill='none' stroke='#e63946' stroke-width='12' d='M 440 820 L 640 1060 M 640 820 L 440 1060'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#3a86c8",
+     "s": 1.6,
+     "t": {
+      "en": "LOOK FAR AWAY",
+      "es": "MIRA A LO LEJOS",
+      "fr": "REGARDE AU LOIN",
+      "ja": "遠くを見る"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 8,
+   "caption": {
+    "en": "Get *fresh air*, keep still, eat *light* meals and skip *alcohol*. *Ginger* may help some people.",
+    "es": "Busca *aire fresco*, quédate quieto, come *ligero* y evita el *alcohol*. El *jengibre* ayuda a algunas personas.",
+    "fr": "Prends l'*air frais*, reste immobile, mange *léger* et évite l'*alcool*. Le *gingembre* aide certaines personnes.",
+    "ja": "*新鮮な空気*を吸い、じっとして、*軽い食事*にし、*お酒*は控えて。*しょうが*が効く人もいます。"
+   },
+   "narration": {
+    "en": "Get fresh air, keep still, eat light meals, and skip alcohol. Ginger may help some people.",
+    "es": "Busca aire fresco, quédate quieto, come ligero y evita el alcohol. El jengibre ayuda a algunas personas.",
+    "fr": "Prends l'air frais, reste immobile, mange léger et évite l'alcool. Le gingembre aide certaines personnes.",
+    "ja": "新鮮な空気を吸い、なるべく動かず、食事は軽めにして、お酒は控えましょう。しょうがが効く人もいます。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.7' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 300 640 H 560 V 980 H 300 Z'/><path class='d' data-s='0.6' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 430 640 V 980 M 300 810 H 560'/><path class='d' data-s='1.0' data-d='0.6' fill='none' stroke='#3a86c8' stroke-width='10' d='M 600 720 Q 700 690 760 720 Q 800 750 760 770'/><path class='d' data-s='1.3' data-d='0.6' fill='none' stroke='#3a86c8' stroke-width='10' d='M 600 810 Q 720 780 790 810'/><path class='d' data-s='1.6' data-d='0.6' fill='none' stroke='#3a86c8' stroke-width='10' d='M 600 900 Q 700 870 760 900 Q 800 930 760 950'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#3a86c8",
+     "s": 1.6,
+     "t": {
+      "en": "FRESH AIR",
+      "es": "AIRE FRESCO",
+      "fr": "AIR FRAIS",
+      "ja": "新鮮な空気"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 9,
+   "caption": {
+    "en": "A *pharmacist* can suggest tablets to take *before* you travel. See a *doctor* if you feel this way when *not travelling*.",
+    "es": "El *farmacéutico* puede recomendarte pastillas para tomar *antes* del viaje. Ve al *médico* si te pasa *sin viajar*.",
+    "fr": "Le *pharmacien* peut conseiller des comprimés à prendre *avant* le trajet. Consulte un *médecin* si ça arrive *hors trajet*.",
+    "ja": "*薬剤師*に酔い止めを相談し、*乗る前*に飲みましょう。*乗っていない時*にも症状があれば*受診*を。"
+   },
+   "narration": {
+    "en": "A pharmacist can suggest tablets to take before you travel. See a doctor if you feel this way when you're not travelling.",
+    "es": "El farmacéutico puede recomendarte pastillas para tomar antes del viaje. Ve al médico si te sientes así sin estar viajando.",
+    "fr": "Le pharmacien peut conseiller des comprimés à prendre avant le trajet. Consulte un médecin si ça t'arrive en dehors des trajets.",
+    "ja": "薬剤師に酔い止めを相談して、乗る前に飲みましょう。乗り物に乗っていない時にも症状があれば、受診してください。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.9' fill='none' stroke='#3a86c8' stroke-width='12' d='M 440 640 H 640 V 760 H 760 V 860 H 640 V 980 H 440 V 860 H 320 V 760 H 440 Z'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#e63946",
+     "s": 1.6,
+     "t": {
+      "en": "ASK A PHARMACIST",
+      "es": "PREGUNTA EN FARMACIA",
+      "fr": "DEMANDE AU PHARMACIEN",
+      "ja": "薬剤師に相談"
+     },
+     "maxW": 920
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,254 @@
+{
+ "id": "ep11-stomach-growl",
+ "title": {
+  "en": "Why Does Your Stomach *Growl*?",
+  "es": "¿Por qué *ruge* tu estómago?",
+  "fr": "Pourquoi le ventre *gargouille* ?",
+  "ja": "お腹が*鳴る*のはなぜ？"
+ },
+ "coverTime": 4.5,
+ "scenes": [
+  {
+   "dur": 5.5,
+   "caption": {
+    "en": "That rumble from your belly has a name: *borborygmi*. Here's what's going on.",
+    "es": "Ese rugido de tu barriga tiene nombre: *borborigmos*. Te explico qué pasa.",
+    "fr": "Ce grondement du ventre a un nom : les *borborygmes*. Voici ce qui se passe.",
+    "ja": "お腹の「グー」には名前があります。*腹鳴（ふくめい）*。何が起きているのでしょう？"
+   },
+   "svg": "<g transform='translate(0 0) scale(1.0)'><path class='d' data-s='0' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='10.0'  d='M 500 470 L 510 560 C 420 600 420 770 540 810 C 650 845 780 790 770 690 C 765 630 705 610 660 640 C 620 665 585 640 575 600 L 565 470'/></g><path class='d' data-s='1.2' data-d='0.5' fill='none' stroke='#e63946' stroke-width='8'  d='M 830 640 q 25 40 0 80 M 870 610 q 45 70 0 140'/><path class='d' data-s='1.4' data-d='0.5' fill='none' stroke='#e63946' stroke-width='8'  d='M 380 640 q -25 40 0 80 M 340 610 q -45 70 0 140'/><path class='d' data-s='1.0' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='8'  d='M 590 720 q 20 20 40 0'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 110,
+     "color": "#e63946",
+     "s": 1.8,
+     "t": {
+      "en": "GRRR!",
+      "es": "¡GRRR!",
+      "fr": "GRRR !",
+      "ja": "グ〜〜"
+     }
+    }
+   ]
+  },
+  {
+   "dur": 6,
+   "caption": {
+    "en": "Your gut is a muscular tube. Waves of squeezing, called *peristalsis*, push food along.",
+    "es": "Tu intestino es un tubo muscular. Ondas de contracción, la *peristalsis*, empujan la comida.",
+    "fr": "L'intestin est un tube musculaire. Des vagues de contraction, le *péristaltisme*, font avancer les aliments.",
+    "ja": "腸は筋肉の管。*ぜん動運動*という波のような動きで、中身を先へ送ります。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 140 710 C 300 670 420 750 540 710 C 660 670 780 750 940 710'/><path class='d' data-s='0' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 140 850 C 300 810 420 890 540 850 C 660 810 780 890 940 850'/><path class='d' data-s='0.9' data-d='0.5' fill='none' stroke='#e63946' stroke-width='9'  d='M 380 700 C 400 760 400 800 380 860 M 420 700 C 400 760 400 800 420 860'/><ellipse class='d' data-s='1.2' data-d='0.5' cx='560' cy='780' rx='70' ry='50' fill='none' stroke='#1d1d1d' stroke-width='9'/><path class='d' data-s='1.8' data-d='0.5' fill='none' stroke='#e63946' stroke-width='9'  d='M 660 620 L 860 620 M 839 632 L 860 620 L 839 608'/><path class='d' data-s='2.0' data-d='0.5' fill='none' stroke='#e63946' stroke-width='9'  d='M 660 940 L 860 940 M 839 952 L 860 940 L 839 928'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 84,
+     "color": "#e63946",
+     "s": 2.4,
+     "t": {
+      "en": "SQUEEZE & PUSH",
+      "es": "APRIETA Y EMPUJA",
+      "fr": "SERRER ET POUSSER",
+      "ja": "ギュッと送る"
+     },
+     "maxW": 900
+    }
+   ]
+  },
+  {
+   "dur": 6,
+   "caption": {
+    "en": "It also moves *gas and liquid*. Bubbles squeezed through the tube make the noise.",
+    "es": "También mueve *gas y líquido*. Las burbujas que pasan por el tubo hacen el ruido.",
+    "fr": "Il fait aussi avancer *gaz et liquide*. Les bulles qui passent font le bruit.",
+    "ja": "腸は*ガスや水分*も運びます。その泡が押し出されるときの音なのです。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 140 710 C 300 670 420 750 540 710 C 660 670 780 750 940 710'/><path class='d' data-s='0' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 140 850 C 300 810 420 890 540 850 C 660 810 780 890 940 850'/><circle class='d' data-s='0.6' data-d='0.4' cx='300' cy='790' r='34' fill='none' stroke='#3a86c8' stroke-width='8'/><circle class='d' data-s='0.85' data-d='0.4' cx='420' cy='760' r='24' fill='none' stroke='#3a86c8' stroke-width='8'/><circle class='d' data-s='1.1' data-d='0.4' cx='520' cy='800' r='40' fill='none' stroke='#3a86c8' stroke-width='8'/><circle class='d' data-s='1.35' data-d='0.4' cx='650' cy='770' r='28' fill='none' stroke='#3a86c8' stroke-width='8'/><circle class='d' data-s='1.6' data-d='0.4' cx='760' cy='795' r='36' fill='none' stroke='#3a86c8' stroke-width='8'/><path class='d' data-s='1.9' data-d='0.5' fill='none' stroke='#e63946' stroke-width='8'  d='M 950 740 q 25 40 0 80 M 990 710 q 45 70 0 140'/><path class='d' data-s='2.2' data-d='0.5' fill='none' stroke='#e63946' stroke-width='8'  d='M 520 560 q 30 -40 60 0 q 30 40 60 0'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 84,
+     "color": "#e63946",
+     "s": 2.6,
+     "t": {
+      "en": "BUBBLES = NOISE",
+      "es": "BURBUJAS = RUIDO",
+      "fr": "BULLES = BRUIT",
+      "ja": "泡が音に"
+     },
+     "maxW": 900
+    }
+   ]
+  },
+  {
+   "dur": 6,
+   "caption": {
+    "en": "When you're *hungry*, the gut is nearly empty, so there's less to muffle the sound.",
+    "es": "Con *hambre*, el intestino está casi vacío y hay poco que amortigüe el sonido.",
+    "fr": "Quand on a *faim*, l'intestin est presque vide : rien n'étouffe le bruit.",
+    "ja": "*空腹*のときはお腹が空っぽ。音をやわらげる中身が少ないので、よく響きます。"
+   },
+   "svg": "<g transform='translate(-80 170) scale(0.8)'><path class='d' data-s='0' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='12.5'  d='M 500 470 L 510 560 C 420 600 420 770 540 810 C 650 845 780 790 770 690 C 765 630 705 610 660 640 C 620 665 585 640 575 600 L 565 470'/></g><path class='d' data-s='1.4' data-d='0.5' fill='none' stroke='#e63946' stroke-width='8'  d='M 620 650 q 25 40 0 80 M 660 620 q 45 70 0 140'/><path class='d' data-s='1.6' data-d='0.5' fill='none' stroke='#e63946' stroke-width='8'  d='M 250 650 q -25 40 0 80 M 210 620 q -45 70 0 140'/><circle class='d' data-s='1.0' data-d='0.6' cx='840' cy='640' r='95' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='1.6' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='8'  d='M 790 600 V 680 M 775 600 v 30 q 15 15 30 0 v -30 M 880 600 c -25 20 -25 50 0 60 v 25'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 84,
+     "color": "#e63946",
+     "s": 2.4,
+     "t": {
+      "en": "EMPTY = LOUDER",
+      "es": "VACÍO = MÁS RUIDO",
+      "fr": "VIDE = PLUS FORT",
+      "ja": "空っぽ＝よく響く"
+     },
+     "maxW": 900
+    }
+   ]
+  },
+  {
+   "dur": 6,
+   "caption": {
+    "en": "Between meals, a 'cleaning' wave sweeps leftovers through roughly every *1.5–2 hours*.",
+    "es": "Entre comidas, una onda de 'limpieza' barre los restos cada *1,5–2 horas* aprox.",
+    "fr": "Entre les repas, une vague de « ménage » balaie les restes environ toutes les *1 h 30–2 h*.",
+    "ja": "食事と食事の間は、約*1.5〜2時間*ごとに「お掃除の波」が残りを押し流します。"
+   },
+   "svg": "<circle class='d' data-s='0' data-d='0.7' cx='300' cy='700' r='140' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='0.5' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 270 540 H 330 M 300 540 V 560'/><path class='f' data-s='0.8' data-d='1.0' data-o='0.85' d='M 300 700 L 300 580 A 120 120 0 1 1 180 700 Z' fill='#e63946' opacity='0'/><path class='d' data-s='0.7' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 300 700 L 300 590'/><path class='d' data-s='1.0' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 540 640 H 960 M 540 820 H 960'/><path class='d' data-s='1.4' data-d='0.4' fill='none' stroke='#e63946' stroke-width='9'  d='M 600 660 C 620 720 620 740 600 800 M 640 660 C 620 720 620 740 640 800'/><circle class='p' data-s='1.6' data-d='0.4' cx='720' cy='730' r='14' fill='#888'/><circle class='p' data-s='1.7' data-d='0.4' cx='780' cy='710' r='10' fill='#888'/><circle class='p' data-s='1.8' data-d='0.4' cx='840' cy='745' r='12' fill='#888'/><path class='d' data-s='1.9' data-d='0.5' fill='none' stroke='#e63946' stroke-width='9'  d='M 600 900 L 940 900 M 919 912 L 940 900 L 919 888'/>",
+   "texts": [
+    {
+     "x": 300,
+     "y": 960,
+     "size": 56,
+     "color": "#1d1d1d",
+     "s": 1.2,
+     "t": {
+      "en": "1.5–2 h",
+      "es": "1,5–2 h",
+      "fr": "1 h 30–2 h",
+      "ja": "1.5〜2時間"
+     },
+     "maxW": 380
+    },
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 84,
+     "color": "#e63946",
+     "s": 2.4,
+     "t": {
+      "en": "CLEANING WAVE",
+      "es": "ONDA DE LIMPIEZA",
+      "fr": "VAGUE DE MÉNAGE",
+      "ja": "お掃除の波"
+     },
+     "maxW": 900
+    }
+   ],
+   "narration": {
+    "en": "Between meals, a 'cleaning' wave sweeps leftovers through roughly every *1.5 to 2 hours*.",
+    "es": "Entre comidas, una onda de 'limpieza' barre los restos cada *1,5 a 2 horas* aprox.",
+    "fr": "Entre les repas, une vague de « ménage » balaie les restes environ toutes les *1 h 30 à 2 h*.",
+    "ja": "食事と食事の間は、約*1.5から2時間*ごとに「お掃除の波」が残りを押し流します。"
+   }
+  },
+  {
+   "dur": 5.5,
+   "caption": {
+    "en": "It's *normal*. Eating something or sipping water often quiets it down.",
+    "es": "Es *normal*. Comer algo o beber agua suele calmarlo.",
+    "fr": "C'est *normal*. Manger un peu ou boire de l'eau le calme souvent.",
+    "ja": "これは*正常*な音。何か食べたり水を飲んだりすると静まりやすいです。"
+   },
+   "svg": "<g transform='translate(-60 170) scale(0.8)'><path class='d' data-s='0' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='12.5'  d='M 500 470 L 510 560 C 420 600 420 770 540 810 C 650 845 780 790 770 690 C 765 630 705 610 660 640 C 620 665 585 640 575 600 L 565 470'/></g><path class='d' data-s='0.9' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 760 580 H 900 L 885 820 H 775 Z'/><path class='f' data-s='1.4' data-d='0.5' data-o='0.35' d='M 772 680 H 888 L 885 820 H 775 Z' fill='#3a86c8' opacity='0'/><path class='d' data-s='2.2' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='12'  d='M 770.0 470 L 815.0 515.0 L 900.0 405.0'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 96,
+     "color": "#e63946",
+     "s": 2.4,
+     "t": {
+      "en": "NORMAL",
+      "es": "NORMAL",
+      "fr": "NORMAL",
+      "ja": "正常です"
+     }
+    }
+   ]
+  },
+  {
+   "dur": 6.5,
+   "caption": {
+    "en": "See a doctor if the noises come with *pain*, swelling, diarrhea, vomiting or blood in stool.",
+    "es": "Ve al médico si los ruidos vienen con *dolor*, hinchazón, diarrea, vómitos o sangre en las heces.",
+    "fr": "Consulte si les bruits s'accompagnent de *douleur*, ballonnement, diarrhée, vomissements ou sang dans les selles.",
+    "ja": "*痛み*、お腹の張り、下痢、嘔吐、血便をともなうときは受診しましょう。"
+   },
+   "svg": "<path class='d' data-s='0.2' data-d='0.5' fill='none' stroke='#e63946' stroke-width='10'  d='M 240 540 L 190 630 L 245 630 L 195 720'/><circle class='d' data-s='0.6' data-d='0.5' cx='540' cy='630' r='85' fill='none' stroke='#1d1d1d' stroke-width='9'/><path class='d' data-s='0.9' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='7'  d='M 490 600 q 50 -30 100 0'/><path class='p' data-s='1.2' data-d='0.4' fill='#e63946' d='M 810 560 C 810 560 786.6 592.5 786.6 608.1 A 23.400000000000002 23.400000000000002 0 0 0 833.4 608.1 C 833.4 592.5 810 560 810 560 Z'/><path class='p' data-s='1.4' data-d='0.4' fill='#e63946' d='M 870 620 C 870 620 852.0 645.0 852.0 657.0 A 18.0 18.0 0 0 0 888.0 657.0 C 888.0 645.0 870 620 870 620 Z'/><circle class='d' data-s='2.4' data-d='0.6' cx='540' cy='960' r='80' fill='none' stroke='#e63946' stroke-width='10'/><path class='p' data-s='2.9' data-d='0.4' fill='#e63946' d='M 522.4 907.2 H 557.6 V 942.4 H 592.8 V 977.6 H 557.6 V 1012.8 H 522.4 V 977.6 H 487.2 V 942.4 H 522.4 Z'/>",
+   "texts": [
+    {
+     "x": 220,
+     "y": 770,
+     "size": 34,
+     "color": "#1d1d1d",
+     "s": 0.6,
+     "t": {
+      "en": "PAIN",
+      "es": "DOLOR",
+      "fr": "DOULEUR",
+      "ja": "痛み"
+     },
+     "maxW": 280
+    },
+    {
+     "x": 540,
+     "y": 770,
+     "size": 34,
+     "color": "#1d1d1d",
+     "s": 1.0,
+     "t": {
+      "en": "SWELLING",
+      "es": "HINCHAZÓN",
+      "fr": "GONFLEMENT",
+      "ja": "張り"
+     },
+     "maxW": 280
+    },
+    {
+     "x": 840,
+     "y": 770,
+     "size": 34,
+     "color": "#1d1d1d",
+     "s": 1.6,
+     "t": {
+      "en": "DIARRHEA · VOMITING",
+      "es": "DIARREA · VÓMITOS",
+      "fr": "DIARRHÉE · VOMIS",
+      "ja": "下痢・嘔吐"
+     },
+     "maxW": 330
+    },
+    {
+     "x": 540,
+     "y": 1205,
+     "size": 96,
+     "color": "#e63946",
+     "s": 3.0,
+     "t": {
+      "en": "SEE A DOCTOR",
+      "es": "VE AL MÉDICO",
+      "fr": "VOIS UN MÉDECIN",
+      "ja": "受診しよう"
+     },
+     "maxW": 900
+    }
+   ]
+  }
+ ]
+}

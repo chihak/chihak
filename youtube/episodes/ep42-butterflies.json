@@ -1,0 +1,217 @@
+{
+  "id": "ep42-butterflies",
+  "title": {
+    "en": "Why Do You Get *Butterflies* When You're Nervous?",
+    "es": "¿Por qué sientes *mariposas* en el estómago?",
+    "fr": "Pourquoi a-t-on des *papillons* dans le ventre ?",
+    "ja": "緊張するとお腹が*ソ⁠ワ⁠ソ⁠ワ*⁠す⁠る⁠の⁠は⁠な⁠ぜ⁠？"
+  },
+  "steps": 3,
+  "stepsFrom": 2,
+  "coverTime": 4.5,
+  "scenes": [
+    {
+      "dur": 5,
+      "caption": {
+        "en": "Big exam, first date, going on stage… and your stomach starts to *flutter*.",
+        "es": "Un examen, una cita, salir al escenario… y tu estómago empieza a *revolotear*.",
+        "fr": "Un examen, un rendez-vous, une scène… et ton ventre se met à *papillonner*.",
+        "ja": "試験の前、デートの前、本番前…。お腹が*ソワソワ*しませんか？"
+      },
+      "svg": "<path class='d' data-s='0' data-d='0.9' fill='none' stroke='#888' stroke-width='9' d='M 260 1080 L 280 720 Q 290 600 400 570 Q 470 555 490 520 L 490 470 M 820 1080 L 800 720 Q 790 600 680 570 Q 610 555 590 520 L 590 470'/><path class='f' data-s='0.8' data-d='0.5' data-o='0.25' fill='#e63946' opacity='0' d='M 600 640 C 690 640 720 720 700 800 C 680 890 580 920 500 880 C 450 855 440 815 470 805 C 520 815 580 800 595 760 C 610 715 580 690 560 670 Z'/><path class='d' data-s='0.3' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 600 640 C 690 640 720 720 700 800 C 680 890 580 920 500 880 C 450 855 440 815 470 805 C 520 815 580 800 595 760 C 610 715 580 690 560 670 Z'/><path class='d' data-s='0.5' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 560 670 L 545 560'/><g transform='rotate(-15 575 790)'><path class='p' data-s='1.2' data-d='0.4' fill='#ffd166' stroke='#1d1d1d' stroke-width='5' d='M 575 790 C 564 738 512 743 523 779 C 528 793 556 793 575 790 Z M 575 793 C 542 797 528 818 545 827 C 560 834 570 815 575 793 Z M 575 790 C 586 738 638 743 627 779 C 622 793 594 793 575 790 Z M 575 793 C 608 797 622 818 605 827 C 590 834 580 815 575 793 Z M 575 774 L 575 815 M 575 774 L 565 757 M 575 774 L 585 757'/></g><g transform='rotate(-20 370 640)'><path class='p' data-s='1.5' data-d='0.4' fill='#ffd166' stroke='#1d1d1d' stroke-width='5' d='M 370 640 C 355 569 284 576 299 625 C 306 644 344 644 370 640 Z M 370 644 C 325 649 306 678 329 691 C 349 700 362 674 370 644 Z M 370 640 C 385 569 456 576 441 625 C 434 644 396 644 370 640 Z M 370 644 C 415 649 434 678 411 691 C 391 700 378 674 370 644 Z M 370 618 L 370 674 M 370 618 L 356 595 M 370 618 L 384 595'/></g><g transform='rotate(15 735 560)'><path class='p' data-s='1.7' data-d='0.4' fill='#ffd166' stroke='#1d1d1d' stroke-width='5' d='M 735 560 C 721 494 654 500 668 546 C 676 564 710 564 735 560 Z M 735 564 C 693 568 676 595 696 608 C 715 616 728 592 735 564 Z M 735 560 C 749 494 816 500 802 546 C 794 564 760 564 735 560 Z M 735 564 C 777 568 794 595 774 608 C 755 616 742 592 735 564 Z M 735 539 L 735 592 M 735 539 L 722 518 M 735 539 L 748 518'/></g><g transform='rotate(10 370 900)'><path class='p' data-s='1.9' data-d='0.4' fill='#ffd166' stroke='#1d1d1d' stroke-width='5' d='M 370 900 C 358 843 301 849 313 888 C 319 903 349 903 370 900 Z M 370 903 C 334 907 319 930 337 941 C 353 948 364 927 370 903 Z M 370 900 C 382 843 439 849 427 888 C 421 903 391 903 370 900 Z M 370 903 C 406 907 421 930 403 941 C 387 948 376 927 370 903 Z M 370 882 L 370 927 M 370 882 L 359 864 M 370 882 L 381 864'/></g><g transform='rotate(-10 740 850)'><path class='p' data-s='2.1' data-d='0.4' fill='#ffd166' stroke='#1d1d1d' stroke-width='5' d='M 740 850 C 729 798 677 803 688 839 C 693 853 721 853 740 850 Z M 740 853 C 707 857 693 878 710 887 C 725 894 734 875 740 853 Z M 740 850 C 751 798 803 803 792 839 C 787 853 759 853 740 850 Z M 740 853 C 773 857 787 878 770 887 C 755 894 746 875 740 853 Z M 740 834 L 740 875 M 740 834 L 730 817 M 740 834 L 750 817'/></g><path class='d' data-s='1.6' data-d='0.4' fill='none' stroke='#e63946' stroke-width='7' d='M 440 700 q 10 -15 20 0 t 20 0 M 690 650 q 10 -15 20 0 t 20 0 M 760 860 q 10 -15 20 0 t 20 0'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 100,
+          "color": "#e63946",
+          "s": 2.0,
+          "t": {
+            "en": "BUTTERFLIES!",
+            "es": "¡MARIPOSAS!",
+            "fr": "PAPILLONS !",
+            "ja": "ソワソワ…"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 5,
+      "caption": {
+        "en": "That's your *fight-or-flight* response: your body gearing up to face a challenge.",
+        "es": "Es tu respuesta de *lucha o huida*: tu cuerpo se prepara para un desafío.",
+        "fr": "C'est la réaction de *combat ou fuite* : ton corps se prépare à un défi.",
+        "ja": "これは「*闘争・逃走反応*」。戦うか逃げるか、体が準備を始めます。"
+      },
+      "svg": "<g transform='translate(540 580) scale(0.7) translate(-620 -720)'><path class='d' data-s='0' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 420 760 C 380 640 480 560 580 580 C 640 540 760 560 800 640 C 860 700 850 800 790 830 C 760 880 680 870 640 850 C 580 880 480 870 450 830 C 410 820 400 790 420 760 Z'/><path class='d' data-s='0.6' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='7' d='M 520 640 Q 560 690 520 740 M 620 620 Q 600 680 660 710 M 560 800 Q 620 770 690 800 M 700 640 Q 740 670 720 720'/></g><path class='d' data-s='0.9' data-d='0.4' fill='none' stroke='#e63946' stroke-width='10' d='M 330 520 L 290 490 M 320 600 L 270 600 M 330 680 L 290 710 M 750 520 L 790 490 M 760 600 L 810 600 M 750 680 L 790 710 M 540 470 L 540 440'/><circle class='d' data-s='1.3' data-d='0.4' cx='560' cy='820' r='36' fill='none' stroke='#1d1d1d' stroke-width='9' /><path class='d' data-s='1.5' data-d='0.7' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 555 856 L 535 960 M 535 960 L 590 1010 L 600 1075 M 535 960 L 485 1005 L 445 1035 M 550 890 L 610 930 L 650 895 M 550 890 L 495 915 L 470 870'/><path class='d' data-s='2.0' data-d='0.4' fill='none' stroke='#888' stroke-width='8' d='M 380 900 L 300 900 M 400 960 L 290 960 M 380 1020 L 310 1020'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 96,
+          "color": "#e63946",
+          "s": 2.2,
+          "t": {
+            "en": "FIGHT OR FLIGHT",
+            "es": "LUCHA O HUIDA",
+            "fr": "COMBAT OU FUITE",
+            "ja": "闘争・逃走反応"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 5.5,
+      "caption": {
+        "en": "*1* — Your adrenal glands release *adrenaline*. Heart and breathing *speed up*.",
+        "es": "*1* — Se libera *adrenalina*: el corazón y la respiración *se aceleran*.",
+        "fr": "*1* — Les glandes surrénales libèrent de l'*adrénaline* : cœur et souffle *s'accélèrent*.",
+        "ja": "*１* 副腎から*アドレナリン*が出て、胸がドキドキ、呼吸も*速く*。"
+      },
+      "svg": "<g transform='translate(540 950) scale(1.35) translate(-540 -900)'><path class='d' data-s='0' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 390 820 C 340 820 335 980 390 980 C 440 980 450 930 425 900 C 450 870 440 820 390 820 Z'/><path class='d' data-s='0.1' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 690 820 C 740 820 745 980 690 980 C 640 980 630 930 655 900 C 630 870 640 820 690 820 Z'/><path class='p' data-s='0.7' data-d='0.4' fill='#e63946' stroke='#1d1d1d' stroke-width='6' d='M 355 830 L 390 770 L 430 825 Z'/><path class='p' data-s='0.8' data-d='0.4' fill='#e63946' stroke='#1d1d1d' stroke-width='6' d='M 725 830 L 690 770 L 650 825 Z'/></g><g transform='translate(540 560) scale(1.3) translate(-540 -630)'><path class='d' data-s='1.4' data-d='0.6' fill='none' stroke='#e63946' stroke-width='10' d='M 540 690 C 470 640 480 570 540 600 C 600 570 610 640 540 690 Z'/></g><path class='d' data-s='2.0' data-d='0.4' fill='none' stroke='#e63946' stroke-width='8' d='M 640 590 Q 660 620 640 650 M 675 570 Q 705 620 675 670 M 440 590 Q 420 620 440 650 M 405 570 Q 375 620 405 670'/><path class='p' data-s='1.0' data-d='0.3' fill='#e63946' d='M 330 758 C 314 780 316 796 330 796 C 344 796 346 780 330 758 Z'/><path class='p' data-s='1.12' data-d='0.3' fill='#e63946' d='M 300 678 C 284 700 286 716 300 716 C 314 716 316 700 300 678 Z'/><path class='p' data-s='1.24' data-d='0.3' fill='#e63946' d='M 750 758 C 734 780 736 796 750 796 C 764 796 766 780 750 758 Z'/><path class='p' data-s='1.3599999999999999' data-d='0.3' fill='#e63946' d='M 780 678 C 764 700 766 716 780 716 C 794 716 796 700 780 678 Z'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 100,
+          "color": "#e63946",
+          "s": 1.8,
+          "t": {
+            "en": "ADRENALINE",
+            "es": "ADRENALINA",
+            "fr": "ADRÉNALINE",
+            "ja": "アドレナリン"
+          }
+        }
+      ],
+      "step": 1
+    },
+    {
+      "dur": 5.5,
+      "caption": {
+        "en": "*2* — Blood is sent *away from your gut*, toward your muscles.",
+        "es": "*2* — La sangre se *desvía del intestino* hacia los músculos.",
+        "fr": "*2* — Le sang *quitte le ventre* pour aller vers les muscles.",
+        "ja": "*２* 血液は*胃腸から筋肉へ*。"
+      },
+      "svg": "<g transform='translate(300 820) scale(0.75) translate(-580 -770)'><path class='f' data-s='0.5' data-d='0.5' data-o='0.25' fill='#888' opacity='0' d='M 600 640 C 690 640 720 720 700 800 C 680 890 580 920 500 880 C 450 855 440 815 470 805 C 520 815 580 800 595 760 C 610 715 580 690 560 670 Z'/><path class='d' data-s='0' data-d='0.9' fill='none' stroke='#888' stroke-width='10' stroke-dasharray='16 12' d='M 600 640 C 690 640 720 720 700 800 C 680 890 580 920 500 880 C 450 855 440 815 470 805 C 520 815 580 800 595 760 C 610 715 580 690 560 670 Z'/><path class='d' data-s='0.2' data-d='0.4' fill='none' stroke='#888' stroke-width='9' d='M 560 670 L 545 560'/></g><path class='f' data-s='1.6' data-d='0.5' data-o='0.45' fill='#e63946' opacity='0' d='M 600 800 Q 690 700 800 790 L 600 800 Z'/><path class='d' data-s='0.3' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 600 900 L 780 900 Q 860 900 860 820 L 860 640 M 800 640 L 800 790 Q 700 700 600 800'/><circle class='d' data-s='0.8' data-d='0.5' cx='830' cy='600' r='48' fill='none' stroke='#1d1d1d' stroke-width='10' /><path class='d' data-s='1.0' data-d='0.6' fill='none' stroke='#e63946' stroke-width='10' d='M 390 880 C 430 960 520 950 580 870'/><path class='d' data-s='1.5' data-d='0.2' fill='none' stroke='#e63946' stroke-width='10' d='M 552 870 L 582 866 L 580 898'/><path class='p' data-s='1.3' data-d='0.3' fill='#e63946' d='M 430 912 C 417 930 419 943 430 943 C 441 943 443 930 430 912 Z'/><path class='p' data-s='1.42' data-d='0.3' fill='#e63946' d='M 480 927 C 467 945 469 958 480 958 C 491 958 493 945 480 927 Z'/><path class='p' data-s='1.54' data-d='0.3' fill='#e63946' d='M 530 907 C 517 925 519 938 530 938 C 541 938 543 925 530 907 Z'/><path class='d' data-s='2.0' data-d='0.3' fill='none' stroke='#e63946' stroke-width='8' d='M 640 680 L 610 640 M 700 650 L 700 600 M 760 680 L 790 640'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 92,
+          "color": "#e63946",
+          "s": 2.2,
+          "t": {
+            "en": "GUT → MUSCLES",
+            "es": "INTESTINO → MÚSCULOS",
+            "fr": "VENTRE → MUSCLES",
+            "ja": "胃腸 → 筋肉"
+          }
+        }
+      ],
+      "step": 2
+    },
+    {
+      "dur": 5.5,
+      "caption": {
+        "en": "*3* — Digestion *slows down* and gut muscles change rhythm: that *fluttery, queasy* feeling.",
+        "es": "*3* — La digestión *se frena* y el intestino cambia de ritmo: esa sensación *rara y revuelta*.",
+        "fr": "*3* — La digestion *ralentit* et l'intestin change de rythme : le ventre se *noue*.",
+        "ja": "*３* 胃腸の働きが*ゆっくり*になり、これが*ソワソワ*感の正体です。"
+      },
+      "svg": "<g transform='translate(540 790) scale(1.3) translate(-580 -770)'><path class='f' data-s='0.5' data-d='0.5' data-o='0.25' fill='#e63946' opacity='0' d='M 600 640 C 690 640 720 720 700 800 C 680 890 580 920 500 880 C 450 855 440 815 470 805 C 520 815 580 800 595 760 C 610 715 580 690 560 670 Z'/><path class='d' data-s='0' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 600 640 C 690 640 720 720 700 800 C 680 890 580 920 500 880 C 450 855 440 815 470 805 C 520 815 580 800 595 760 C 610 715 580 690 560 670 Z'/><path class='d' data-s='0.2' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 560 670 L 545 560'/></g><path class='d' data-s='1.0' data-d='0.5' fill='none' stroke='#e63946' stroke-width='8' d='M 300 640 q 15 -25 30 0 t 30 0 t 30 0 M 720 1010 q 15 -25 30 0 t 30 0 t 30 0'/><path class='d' data-s='1.2' data-d='0.5' fill='none' stroke='#888' stroke-width='8' d='M 300 900 Q 280 950 300 1000 M 260 880 Q 230 950 260 1020 M 800 600 Q 830 650 800 700 M 840 580 Q 880 650 840 720'/><g transform='rotate(-20 570 820)'><path class='p' data-s='1.6' data-d='0.4' fill='#ffd166' stroke='#1d1d1d' stroke-width='5' d='M 570 820 C 558 763 501 769 513 808 C 519 823 549 823 570 820 Z M 570 823 C 534 827 519 850 537 861 C 553 868 564 847 570 823 Z M 570 820 C 582 763 639 769 627 808 C 621 823 591 823 570 820 Z M 570 823 C 606 827 621 850 603 861 C 587 868 576 847 570 823 Z M 570 802 L 570 847 M 570 802 L 559 784 M 570 802 L 581 784'/></g><g transform='rotate(25 400 560)'><path class='p' data-s='1.8' data-d='0.4' fill='#ffd166' stroke='#1d1d1d' stroke-width='5' d='M 400 560 C 388 503 331 509 343 548 C 349 563 379 563 400 560 Z M 400 563 C 364 567 349 590 367 601 C 383 608 394 587 400 563 Z M 400 560 C 412 503 469 509 457 548 C 451 563 421 563 400 560 Z M 400 563 C 436 567 451 590 433 601 C 417 608 406 587 400 563 Z M 400 542 L 400 587 M 400 542 L 389 524 M 400 542 L 411 524'/></g><g transform='rotate(-10 840 860)'><path class='p' data-s='2.0' data-d='0.4' fill='#ffd166' stroke='#1d1d1d' stroke-width='5' d='M 840 860 C 829 808 777 813 788 849 C 793 863 821 863 840 860 Z M 840 863 C 807 867 793 888 810 897 C 825 904 834 885 840 863 Z M 840 860 C 851 808 903 813 892 849 C 887 863 859 863 840 860 Z M 840 863 C 873 867 887 888 870 897 C 855 904 846 885 840 863 Z M 840 844 L 840 885 M 840 844 L 830 827 M 840 844 L 850 827'/></g>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 100,
+          "color": "#e63946",
+          "s": 2.2,
+          "t": {
+            "en": "FLUTTER",
+            "es": "COSQUILLEO",
+            "fr": "VENTRE NOUÉ",
+            "ja": "ソワソワ"
+          }
+        }
+      ],
+      "step": 3
+    },
+    {
+      "dur": 6,
+      "caption": {
+        "en": "Your gut has its own nerve network, the *“second brain,”* wired to your brain by the *vagus nerve*.",
+        "es": "Tu intestino tiene su red de nervios, el *“segundo cerebro”*, unida al cerebro por el *nervio vago*.",
+        "fr": "Ton intestin a son réseau de nerfs, le *« deuxième cerveau »*, relié au cerveau par le *nerf vague*.",
+        "ja": "腸の神経網は、通称「*第二の脳*」。*迷走神経*で脳とつながっています。"
+      },
+      "svg": "<g transform='translate(540 570) scale(0.75) translate(-620 -720)'><path class='d' data-s='0' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 420 760 C 380 640 480 560 580 580 C 640 540 760 560 800 640 C 860 700 850 800 790 830 C 760 880 680 870 640 850 C 580 880 480 870 450 830 C 410 820 400 790 420 760 Z'/><path class='d' data-s='0.6' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='7' d='M 520 640 Q 560 690 520 740 M 620 620 Q 600 680 660 710 M 560 800 Q 620 770 690 800 M 700 640 Q 740 670 720 720'/></g><g transform='translate(540 960) scale(1.35) translate(-540 -940)'><path class='d' data-s='0.4' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 400 900 Q 400 860 440 860 L 640 860 Q 680 860 680 900 Q 680 940 640 940 L 440 940 Q 400 940 400 980 Q 400 1020 440 1020 L 680 1020'/><circle class='p' data-s='1.3' data-d='0.3' cx='450' cy='900' r='9' fill='#e63946'/><circle class='p' data-s='1.36' data-d='0.3' cx='520' cy='900' r='9' fill='#e63946'/><circle class='p' data-s='1.42' data-d='0.3' cx='600' cy='900' r='9' fill='#e63946'/><circle class='p' data-s='1.48' data-d='0.3' cx='470' cy='980' r='9' fill='#e63946'/><circle class='p' data-s='1.54' data-d='0.3' cx='560' cy='980' r='9' fill='#e63946'/><circle class='p' data-s='1.6' data-d='0.3' cx='630' cy='980' r='9' fill='#e63946'/><path class='d' data-s='1.6' data-d='0.6' fill='none' stroke='#e63946' stroke-width='4' d='M 450 900 L 520 900 L 600 900 M 470 980 L 560 980 L 630 980 M 450 900 L 470 980 M 520 900 L 560 980 M 600 900 L 630 980 M 520 900 L 470 980 M 600 900 L 560 980'/></g><path class='d' data-s='0.9' data-d='0.7' fill='none' stroke='#e63946' stroke-width='9' d='M 520 690 C 600 730 470 770 540 800 C 580 820 560 835 545 850'/><circle class='p' data-s='2.2' data-d='0.3' cx='532' cy='720' r='13' fill='#ffd166' stroke='#1d1d1d' stroke-width='4'/><circle class='p' data-s='2.35' data-d='0.3' cx='570' cy='770' r='13' fill='#ffd166' stroke='#1d1d1d' stroke-width='4'/><circle class='p' data-s='2.5' data-d='0.3' cx='548' cy='820' r='13' fill='#ffd166' stroke='#1d1d1d' stroke-width='4'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 96,
+          "color": "#e63946",
+          "s": 2.4,
+          "t": {
+            "en": "SECOND BRAIN",
+            "es": "SEGUNDO CEREBRO",
+            "fr": "DEUXIÈME CERVEAU",
+            "ja": "第二の脳"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 5,
+      "caption": {
+        "en": "It's a *normal* reaction, and it passes. *Slow, deep breaths* can help calm it.",
+        "es": "Es una reacción *normal* y se pasa. *Respirar lento y hondo* puede ayudar a calmarla.",
+        "fr": "C'est une réaction *normale*, et ça passe. *Respirer lentement* aide à la calmer.",
+        "ja": "*正常な反応*で、すぐおさまります。*ゆっくり深呼吸*が助けになります。"
+      },
+      "svg": "<path class='f' data-s='0.8' data-d='0.6' data-o='0.2' fill='#e63946' opacity='0' d='M 515 640 C 420 630 355 770 365 910 C 370 990 450 1000 510 960 Z'/><path class='f' data-s='0.8' data-d='0.6' data-o='0.2' fill='#e63946' opacity='0' d='M 565 640 C 660 630 725 770 715 910 C 710 990 630 1000 570 960 Z'/><path class='d' data-s='0.2' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 515 640 C 420 630 355 770 365 910 C 370 990 450 1000 510 960 Z'/><path class='d' data-s='0.3' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 565 640 C 660 630 725 770 715 910 C 710 990 630 1000 570 960 Z'/><path class='d' data-s='0' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 540 500 L 540 650 M 540 650 Q 525 670 515 700 M 540 650 Q 555 670 565 700'/><path class='d' data-s='1.3' data-d='0.6' fill='none' stroke='#888' stroke-width='9' d='M 300 500 Q 260 600 330 660 M 300 640 L 332 662 L 340 625'/><path class='d' data-s='2.0' data-d='0.6' fill='none' stroke='#888' stroke-width='9' d='M 760 660 Q 830 600 790 500 M 765 530 L 790 498 L 812 532'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 96,
+          "color": "#e63946",
+          "s": 1.8,
+          "t": {
+            "en": "SLOW BREATHS",
+            "es": "RESPIRA LENTO",
+            "fr": "RESPIRE LENTEMENT",
+            "ja": "ゆっくり深呼吸"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 5,
+      "caption": {
+        "en": "See a doctor if stomach symptoms are *frequent* or get in the way of *daily life*.",
+        "es": "Consulta al médico si las molestias son *frecuentes* o afectan tu *vida diaria*.",
+        "fr": "Consulte si les troubles du ventre sont *fréquents* ou gênent ton *quotidien*.",
+        "ja": "お腹の症状が*しょっちゅう*起こり、*生活に支障*が出るなら受診を。"
+      },
+      "svg": "<g transform='translate(320 820) scale(0.85) translate(-580 -770)'><path class='f' data-s='0.5' data-d='0.5' data-o='0.25' fill='#e63946' opacity='0' d='M 600 640 C 690 640 720 720 700 800 C 680 890 580 920 500 880 C 450 855 440 815 470 805 C 520 815 580 800 595 760 C 610 715 580 690 560 670 Z'/><path class='d' data-s='0' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 600 640 C 690 640 720 720 700 800 C 680 890 580 920 500 880 C 450 855 440 815 470 805 C 520 815 580 800 595 760 C 610 715 580 690 560 670 Z'/><path class='d' data-s='0.2' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 560 670 L 545 560'/></g><path class='d' data-s='0.5' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 600 620 L 900 620 L 900 960 L 600 960 Z M 600 700 L 900 700 M 700 700 L 700 960 M 800 700 L 800 960 M 600 787 L 900 787 M 600 873 L 900 873'/><path class='d' data-s='0.8' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 660 590 L 660 645 M 840 590 L 840 645'/><path class='d' data-s='1.4' data-d='0.2' fill='none' stroke='#e63946' stroke-width='9' d='M 628 721 L 672 765 M 672 721 L 628 765'/><path class='d' data-s='1.52' data-d='0.2' fill='none' stroke='#e63946' stroke-width='9' d='M 828 721 L 872 765 M 872 721 L 828 765'/><path class='d' data-s='1.64' data-d='0.2' fill='none' stroke='#e63946' stroke-width='9' d='M 728 808 L 772 852 M 772 808 L 728 852'/><path class='d' data-s='1.7599999999999998' data-d='0.2' fill='none' stroke='#e63946' stroke-width='9' d='M 628 895 L 672 939 M 672 895 L 628 939'/><path class='d' data-s='1.88' data-d='0.2' fill='none' stroke='#e63946' stroke-width='9' d='M 828 808 L 872 852 M 872 808 L 828 852'/><path class='d' data-s='2.0' data-d='0.2' fill='none' stroke='#e63946' stroke-width='9' d='M 728 895 L 772 939 M 772 895 L 728 939'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 100,
+          "color": "#e63946",
+          "s": 2.2,
+          "t": {
+            "en": "SEE A DOCTOR",
+            "es": "VE AL MÉDICO",
+            "fr": "CONSULTE",
+            "ja": "受診しよう"
+          }
+        }
+      ]
+    }
+  ]
+}

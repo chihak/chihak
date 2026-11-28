@@ -1,0 +1,204 @@
+{
+ "id": "ep31-wrinkly-fingers",
+ "title": {
+  "en": "*Wrinkly Fingers* in Water?",
+  "es": "¿Por qué se *arrugan* los dedos?",
+  "fr": "Pourquoi les *doigts* se *plissent* ?",
+  "ja": "*指がふやける*のはなぜ？"
+ },
+ "coverTime": 4.0,
+ "scenes": [
+  {
+   "dur": 6,
+   "caption": {
+    "en": "Why do your *fingers wrinkle* in water? It's not what you think.",
+    "es": "¿Por qué se *arrugan* los dedos en el agua? No es lo que crees.",
+    "fr": "Pourquoi les *doigts se plissent* dans l'eau ? Pas pour la raison qu'on croit.",
+    "ja": "水につかると*指がしわしわ*になるのはなぜ？ 意外な理由です。"
+   },
+   "narration": {
+    "en": "Why do your fingers wrinkle in water? It's not what you think.",
+    "es": "¿Por qué se arrugan los dedos en el agua? No es lo que crees.",
+    "fr": "Pourquoi les doigts se plissent-ils dans l'eau ? Pas pour la raison qu'on croit.",
+    "ja": "水につかると、指がしわしわになるのはなぜ？ 意外な理由があります。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 440 1000 L 440 700 Q 440 620 540 620 Q 640 620 640 700 L 640 1000'/><path class='d' data-s='1.0' data-d='0.4' fill='none' stroke='#3a86c8' stroke-width='8' d='M 440 760 Q 490 738 540 760 Q 590 782 640 760'/><path class='d' data-s='1.2' data-d='0.4' fill='none' stroke='#3a86c8' stroke-width='8' d='M 440 820 Q 490 798 540 820 Q 590 842 640 820'/><path class='d' data-s='1.4' data-d='0.4' fill='none' stroke='#3a86c8' stroke-width='8' d='M 440 880 Q 490 858 540 880 Q 590 902 640 880'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#e63946",
+     "s": 1.6,
+     "t": {
+      "en": "WRINKLY FINGERS",
+      "es": "DEDOS ARRUGADOS",
+      "fr": "DOIGTS PLISSÉS",
+      "ja": "ふやけた指"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 7,
+   "caption": {
+    "en": "It's *not* your skin *swelling* with water. That's the old idea.",
+    "es": "*No* es la piel que se *hincha* con agua. Esa es la idea antigua.",
+    "fr": "Ce n'est *pas* la peau qui *gonfle* d'eau. C'est l'ancienne idée.",
+    "ja": "皮ふが水を*吸って膨らむ*わけではありません。それは古い説です。"
+   },
+   "narration": {
+    "en": "It's not your skin swelling with water. That's the old idea.",
+    "es": "No es la piel que se hincha con agua. Esa es la idea antigua.",
+    "fr": "Ce n'est pas la peau qui gonfle d'eau. C'est l'ancienne idée.",
+    "ja": "皮ふが水を吸って膨らむからではありません。それは昔の考え方です。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 440 1000 L 440 700 Q 440 620 540 620 Q 640 620 640 700 L 640 1000'/><path class='d' data-s='0.9' data-d='0.5' fill='none' stroke='#3a86c8' stroke-width='9' d='M 380 710 Q 420 770 380 790 Q 340 770 380 710'/><path class='d' data-s='1.2' data-d='0.5' fill='none' stroke='#3a86c8' stroke-width='9' d='M 700 770 Q 740 830 700 850 Q 660 830 700 770'/><path class='d' data-s='1.6' data-d='0.5' fill='none' stroke='#e63946' stroke-width='12' d='M 330 640 L 750 1000'/><path class='d' data-s='1.9' data-d='0.5' fill='none' stroke='#e63946' stroke-width='12' d='M 750 640 L 330 1000'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#e63946",
+     "s": 1.6,
+     "t": {
+      "en": "NOT SWELLING",
+      "es": "NO SE HINCHA",
+      "fr": "PAS UN GONFLEMENT",
+      "ja": "膨らむのではない"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 9,
+   "caption": {
+    "en": "It's your *nerves*. After a few minutes, they make tiny *blood vessels* in your fingertips *narrow*.",
+    "es": "Son los *nervios*. Tras unos minutos, hacen que los *vasos sanguíneos* de la yema se *estrechen*.",
+    "fr": "Ce sont les *nerfs*. Après quelques minutes, ils *resserrent* les petits *vaisseaux* des bouts des doigts.",
+    "ja": "原因は*神経*です。数分たつと、指先の細い*血管*が*縮み*ます。"
+   },
+   "narration": {
+    "en": "It's your nervous system. After a few minutes, it makes tiny blood vessels in your fingertips narrow.",
+    "es": "Es tu sistema nervioso. Tras unos minutos, hace que los vasos sanguíneos diminutos de la yema de los dedos se estrechen.",
+    "fr": "C'est ton système nerveux. Après quelques minutes, il resserre les minuscules vaisseaux du bout des doigts.",
+    "ja": "原因は神経です。数分たつと、神経の働きで、指先の細い血管が縮みます。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='1.0' fill='none' stroke='#e63946' stroke-width='22' d='M 340 800 Q 390 700 540 760 Q 690 820 740 720'/><path class='d' data-s='1.2' data-d='0.8' fill='none' stroke='#e63946' stroke-width='10' d='M 340 900 Q 390 840 540 880 Q 690 920 740 860'/><circle class='d' data-s='2.2' data-d='0.4' cx='540' cy='640' r='34' fill='none' stroke='#1d1d1d' stroke-width='9'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#3a86c8",
+     "s": 1.6,
+     "t": {
+      "en": "NERVES AT WORK",
+      "es": "LOS NERVIOS",
+      "fr": "LES NERFS AGISSENT",
+      "ja": "神経の働き"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 7,
+   "caption": {
+    "en": "The vessels shrink, the skin *pulls inward*, and *wrinkles* appear.",
+    "es": "Los vasos se encogen, la piel se *tensa hacia dentro* y salen *arrugas*.",
+    "fr": "Les vaisseaux rétrécissent, la peau se *replie* et des *plis* apparaissent.",
+    "ja": "血管が縮むと皮ふが*内側に引かれ*、*しわ*ができます。"
+   },
+   "narration": {
+    "en": "The vessels shrink, the skin pulls inward, and wrinkles appear.",
+    "es": "Los vasos se encogen, la piel se tensa hacia dentro y aparecen las arrugas.",
+    "fr": "Les vaisseaux rétrécissent, la peau se replie et des plis apparaissent.",
+    "ja": "血管が縮むと、皮ふが内側に引っ張られて、しわができます。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 440 1000 L 440 700 Q 440 620 540 620 Q 640 620 640 700 L 640 1000'/><path class='d' data-s='1.0' data-d='0.4' fill='none' stroke='#3a86c8' stroke-width='8' d='M 440 740 Q 490 718 540 740 Q 590 762 640 740'/><path class='d' data-s='1.3' data-d='0.4' fill='none' stroke='#3a86c8' stroke-width='8' d='M 440 800 Q 490 778 540 800 Q 590 822 640 800'/><path class='d' data-s='1.6' data-d='0.4' fill='none' stroke='#3a86c8' stroke-width='8' d='M 440 860 Q 490 838 540 860 Q 590 882 640 860'/><path class='d' data-s='1.9' data-d='0.4' fill='none' stroke='#3a86c8' stroke-width='8' d='M 440 920 Q 490 898 540 920 Q 590 942 640 920'/><path class='d' data-s='2.2' data-d='0.5' fill='none' stroke='#e63946' stroke-width='10' d='M 400 700 L 440 700 M 680 700 L 640 700'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#3a86c8",
+     "s": 1.6,
+     "t": {
+      "en": "SKIN PULLS IN",
+      "es": "LA PIEL SE TENSA",
+      "fr": "LA PEAU SE REPLIE",
+      "ja": "皮ふが縮む"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 8,
+   "caption": {
+    "en": "It may help you *grip* wet objects, like *tyre treads* on a wet road. Scientists still *debate* this.",
+    "es": "Quizá ayude a *agarrar* objetos mojados, como el *dibujo* de un neumático. Los científicos aún lo *debaten*.",
+    "fr": "Cela pourrait aider à *saisir* des objets mouillés, comme les *sculptures* d'un pneu. Les scientifiques *débattent* encore.",
+    "ja": "濡れた物を*つかみやすく*する、タイヤの溝のような働きかも。科学者の間では*議論中*です。"
+   },
+   "narration": {
+    "en": "It may help you grip wet objects, a bit like tyre treads on a wet road. Scientists still debate this.",
+    "es": "Quizá ayude a agarrar objetos mojados, un poco como el dibujo de un neumático en carretera mojada. Los científicos aún lo debaten.",
+    "fr": "Cela pourrait aider à saisir des objets mouillés, un peu comme les sculptures d'un pneu sur route mouillée. Les scientifiques en débattent encore.",
+    "ja": "濡れた物をつかみやすくする、雨の日のタイヤの溝のような働きかもしれません。科学者の間では、まだ議論が続いています。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 360 900 Q 420 760 540 760 Q 660 760 720 900'/><path class='d' data-s='1.0' data-d='0.8' fill='none' stroke='#3a86c8' stroke-width='9' d='M 400 860 L 400 900 M 460 800 L 460 900 M 540 780 L 540 900 M 620 800 L 620 900 M 680 860 L 680 900'/><path class='d' data-s='0.8' data-d='0.6' fill='none' stroke='#8a5a2b' stroke-width='12' d='M 330 940 H 750'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#e63946",
+     "s": 1.6,
+     "t": {
+      "en": "BETTER GRIP?",
+      "es": "¿MEJOR AGARRE?",
+      "fr": "MEILLEURE PRISE ?",
+      "ja": "滑りにくい？"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 9,
+   "caption": {
+    "en": "It's *harmless* and fades *within minutes* of drying. See a *doctor* if skin stays wrinkled, hurts, itches, or has *numbness*.",
+    "es": "Es *inofensivo* y se quita a los *pocos minutos* de secarte. Ve al *médico* si sigue arrugada, duele, pica o hay *entumecimiento*.",
+    "fr": "C'est *inoffensif* et ça disparaît *en quelques minutes* au sec. Consulte si la peau reste plissée, fait mal, démange ou *s'engourdit*.",
+    "ja": "*無害*で、乾けば*数分*で戻ります。しわが続く、痛い、かゆい、*しびれ*があるときは*受診*を。"
+   },
+   "narration": {
+    "en": "It's harmless, and it fades within minutes of drying off. See a doctor if skin stays wrinkled, hurts, itches, or feels numb.",
+    "es": "Es inofensivo y desaparece a los pocos minutos de secarte. Ve al médico si la piel sigue arrugada, duele, pica o sientes entumecimiento.",
+    "fr": "C'est inoffensif et ça disparaît en quelques minutes une fois sec. Consulte si la peau reste plissée, fait mal, démange ou s'engourdit.",
+    "ja": "無害で、体を拭いて乾かせば数分で元に戻ります。しわが続く、痛い、かゆい、しびれるときは、受診してください。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.9' fill='none' stroke='#3a86c8' stroke-width='12' d='M 440 640 H 640 V 760 H 760 V 860 H 640 V 980 H 440 V 860 H 320 V 760 H 440 Z'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#3a86c8",
+     "s": 1.6,
+     "t": {
+      "en": "HARMLESS",
+      "es": "INOFENSIVO",
+      "fr": "INOFFENSIF",
+      "ja": "心配いらない"
+     },
+     "maxW": 920
+    }
+   ]
+  }
+ ]
+}

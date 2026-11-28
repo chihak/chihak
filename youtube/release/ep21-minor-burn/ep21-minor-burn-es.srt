@@ -1,0 +1,51 @@
+1
+00:00:00,250 --> 00:00:01,908
+¿Te quemaste con algo caliente?
+
+2
+00:00:01,908 --> 00:00:04,154
+Primeros auxilios para una quemadura leve.
+
+3
+00:00:05,750 --> 00:00:10,678
+Una quemadura leve está roja y duele, puede tener ampollas pequeñas y es menor que tu palma.
+
+4
+00:00:12,250 --> 00:00:13,507
+1 — Aléjate del calor.
+
+5
+00:00:13,507 --> 00:00:16,879
+Quita con cuidado anillos y relojes antes de que se hinche.
+
+6
+00:00:18,750 --> 00:00:22,489
+2 — Enfría con agua corriente fresca durante 10 a 20 minutos.
+
+7
+00:00:22,489 --> 00:00:23,593
+Fresca, no helada.
+
+8
+00:00:25,250 --> 00:00:29,666
+3 — Cubre sin apretar con film transparente o un apósito limpio no adherente.
+
+9
+00:00:30,750 --> 00:00:33,787
+No uses hielo, mantequilla, aceite ni pasta de dientes.
+
+10
+00:00:33,787 --> 00:00:36,382
+No revientes ampollas ni arranques ropa pegada.
+
+11
+00:00:37,080 --> 00:00:43,075
+Ve al médico si es mayor que tu mano, profunda o blanca, en cara, manos, pies o genitales, o si es de un bebé.
+
+12
+00:00:44,080 --> 00:00:47,380
+¿Quemadura química o eléctrica, o dificultad para respirar?
+
+13
+00:00:47,380 --> 00:00:48,667
+Llama a emergencias ya.

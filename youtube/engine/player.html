@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+  html, body { margin: 0; padding: 0; }
+  body {
+    width: 1080px; height: 1920px; overflow: hidden; position: relative;
+    background: #fbfaf5;
+    font-family: "Liberation Sans", "Noto Sans CJK JP", "DejaVu Sans", sans-serif;
+    color: #1d1d1d;
+  }
+  #brand { position: absolute; left: 60px; top: 56px; font-size: 34px; font-weight: 700; letter-spacing: 1px; color: #1d1d1d; opacity: .75; }
+  #brand span { color: #e63946; }
+  #title {
+    position: absolute; left: 60px; right: 60px; top: 130px; text-align: center;
+    font-size: 84px; font-weight: 800; line-height: 1.08; letter-spacing: -1px;
+  }
+  #title .hl { color: #e63946; }
+  #steps { position: absolute; left: 0; right: 0; top: 345px; display: flex; justify-content: center; gap: 26px; }
+  #steps div {
+    width: 64px; height: 64px; border-radius: 50%; border: 5px solid #1d1d1d; box-sizing: border-box;
+    display: flex; align-items: center; justify-content: center; font-size: 32px; font-weight: 800; background: #fbfaf5;
+    transition: none;
+  }
+  #steps div.done { background: #1d1d1d; color: #fbfaf5; }
+  #steps div.on { background: #e63946; border-color: #e63946; color: #fff; transform: scale(1.18); }
+  svg#stage { position: absolute; left: 0; top: 0; width: 1080px; height: 1920px; }
+  #caption {
+    position: absolute; left: 70px; right: 70px; top: 1300px; height: 250px;
+    display: flex; align-items: center; justify-content: center; text-align: center;
+    font-weight: 800; line-height: 1.18;
+  }
+  #caption .box { background: #1d1d1d; color: #fff; padding: 22px 34px; border-radius: 26px; box-shadow: 8px 8px 0 #e63946; }
+  #caption b { color: #ffd166; }
+  #disclaimer { position: absolute; left: 60px; right: 60px; top: 1585px; text-align: center; font-size: 26px; color: #777; }
+  .lbl { font-family: "Liberation Sans", "Noto Sans CJK JP", sans-serif; font-weight: 800; }
+</style>
+</head>
+<body>
+<div id="brand">Sketch<span>Clinic</span></div>
+<div id="title"></div>
+<div id="steps"></div>
+<svg id="stage" viewBox="0 0 1080 1920" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="rough" x="-10%" y="-10%" width="120%" height="120%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="2" seed="7" result="n"/>
+      <feDisplacementMap in="SourceGraphic" in2="n" scale="7" xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
+  </defs>
+  <g id="scenes"></g>
+</svg>
+<div id="caption"><div class="box"></div></div>
+<div id="disclaimer"></div>
+
+<script>
+const UI = {
+  disclaimer: {
+    en: "Educational only · not medical advice",
+    es: "Solo educativo · no es consejo médico",
+    fr: "À but éducatif · pas un avis médical",
+    ja: "教育目的の情報です・医療アドバイスではありません"
+  },
+  outroTop: { en: "SAVE THIS", es: "GUÁRDALO", fr: "ENREGISTRE-LE", ja: "保存してね" },
+  outroSub: {
+    en: "It could help someone you love.",
+    es: "Podría ayudar a alguien que quieres.",
+    fr: "Ça pourrait aider un proche.",
+    ja: "大切な人を助けるかもしれません。"
+  },
+  outroFollow: { en: "Follow for more", es: "Síguenos para más", fr: "Abonne-toi pour plus", ja: "フォローしてね" }
+};
+const OUTRO_DUR = 2.8;
+const clamp = v => Math.max(0, Math.min(1, v));
+const ease = p => p < .5 ? 2*p*p : 1 - Math.pow(-2*p + 2, 2)/2;
+const esc = s => String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;");
+let EP, LANG, scenes = [], anims = [], total = 0;
+
+function L(o) { if (o == null) return ""; if (typeof o === "string") return o; return o[LANG] ?? o.en ?? ""; }
+
+function outroScene() {
+  return {
+    dur: OUTRO_DUR, caption: null, outro: true,
+    svg: `<path class="d" data-s="0" data-d="0.9" d="M540 1080 C 330 930 360 700 540 800 C 720 700 750 930 540 1080 Z" fill="none" stroke="#e63946" stroke-width="12" stroke-linejoin="round"/>
+          <path class="f" data-s="0.7" data-d="0.4" d="M540 1080 C 330 930 360 700 540 800 C 720 700 750 930 540 1080 Z" fill="#e63946" opacity="0"/>`,
+    texts: [
+      { x: 540, y: 600, size: 110, color: "#1d1d1d", s: 0.1, t: UI.outroTop },
+      { x: 540, y: 1200, size: 50, color: "#1d1d1d", s: 0.6, t: UI.outroSub, weight: 700 },
+      { x: 540, y: 1300, size: 46, color: "#e63946", s: 1.0, t: UI.outroFollow }
+    ]
+  };
+}
+
+function setup(ep, lang) {
+  EP = ep; LANG = lang;
+  document.documentElement.lang = lang;
+  const titleHtml = esc(L(ep.title)).replace(/\*([^*]+)\*/g, '<span class="hl">$1</span>');
+  const title = document.getElementById("title");
+  title.innerHTML = titleHtml;
+  const ts = L(ep.titleSize) || (lang === "ja" ? 76 : 84);
+  title.style.fontSize = ts + "px";
+  // shrink title to max 2 lines (~190px)
+  let fs = ts; while (title.offsetHeight > 200 && fs > 40) { fs -= 2; title.style.fontSize = fs + "px"; }
+  document.getElementById("disclaimer").textContent = L(UI.disclaimer);
+  const steps = document.getElementById("steps");
+  steps.innerHTML = "";
+  for (let i = 1; i <= (ep.steps || 0); i++) { const d = document.createElement("div"); d.textContent = i; steps.appendChild(d); }
+
+  const all = ep.scenes.concat(ep.noOutro ? [] : [outroScene()]);
+  const root = document.getElementById("scenes");
+  root.innerHTML = "";
+  let t = 0;
+  scenes = all.map((sc, i) => {
+    const g = document.createElementNS("http://www.w3.org/2000/svg", "g");
+    g.setAttribute("data-i", i);
+    const art = document.createElementNS("http://www.w3.org/2000/svg", "g");
+    art.setAttribute("filter", "url(#rough)");
+    art.setAttribute("stroke-linecap", "round");
+    art.setAttribute("stroke-linejoin", "round");
+    art.innerHTML = sc.svg || "";
+    g.appendChild(art);
+    root.appendChild(g); // attach before measuring text widths
+    (sc.texts || []).forEach(tx => {
+      const el = document.createElementNS("http://www.w3.org/2000/svg", "text");
+      el.setAttribute("x", tx.x); el.setAttribute("y", tx.y);
+      el.setAttribute("text-anchor", tx.anchor || "middle");
+      el.setAttribute("class", "lbl " + (tx.anim || "p"));
+      el.setAttribute("font-size", (lang === "ja" && tx.sizeJa) ? tx.sizeJa : tx.size || 80);
+      if (tx.weight) el.setAttribute("font-weight", tx.weight);
+      el.setAttribute("fill", tx.color || "#1d1d1d");
+      if (tx.rotate) el.setAttribute("transform", `rotate(${tx.rotate} ${tx.x} ${tx.y})`);
+      el.setAttribute("data-s", tx.s ?? 0.3); el.setAttribute("data-d", tx.d ?? 0.5);
+      el.textContent = L(tx.t);
+      g.appendChild(el);
+      // auto-fit width
+      const maxW = tx.maxW || 940;
+      let f = +el.getAttribute("font-size");
+      while (el.getBBox().width > maxW && f > 20) { f -= 2; el.setAttribute("font-size", f); }
+    });
+    const rec = { g, from: t, to: t + sc.dur, sc };
+    t += sc.dur;
+    return rec;
+  });
+  total = t;
+  anims = [];
+  scenes.forEach(rec => {
+    rec.g.querySelectorAll(".d,.f,.p").forEach(el => {
+      const a = { el, rec, s: rec.from + (+el.getAttribute("data-s") || 0), d: +el.getAttribute("data-d") || 0.8 };
+      if (el.classList.contains("d")) {
+        a.type = "d";
+        try { a.len = el.getTotalLength(); } catch (e) { a.len = 2000; }
+        el.style.strokeDasharray = a.len + " " + a.len;
+      } else if (el.classList.contains("f")) a.type = "f";
+      else { a.type = "p"; el.style.transformBox = "fill-box"; el.style.transformOrigin = "center"; }
+      a.baseOpacity = el.getAttribute("opacity") === "0" ? 1 : +(el.getAttribute("opacity") || 1);
+      if (el.getAttribute("data-o")) a.baseOpacity = +el.getAttribute("data-o");
+      anims.push(a);
+    });
+  });
+  return total;
+}
+
+function fitCaption(box) {
+  const cap = document.getElementById("caption");
+  let f = LANG === "ja" ? 54 : 60;
+  box.style.fontSize = f + "px";
+  while ((box.offsetHeight > 250 || box.offsetWidth > 940) && f > 30) { f -= 2; box.style.fontSize = f + "px"; }
+}
+
+let lastCap = null;
+function render(t) {
+  let cur = null;
+  scenes.forEach(rec => {
+    const vis = t >= rec.from && t < rec.to + (rec === scenes[scenes.length-1] ? 1 : 0);
+    rec.g.style.display = vis ? "" : "none";
+    if (vis) { cur = rec; const fi = clamp((t - rec.from) / 0.2); const fo = rec === scenes[scenes.length-1] ? 1 : clamp((rec.to - t) / 0.2); rec.g.style.opacity = Math.min(fi, fo); }
+  });
+  anims.forEach(a => {
+    if (a.rec !== cur) return;
+    const p = ease(clamp((t - a.s) / a.d));
+    if (a.type === "d") a.el.style.strokeDashoffset = a.len * (1 - p);
+    else if (a.type === "f") a.el.style.opacity = a.baseOpacity * p;
+    else { a.el.style.opacity = p > 0 ? 1 : 0; const sc = p === 0 ? 0.6 : (p < 1 ? 0.6 + 0.55 * p - 0.15 * Math.sin(p * Math.PI) * -1 : 1); a.el.style.transform = `scale(${p < 1 ? (0.6 + 0.4 * p + 0.12 * Math.sin(p * Math.PI)) : 1})`; }
+  });
+  // caption
+  const box = document.querySelector("#caption .box");
+  const sc = cur ? cur.sc : null;
+  const capText = sc && sc.caption ? L(sc.caption) : "";
+  if (capText !== lastCap) {
+    lastCap = capText;
+    box.innerHTML = esc(capText).replace(/\*([^*]+)\*/g, "<b>$1</b>");
+    box.style.display = capText ? "" : "none";
+    if (capText) fitCaption(box);
+  }
+  if (cur) {
+    const cp = clamp((t - cur.from) / 0.25);
+    box.style.opacity = cp; box.style.transform = `translateY(${(1 - ease(cp)) * 30}px)`;
+  }
+  // steps
+  const stepEls = document.querySelectorAll("#steps div");
+  const st = sc && sc.step ? sc.step : 0;
+  let maxDone = 0;
+  scenes.forEach(r => { if (r.sc.step && r.to <= t) maxDone = Math.max(maxDone, r.sc.step); });
+  stepEls.forEach((d, i) => {
+    d.className = (i + 1 === st) ? "on" : (i + 1 <= maxDone ? "done" : "");
+  });
+  const showSteps = sc && !sc.outro && (EP.stepsFrom == null || t >= scenes[EP.stepsFrom].from);
+  document.getElementById("steps").style.opacity = showSteps ? 1 : 0;
+}
+window.setup = setup; window.render = render;
+</script>
+</body>
+</html>

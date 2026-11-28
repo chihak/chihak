@@ -1,0 +1,227 @@
+{
+ "id": "ep25-something-in-eye",
+ "title": {
+  "en": "*Something in Your Eye?* Do This",
+  "es": "¿*Algo en el ojo?* Haz esto",
+  "fr": "*Quelque chose dans l'œil ?* Fais ça",
+  "ja": "*目に異物*が入ったら"
+ },
+ "coverTime": 4.0,
+ "steps": 3,
+ "stepsFrom": 1,
+ "scenes": [
+  {
+   "dur": 5.5,
+   "caption": {
+    "en": "Something in your eye? Don't rub it. Here's what to do.",
+    "es": "¿Algo en el ojo? No te lo frotes. Esto es lo que debes hacer.",
+    "fr": "Quelque chose dans l'œil ? Ne te frotte pas. Voici quoi faire.",
+    "ja": "目に何か入った？ こすらないで。対応の手順を見ていきましょう。"
+   },
+   "narration": {
+    "en": "Something in your eye? Don't rub it. Here's what to do.",
+    "fr": "Quelque chose dans l'œil ? Ne te frotte pas. Voici quoi faire."
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 230 800 Q 540 580 850 800 Q 540 1020 230 800 Z'/><circle class='d' data-s='0.5' data-d='0.6' cx='540' cy='800' r='95' fill='none' stroke='#3a86c8' stroke-width='10'/><circle class='f' data-s='0.9' data-d='0.4' data-o='1' cx='540' cy='800' r='40' fill='#1d1d1d' opacity='0'/><circle class='f' data-s='1.2' data-d='0.3' data-o='1' cx='640' cy='740' r='13' fill='#8a5a2b' opacity='0'/><path class='d' data-s='1.4' data-d='0.4' fill='none' stroke='#e63946' stroke-width='8' d='M 640 690 v -35 M 690 705 l 28 -28 M 700 760 h 38'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#e63946",
+     "s": 1.8,
+     "t": {
+      "en": "SOMETHING IN YOUR EYE",
+      "es": "ALGO EN EL OJO",
+      "fr": "QUELQUE CHOSE DANS L'ŒIL",
+      "ja": "目に何か入った"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 6.0,
+   "step": 1,
+   "caption": {
+    "en": "*1* — Wash your *hands*. Don't *rub* the eye, it can scratch the surface.",
+    "es": "*1* — Lávate las *manos*. No te *frotes* el ojo: puede rayar la superficie.",
+    "fr": "*1* — Lave-toi les *mains*. Ne *frotte* pas l'œil : tu risques de le rayer.",
+    "ja": "*1* — *手*を洗います。目を*こすらない*で。表面を傷つけることがあります。"
+   },
+   "narration": {
+    "en": "Step one. Wash your hands. Don't rub the eye, because that can scratch its surface.",
+    "fr": "Un : lave-toi les mains. Ne frotte pas l'œil, tu risques de le rayer."
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 230 800 Q 540 580 850 800 Q 540 1020 230 800 Z'/><circle class='d' data-s='0.5' data-d='0.6' cx='540' cy='800' r='95' fill='none' stroke='#3a86c8' stroke-width='10'/><circle class='f' data-s='0.9' data-d='0.4' data-o='1' cx='540' cy='800' r='40' fill='#1d1d1d' opacity='0'/><path class='d' data-s='1.0' data-d='0.5' fill='none' stroke='#e63946' stroke-width='16' d='M 330 560 L 750 1040 M 750 560 L 330 1040'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#e63946",
+     "s": 1.6,
+     "t": {
+      "en": "DON'T RUB",
+      "es": "NO FROTES",
+      "fr": "NE FROTTE PAS",
+      "ja": "こすらない"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 6.0,
+   "step": 2,
+   "caption": {
+    "en": "*2* — *Blink* a few times. Tears often wash the speck out on their own.",
+    "es": "*2* — *Parpadea* varias veces. Las lágrimas suelen sacar la partícula solas.",
+    "fr": "*2* — *Cligne* des yeux plusieurs fois. Les larmes évacuent souvent le grain toutes seules.",
+    "ja": "*2* — 何度か*まばたき*を。涙で異物が自然に流れ出ることがよくあります。"
+   },
+   "narration": {
+    "en": "Step two. Blink a few times. Tears often wash the speck out on their own.",
+    "fr": "Deux : cligne des yeux plusieurs fois. Les larmes évacuent souvent le grain."
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 230 800 Q 540 580 850 800 Q 540 1020 230 800 Z'/><circle class='d' data-s='0.5' data-d='0.6' cx='540' cy='800' r='95' fill='none' stroke='#3a86c8' stroke-width='10'/><circle class='f' data-s='0.9' data-d='0.4' data-o='1' cx='540' cy='800' r='40' fill='#1d1d1d' opacity='0'/><path class='d' data-s='0.6' data-d='0.5' fill='none' stroke='#3a86c8' stroke-width='10' d='M 470 1010 q -20 50 0 90 q 20 -40 0 -90 M 610 1010 q -20 50 0 90 q 20 -40 0 -90'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#3a86c8",
+     "s": 1.6,
+     "t": {
+      "en": "BLINK",
+      "es": "PARPADEA",
+      "fr": "CLIGNE",
+      "ja": "まばたき"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 6.5,
+   "step": 3,
+   "caption": {
+    "en": "*3* — Still there? *Rinse* with clean lukewarm water or sterile saline, tilting your head so it runs off.",
+    "es": "*3* — ¿Sigue ahí? *Enjuaga* con agua limpia tibia o suero salino estéril, inclinando la cabeza.",
+    "fr": "*3* — Toujours là ? *Rince* à l'eau propre tiède ou au sérum physiologique, tête penchée.",
+    "ja": "*3* — まだ残っている？ きれいなぬるま湯か滅菌した生理食塩水で*洗い流し*ます。頭を傾けて。"
+   },
+   "narration": {
+    "en": "Step three. Still there? Rinse with clean, lukewarm water or sterile saline, tilting your head so it runs off to the side.",
+    "fr": "Trois : rince à l'eau tiède propre ou au sérum physiologique, tête penchée."
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 230 800 Q 540 580 850 800 Q 540 1020 230 800 Z'/><circle class='d' data-s='0.5' data-d='0.6' cx='540' cy='800' r='95' fill='none' stroke='#3a86c8' stroke-width='10'/><circle class='f' data-s='0.9' data-d='0.4' data-o='1' cx='540' cy='800' r='40' fill='#1d1d1d' opacity='0'/><path class='d' data-s='0.5' data-d='0.6' fill='none' stroke='#3a86c8' stroke-width='12' d='M 900 560 L 700 650'/><path class='d' data-s='1.0' data-d='0.5' fill='none' stroke='#3a86c8' stroke-width='9' d='M 640 690 q -10 40 -20 70 M 600 690 q -10 50 -20 90 M 680 700 q -5 40 -15 70'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#3a86c8",
+     "s": 1.8,
+     "t": {
+      "en": "RINSE WITH WATER",
+      "es": "ENJUAGA CON AGUA",
+      "fr": "RINCE À L'EAU",
+      "ja": "水で洗い流す"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 6.0,
+   "caption": {
+    "en": "A speck under the *upper lid*? Gently pull the upper lid *over the lower* one so lashes sweep it away.",
+    "es": "¿Una partícula bajo el *párpado superior*? Tira suavemente de él *sobre el inferior* para que las pestañas la barran.",
+    "fr": "Un grain sous la *paupière supérieure* ? Tire-la doucement *par-dessus l'inférieure* : les cils le balaient.",
+    "ja": "*上まぶた*の裏なら、上まぶたをそっと*下まぶたにかぶせ*、まつげで払い出します。"
+   },
+   "narration": {
+    "en": "A speck under the upper lid? Gently pull the upper lid over the lower one, so the lashes can sweep it away.",
+    "fr": "Un grain sous la paupière supérieure ? Tire-la doucement par-dessus l'inférieure."
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 230 800 Q 540 580 850 800 Q 540 1020 230 800 Z'/><circle class='d' data-s='0.5' data-d='0.6' cx='540' cy='800' r='95' fill='none' stroke='#3a86c8' stroke-width='10'/><circle class='f' data-s='0.9' data-d='0.4' data-o='1' cx='540' cy='800' r='40' fill='#1d1d1d' opacity='0'/><path class='d' data-s='0.6' data-d='0.7' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 540 560 V 640 M 500 610 L 540 650 L 580 610'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 80,
+     "color": "#3a86c8",
+     "s": 1.8,
+     "t": {
+      "en": "LID OVER LID",
+      "es": "PÁRPADO SOBRE PÁRPADO",
+      "fr": "PAUPIÈRE SUR PAUPIÈRE",
+      "ja": "まぶたをかぶせる"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 6.5,
+   "caption": {
+    "en": "*Don't* try to remove anything *stuck* in the eye, or touch it with tweezers or cotton swabs.",
+    "es": "*No* intentes sacar nada *clavado* en el ojo, ni tocarlo con pinzas o bastoncillos.",
+    "fr": "*N'essaie pas* de retirer un objet *planté* dans l'œil, ni avec une pince ni avec un coton-tige.",
+    "ja": "目に*刺さった*物は取ろうとせず、ピンセットや綿棒で触れないでください。"
+   },
+   "narration": {
+    "en": "Don't try to remove anything stuck in the eye, and don't use tweezers or cotton swabs. Cover it loosely, and get help.",
+    "fr": "Ne retire pas un objet planté dans l'œil. Couvre-le sans appuyer."
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 230 800 Q 540 580 850 800 Q 540 1020 230 800 Z'/><circle class='d' data-s='0.5' data-d='0.6' cx='540' cy='800' r='95' fill='none' stroke='#3a86c8' stroke-width='10'/><circle class='f' data-s='0.9' data-d='0.4' data-o='1' cx='540' cy='800' r='40' fill='#1d1d1d' opacity='0'/><path class='d' data-s='0.8' data-d='0.5' fill='none' stroke='#8a5a2b' stroke-width='12' d='M 540 560 L 560 740'/><path class='d' data-s='1.3' data-d='0.5' fill='none' stroke='#e63946' stroke-width='16' d='M 330 560 L 750 1040 M 750 560 L 330 1040'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#e63946",
+     "s": 1.8,
+     "t": {
+      "en": "DON'T PULL IT OUT",
+      "es": "NO LO SAQUES",
+      "fr": "NE RETIRE PAS",
+      "ja": "抜かない"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 7.5,
+   "caption": {
+    "en": "Get *urgent care* for chemical splashes (rinse for 15 minutes first), a stuck object, vision changes, or pain that lasts.",
+    "es": "Busca *atención urgente* si es un químico (enjuaga 15 minutos antes), un objeto clavado, cambios en la vista o dolor que persiste.",
+    "fr": "Consulte en *urgence* pour une projection chimique (rince 15 minutes d'abord), un objet planté, une vision modifiée ou une douleur persistante.",
+    "ja": "薬品が入った（先に15分洗う）、物が刺さった、見えにくい、痛みが続くときは*すぐ受診*を。"
+   },
+   "narration": {
+    "en": "Get urgent medical care for a chemical splash, after rinsing for fifteen minutes, or for a stuck object, vision changes, or pain or redness that doesn't go away.",
+    "fr": "Urgence : produit chimique (rince 15 minutes), objet planté, vision altérée ou douleur persistante."
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.9' fill='none' stroke='#3a86c8' stroke-width='12' d='M 440 640 H 640 V 760 H 760 V 860 H 640 V 980 H 440 V 860 H 320 V 760 H 440 Z'/><path class='f' data-s='0.8' data-d='0.5' data-o='0.25' d='M 440 640 H 640 V 760 H 760 V 860 H 640 V 980 H 440 V 860 H 320 V 760 H 440 Z' fill='#3a86c8' opacity='0'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#3a86c8",
+     "s": 1.6,
+     "t": {
+      "en": "SEE A DOCTOR",
+      "es": "VE AL MÉDICO",
+      "fr": "VOIR UN MÉDECIN",
+      "ja": "受診しよう"
+     },
+     "maxW": 920
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,111 @@
+"""Collect finished episodes into youtube/release/ and write UPLOAD_PLAN.md for the browser agent.
+
+Usage: python3 youtube/make_release.py
+An episode is included when <id>.meta.json exists and all four language MP4s exist in youtube/out/<id>/
+(or, if not rendered here, already in youtube/release/<id>/).
+"""
+import json, shutil
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent
+LANGS = ["en", "es", "fr", "ja"]
+LANG_NAMES = {"en": "English", "es": "Spanish", "fr": "French", "ja": "Japanese"}
+REL = ROOT / "release"
+REL.mkdir(exist_ok=True)
+
+ready, pending = [], []
+for ep_file in sorted((ROOT / "episodes").glob("ep*.json")):
+    if ep_file.name.endswith(".meta.json"):
+        continue
+    ep = json.loads(ep_file.read_text())
+    meta_file = ep_file.with_name(ep["id"] + ".meta.json")
+    out = ROOT / "out" / ep["id"]
+    mp4s = {l: out / f"{ep['id']}-{l}.mp4" for l in LANGS}
+    dst = REL / ep["id"]
+    if meta_file.exists() and all(p.exists() for p in mp4s.values()):
+        dst.mkdir(exist_ok=True)
+        for l in LANGS:
+            shutil.copy2(mp4s[l], dst / mp4s[l].name)
+            for extra in (f"{ep['id']}-{l}-cover.png", f"{ep['id']}-{l}.srt"):
+                if (out / extra).exists():
+                    shutil.copy2(out / extra, dst / extra)
+        shutil.copy2(meta_file, dst / meta_file.name)
+        ready.append((ep["id"], json.loads(meta_file.read_text())))
+    elif meta_file.exists() and all((dst / f"{ep['id']}-{l}.mp4").exists() for l in LANGS):
+        # rendered earlier (possibly in another session; out/ is not committed): keep the released files
+        shutil.copy2(meta_file, dst / meta_file.name)
+        ready.append((ep["id"], json.loads(meta_file.read_text())))
+    else:
+        pending.append(ep["id"])
+
+shutil.copy2(ROOT / "brand" / "logo-800.png", REL / "logo-800.png")
+shutil.copy2(ROOT / "brand" / "banner-2560x1440.png", REL / "banner-2560x1440.png")
+
+L = []
+w = L.append
+w("# Sketch Clinic — YouTube channel setup & upload plan")
+w("")
+w("> **For the user (한국어 요약):** 이 문서를 Aside에게 그대로 넘기면 됩니다. 채널 만들기 → 로고/배너 → 영상 업로드 순서로 진행하고, 영상은 **공개(Public)**로 올립니다.")
+w("")
+w("## Instructions for the browser agent")
+w("You are working in the user's own browser, already signed in to their Google account. Do the steps in order. "
+  "Do not change any other Google/YouTube settings. Publish every video as **Public** "
+  "(the user decided this on 2026-11-26). Stop and ask the user if Google asks for a password, phone verification, "
+  "payment, or anything not described here. When done, report the channel URL and the list of uploaded video URLs.")
+w("")
+w("All files are in this folder (`youtube/release/` of the repository branch `claude/vibrant-mayer-8ogz3v`, "
+  "download/clone it to the computer first).")
+w("")
+w("## Step 1 — Create the channel")
+w("1. Go to https://www.youtube.com → profile icon → **Create a channel** (if the account already has a personal channel, "
+  "create a new channel via Settings → **Add or manage your channel(s)** → **Create a channel**, so it becomes a separate brand channel).")
+w("2. Name: **Sketch Clinic**")
+w("3. Handle: **@SketchClinic** (if taken, try @SketchClinicMD, then @SketchClinicHealth)")
+w("4. Profile picture: `logo-800.png`")
+w("5. In YouTube Studio → Customization → Branding: Banner image `banner-2560x1440.png`.")
+w("6. Customization → Basic info → Description:")
+w("")
+w("```")
+w("Your body, explained in 60 seconds. Short hand-drawn explainers about the everyday medical questions people wonder about — in English, Español, Français and 日本語.")
+w("Educational only — not medical advice. If you have symptoms, see a healthcare professional.")
+w("```")
+w("")
+w("7. Settings → Channel → Basic info: Country = (user's choice), keywords: `health, medical explained, body, shorts, first aid, sketch clinic`.")
+w("8. Settings → Upload defaults: Visibility **Public**, Category **Education**, Audience **No, it's not made for kids**.")
+w("")
+w("## Step 2 — Upload videos (Public)")
+w("First open YouTube Studio → Content and note the titles already on the channel. **Skip any video below that is already uploaded** (same or near-identical title) — never upload a duplicate. "
+  "Upload the rest from **Create → Upload videos**; fill in exactly the title, description and tags, then:")
+w("- Audience: **No, it's not made for kids**")
+w("- Show more → Language: the video's language (below); Category: Education")
+w("- Altered or synthetic content: **No** (hand-drawn animation, no realistic people)")
+w("- Visibility: **Public** → Publish")
+w("")
+w("Phase 1 uploads the **English** versions only. The Spanish, French and Japanese versions are ready in the same folders; "
+  "upload them only if the user says so (they may become separate channels later).")
+w("")
+for ep_id, meta in ready:
+    for l in LANGS:
+        m = meta[l]
+        tag = "" if l == "en" else "  *(Phase 2 — only if the user asks)*"
+        w(f"### {ep_id} — {LANG_NAMES[l]}{tag}")
+        w(f"- File: `{ep_id}/{ep_id}-{l}.mp4`")
+        w(f"- Video language: {LANG_NAMES[l]}")
+        if (REL / ep_id / f"{ep_id}-{l}.srt").exists():
+            w(f"- Subtitles file: `{ep_id}/{ep_id}-{l}.srt` (Subtitles → Add language: {LANG_NAMES[l]} → Upload file → With timing)")
+        w(f"- Title: `{m['title']}`")
+        w("- Description:")
+        w("```")
+        w(m["description"])
+        w("```")
+        w(f"- Tags: `{', '.join(m['tags'])}`")
+        w("")
+if pending:
+    w("## Not ready yet")
+    w("These episodes are still being produced and will be added to this plan later: " + ", ".join(pending))
+    w("")
+w("## Step 3 — Report back")
+w("Send the user: channel URL, and a table of episode → video URL (all Public).")
+(REL / "UPLOAD_PLAN.md").write_text("\n".join(L))
+print("ready:", [r[0] for r in ready])
+print("pending:", pending)

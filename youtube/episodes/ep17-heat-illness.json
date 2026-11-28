@@ -1,0 +1,272 @@
+{
+ "id": "ep17-heat-illness",
+ "title": {
+  "en": "Heat Exhaustion vs *Heatstroke*",
+  "es": "Agotamiento por calor vs *golpe de calor*",
+  "fr": "Épuisement dû à la chaleur ou *coup de chaleur* ?",
+  "ja": "熱疲労と*熱射病*のちがい"
+ },
+ "coverTime": 31.0,
+ "steps": 3,
+ "stepsFrom": 2,
+ "scenes": [
+  {
+   "dur": 5.5,
+   "caption": {
+    "en": "Hot day and feeling awful? Know *heat exhaustion* from *heatstroke*, an emergency.",
+    "es": "¿Día caluroso y te sientes fatal? Distingue *agotamiento por calor* y *golpe de calor*, una emergencia.",
+    "fr": "Il fait chaud et tu te sens mal ? Distingue *épuisement dû à la chaleur* et *coup de chaleur*, une urgence.",
+    "ja": "暑い日に具合が悪い？ *熱疲労*と、命にかかわる*熱射病*のちがいを知ろう。"
+   },
+   "svg": "<circle class='d' data-s='0' data-d='0.6' cx='820' cy='560' r='80' fill='none' stroke='#e63946' stroke-width='10'/><path class='d' data-s='0.5' data-d='0.5' fill='none' stroke='#e63946' stroke-width='9'  d='M 920 560 L 955 560 M 891 631 L 915 655 M 820 660 L 820 695 M 749 631 L 725 655 M 720 560 L 685 560 M 749 489 L 725 465 M 820 460 L 820 425 M 891 489 L 915 465'/><circle class='d' data-s='0.6' data-d='0.5' cx='420' cy='560' r='60' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='0.9' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='12'  d='M 420 620 V 860 M 420 860 L 360 1040 M 420 860 L 480 1040 M 420 670 L 330 810 M 420 670 L 510 810'/><path class='p' data-s='1.6' data-d='0.4' fill='#3a86c8' d='M 330 520 C 330 520 315.6 540.0 315.6 549.6 A 14.4 14.4 0 0 0 344.4 549.6 C 344.4 540.0 330 520 330 520 Z'/><path class='p' data-s='1.8' data-d='0.4' fill='#3a86c8' d='M 505 540 C 505 540 492.4 557.5 492.4 565.9 A 12.6 12.6 0 0 0 517.6 565.9 C 517.6 557.5 505 540 505 540 Z'/><path class='p' data-s='2.0' data-d='0.4' fill='#3a86c8' d='M 520 620 C 520 620 509.2 635.0 509.2 642.2 A 10.799999999999999 10.799999999999999 0 0 0 530.8 642.2 C 530.8 635.0 520 620 520 620 Z'/><path class='d' data-s='1.4' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 658 840 V 640 A 22 22 0 0 1 702 640 V 840'/><circle class='d' data-s='1.7' data-d='0.4' cx='680' cy='870' r='42' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='f' data-s='2.1' data-d='0.6' data-o='1' d='M 670 860 V 650.0 H 690 V 860 Z' fill='#e63946' opacity='0'/><circle class='p' data-s='2.1' data-d='0.4' cx='680' cy='870' r='30' fill='#e63946'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 96,
+     "color": "#e63946",
+     "s": 2.2,
+     "t": {
+      "en": "TOO HOT!",
+      "es": "¡DEMASIADO CALOR!",
+      "fr": "TROP CHAUD !",
+      "ja": "暑すぎる！"
+     },
+     "maxW": 900
+    }
+   ]
+  },
+  {
+   "dur": 6.5,
+   "caption": {
+    "en": "*Heat exhaustion*: heavy sweating, headache, dizziness, nausea, cramps, weakness and strong thirst.",
+    "es": "*Agotamiento por calor*: mucho sudor, dolor de cabeza, mareo, náuseas, calambres, debilidad y mucha sed.",
+    "fr": "*Épuisement dû à la chaleur* : forte sueur, mal de tête, vertiges, nausées, crampes, faiblesse, grosse soif.",
+    "ja": "*熱疲労*：大量の汗、頭痛、めまい、吐き気、筋肉のけいれん、だるさ、強いのどの渇き。"
+   },
+   "svg": "<circle class='d' data-s='0' data-d='0.5' cx='330' cy='560' r='60' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='0.3' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='12'  d='M 330 620 V 860 M 330 860 L 270 1040 M 330 860 L 390 1040 M 330 670 L 240 810 M 330 670 L 420 810'/><path class='p' data-s='1.0' data-d='0.4' fill='#3a86c8' d='M 240 520 C 240 520 225.6 540.0 225.6 549.6 A 14.4 14.4 0 0 0 254.4 549.6 C 254.4 540.0 240 520 240 520 Z'/><path class='p' data-s='1.2' data-d='0.4' fill='#3a86c8' d='M 415 540 C 415 540 402.4 557.5 402.4 565.9 A 12.6 12.6 0 0 0 427.6 565.9 C 427.6 557.5 415 540 415 540 Z'/><path class='p' data-s='1.4' data-d='0.4' fill='#3a86c8' d='M 430 620 C 430 620 419.2 635.0 419.2 642.2 A 10.799999999999999 10.799999999999999 0 0 0 440.8 642.2 C 440.8 635.0 430 620 430 620 Z'/><path class='d' data-s='1.2' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='8'  d='M 600 620 a 50 50 0 1 1 -8 0 a 28 28 0 1 0 4 0'/><path class='d' data-s='1.5' data-d='0.4' fill='none' stroke='#e63946' stroke-width='9'  d='M 780 560 l -30 60 h 40 l -30 60'/><path class='p' data-s='1.8' data-d='0.4' fill='#3a86c8' d='M 880 600 C 880 600 856.6 632.5 856.6 648.1 A 23.400000000000002 23.400000000000002 0 0 0 903.4 648.1 C 903.4 632.5 880 600 880 600 Z'/>",
+   "texts": [
+    {
+     "x": 740,
+     "y": 800,
+     "size": 40,
+     "color": "#1d1d1d",
+     "s": 2.0,
+     "t": {
+      "en": "SWEAT · DIZZY · THIRST",
+      "es": "SUDOR · MAREO · SED",
+      "fr": "SUEUR · VERTIGES · SOIF",
+      "ja": "汗・めまい・渇き"
+     },
+     "maxW": 480
+    },
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 84,
+     "color": "#e63946",
+     "s": 2.4,
+     "t": {
+      "en": "HEAT EXHAUSTION",
+      "es": "AGOTAMIENTO",
+      "fr": "ÉPUISEMENT",
+      "ja": "熱疲労"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 5.5,
+   "step": 1,
+   "caption": {
+    "en": "*1* — Move them to a *cool place*, lie them down and raise their feet slightly.",
+    "es": "*1* — Llévale a un *lugar fresco*, acuéstale y eleva un poco sus pies.",
+    "fr": "*1* — Mets la personne au *frais*, allongée, les pieds légèrement surélevés.",
+    "ja": "*1* *涼しい場所*へ移し、寝かせて足を少し高くします。"
+   },
+   "svg": "<circle class='d' data-s='0' data-d='0.4' cx='230' cy='895' r='45' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='0.3' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='12'  d='M 275 905 H 560 L 790 845'/><path class='d' data-s='0.9' data-d='0.4' fill='none' stroke='#888' stroke-width='8'  d='M 690 860 H 870 V 940 H 690 Z'/><path class='d' data-s='0.2' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='6'  d='M 160 945 H 900'/><path class='d' data-s='1.4' data-d='0.6' fill='none' stroke='#3a86c8' stroke-width='8'  d='M 300 600 q 40 -30 80 0 q 40 30 80 0 M 500 560 q 40 -30 80 0 q 40 30 80 0'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#e63946",
+     "s": 2.3,
+     "t": {
+      "en": "COOL PLACE",
+      "es": "LUGAR FRESCO",
+      "fr": "AU FRAIS",
+      "ja": "涼しい場所へ"
+     },
+     "maxW": 900
+    }
+   ]
+  },
+  {
+   "dur": 5,
+   "step": 2,
+   "caption": {
+    "en": "*2* — Give them plenty of *water* or a sports or rehydration drink to sip.",
+    "es": "*2* — Dale mucha *agua* o una bebida isotónica o de rehidratación, a sorbos.",
+    "fr": "*2* — Fais-lui boire de l'*eau* ou une boisson de réhydratation, par petites gorgées.",
+    "ja": "*2* *水分*をしっかり。水やスポーツドリンク、経口補水液を少しずつ。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 367.5 585.0 H 432.5 V 624.0 C 478.0 650.0 478.0 676.0 478.0 702.0 V 923.0 H 322.0 V 702.0 C 322.0 676.0 322.0 650.0 367.5 624.0 Z'/><path class='f' data-s='0.6' data-d='0.5' data-o='0.4' d='M 332.4 754.0 H 467.6 V 912.6 H 332.4 Z' fill='#3a86c8' opacity='0'/><path class='d' data-s='0.8' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 640 640 H 800 L 785 920 H 655 Z'/><path class='f' data-s='1.3' data-d='0.5' data-o='0.4' d='M 648 740 H 792 L 785 920 H 655 Z' fill='#3a86c8' opacity='0'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 92,
+     "color": "#e63946",
+     "s": 2.1,
+     "t": {
+      "en": "DRINK WATER",
+      "es": "BEBE AGUA",
+      "fr": "FAIS BOIRE",
+      "ja": "水分補給"
+     },
+     "maxW": 900
+    }
+   ]
+  },
+  {
+   "dur": 6,
+   "step": 3,
+   "caption": {
+    "en": "*3* — Cool the skin: spray or sponge with cool water and *fan* them. Cold packs at the armpits or neck help.",
+    "es": "*3* — Enfría la piel: rocía o pasa agua fresca y *abanica*. Compresas frías en axilas o cuello ayudan.",
+    "fr": "*3* — Refroidis la peau : eau fraîche en spray ou à l'éponge, et *évente*. Du froid aux aisselles ou au cou aide.",
+    "ja": "*3* 体を冷やす：冷たい水をかけたりふいたりして*あおぐ*。わきの下や首を冷やすのも効果的。"
+   },
+   "svg": "<circle class='d' data-s='0' data-d='0.5' cx='330' cy='560' r='60' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='0.3' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='12'  d='M 330 620 V 860 M 330 860 L 270 1040 M 330 860 L 390 1040 M 330 670 L 240 810 M 330 670 L 420 810'/><circle class='d' data-s='0.8' data-d='0.6' cx='780' cy='700' r='90' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='1.2' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='7'  d='M 780 700 C 800 640 850 650 840 690 Z M 780 700 C 720 710 720 770 770 760 Z M 780 700 C 820 740 800 790 770 760'/><path class='d' data-s='1.1' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 780 790 V 880 M 720 880 H 840'/><path class='d' data-s='1.7' data-d='0.5' fill='none' stroke='#3a86c8' stroke-width='8'  d='M 650 660 q -30 40 0 80 M 610 640 q -40 60 0 120'/><path class='d' data-s='1.6' data-d='0.4' fill='none' stroke='#3a86c8' stroke-width='7'  d='M 230 650 h 50 v 40 h -50 z M 380 650 h 50 v 40 h -50 z'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 96,
+     "color": "#e63946",
+     "s": 2.4,
+     "t": {
+      "en": "COOL DOWN",
+      "es": "ENFRÍA",
+      "fr": "REFROIDIS",
+      "ja": "体を冷やす"
+     },
+     "maxW": 900
+    }
+   ]
+  },
+  {
+   "dur": 7,
+   "caption": {
+    "en": "*Heatstroke* is an emergency. Call if they're *confused*, faint, seizing, not sweating, or not better in *30 min*.",
+    "es": "*Golpe de calor*: emergencia. Llama si hay *confusión*, desmayo, convulsión, no suda o no mejora en *30 min*.",
+    "fr": "*Coup de chaleur* : urgence. Appelle si *confusion*, malaise, convulsion, plus de sueur, ou pas de mieux en *30 min*.",
+    "ja": "*熱射病*は緊急事態。*意識がおかしい*、倒れる、けいれん、汗が出ない、*30分*休んでも良くならない→119番。"
+   },
+   "svg": "<circle class='d' data-s='0' data-d='0.5' cx='220' cy='640' r='70' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='0.4' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='7'  d='M 180 620 l 20 20 m 0 -20 l -20 20 M 240 620 l 20 20 m 0 -20 l -20 20'/><path class='d' data-s='0.6' data-d='0.4' fill='none' stroke='#e63946' stroke-width='7'  d='M 150 540 q 20 -30 40 0 q 20 30 40 0'/><path class='d' data-s='0.8' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 518 680 V 480 A 22 22 0 0 1 562 480 V 680'/><circle class='d' data-s='1.1' data-d='0.4' cx='540' cy='710' r='42' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='f' data-s='1.5' data-d='0.6' data-o='1' d='M 530 700 V 480.0 H 550 V 700 Z' fill='#e63946' opacity='0'/><circle class='p' data-s='1.5' data-d='0.4' cx='540' cy='710' r='30' fill='#e63946'/><circle class='d' data-s='1.4' data-d='0.7' cx='850' cy='640' r='90' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='1.9' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 820 530 H 880 M 850 530 V 550'/><path class='f' data-s='2.2' data-d='1.0' data-o='0.85' d='M 850 640 L 850 570 A 70 70 0 0 1 850 710 Z' fill='#e63946' opacity='0'/><path class='d' data-s='2.1' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 850 640 L 850 580'/>",
+   "texts": [
+    {
+     "x": 220,
+     "y": 820,
+     "size": 40,
+     "color": "#1d1d1d",
+     "s": 0.6,
+     "t": {
+      "en": "CONFUSED",
+      "es": "CONFUSIÓN",
+      "fr": "CONFUSION",
+      "ja": "意識が変"
+     },
+     "maxW": 280
+    },
+    {
+     "x": 540,
+     "y": 860,
+     "size": 40,
+     "color": "#1d1d1d",
+     "s": 1.2,
+     "t": {
+      "en": "40 °C+",
+      "es": "40 °C+",
+      "fr": "40 °C+",
+      "ja": "40 °C+"
+     },
+     "maxW": 280
+    },
+    {
+     "x": 850,
+     "y": 820,
+     "size": 40,
+     "color": "#1d1d1d",
+     "s": 1.8,
+     "t": {
+      "en": "30 min",
+      "es": "30 min",
+      "fr": "30 min",
+      "ja": "30分"
+     },
+     "maxW": 280
+    },
+    {
+     "x": 540,
+     "y": 1040,
+     "size": 72,
+     "color": "#e63946",
+     "s": 2.4,
+     "t": {
+      "en": "911 · 999 · 112",
+      "es": "112 · 911",
+      "fr": "15 · 112",
+      "ja": "119"
+     },
+     "maxW": 800
+    },
+    {
+     "x": 540,
+     "y": 1205,
+     "size": 96,
+     "color": "#e63946",
+     "s": 2.8,
+     "t": {
+      "en": "HEATSTROKE",
+      "es": "GOLPE DE CALOR",
+      "fr": "COUP DE CHALEUR",
+      "ja": "熱射病"
+     },
+     "maxW": 900
+    }
+   ],
+   "narration": {
+    "en": "*Heatstroke* is an emergency. Call if they're *confused*, faint, seizing, not sweating, or not better in *30 minutes*."
+   }
+  },
+  {
+   "dur": 5.5,
+   "caption": {
+    "en": "While you wait, *keep cooling* them. Don't give drinks if they aren't fully awake.",
+    "es": "Mientras esperas, *sigue enfriándole*. No le des de beber si no está bien despierto.",
+    "fr": "En attendant, *continue de refroidir*. Ne donne pas à boire s'il n'est pas bien conscient.",
+    "ja": "救急車を待つ間も*冷やし続ける*。意識がはっきりしないときは飲ませないで。"
+   },
+   "svg": "<circle class='d' data-s='0' data-d='0.4' cx='230' cy='880' r='50' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='0.3' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='12'  d='M 280 890 H 760'/><path class='d' data-s='0.2' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='6'  d='M 160 960 H 900'/><path class='d' data-s='0.8' data-d='0.4' fill='none' stroke='#3a86c8' stroke-width='7'  d='M 330 840 h 50 v 40 h -50 z M 500 840 h 50 v 40 h -50 z'/><circle class='d' data-s='1.1' data-d='0.6' cx='780' cy='640' r='90' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='1.5' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='7'  d='M 780 640 C 800 580 850 590 840 630 Z M 780 640 C 720 650 720 710 770 700 Z M 780 640 C 820 680 800 730 770 700'/><path class='d' data-s='1.4' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 780 730 V 820 M 720 820 H 840'/><path class='d' data-s='2.0' data-d='0.5' fill='none' stroke='#3a86c8' stroke-width='8'  d='M 650 600 q -30 40 0 80 M 610 580 q -40 60 0 120'/><path class='d' data-s='1.6' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 365.0 510.0 H 395.0 V 528.0 C 416.0 540.0 416.0 552.0 416.0 564.0 V 666.0 H 344.0 V 564.0 C 344.0 552.0 344.0 540.0 365.0 528.0 Z'/><path class='f' data-s='2.2' data-d='0.5' data-o='0.4' d='M 348.8 588.0 H 411.2 V 661.2 H 348.8 Z' fill='#3a86c8' opacity='0'/><path class='d' data-s='2.2' data-d='0.5' fill='none' stroke='#e63946' stroke-width='14'  d='M 320.0 540.0 L 440.0 660.0 M 440.0 540.0 L 320.0 660.0'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 88,
+     "color": "#e63946",
+     "s": 2.5,
+     "t": {
+      "en": "KEEP COOLING",
+      "es": "SIGUE ENFRIANDO",
+      "fr": "REFROIDIS ENCORE",
+      "ja": "冷やし続ける"
+     },
+     "maxW": 900
+    }
+   ]
+  }
+ ]
+}

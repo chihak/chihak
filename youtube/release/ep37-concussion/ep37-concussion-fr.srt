@@ -1,0 +1,35 @@
+1
+00:00:00,250 --> 00:00:01,298
+Un coup à la tête ?
+
+2
+00:00:01,298 --> 00:00:05,159
+Une commotion cérébrale est une lésion brève du cerveau après un choc.
+
+3
+00:00:05,159 --> 00:00:07,034
+Pas besoin de perdre connaissance.
+
+4
+00:00:07,730 --> 00:00:11,975
+Surveille mal de tête, vertiges, nausées, confusion, vue floue ou trous de mémoire.
+
+5
+00:00:16,730 --> 00:00:24,751
+Appelle les urgences s'il ne se réveille pas, fait une crise convulsive, n'arrive pas à rester éveillé, a du mal à parler ou les bras ou jambes faibles.
+
+6
+00:00:26,730 --> 00:00:34,645
+Va aux urgences s'il a perdu connaissance, même brièvement, vomit, a un mal de tête qui empire, se comporte bizarrement ou prend des anticoagulants.
+
+7
+00:00:36,730 --> 00:00:43,749
+Sinon, repos, un adulte reste avec lui les 24 premières heures, du paracétamol pour le mal de tête, et pas d'alcool.
+
+8
+00:00:46,730 --> 00:00:51,408
+Pas de sport de contact pendant au moins 3 semaines, et ne conduis pas avant d'aller mieux.
+
+9
+00:00:51,408 --> 00:00:53,258
+La plupart guérissent en 2 semaines.

@@ -1,0 +1,39 @@
+1
+00:00:00,250 --> 00:00:01,250
+¿Te picó una abeja?
+
+2
+00:00:01,250 --> 00:00:04,197
+Esto es lo que debes hacer, y las señales de emergencia.
+
+3
+00:00:05,250 --> 00:00:09,912
+1 — Saca el aguijón rápido: ráspalo de lado con la uña o el borde de una tarjeta.
+
+4
+00:00:09,912 --> 00:00:10,775
+No lo aprietes.
+
+5
+00:00:11,750 --> 00:00:13,734
+2 — Lava la zona con agua y jabón.
+
+6
+00:00:16,750 --> 00:00:21,081
+3 — Pon una compresa fría o hielo envuelto en un paño al menos 10 minutos.
+
+7
+00:00:22,750 --> 00:00:25,395
+Dolor, enrojecimiento e hinchazón son normales.
+
+8
+00:00:25,395 --> 00:00:27,251
+No te rasques: se puede infectar.
+
+9
+00:00:28,250 --> 00:00:33,797
+Emergencia si hay dificultad para respirar, hinchazón de cara, labios o garganta, mareo o desmayo.
+
+10
+00:00:35,250 --> 00:00:40,242
+Si tiene un autoinyector de adrenalina, úsalo de inmediato en el muslo — y llama a emergencias.

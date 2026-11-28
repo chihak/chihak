@@ -1,0 +1,303 @@
+{
+ "id": "ep08-head-rush",
+ "title": {
+  "en": "Why Standing Up Fast Makes You *Dizzy*",
+  "es": "¿Por qué te *mareas* al levantarte rápido?",
+  "fr": "Pourquoi ça *tourne* quand on se lève vite ?",
+  "ja": "急に立つと*クラッ*…なぜ？"
+ },
+ "coverTime": 16.5,
+ "scenes": [
+  {
+   "dur": 5.5,
+   "caption": {
+    "en": "Stood up fast and the room *spun*, or went dark for a second? Here's why.",
+    "es": "¿Te levantas rápido y todo *da vueltas* o se oscurece un segundo? Te explico.",
+    "fr": "Tu te lèves vite et tout *tourne*, ou devient noir une seconde ? Voici pourquoi.",
+    "ja": "急に立ち上がって、目の前が*グラッ*と暗くなったことはありませんか？"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 180 620 V 1080 M 180 860 H 380 M 365 860 V 1080'/><path class='d' data-s='0.1' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='6'  d='M 160 1100 Q 500 1080 920 1100'/><path class='d' data-s='0.6' data-d='0.5' fill='none' stroke='#e63946' stroke-width='9'  d='M 320 820 Q 360 640 520 640 M 495 653 L 520 640 L 495 627'/><g transform='rotate(7 640 1090)'><circle class='d' data-s='0.9' data-d='0.6' cx='640' cy='560' r='65' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='1.2' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 640 625 L 640 880 M 640 880 L 570 1090 M 640 880 L 710 1090 M 640 690 L 540 790 M 640 690 L 740 640 L 700 560'/></g><path class='d' data-s='1.9' data-d='0.7' fill='none' stroke='#e63946' stroke-width='7'  d='M 520 450 a 30 30 0 1 1 30 30 a 18 18 0 1 1 -18 -18 a 8 8 0 1 1 8 8'/><path class='d' data-s='2.1' data-d='0.7' fill='none' stroke='#e63946' stroke-width='7'  d='M 760 460 a 30 30 0 1 1 30 30 a 18 18 0 1 1 -18 -18 a 8 8 0 1 1 8 8'/><path class='p' data-s='2.4' data-d='0.3' fill='none' stroke='#e63946' stroke-width='7' d='M 830 598 L 830 642 M 808 620 L 852 620'/><path class='p' data-s='2.6' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='7' d='M 470 544 L 470 576 M 454 560 L 486 560'/><path class='p' data-s='2.8' data-d='0.3' fill='none' stroke='#e63946' stroke-width='7' d='M 860 764 L 860 796 M 844 780 L 876 780'/><path class='d' data-s='2.2' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='6'  d='M 820 900 Q 850 960 820 1020'/><path class='d' data-s='2.3' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='6'  d='M 470 880 Q 440 940 470 1000'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#e63946",
+     "s": 2.4,
+     "t": {
+      "en": "HEAD RUSH?",
+      "es": "¿MAREO?",
+      "fr": "TÊTE QUI TOURNE ?",
+      "ja": "立ちくらみ？"
+     }
+    }
+   ]
+  },
+  {
+   "dur": 5.5,
+   "caption": {
+    "en": "When you stand, gravity pulls about *half a liter* of blood down into your legs.",
+    "es": "Al ponerte de pie, la gravedad baja cerca de *medio litro* de sangre a las piernas.",
+    "fr": "Debout, la gravité fait descendre environ *un demi-litre* de sang dans les jambes.",
+    "ja": "立つと重力で、約*500mL*の血液が脚のほうへ下がります。"
+   },
+   "svg": "<circle class='d' data-s='0' data-d='0.5' cx='540' cy='525' r='62' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='0.3' data-d='1.2' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 515 590 L 430 615 L 395 840 L 435 848 L 465 690 L 465 870 L 470 1120 L 528 1120 L 540 905 L 552 1120 L 610 1120 L 615 870 L 615 690 L 645 848 L 685 840 L 650 615 L 565 590'/><path class='f' data-s='2.6' data-d='0.8' data-o='0.85' d='M 472 960 L 528 960 L 526 1115 L 474 1115 Z M 553 960 L 608 960 L 606 1115 L 554 1115 Z' fill='#e63946' opacity='0' /><circle class='p' data-s='1.2' data-d='0.4' cx='540' cy='700' r='16' fill='#e63946'/><circle class='p' data-s='1.5' data-d='0.4' cx='540' cy='780' r='16' fill='#e63946'/><circle class='p' data-s='1.8' data-d='0.4' cx='540' cy='860' r='16' fill='#e63946'/><circle class='p' data-s='2.1' data-d='0.4' cx='498' cy='960' r='14' fill='#e63946'/><circle class='p' data-s='2.2' data-d='0.4' cx='582' cy='960' r='14' fill='#e63946'/><path class='d' data-s='1.4' data-d='0.5' fill='none' stroke='#e63946' stroke-width='12'  d='M 800 620 L 800 1000 M 781 965 L 800 1000 L 819 965'/><path class='d' data-s='1.5' data-d='0.5' fill='none' stroke='#e63946' stroke-width='12'  d='M 280 620 L 280 1000 M 261 965 L 280 1000 L 299 965'/>",
+   "texts": [
+    {
+     "x": 800,
+     "y": 575,
+     "size": 46,
+     "color": "#e63946",
+     "s": 1.4,
+     "maxW": 260,
+     "t": {
+      "en": "GRAVITY",
+      "es": "GRAVEDAD",
+      "fr": "GRAVITÉ",
+      "ja": "重力"
+     }
+    },
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 96,
+     "color": "#e63946",
+     "s": 2.8,
+     "t": {
+      "en": "≈ 0.5 L ↓",
+      "es": "≈ 0,5 L ↓",
+      "fr": "≈ 0,5 L ↓",
+      "ja": "約500mL ↓"
+     }
+    }
+   ]
+  },
+  {
+   "dur": 6,
+   "caption": {
+    "en": "Blood pressure briefly *drops*, so the brain gets less blood: you feel dizzy, vision dims.",
+    "es": "La presión arterial *baja* un instante y llega menos sangre al cerebro: mareo y vista borrosa.",
+    "fr": "La tension *chute* un instant, le cerveau reçoit moins de sang : vertige, vue qui se voile.",
+    "ja": "血圧が一瞬*下がり*、脳への血流が減ってクラッとします。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 160 820 A 160 160 0 0 1 480 820 Z'/><path class='d' data-s='0.6' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='7'  d='M 190 760 L 210 768 M 225 690 L 242 703 M 320 660 L 320 682 M 415 690 L 398 703 M 450 760 L 430 768'/><path class='f' data-s='0.8' data-d='0.3' data-o='0.5' fill='none' stroke='#888' stroke-width='9' stroke-dasharray='16 14' opacity='0' d='M 320 820 L 420 710'/><path class='d' data-s='1.4' data-d='0.4' fill='none' stroke='#e63946' stroke-width='11'  d='M 320 820 L 205 790'/><circle class='p' data-s='1.2' data-d='0.4' cx='320' cy='820' r='16' fill='#1d1d1d'/><path class='d' data-s='1.7' data-d='0.5' fill='none' stroke='#e63946' stroke-width='9'  d='M 410 660 Q 320 610 215 740 M 220 712 L 215 740 L 241 729'/><g transform='translate(730 650) scale(0.45) translate(-550 -830)'><path class='d' data-s='0.6' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='22'  d='M 330 900 C 280 860 290 780 350 760 C 340 700 400 650 460 670 C 490 620 580 620 610 665 C 670 640 740 680 735 740 C 800 760 810 840 760 880 C 780 940 720 990 660 970 C 630 1010 560 1010 530 975 C 490 1010 410 1000 400 950 C 350 960 310 930 330 900 Z'/><path class='d' data-s='1.3' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='16'  d='M 450 720 C 480 760 440 800 480 830 M 600 700 C 570 740 620 780 590 820 M 520 880 C 560 900 600 880 640 900'/><circle class='f' data-s='2.4' data-d='0.8' data-o='0.38' cx='550' cy='820' r='210' fill='#555' opacity='0'/></g><path class='d' data-s='1.0' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='8'  d='M 705 1090 L 705 870 M 755 1090 L 755 870'/><circle class='p' data-s='1.6' data-d='0.4' cx='730' cy='1040' r='14' fill='#e63946'/><circle class='p' data-s='1.9' data-d='0.4' cx='730' cy='960' r='10' fill='#e9a1a7'/><path class='d' data-s='2.8' data-d='0.7' fill='none' stroke='#e63946' stroke-width='7'  d='M 600 470 a 30 30 0 1 1 30 30 a 18 18 0 1 1 -18 -18 a 8 8 0 1 1 8 8'/><path class='d' data-s='3.0' data-d='0.7' fill='none' stroke='#e63946' stroke-width='7'  d='M 830 480 a 30 30 0 1 1 30 30 a 18 18 0 1 1 -18 -18 a 8 8 0 1 1 8 8'/>",
+   "texts": [
+    {
+     "x": 320,
+     "y": 900,
+     "size": 50,
+     "color": "#1d1d1d",
+     "s": 1.6,
+     "maxW": 320,
+     "t": {
+      "en": "PRESSURE",
+      "es": "PRESIÓN",
+      "fr": "TENSION",
+      "ja": "血圧"
+     }
+    },
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 96,
+     "color": "#e63946",
+     "s": 2.6,
+     "t": {
+      "en": "LESS BLOOD ↓",
+      "es": "MENOS SANGRE ↓",
+      "fr": "MOINS DE SANG ↓",
+      "ja": "脳の血流 ↓"
+     }
+    }
+   ]
+  },
+  {
+   "dur": 6,
+   "caption": {
+    "en": "Normally your body fixes it in *seconds*: the heart speeds up and vessels tighten.",
+    "es": "Normalmente el cuerpo lo corrige en *segundos*: el corazón se acelera y los vasos se cierran.",
+    "fr": "Normalement, le corps corrige en *quelques secondes* : le cœur accélère, les vaisseaux se serrent.",
+    "ja": "ふつうは*数秒*で回復。心臓が速く打ち、血管がキュッと締まります。"
+   },
+   "svg": "<g transform='translate(320 700) scale(0.62) translate(-540 -920)'><path class='d' data-s='0' data-d='0.9' fill='none' stroke='#e63946' stroke-width='16'  d='M540 1080 C 330 930 360 700 540 800 C 720 700 750 930 540 1080 Z'/><path class='f' data-s='0.7' data-d='0.4' data-o='1' d='M540 1080 C 330 930 360 700 540 800 C 720 700 750 930 540 1080 Z' fill='#e63946' opacity='0' /></g><path class='d' data-s='1.0' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='7'  d='M 160 610 L 200 620 M 150 680 L 195 680 M 160 750 L 200 740'/><path class='d' data-s='1.0' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='7'  d='M 440 610 L 480 600 M 445 680 L 490 680 M 440 750 L 480 760'/><path class='d' data-s='1.2' data-d='1.2' fill='none' stroke='#1d1d1d' stroke-width='8'  d='M 160 940 H 210 L 230 880 L 255 1000 L 275 940 H 300 L 320 880 L 345 1000 L 365 940 H 390 L 410 880 L 435 1000 L 455 940 H 490'/><path class='d' data-s='0.4' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 600 660 C 700 660 790 720 900 720'/><path class='d' data-s='0.5' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 600 920 C 700 920 790 860 900 860'/><circle class='p' data-s='1.3' data-d='0.4' cx='650' cy='790' r='16' fill='#e63946'/><circle class='p' data-s='1.5' data-d='0.4' cx='740' cy='790' r='16' fill='#e63946'/><circle class='p' data-s='1.7' data-d='0.4' cx='830' cy='790' r='16' fill='#e63946'/><path class='d' data-s='2.2' data-d='0.5' fill='none' stroke='#e63946' stroke-width='9'  d='M 780 520 L 780 650 M 766 624 L 780 650 L 794 624'/><path class='d' data-s='2.3' data-d='0.5' fill='none' stroke='#e63946' stroke-width='9'  d='M 780 1060 L 780 930 M 794 956 L 780 930 L 766 956'/>",
+   "texts": [
+    {
+     "x": 320,
+     "y": 1060,
+     "size": 48,
+     "color": "#1d1d1d",
+     "s": 2.0,
+     "maxW": 320,
+     "t": {
+      "en": "FASTER",
+      "es": "MÁS RÁPIDO",
+      "fr": "PLUS VITE",
+      "ja": "心拍アップ"
+     }
+    },
+    {
+     "x": 760,
+     "y": 1110,
+     "size": 48,
+     "color": "#1d1d1d",
+     "s": 2.5,
+     "maxW": 320,
+     "t": {
+      "en": "TIGHTER",
+      "es": "SE CIERRAN",
+      "fr": "SE SERRENT",
+      "ja": "血管キュッ"
+     }
+    },
+    {
+     "x": 540,
+     "y": 1215,
+     "size": 88,
+     "color": "#e63946",
+     "s": 3.0,
+     "maxW": 900,
+     "t": {
+      "en": "FIXED IN SECONDS",
+      "es": "EN SEGUNDOS",
+      "fr": "ÇA PASSE VITE",
+      "ja": "数秒で回復"
+     }
+    }
+   ]
+  },
+  {
+   "dur": 6,
+   "caption": {
+    "en": "It's more likely when you're *dehydrated*, after a hot shower, or with some medicines.",
+    "es": "Es más probable si estás *deshidratado*, tras una ducha caliente o con ciertos medicamentos.",
+    "fr": "C'est plus fréquent si tu es *déshydraté*, après une douche chaude ou avec certains médicaments.",
+    "ja": "*脱水*気味のとき、熱いシャワーの後、一部の薬を飲んでいるときに起こりやすくなります。"
+   },
+   "svg": "<g transform='translate(0 50)'><path class='d' data-s='0' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 230 620 C 230 620 150 720 150 775 A 80 80 0 0 0 310 775 C 310 720 230 620 230 620 Z'/><path class='d' data-s='0.8' data-d='0.4' fill='none' stroke='#e63946' stroke-width='11'  d='M 145 880 L 315 620'/><path class='d' data-s='0.6' data-d='0.7' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 470 900 V 600 H 570'/><path class='d' data-s='0.9' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 545 615 L 615 615 L 640 665 L 520 665 Z'/><path class='d' data-s='1.3' data-d='0.6' fill='none' stroke='#888' stroke-width='7'  d='M 540 700 L 530 740 M 580 700 L 580 745 M 620 700 L 630 740 M 535 780 L 525 820 M 580 785 L 580 830 M 625 780 L 635 820'/><path class='d' data-s='1.6' data-d='0.6' fill='none' stroke='#e63946' stroke-width='7'  d='M 680 560 q 15 -20 0 -40 q -15 -20 0 -40 M 720 580 q 15 -20 0 -40 q -15 -20 0 -40'/><g transform='translate(40 0) rotate(-35 820 760)'><path class='d' data-s='1.8' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 760 710 H 880 A 50 50 0 0 1 880 810 H 760 A 50 50 0 0 1 760 710 Z'/><path class='f' data-s='2.4' data-d='0.4' data-o='1' d='M 820 714 H 880 A 46 46 0 0 1 880 806 H 820 Z' fill='#e63946' opacity='0' /><path class='d' data-s='2.3' data-d='0.2' fill='none' stroke='#1d1d1d' stroke-width='8'  d='M 820 710 V 810'/></g></g>",
+   "texts": [
+    {
+     "x": 230,
+     "y": 1035,
+     "size": 34,
+     "color": "#1d1d1d",
+     "s": 0.9,
+     "maxW": 310,
+     "t": {
+      "en": "DEHYDRATED",
+      "es": "DESHIDRATADO",
+      "fr": "DÉSHYDRATÉ",
+      "ja": "脱水"
+     }
+    },
+    {
+     "x": 550,
+     "y": 1035,
+     "size": 34,
+     "color": "#1d1d1d",
+     "s": 1.6,
+     "maxW": 310,
+     "t": {
+      "en": "HOT SHOWER",
+      "es": "DUCHA CALIENTE",
+      "fr": "DOUCHE CHAUDE",
+      "ja": "熱いシャワー"
+     }
+    },
+    {
+     "x": 860,
+     "y": 1035,
+     "size": 34,
+     "color": "#1d1d1d",
+     "s": 2.5,
+     "maxW": 310,
+     "t": {
+      "en": "SOME MEDS",
+      "es": "MEDICAMENTOS",
+      "fr": "MÉDICAMENTS",
+      "ja": "一部の薬"
+     }
+    },
+    {
+     "x": 540,
+     "y": 1195,
+     "size": 84,
+     "color": "#e63946",
+     "s": 3.0,
+     "maxW": 900,
+     "t": {
+      "en": "MORE LIKELY IF…",
+      "es": "MÁS PROBABLE SI…",
+      "fr": "PLUS FRÉQUENT SI…",
+      "ja": "こんなときは要注意"
+     }
+    }
+   ]
+  },
+  {
+   "dur": 5.5,
+   "caption": {
+    "en": "Tip: get up *slowly*, sit for a moment first, and drink enough water.",
+    "es": "Consejo: levántate *despacio*, quédate sentado un momento y toma suficiente agua.",
+    "fr": "Astuce : lève-toi *lentement*, reste assis un instant et bois assez d'eau.",
+    "ja": "コツ：*ゆっくり*立つ、少し座ってから立つ、水分をしっかりとる。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.7' fill='none' stroke='#1d1d1d' stroke-width='6'  d='M 160 1100 Q 500 1085 920 1100'/><path class='d' data-s='0' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 170 700 V 1090 M 170 900 H 340 M 325 900 V 1090'/><circle class='d' data-s='0.3' data-d='0.5' cx='250' cy='690' r='50' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='0.6' data-d='0.7' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 240 740 L 240 885 L 340 885 L 345 1080 M 240 790 L 320 860'/><path class='d' data-s='1.2' data-d='0.5' fill='none' stroke='#e63946' stroke-width='9'  d='M 345 640 Q 410 560 470 640 M 443 628 L 470 640 L 466 610'/><circle class='d' data-s='1.6' data-d='0.5' cx='560' cy='620' r='50' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='1.9' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 560 670 L 560 880 M 560 880 L 510 1085 M 560 880 L 610 1085 M 560 720 L 500 840 M 560 720 L 620 840'/><path class='d' data-s='2.4' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 720 760 L 745 1080 H 865 L 890 760'/><path class='f' data-s='2.9' data-d='0.5' data-o='0.85' d='M 732 850 L 749 1075 H 861 L 878 850 Z' fill='#9fb8c8' opacity='0' /><path class='p' data-s='3.1' data-d='0.4' fill='#9fb8c8' stroke='#1d1d1d' stroke-width='7' d='M 805 590 C 805 590 770 640 770 665 A 35 35 0 0 0 840 665 C 840 640 805 590 805 590 Z'/>",
+   "texts": [
+    {
+     "x": 410,
+     "y": 530,
+     "size": 44,
+     "color": "#e63946",
+     "s": 1.3,
+     "maxW": 230,
+     "t": {
+      "en": "slowly",
+      "es": "despacio",
+      "fr": "lentement",
+      "ja": "ゆっくり"
+     }
+    },
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 92,
+     "color": "#e63946",
+     "s": 3.2,
+     "maxW": 900,
+     "t": {
+      "en": "SLOW + WATER",
+      "es": "DESPACIO + AGUA",
+      "fr": "LENTEMENT + EAU",
+      "ja": "ゆっくり＋水分"
+     }
+    }
+   ]
+  },
+  {
+   "dur": 6,
+   "caption": {
+    "en": "See a doctor if you *faint*, it happens *often*, or comes with chest pain.",
+    "es": "Consulta al médico si te *desmayas*, te pasa *seguido* o hay dolor en el pecho.",
+    "fr": "Consulte un médecin si tu *t'évanouis*, si ça arrive *souvent* ou avec une douleur à la poitrine.",
+    "ja": "*失神*した、*よく*起こる、胸の痛みがある――そんなときは受診を。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='6'  d='M 150 1100 H 640'/><circle class='d' data-s='0.3' data-d='0.5' cx='210' cy='1050' r='42' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='0.6' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 252 1055 L 450 1060 M 450 1060 L 590 1085 M 450 1060 L 590 1040 M 300 1058 L 360 1000 M 300 1058 L 380 1090'/><path class='d' data-s='1.2' data-d='0.7' fill='none' stroke='#e63946' stroke-width='7'  d='M 230 930 a 30 30 0 1 1 30 30 a 18 18 0 1 1 -18 -18 a 8 8 0 1 1 8 8'/><path class='p' data-s='1.5' data-d='0.3' fill='none' stroke='#e63946' stroke-width='7' d='M 330 944 L 330 976 M 314 960 L 346 960'/><circle class='d' data-s='1.6' data-d='0.8' cx='740' cy='700' r='160' fill='none' stroke='#e63946' stroke-width='11'/><path class='p' data-s='2.3' data-d='0.4' fill='#e63946' d='M 710 600 H 770 V 670 H 840 V 730 H 770 V 800 H 710 V 730 H 640 V 670 H 710 Z'/><path class='d' data-s='2.4' data-d='0.7' fill='none' stroke='#1d1d1d' stroke-width='8'  d='M 180 520 H 420 V 760 H 180 Z M 180 580 H 420 M 240 500 V 545 M 360 500 V 545'/><path class='d' data-s='2.9' data-d='0.8' fill='none' stroke='#e63946' stroke-width='7'  d='M 205 610 l 30 30 m 0 -30 l -30 30 M 285 610 l 30 30 m 0 -30 l -30 30 M 365 670 l 30 30 m 0 -30 l -30 30 M 205 705 l 30 30 m 0 -30 l -30 30 M 285 705 l 30 30 m 0 -30 l -30 30'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 96,
+     "color": "#e63946",
+     "s": 2.8,
+     "maxW": 900,
+     "t": {
+      "en": "SEE A DOCTOR",
+      "es": "VE AL MÉDICO",
+      "fr": "VOIS UN MÉDECIN",
+      "ja": "受診しよう"
+     }
+    }
+   ]
+  }
+ ]
+}

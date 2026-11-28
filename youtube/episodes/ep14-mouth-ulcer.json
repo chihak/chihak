@@ -1,0 +1,340 @@
+{
+ "id": "ep14-mouth-ulcer",
+ "title": {
+  "en": "Mouth Ulcer? What *Helps*",
+  "es": "¿Llaga en la boca? Qué *ayuda*",
+  "fr": "Aphte : ce qui *aide*",
+  "ja": "口内炎、どうすれば*治る*？"
+ },
+ "coverTime": 4.5,
+ "scenes": [
+  {
+   "dur": 5.5,
+   "caption": {
+    "en": "A small, painful sore inside your mouth? It's probably a *canker sore* (mouth ulcer).",
+    "es": "¿Una llaguita dolorosa dentro de la boca? Probablemente es una *afta* (úlcera bucal).",
+    "fr": "Une petite plaie douloureuse dans la bouche ? C'est sûrement un *aphte*.",
+    "ja": "口の中の小さくて痛い傷。それはたぶん*口内炎（アフタ）*です。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 260 760 C 380 610 700 610 820 760 C 700 920 380 920 260 760 Z'/><path class='d' data-s='0.7' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='7'  d='M 330 730 C 440 700 640 700 750 730 M 400 712 V 745 M 470 705 V 742 M 540 703 V 742 M 610 705 V 742 M 680 712 V 745'/><path class='d' data-s='0.9' data-d='0.5' fill='none' stroke='#e89aa0' stroke-width='8'  d='M 330 800 C 440 850 640 850 750 800'/><ellipse class='p' data-s='1.4' data-d='0.4' cx='600' cy='820' rx='32.199999999999996' ry='23.799999999999997' fill='#f6e7b0'/><ellipse class='d' data-s='1.6' data-d='0.4' cx='600' cy='820' rx='32.199999999999996' ry='23.799999999999997' fill='none' stroke='#e63946' stroke-width='7'/><path class='d' data-s='2.0' data-d='0.4' fill='none' stroke='#e63946' stroke-width='8'  d='M 700 900 l 40 40 M 760 880 l 50 20 M 650 930 l 10 50'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 110,
+     "color": "#e63946",
+     "s": 2.2,
+     "t": {
+      "en": "OUCH!",
+      "es": "¡AY!",
+      "fr": "AÏE !",
+      "ja": "いたっ！"
+     }
+    }
+   ]
+  },
+  {
+   "dur": 6,
+   "caption": {
+    "en": "It's round or oval, *white or yellow* with a red border. And it's *not contagious*.",
+    "es": "Es redonda u ovalada, *blanca o amarilla* con borde rojo. Y *no es contagiosa*.",
+    "fr": "Il est rond ou ovale, *blanc ou jaune* avec un bord rouge. Et il n'est *pas contagieux*.",
+    "ja": "丸〜楕円形で*白や黄色*、ふちは赤。そして*うつりません*。"
+   },
+   "svg": "<circle class='d' data-s='0' data-d='0.8' cx='540' cy='760' r='230' fill='none' stroke='#1d1d1d' stroke-width='10'/><ellipse class='p' data-s='0.6' data-d='0.4' cx='540' cy='760' rx='119.60000000000001' ry='88.4' fill='#f6e7b0'/><ellipse class='d' data-s='0.8' data-d='0.4' cx='540' cy='760' rx='119.60000000000001' ry='88.4' fill='none' stroke='#e63946' stroke-width='26'/><path class='d' data-s='1.3' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='8'  d='M 840 580 L 640 700 M 652 679 L 640 700 L 664 699'/>",
+   "texts": [
+    {
+     "x": 840,
+     "y": 540,
+     "size": 44,
+     "color": "#1d1d1d",
+     "s": 1.4,
+     "t": {
+      "en": "RED BORDER",
+      "es": "BORDE ROJO",
+      "fr": "BORD ROUGE",
+      "ja": "赤いふち"
+     },
+     "maxW": 380
+    },
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 84,
+     "color": "#e63946",
+     "s": 2.4,
+     "t": {
+      "en": "NOT CONTAGIOUS",
+      "es": "NO CONTAGIOSA",
+      "fr": "PAS CONTAGIEUX",
+      "ja": "うつらない"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 6.5,
+   "caption": {
+    "en": "Common triggers: *biting* your cheek, a sharp tooth or braces, *stress*, tiredness, some foods.",
+    "es": "Causas frecuentes: *morderte* la mejilla, un diente afilado o brackets, *estrés*, cansancio, algunos alimentos.",
+    "fr": "Causes fréquentes : se *mordre* la joue, une dent coupante ou un appareil, le *stress*, la fatigue, certains aliments.",
+    "ja": "よくある原因：頬を*かむ*、とがった歯や矯正器具、*ストレス*、疲れ、一部の食べ物。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='9'  d='M 180.0 640.0 C 150.0 640.0 150.0 700 175.0 720.0 L 190.0 780.0 C 200.0 795.0 215.0 780.0 220.0 740.0 C 230 725.0 230 725.0 240.0 740.0 C 245.0 780.0 260.0 795.0 270.0 780.0 L 285.0 720.0 C 310.0 700 310.0 640.0 280.0 640.0 C 255.0 640.0 245.0 655.0 230 655.0 C 215.0 655.0 205.0 640.0 180.0 640.0 Z'/><path class='d' data-s='0.6' data-d='0.5' fill='none' stroke='#e63946' stroke-width='9'  d='M 700 620 l -40 70 h 50 l -40 70'/><path class='d' data-s='1.0' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='9'  d='M 900 640 a 70 70 0 1 0 50 110 a 55 55 0 1 1 -50 -110 Z'/><path class='d' data-s='1.4' data-d='0.6' fill='none' stroke='#e63946' stroke-width='9'  d='M 390 680 C 450 690 530 720 540 790 C 490 760 410 730 390 680 Z'/><path class='d' data-s='1.8' data-d='0.3' fill='none' stroke='#2a9d8f' stroke-width='8'  d='M 390 680 q -25 -20 -10 -50'/><path class='d' data-s='1.8' data-d='0.5' fill='none' stroke='#bbb' stroke-width='4'  d='M 140 820 H 940'/>",
+   "texts": [
+    {
+     "x": 230,
+     "y": 880,
+     "size": 44,
+     "color": "#1d1d1d",
+     "s": 0.6,
+     "t": {
+      "en": "BITE",
+      "es": "MORDIDA",
+      "fr": "MORSURE",
+      "ja": "かむ"
+     },
+     "maxW": 230
+    },
+    {
+     "x": 470,
+     "y": 880,
+     "size": 44,
+     "color": "#1d1d1d",
+     "s": 1.5,
+     "t": {
+      "en": "FOOD",
+      "es": "COMIDA",
+      "fr": "ALIMENTS",
+      "ja": "食べ物"
+     },
+     "maxW": 230
+    },
+    {
+     "x": 690,
+     "y": 880,
+     "size": 44,
+     "color": "#1d1d1d",
+     "s": 0.8,
+     "t": {
+      "en": "STRESS",
+      "es": "ESTRÉS",
+      "fr": "STRESS",
+      "ja": "ストレス"
+     },
+     "maxW": 230
+    },
+    {
+     "x": 910,
+     "y": 880,
+     "size": 44,
+     "color": "#1d1d1d",
+     "s": 1.1,
+     "t": {
+      "en": "TIRED",
+      "es": "CANSANCIO",
+      "fr": "FATIGUE",
+      "ja": "疲れ"
+     },
+     "maxW": 230
+    },
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 96,
+     "color": "#e63946",
+     "s": 2.2,
+     "t": {
+      "en": "TRIGGERS",
+      "es": "CAUSAS",
+      "fr": "CAUSES",
+      "ja": "原因"
+     },
+     "maxW": 900
+    }
+   ]
+  },
+  {
+   "dur": 5.5,
+   "caption": {
+    "en": "Most heal *on their own* in about *1–2 weeks*.",
+    "es": "La mayoría se curan *solas* en *1–2 semanas*.",
+    "fr": "La plupart guérissent *seuls* en *1 à 2 semaines*.",
+    "ja": "多くは*1〜2週間*ほどで*自然に*治ります。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 260.0 650.0 H 500.0 V 870.0 H 260.0 Z M 260.0 705.0 H 500.0 M 320.0 625.0 V 665.0 M 440.0 625.0 V 665.0'/><path class='f' data-s='0.6' data-d='0.4' data-o='0.9' d='M 260.0 650.0 H 500.0 V 705.0 H 260.0 Z' fill='#e63946' opacity='0'/><path class='d' data-s='1.2' data-d='0.4' fill='none' stroke='#e63946' stroke-width='12'  d='M 326.0 790 L 366.5 830.5 L 443.0 731.5'/><ellipse class='p' data-s='1.4' data-d='0.4' cx='780' cy='700' rx='64.39999999999999' ry='47.599999999999994' fill='#f6e7b0'/><ellipse class='d' data-s='1.6' data-d='0.4' cx='780' cy='700' rx='64.39999999999999' ry='47.599999999999994' fill='none' stroke='#e63946' stroke-width='14'/><path class='d' data-s='1.8' data-d='0.5' fill='none' stroke='#888' stroke-width='8'  d='M 700 820 L 860 820 M 839 832 L 860 820 L 839 808'/><path class='d' data-s='2.2' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='12'  d='M 882.0 710 L 918.0 746.0 L 986.0 658.0'/>",
+   "texts": [
+    {
+     "x": 380,
+     "y": 1000,
+     "size": 56,
+     "color": "#1d1d1d",
+     "s": 1.0,
+     "t": {
+      "en": "1–2 WEEKS",
+      "es": "1–2 SEMANAS",
+      "fr": "1–2 SEMAINES",
+      "ja": "1〜2週間"
+     },
+     "maxW": 380
+    },
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 84,
+     "color": "#e63946",
+     "s": 2.3,
+     "t": {
+      "en": "HEALS ITSELF",
+      "es": "SE CURA SOLA",
+      "fr": "GUÉRIT SEUL",
+      "ja": "自然に治る"
+     },
+     "maxW": 920
+    }
+   ],
+   "narration": {
+    "en": "Most heal *on their own* in about *1 to 2 weeks*.",
+    "es": "La mayoría se curan *solas* en *1 a 2 semanas*.",
+    "ja": "多くは*1から2週間*ほどで*自然に*治ります。"
+   }
+  },
+  {
+   "dur": 6.5,
+   "caption": {
+    "en": "Ease it: *soft toothbrush*, skip spicy, salty or acidic food, and ask a pharmacist about a *gel or mouthwash*.",
+    "es": "Para aliviar: *cepillo suave*, evita comidas picantes, saladas o ácidas, y pide en la farmacia un *gel o enjuague*.",
+    "fr": "Pour soulager : *brosse souple*, évite épicé, salé ou acide, et demande au pharmacien un *gel ou bain de bouche*.",
+    "ja": "ケア：*やわらかい歯ブラシ*を使い、辛い・しょっぱい・すっぱい物は控え、薬局で*塗り薬やうがい薬*を相談。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.7' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 140 700 L 360 640 M 300 655 l -6 -40 M 320 650 l -6 -40 M 340 645 l -6 -40'/><path class='d' data-s='0.8' data-d='0.6' fill='none' stroke='#e63946' stroke-width='9'  d='M 480 650 C 540 660 620 690 630 760 C 580 730 500 700 480 650 Z'/><path class='d' data-s='1.2' data-d='0.3' fill='none' stroke='#2a9d8f' stroke-width='8'  d='M 480 650 q -25 -20 -10 -50'/><path class='d' data-s='1.4' data-d='0.5' fill='none' stroke='#e63946' stroke-width='14'  d='M 500.0 640.0 L 620.0 760.0 M 620.0 640.0 L 500.0 760.0'/><path class='d' data-s='1.6' data-d='0.7' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 760 600 H 880 L 900 800 H 740 Z M 790 600 V 560 H 850 V 600'/><path class='f' data-s='2.1' data-d='0.4' data-o='0.5' d='M 752 680 H 890 L 898 790 H 742 Z' fill='#2a9d8f' opacity='0'/>",
+   "texts": [
+    {
+     "x": 250,
+     "y": 800,
+     "size": 44,
+     "color": "#1d1d1d",
+     "s": 0.6,
+     "t": {
+      "en": "SOFT",
+      "es": "SUAVE",
+      "fr": "SOUPLE",
+      "ja": "やわらかめ"
+     },
+     "maxW": 260
+    },
+    {
+     "x": 560,
+     "y": 840,
+     "size": 40,
+     "color": "#1d1d1d",
+     "s": 1.3,
+     "t": {
+      "en": "SPICY · ACIDIC",
+      "es": "PICANTE · ÁCIDO",
+      "fr": "ÉPICÉ · ACIDE",
+      "ja": "辛い・すっぱい"
+     },
+     "maxW": 280
+    },
+    {
+     "x": 820,
+     "y": 880,
+     "size": 40,
+     "color": "#1d1d1d",
+     "s": 2.0,
+     "t": {
+      "en": "GEL / RINSE",
+      "es": "GEL / ENJUAGUE",
+      "fr": "GEL / BAIN",
+      "ja": "塗り薬・うがい薬"
+     },
+     "maxW": 300
+    },
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 84,
+     "color": "#e63946",
+     "s": 2.6,
+     "t": {
+      "en": "EASE THE PAIN",
+      "es": "ALIVIA EL DOLOR",
+      "fr": "SOULAGER",
+      "ja": "痛みをやわらげる"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 7,
+   "caption": {
+    "en": "See a doctor or dentist if it lasts *over 2 weeks*, keeps coming back, is very large, or you feel unwell.",
+    "es": "Ve al médico o dentista si dura *más de 2 semanas*, vuelve una y otra vez, es muy grande o te sientes mal.",
+    "fr": "Consulte un médecin ou dentiste s'il dure *plus de 2 semaines*, revient souvent, est très gros ou si tu te sens mal.",
+    "ja": "*2週間以上*治らない、何度もくり返す、とても大きい、体調が悪いときは歯科・医療機関へ。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 120.0 590.0 H 320.0 V 770.0 H 120.0 Z M 120.0 645.0 H 320.0 M 170.0 565.0 V 605.0 M 270.0 565.0 V 605.0'/><path class='f' data-s='0.6' data-d='0.4' data-o='0.9' d='M 120.0 590.0 H 320.0 V 645.0 H 120.0 Z' fill='#e63946' opacity='0'/><path class='d' data-s='0.8' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='9'  d='M 540 640 a 60 60 0 1 1 -10 80 M 516 712 l 14 10 l 16 -12'/><ellipse class='p' data-s='1.3' data-d='0.4' cx='860' cy='680' rx='73.60000000000001' ry='54.400000000000006' fill='#f6e7b0'/><ellipse class='d' data-s='1.5' data-d='0.4' cx='860' cy='680' rx='73.60000000000001' ry='54.400000000000006' fill='none' stroke='#e63946' stroke-width='16'/><circle class='d' data-s='2.4' data-d='0.6' cx='540' cy='980' r='80' fill='none' stroke='#e63946' stroke-width='10'/><path class='p' data-s='2.9' data-d='0.4' fill='#e63946' d='M 522.4 927.2 H 557.6 V 962.4 H 592.8 V 997.6 H 557.6 V 1032.8 H 522.4 V 997.6 H 487.2 V 962.4 H 522.4 Z'/>",
+   "texts": [
+    {
+     "x": 220,
+     "y": 850,
+     "size": 38,
+     "color": "#1d1d1d",
+     "s": 0.5,
+     "t": {
+      "en": "2+ WEEKS",
+      "es": "+2 SEMANAS",
+      "fr": "+2 SEMAINES",
+      "ja": "2週間以上"
+     },
+     "maxW": 300
+    },
+    {
+     "x": 540,
+     "y": 850,
+     "size": 38,
+     "color": "#1d1d1d",
+     "s": 1.0,
+     "t": {
+      "en": "KEEPS RETURNING",
+      "es": "VUELVE",
+      "fr": "REVIENT",
+      "ja": "くり返す"
+     },
+     "maxW": 300
+    },
+    {
+     "x": 860,
+     "y": 850,
+     "size": 38,
+     "color": "#1d1d1d",
+     "s": 1.5,
+     "t": {
+      "en": "VERY LARGE",
+      "es": "MUY GRANDE",
+      "fr": "TRÈS GROS",
+      "ja": "とても大きい"
+     },
+     "maxW": 300
+    },
+    {
+     "x": 540,
+     "y": 1205,
+     "size": 96,
+     "color": "#e63946",
+     "s": 2.9,
+     "t": {
+      "en": "GET CHECKED",
+      "es": "CONSULTA",
+      "fr": "CONSULTE",
+      "ja": "受診しよう"
+     },
+     "maxW": 900
+    }
+   ]
+  }
+ ]
+}

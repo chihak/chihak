@@ -1,0 +1,31 @@
+1
+00:00:00,250 --> 00:00:00,723
+Atchoum !
+
+2
+00:00:00,723 --> 00:00:04,090
+L'éternuement, c'est le système d'alarme et de nettoyage du nez.
+
+3
+00:00:05,250 --> 00:00:08,791
+Poussière, pollen, poivre ou virus du rhume irritent l'intérieur du nez.
+
+4
+00:00:11,250 --> 00:00:15,986
+Les nerfs du nez envoient un signal au centre de l'éternuement, dans le tronc cérébral.
+
+5
+00:00:17,250 --> 00:00:21,111
+Tu inspires fort, puis l'air jaillit par le nez et la bouche pour chasser l'irritant.
+
+6
+00:00:23,750 --> 00:00:26,950
+Les gouttelettes peuvent aller loin et porter des microbes aux autres.
+
+7
+00:00:29,250 --> 00:00:32,407
+1 — Éternue dans un mouchoir ou dans ton coude, pas dans tes mains.
+
+8
+00:00:35,250 --> 00:00:38,258
+2 — Jette le mouchoir et lave-toi les mains à l'eau et au savon.

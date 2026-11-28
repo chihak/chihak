@@ -1,0 +1,47 @@
+1
+00:00:00,250 --> 00:00:02,424
+¿Tienes sed, cansancio y te sientes raro?
+
+2
+00:00:02,424 --> 00:00:03,962
+Puede que estés deshidratado.
+
+3
+00:00:06,250 --> 00:00:08,938
+Significa que pierdes más líquido del que tomas.
+
+4
+00:00:08,938 --> 00:00:12,522
+Primeras señales: boca seca, dolor de cabeza, mareo o cansancio.
+
+5
+00:00:14,250 --> 00:00:16,542
+Mira tu orina: amarillo claro está bien.
+
+6
+00:00:16,542 --> 00:00:20,266
+Amarillo oscuro, olor fuerte u orinar menos indica que bebas más.
+
+7
+00:00:23,250 --> 00:00:26,488
+Bebe agua a lo largo del día, a sorbos si tienes náuseas.
+
+8
+00:00:26,488 --> 00:00:28,306
+Con calor o ejercicio, bebe más.
+
+9
+00:00:32,250 --> 00:00:33,322
+¿Vómitos o diarrea?
+
+10
+00:00:33,322 --> 00:00:36,199
+Un suero oral de farmacia repone también las sales.
+
+11
+00:00:36,199 --> 00:00:38,117
+Bebés y mayores corren más riesgo.
+
+12
+00:00:42,250 --> 00:00:48,671
+Pide ayuda urgente si alguien está confuso, muy somnoliento, tiene el corazón acelerado o no ha orinado en todo el día.

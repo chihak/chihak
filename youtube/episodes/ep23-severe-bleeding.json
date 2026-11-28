@@ -1,0 +1,199 @@
+{
+ "id": "ep23-severe-bleeding",
+ "title": {
+  "en": "What to Do for *Severe Bleeding*",
+  "es": "Qué hacer ante un *sangrado grave*",
+  "fr": "Que faire en cas de *saignement grave*",
+  "ja": "*ひどい出血*のときの対応"
+ },
+ "coverTime": 4.0,
+ "steps": 3,
+ "stepsFrom": 1,
+ "scenes": [
+  {
+   "dur": 5.5,
+   "caption": {
+    "en": "Heavy bleeding? Act fast. Here's what to do.",
+    "es": "¿Sangrado abundante? Actúa rápido. Esto es lo que debes hacer.",
+    "fr": "Un saignement important ? Agis vite. Voici les bons gestes.",
+    "ja": "大量の出血？ すばやく対応しましょう。手順を見ていきます。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 200 880 H 700 M 200 960 H 700'/><circle class='d' data-s='0.5' data-d='0.4' cx='760' cy='920' r='60' fill='none' stroke='#1d1d1d' stroke-width='9'/><path class='d' data-s='0.9' data-d='0.5' fill='none' stroke='#e63946' stroke-width='10' d='M 430 880 q 20 40 0 80 M 470 880 q 20 40 0 80'/><path class='d' data-s='1.3' data-d='0.5' fill='none' stroke='#e63946' stroke-width='9' d='M 450 960 q -10 40 0 70 M 450 1050 q -8 20 0 35'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#e63946",
+     "s": 1.8,
+     "t": {
+      "en": "SEVERE BLEEDING",
+      "es": "SANGRADO GRAVE",
+      "fr": "SAIGNEMENT GRAVE",
+      "ja": "ひどい出血"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 5.5,
+   "step": 1,
+   "caption": {
+    "en": "*1* — Call *emergency services* right away, or ask someone nearby to call.",
+    "es": "*1* — *Llama a emergencias* de inmediato, o pide a alguien cercano que llame.",
+    "fr": "*1* — *Appelle les urgences* tout de suite, ou demande à quelqu'un de le faire.",
+    "ja": "*1* — すぐに*救急車*を呼びます。近くの人に頼んでもかまいません。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.6' fill='none' stroke='#e63946' stroke-width='11' d='M 430 640 H 650 V 1000 H 430 Z M 520 960 H 560'/><path class='d' data-s='0.8' data-d='0.5' fill='none' stroke='#e63946' stroke-width='9' d='M 800 700 q 40 40 0 80 M 850 670 q 70 70 0 140'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#e63946",
+     "s": 1.8,
+     "t": {
+      "en": "CALL 911 · 999 · 112",
+      "es": "LLAMA 911 · 999 · 112",
+      "fr": "APPELLE LE 112 · 15",
+      "ja": "119 · 911 · 112"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 5.5,
+   "step": 2,
+   "caption": {
+    "en": "*2* — Press *hard and firmly* on the wound with a clean cloth or gauze. Use your hands.",
+    "es": "*2* — *Presiona fuerte y sin soltar* la herida con un paño limpio o gasa. Usa tus manos.",
+    "fr": "*2* — *Appuie fort et sans relâcher* sur la plaie avec un linge propre ou une compresse.",
+    "ja": "*2* — 清潔な布やガーゼで傷を*強く*しっかり押さえます。手で押さえましょう。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 200 880 H 700 M 200 960 H 700'/><circle class='d' data-s='0.5' data-d='0.4' cx='760' cy='920' r='60' fill='none' stroke='#1d1d1d' stroke-width='9'/><path class='d' data-s='0.9' data-d='0.5' fill='none' stroke='#e63946' stroke-width='10' d='M 430 880 q 20 40 0 80 M 470 880 q 20 40 0 80'/><path class='d' data-s='1.3' data-d='0.5' fill='none' stroke='#e63946' stroke-width='9' d='M 450 960 q -10 40 0 70 M 450 1050 q -8 20 0 35'/><path class='d' data-s='0' data-d='0.7' fill='none' stroke='#3a86c8' stroke-width='11' d='M 380 850 H 520 V 990 H 380 Z'/><path class='f' data-s='0.6' data-d='0.5' data-o='0.3' d='M 380 850 H 520 V 990 H 380 Z' fill='#3a86c8' opacity='0'/><path class='d' data-s='1.0' data-d='0.7' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 450 700 L 450 840 M 400 740 L 450 700 L 500 740'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#e63946",
+     "s": 1.8,
+     "t": {
+      "en": "PRESS HARD",
+      "es": "PRESIONA FUERTE",
+      "fr": "APPUIE FORT",
+      "ja": "強く押さえる"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 5.5,
+   "step": 3,
+   "caption": {
+    "en": "*3* — Keep pressing without peeking. If blood soaks through, add more cloth on top.",
+    "es": "*3* — Sigue presionando sin mirar. Si la sangre empapa el paño, añade más encima.",
+    "fr": "*3* — Continue d'appuyer sans regarder. Si le sang traverse, ajoute un autre linge par-dessus.",
+    "ja": "*3* — のぞかずに押さえ続けます。血がしみたら、上から布を重ねます。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 200 880 H 700 M 200 960 H 700'/><circle class='d' data-s='0.5' data-d='0.4' cx='760' cy='920' r='60' fill='none' stroke='#1d1d1d' stroke-width='9'/><path class='d' data-s='0.9' data-d='0.5' fill='none' stroke='#e63946' stroke-width='10' d='M 430 880 q 20 40 0 80 M 470 880 q 20 40 0 80'/><path class='d' data-s='1.3' data-d='0.5' fill='none' stroke='#e63946' stroke-width='9' d='M 450 960 q -10 40 0 70 M 450 1050 q -8 20 0 35'/><path class='d' data-s='0' data-d='0.7' fill='none' stroke='#3a86c8' stroke-width='11' d='M 380 850 H 520 V 990 H 380 Z'/><path class='f' data-s='0.6' data-d='0.5' data-o='0.3' d='M 380 850 H 520 V 990 H 380 Z' fill='#3a86c8' opacity='0'/><path class='d' data-s='0.8' data-d='0.5' fill='none' stroke='#888' stroke-width='10' d='M 360 800 H 540 V 850 H 360 Z'/><path class='d' data-s='1.0' data-d='0.7' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 450 700 L 450 840 M 400 740 L 450 700 L 500 740'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#3a86c8",
+     "s": 1.8,
+     "t": {
+      "en": "KEEP PRESSING",
+      "es": "SIGUE PRESIONANDO",
+      "fr": "CONTINUE D'APPUYER",
+      "ja": "押さえ続ける"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 5.5,
+   "caption": {
+    "en": "If you can, have them *lie down* and raise the injured limb. Don't remove the first cloth.",
+    "es": "Si puedes, haz que se *acueste* y eleva la extremidad herida. No retires el primer paño.",
+    "fr": "Si possible, fais-le *s'allonger* et surélève le membre blessé. N'enlève pas le premier linge.",
+    "ja": "できれば*横にして*、けがをした手足を高くします。最初の布ははがしません。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 200 880 H 700 M 200 960 H 700'/><circle class='d' data-s='0.5' data-d='0.4' cx='760' cy='920' r='60' fill='none' stroke='#1d1d1d' stroke-width='9'/><path class='d' data-s='0' data-d='0.7' fill='none' stroke='#3a86c8' stroke-width='11' d='M 380 850 H 520 V 990 H 380 Z'/><path class='f' data-s='0.6' data-d='0.5' data-o='0.3' d='M 380 850 H 520 V 990 H 380 Z' fill='#3a86c8' opacity='0'/><path class='d' data-s='1.0' data-d='0.5' fill='none' stroke='#3a86c8' stroke-width='9' d='M 800 960 L 880 840'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#3a86c8",
+     "s": 1.8,
+     "t": {
+      "en": "LIE DOWN · KEEP PRESSURE",
+      "es": "ACUESTA · SIGUE PRESIONANDO",
+      "fr": "ALLONGE · GARDE LA PRESSION",
+      "ja": "横に・押さえ続ける"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 5.5,
+   "caption": {
+    "en": "Don't pull out *objects* stuck in the wound. Press around them. Stay with the person until help arrives.",
+    "es": "No saques *objetos* clavados en la herida. Presiona alrededor. Quédate con la persona hasta que llegue la ayuda.",
+    "fr": "Ne retire pas un *objet* planté dans la plaie. Appuie autour. Reste avec la personne jusqu'aux secours.",
+    "ja": "傷に刺さった*物*は抜かず、まわりを押さえます。助けが来るまでそばにいましょう。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 300 800 H 780 M 300 960 H 780'/><path class='d' data-s='0.7' data-d='0.5' fill='none' stroke='#e63946' stroke-width='14' d='M 540 640 V 900'/><path class='d' data-s='1.3' data-d='0.5' fill='none' stroke='#e63946' stroke-width='16' d='M 330 600 L 750 1000 M 750 600 L 330 1000'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#e63946",
+     "s": 1.6,
+     "t": {
+      "en": "DON'T PULL IT OUT",
+      "es": "NO LO SAQUES",
+      "fr": "NE RETIRE PAS",
+      "ja": "抜かない"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 5.5,
+   "caption": {
+    "en": "Get *medical help* for any wound that bleeds heavily, spurts, or won't stop after 10 minutes of pressure.",
+    "es": "Busca *atención médica* si una herida sangra mucho, sale a chorros o no para tras 10 minutos de presión.",
+    "fr": "Cherche une *aide médicale* si une plaie saigne beaucoup, gicle ou ne s'arrête pas après 10 minutes de pression.",
+    "ja": "大量に出る、噴き出す、10分押さえても止まらない出血は*医療機関*へ。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.9' fill='none' stroke='#3a86c8' stroke-width='12' d='M 440 640 H 640 V 760 H 760 V 860 H 640 V 980 H 440 V 860 H 320 V 760 H 440 Z'/><path class='f' data-s='0.8' data-d='0.5' data-o='0.25' d='M 440 640 H 640 V 760 H 760 V 860 H 640 V 980 H 440 V 860 H 320 V 760 H 440 Z' fill='#3a86c8' opacity='0'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#3a86c8",
+     "s": 1.6,
+     "t": {
+      "en": "SEE A DOCTOR",
+      "es": "VE AL MÉDICO",
+      "fr": "VOIR UN MÉDECIN",
+      "ja": "受診しよう"
+     },
+     "maxW": 920
+    }
+   ]
+  }
+ ]
+}

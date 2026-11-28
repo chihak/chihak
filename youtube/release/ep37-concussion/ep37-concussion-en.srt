@@ -1,0 +1,35 @@
+1
+00:00:00,250 --> 00:00:01,200
+Bumped your head?
+
+2
+00:00:01,200 --> 00:00:04,441
+A concussion is a brief brain injury from a knock or jolt.
+
+3
+00:00:04,441 --> 00:00:06,565
+You don't have to pass out to get one.
+
+4
+00:00:07,260 --> 00:00:12,401
+Watch for headache, dizziness, feeling sick, confusion, blurry vision or memory problems.
+
+5
+00:00:16,260 --> 00:00:23,727
+Call emergency services if they won't wake up, have a seizure, can't stay awake, struggle to speak, or have weak arms or legs.
+
+6
+00:00:26,260 --> 00:00:35,199
+Go to the emergency department if they were knocked out even briefly, vomit, have a headache that keeps getting worse, act strangely, or take blood thinners.
+
+7
+00:00:36,260 --> 00:00:43,407
+Otherwise rest, have an adult stay with them for the first 24 hours, use paracetamol for headaches, and avoid alcohol.
+
+8
+00:00:46,260 --> 00:00:51,257
+No contact sport for at least 3 weeks, and don't drive until you feel fully better.
+
+9
+00:00:51,257 --> 00:00:53,364
+Most people recover within 2 weeks.

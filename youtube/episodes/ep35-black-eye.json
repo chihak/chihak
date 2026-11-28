@@ -1,0 +1,168 @@
+{
+ "id": "ep35-black-eye",
+ "title": {
+  "en": "Got a *Black Eye*?",
+  "es": "¿Tienes un *ojo morado*?",
+  "fr": "Un *œil au beurre noir* ?",
+  "ja": "目の*あざ*、どうする？"
+ },
+ "coverTime": 4.0,
+ "scenes": [
+  {
+   "dur": 6,
+   "caption": {
+    "en": "Took a *knock* to the eye? A *black eye* is a *bruise*: blood leaking under the skin around it.",
+    "es": "¿Un *golpe* en el ojo? Un *ojo morado* es un *moratón*: sangre que se filtra bajo la piel.",
+    "fr": "Un *coup* dans l'œil ? Un *œil au beurre noir*, c'est un *bleu* : du sang sous la peau.",
+    "ja": "目を*ぶつけた*？ *目のまわりのあざ*は、皮膚の下に血がにじんだ*内出血*です。"
+   },
+   "svg": "<circle class='d' data-s='0' data-d='0.5' cx='540' cy='740' r='220' fill='none' stroke='#1d1d1d' stroke-width='11'/><path class='f' data-s='0.5' data-d='0.5' fill='#8e6bb0' opacity='0' d='M 400 680 Q 470 610 540 680 Q 520 770 450 770 Q 390 750 400 680 Z'/><path class='d' data-s='0.7' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 435 700 Q 470 680 505 700'/><circle class='d' data-s='0.9' data-d='0.3' cx='630' cy='700' r='14' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='1.1' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 470 860 Q 540 830 610 860'/><path class='d' data-s='1.3' data-d='0.4' fill='none' stroke='#e63946' stroke-width='9' d='M 340 560 L 300 520 M 360 530 L 340 480 M 320 600 L 270 590'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#e63946",
+     "s": 1.6,
+     "t": {
+      "en": "BLACK EYE",
+      "es": "OJO MORADO",
+      "fr": "ŒIL AU BEURRE NOIR",
+      "ja": "目のまわりのあざ"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 9,
+   "caption": {
+    "en": "*Cool it* soon: an ice pack or frozen peas *wrapped in a cloth*, about *20 minutes*, a few times a day for *2 days*.",
+    "es": "*Enfríalo* pronto: hielo o guisantes congelados *envueltos en un paño*, unos *20 minutos*, varias veces al día durante *2 días*.",
+    "fr": "*Refroidis* vite : glace ou petits pois surgelés *dans un linge*, environ *20 minutes*, plusieurs fois par jour pendant *2 jours*.",
+    "ja": "早めに*冷やす*：保冷剤や冷凍の豆を*布で包んで*、*約20分*。最初の*2日間*、1日に数回。"
+   },
+   "svg": "<circle class='d' data-s='0' data-d='0.5' cx='420' cy='740' r='200' fill='none' stroke='#1d1d1d' stroke-width='11'/><path class='d' data-s='0.5' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 330 700 Q 360 680 390 700'/><circle class='d' data-s='0.6' data-d='0.3' cx='490' cy='700' r='13' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='0.7' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 370 840 Q 420 820 470 840'/><path class='d' data-s='0.9' data-d='0.7' fill='none' stroke='#3a86c8' stroke-width='11' d='M 250 620 L 400 600 L 420 760 L 270 780 Z'/><path class='f' data-s='1.4' data-d='0.5' fill='#cfe9f7' opacity='0' d='M 258 628 L 394 610 L 412 752 L 278 772 Z'/><circle class='d' data-s='1.6' data-d='0.2' cx='310' cy='670' r='12' fill='none' stroke='#2a9d8f' stroke-width='9'/><circle class='d' data-s='1.7' data-d='0.2' cx='360' cy='700' r='12' fill='none' stroke='#2a9d8f' stroke-width='9'/><circle class='d' data-s='1.8' data-d='0.2' cx='320' cy='730' r='12' fill='none' stroke='#2a9d8f' stroke-width='9'/><circle class='d' data-s='2.0' data-d='0.5' cx='800' cy='700' r='110' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='2.4' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 800 700 L 800 620 M 800 700 L 860 730'/><path class='f' data-s='2.6' data-d='0.5' fill='#a8d8f0' opacity='0' d='M 800 700 L 800 590 A 110 110 0 0 1 895 755 Z'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#3a86c8",
+     "s": 1.6,
+     "t": {
+      "en": "COLD COMPRESS",
+      "es": "COMPRESA FRÍA",
+      "fr": "COMPRESSE FROIDE",
+      "ja": "布で包んで冷やす"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 8,
+   "caption": {
+    "en": "*Don't press* on the eye. *Rest*, keep your *head raised*, and take *paracetamol* for pain if needed.",
+    "es": "*No presiones* el ojo. *Descansa*, mantén la *cabeza elevada* y toma *paracetamol* para el dolor si hace falta.",
+    "fr": "*N'appuie pas* sur l'œil. *Repose-toi*, garde la *tête surélevée* et prends du *paracétamol* si ça fait mal.",
+    "ja": "目を*押さない*で。*安静*にして*頭を高く*し、痛ければ*アセトアミノフェン*などの痛み止めを。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 160 900 L 520 900 L 520 960 L 160 960 Z'/><path class='d' data-s='0.4' data-d='0.6' fill='none' stroke='#3a86c8' stroke-width='10' d='M 180 900 Q 200 820 300 800 L 440 840 Q 470 860 460 900'/><circle class='d' data-s='0.8' data-d='0.5' cx='330' cy='720' r='80' fill='none' stroke='#1d1d1d' stroke-width='11'/><path class='d' data-s='1.1' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 300 710 L 330 710'/><path class='d' data-s='1.3' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 600 680 Q 710 600 820 680 Q 710 760 600 680 Z'/><circle class='d' data-s='1.6' data-d='0.3' cx='710' cy='680' r='30' fill='none' stroke='#1d1d1d' stroke-width='9'/><path class='d' data-s='1.7' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 710 860 L 710 760 M 680 790 L 710 760 L 740 790'/><path class='d' data-s='1.8' data-d='0.4' fill='none' stroke='#e63946' stroke-width='12' d='M 600 580 L 820 880 M 820 580 L 600 880'/><path class='d' data-s='2.1' data-d='0.5' fill='none' stroke='#2a9d8f' stroke-width='10' d='M 300 620 L 300 540 M 270 570 L 300 540 L 330 570'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#2a9d8f",
+     "s": 1.6,
+     "t": {
+      "en": "DON'T PRESS · HEAD UP",
+      "es": "NO PRESIONES",
+      "fr": "N'APPUIE PAS",
+      "ja": "押さない・頭を高く"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 8,
+   "caption": {
+    "en": "Swelling eases in a few days. The bruise turns *purple*, then *green* and *yellow*, and usually fades within *2 to 3 weeks*.",
+    "es": "La hinchazón baja en unos días. El moratón se vuelve *morado*, luego *verde* y *amarillo*, y suele irse en *2 o 3 semanas*.",
+    "fr": "Le gonflement diminue en quelques jours. Le bleu devient *violet*, puis *vert* et *jaune*, et part en général en *2 à 3 semaines*.",
+    "ja": "腫れは数日でひきます。あざは*紫*から*緑*、*黄色*へと変わり、ふつう*2〜3週間*で消えます。"
+   },
+   "svg": "<circle class='d' data-s='0.0' data-d='0.5' cx='230' cy='740' r='95' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='f' data-s='0.4' data-d='0.5' fill='#6a4c93' opacity='0' d='M 155 740 A 75 75 0 1 0 305 740 A 75 75 0 1 0 155 740 Z'/><circle class='d' data-s='0.7' data-d='0.5' cx='540' cy='740' r='95' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='f' data-s='1.1' data-d='0.5' fill='#5b8c5a' opacity='0' d='M 465 740 A 75 75 0 1 0 615 740 A 75 75 0 1 0 465 740 Z'/><circle class='d' data-s='1.4' data-d='0.5' cx='850' cy='740' r='95' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='f' data-s='1.7999999999999998' data-d='0.5' fill='#e0c341' opacity='0' d='M 775 740 A 75 75 0 1 0 925 740 A 75 75 0 1 0 775 740 Z'/><path class='d' data-s='2.2' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 335 740 L 395 740 M 375 720 L 395 740 L 375 760'/><path class='d' data-s='2.2' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 645 740 L 705 740 M 685 720 L 705 740 L 685 760'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#6a4c93",
+     "s": 1.6,
+     "t": {
+      "en": "2-3 WEEKS TO FADE",
+      "es": "2-3 SEMANAS",
+      "fr": "2 À 3 SEMAINES",
+      "ja": "2〜3週間で消える"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 10,
+   "caption": {
+    "en": "Get *urgent care* if your *vision changes* (*blurry*, *double* or *lost*), there's *blood* in the coloured part, or you *can't move* the eye.",
+    "es": "Busca *atención urgente* si *cambia tu visión* (*borrosa*, *doble* o *pérdida*), hay *sangre* en la parte de color o *no puedes mover* el ojo.",
+    "fr": "Consulte *en urgence* si ta *vue change* (*floue*, *double* ou *perdue*), s'il y a du *sang* dans la partie colorée ou si l'œil *ne bouge plus*.",
+    "ja": "*見え方が変*（*ぼやける*・*二重*・*見えない*）、黒目に*血*がたまる、目が*動かせない*ときは*すぐ受診*。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.7' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 260 740 Q 540 520 820 740 Q 540 960 260 740 Z'/><circle class='d' data-s='0.6' data-d='0.5' cx='540' cy='740' r='90' fill='none' stroke='#1d1d1d' stroke-width='11'/><path class='f' data-s='0.9' data-d='0.4' fill='#e63946' opacity='0' d='M 500 740 A 40 40 0 1 0 580 740 A 40 40 0 1 0 500 740 Z'/><circle class='d' data-s='1.2' data-d='0.5' cx='590' cy='730' r='90' fill='none' stroke='#999999' stroke-width='8'/><path class='d' data-s='1.6' data-d='0.5' fill='none' stroke='#e63946' stroke-width='12' d='M 200 560 L 880 920'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#e63946",
+     "s": 1.6,
+     "t": {
+      "en": "VISION CHANGES? GO NOW",
+      "es": "¿CAMBIA LA VISIÓN?",
+      "fr": "VUE QUI CHANGE ?",
+      "ja": "見え方の異常は受診"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 10,
+   "caption": {
+    "en": "After a *head injury*: *both eyes* bruised, *vomiting*, a *bad headache* or *drowsiness*? Call *emergency services*.",
+    "es": "Tras un *golpe en la cabeza*: ¿*ambos ojos* morados, *vómitos*, *dolor de cabeza fuerte* o *somnolencia*? Llama a *emergencias*.",
+    "fr": "Après un *choc à la tête* : *les deux yeux* marqués, *vomissements*, *gros mal de tête* ou *somnolence* ? Appelle les *urgences*.",
+    "ja": "*頭を打った*あとに、*両目*のあざ、*吐く*、*ひどい頭痛*、*強い眠気*があれば、すぐに*救急車*を。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.9' fill='none' stroke='#e63946' stroke-width='12' d='M 540 520 L 800 960 L 280 960 Z'/><path class='d' data-s='0.9' data-d='0.4' fill='none' stroke='#e63946' stroke-width='14' d='M 540 660 L 540 830'/><circle class='d' data-s='1.3' data-d='0.2' cx='540' cy='890' r='12' fill='none' stroke='#e63946' stroke-width='12'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#e63946",
+     "s": 1.6,
+     "t": {
+      "en": "HEAD INJURY: CALL HELP",
+      "es": "LLAMA A EMERGENCIAS",
+      "fr": "APPELLE LES URGENCES",
+      "ja": "頭を打ったら救急へ"
+     },
+     "maxW": 920
+    }
+   ]
+  }
+ ]
+}

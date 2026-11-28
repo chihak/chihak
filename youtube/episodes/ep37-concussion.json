@@ -1,0 +1,168 @@
+{
+ "id": "ep37-concussion",
+ "title": {
+  "en": "Hit Your Head? *Concussion* Signs",
+  "es": "¿Golpe en la cabeza? *Conmoción*",
+  "fr": "Choc à la tête ? *Commotion*",
+  "ja": "頭を打った？ *脳しんとう*のサイン"
+ },
+ "coverTime": 4.0,
+ "scenes": [
+  {
+   "dur": 7,
+   "caption": {
+    "en": "Bumped your head? A *concussion* is a *brief brain injury* from a knock or jolt. You *don't have to pass out* to get one.",
+    "es": "¿Un golpe en la cabeza? Una *conmoción cerebral* es una *lesión breve del cerebro* por un golpe o sacudida. *No hace falta desmayarse*.",
+    "fr": "Un coup à la tête ? Une *commotion cérébrale* est une *lésion brève du cerveau* après un choc. *Pas besoin de perdre connaissance*.",
+    "ja": "頭をぶつけた？ *脳しんとう*は、打撲や揺れによる*一時的な脳のけが*。*気を失わなくても*起こります。"
+   },
+   "svg": "<circle class='d' data-s='0' data-d='0.5' cx='540' cy='760' r='200' fill='none' stroke='#1d1d1d' stroke-width='11'/><path class='d' data-s='0.5' data-d='0.6' fill='none' stroke='#d17a9a' stroke-width='9' d='M 430 720 Q 420 640 490 630 Q 540 590 590 630 Q 660 640 650 720 Q 660 790 590 800 Q 540 830 490 800 Q 420 790 430 720 Z'/><path class='d' data-s='0.9' data-d='0.4' fill='none' stroke='#d17a9a' stroke-width='7' d='M 500 680 Q 530 710 520 750 M 580 670 Q 560 720 590 760'/><path class='d' data-s='1.2' data-d='0.4' fill='none' stroke='#e63946' stroke-width='9' d='M 300 560 L 250 510 M 330 530 L 310 470 M 280 610 L 220 600'/><path class='d' data-s='1.4' data-d='0.4' fill='none' stroke='#e0a800' stroke-width='8' d='M 800 520 L 812.0 548.0 L 840 560 L 812.0 572.0 L 800 600 L 788.0 572.0 L 760 560 L 788.0 548.0 Z'/><path class='d' data-s='1.6' data-d='0.4' fill='none' stroke='#e0a800' stroke-width='7' d='M 870 632 L 878.4 651.6 L 898 660 L 878.4 668.4 L 870 688 L 861.6 668.4 L 842 660 L 861.6 651.6 Z'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#e63946",
+     "s": 1.6,
+     "t": {
+      "en": "CONCUSSION",
+      "es": "CONMOCIÓN",
+      "fr": "COMMOTION",
+      "ja": "脳しんとう"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 9,
+   "caption": {
+    "en": "Watch for *headache*, *dizziness*, *feeling sick*, *confusion*, *blurry vision* or *memory problems*.",
+    "es": "Atento a *dolor de cabeza*, *mareo*, *náuseas*, *confusión*, *visión borrosa* o *problemas de memoria*.",
+    "fr": "Surveille *mal de tête*, *vertiges*, *nausées*, *confusion*, *vue floue* ou *trous de mémoire*.",
+    "ja": "*頭痛*、*めまい*、*吐き気*、*混乱*、*かすみ目*、*もの忘れ*などに注意。"
+   },
+   "svg": "<circle class='d' data-s='0' data-d='0.5' cx='540' cy='760' r='190' fill='none' stroke='#1d1d1d' stroke-width='11'/><path class='d' data-s='0.5' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 470 720 L 500 720'/><path class='d' data-s='0.6' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 580 720 L 610 720'/><path class='d' data-s='0.8' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 480 840 Q 510 820 540 840 Q 570 860 600 840'/><path class='d' data-s='1.0' data-d='0.6' fill='none' stroke='#6a4c93' stroke-width='9' d='M 760 560 Q 840 520 860 600 Q 870 680 790 680 Q 740 670 760 620 Q 790 590 810 620'/><path class='d' data-s='1.4' data-d='0.5' fill='none' stroke='#e63946' stroke-width='10' d='M 250 560 L 300 600 L 260 640 L 310 680'/><path class='d' data-s='1.7' data-d='0.4' fill='none' stroke='#3a86c8' stroke-width='9' d='M 820 860 Q 850 820 880 860 M 850 790 L 850 800'/><path class='f' data-s='1.9' data-d='0.4' fill='#cfe9f7' opacity='0' d='M 830 880 A 20 20 0 1 0 870 880 A 20 20 0 1 0 830 880 Z'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#6a4c93",
+     "s": 1.6,
+     "t": {
+      "en": "SIGNS TO WATCH",
+      "es": "SEÑALES",
+      "fr": "LES SIGNES",
+      "ja": "注意するサイン"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 10,
+   "caption": {
+    "en": "Call *emergency services* if they *won't wake up*, have a *seizure*, *can't stay awake*, *struggle to speak*, or have *weak arms or legs*.",
+    "es": "Llama a *emergencias* si *no despierta*, tiene una *convulsión*, *no puede mantenerse despierto*, *le cuesta hablar* o tiene *debilidad* en brazos o piernas.",
+    "fr": "Appelle les *urgences* s'il *ne se réveille pas*, fait une *crise convulsive*, *n'arrive pas à rester éveillé*, a du *mal à parler* ou les *bras ou jambes faibles*.",
+    "ja": "*意識が戻らない*、*けいれん*、*起きていられない*、*話しにくい*、*手足に力が入らない*ときは*救急車*を。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.7' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 380 560 L 560 560 Q 590 560 590 590 L 590 930 Q 590 960 560 960 L 380 960 Q 350 960 350 930 L 350 590 Q 350 560 380 560 Z'/><path class='d' data-s='0.6' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 440 910 L 500 910'/><path class='f' data-s='0.8' data-d='0.4' fill='#fde2e4' opacity='0' d='M 380 610 L 560 610 L 560 870 L 380 870 Z'/><path class='d' data-s='1.0' data-d='0.6' fill='none' stroke='#e63946' stroke-width='11' d='M 690 800 L 690 700 Q 690 620 770 620 Q 850 620 850 700 L 850 800 Z'/><path class='d' data-s='1.4' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 660 800 L 880 800'/><path class='d' data-s='1.6' data-d='0.4' fill='none' stroke='#e63946' stroke-width='9' d='M 650 610 L 610 570 M 890 610 L 930 570 M 770 570 L 770 520'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#e63946",
+     "s": 1.6,
+     "t": {
+      "en": "CALL EMERGENCY",
+      "es": "LLAMA A EMERGENCIAS",
+      "fr": "APPELLE LES URGENCES",
+      "ja": "すぐ救急車"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 10,
+   "caption": {
+    "en": "Go to the *emergency department* if they were *knocked out* even briefly, *vomit*, have a *headache that keeps getting worse*, *act strangely*, or take *blood thinners*.",
+    "es": "Ve a *urgencias* si *perdió el conocimiento* aunque sea un momento, *vomita*, el *dolor de cabeza empeora*, *se comporta raro* o toma *anticoagulantes*.",
+    "fr": "Va aux *urgences* s'il a *perdu connaissance*, même brièvement, *vomit*, a un *mal de tête qui empire*, *se comporte bizarrement* ou prend des *anticoagulants*.",
+    "ja": "少しでも*気を失った*、*吐いた*、*頭痛が悪化*する、*様子がおかしい*、*血液をサラサラにする薬*を飲んでいるなら*救急外来*へ。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 300 960 L 300 620 L 780 620 L 780 960'/><path class='d' data-s='0.7' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 260 960 L 820 960'/><path class='f' data-s='0.9' data-d='0.4' fill='#e63946' opacity='0' d='M 500 660 L 580 660 L 580 700 L 620 700 L 620 780 L 580 780 L 580 820 L 500 820 L 500 780 L 460 780 L 460 700 L 500 700 Z'/><path class='d' data-s='1.2' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 500 960 L 500 870 L 580 870 L 580 960'/><path class='d' data-s='1.3' data-d='0.3' fill='none' stroke='#3a86c8' stroke-width='8' d='M 340 680 L 410 680 L 410 740 L 340 740 Z'/><path class='d' data-s='1.4' data-d='0.3' fill='none' stroke='#3a86c8' stroke-width='8' d='M 670 680 L 740 680 L 740 740 L 670 740 Z'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#3a86c8",
+     "s": 1.6,
+     "t": {
+      "en": "GET CHECKED TODAY",
+      "es": "VE A URGENCIAS",
+      "fr": "VA AUX URGENCES",
+      "ja": "救急外来へ"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 10,
+   "caption": {
+    "en": "Otherwise *rest*, have an *adult stay with them* for the first *24 hours*, use *paracetamol* for headaches, and *avoid alcohol*.",
+    "es": "Si no, *descanso*, que un *adulto le acompañe* las primeras *24 horas*, *paracetamol* para el dolor de cabeza y *nada de alcohol*.",
+    "fr": "Sinon, *repos*, un *adulte reste avec lui* les *24 premières heures*, du *paracétamol* pour le mal de tête, et *pas d'alcool*.",
+    "ja": "それ以外は*安静*に。最初の*24時間*は*大人がそばに*いて、頭痛には*アセトアミノフェン*、*お酒は控えて*。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='11' d='M 140 900 L 520 900 L 520 960 L 140 960 Z'/><path class='d' data-s='0.4' data-d='0.5' fill='none' stroke='#3a86c8' stroke-width='10' d='M 160 900 Q 180 820 280 800 L 440 840 Q 470 860 460 900'/><circle class='d' data-s='0.7' data-d='0.4' cx='300' cy='730' r='70' fill='none' stroke='#1d1d1d' stroke-width='11'/><path class='d' data-s='0.9' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 275 720 L 300 720'/><circle class='d' data-s='1.1' data-d='0.5' cx='770' cy='620' r='110' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='1.5' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 770 620 L 770 540 M 770 620 L 830 650'/><path class='d' data-s='1.8' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 700 820 L 840 820 L 820 960 L 720 960 Z'/><path class='d' data-s='2.1' data-d='0.4' fill='none' stroke='#e63946' stroke-width='12' d='M 660 790 L 880 990'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#2a9d8f",
+     "s": 1.6,
+     "t": {
+      "en": "REST · 24H WATCH",
+      "es": "DESCANSO · 24 H",
+      "fr": "REPOS · 24 H",
+      "ja": "安静・24時間見守る"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 8,
+   "caption": {
+    "en": "*No contact sport* for at least *3 weeks*, and *don't drive* until you feel fully better. Most people *recover within 2 weeks*.",
+    "es": "*Nada de deportes de contacto* durante al menos *3 semanas* y *no conduzcas* hasta estar bien. La mayoría *se recupera en 2 semanas*.",
+    "fr": "*Pas de sport de contact* pendant au moins *3 semaines*, et *ne conduis pas* avant d'aller mieux. La plupart *guérissent en 2 semaines*.",
+    "ja": "*接触スポーツ*は少なくとも*3週間*休み、すっかり治るまで*運転しない*で。多くは*2週間ほどで回復*します。"
+   },
+   "svg": "<circle class='d' data-s='0' data-d='0.5' cx='330' cy='720' r='110' fill='none' stroke='#1d1d1d' stroke-width='11'/><path class='d' data-s='0.4' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 250 650 Q 330 700 410 650 M 250 790 Q 330 740 410 790'/><path class='d' data-s='0.8' data-d='0.4' fill='none' stroke='#e63946' stroke-width='12' d='M 200 590 L 460 850 M 460 590 L 200 850'/><path class='d' data-s='1.2' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 620 620 L 900 620 L 900 900 L 620 900 Z'/><path class='d' data-s='1.6' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 620 690 L 900 690'/><path class='d' data-s='1.8' data-d='0.5' fill='none' stroke='#2a9d8f' stroke-width='12' d='M 680 790 L 740 850 L 850 730'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#2a9d8f",
+     "s": 1.6,
+     "t": {
+      "en": "NO CONTACT SPORT",
+      "es": "SIN CONTACTO",
+      "fr": "PAS DE CONTACT",
+      "ja": "接触スポーツは休む"
+     },
+     "maxW": 920
+    }
+   ]
+  }
+ ]
+}

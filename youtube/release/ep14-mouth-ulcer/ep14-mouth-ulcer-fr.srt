@@ -1,0 +1,31 @@
+1
+00:00:00,250 --> 00:00:02,309
+Une petite plaie douloureuse dans la bouche ?
+
+2
+00:00:02,309 --> 00:00:03,407
+C'est sûrement un aphte.
+
+3
+00:00:05,750 --> 00:00:08,456
+Il est rond ou ovale, blanc ou jaune avec un bord rouge.
+
+4
+00:00:08,456 --> 00:00:09,761
+Et il n'est pas contagieux.
+
+5
+00:00:11,750 --> 00:00:18,107
+Causes fréquentes : se mordre la joue, une dent coupante ou un appareil, le stress, la fatigue, certains aliments.
+
+6
+00:00:18,810 --> 00:00:22,757
+Most heal on their own in about 1 to 2 weeks.
+
+7
+00:00:24,310 --> 00:00:30,326
+Pour soulager : brosse souple, évite épicé, salé ou acide, et demande au pharmacien un gel ou bain de bouche.
+
+8
+00:00:31,030 --> 00:00:37,195
+Consulte un médecin ou dentiste s'il dure plus de 2 semaines, revient souvent, est très gros ou si tu te sens mal.

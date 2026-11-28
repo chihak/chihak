@@ -1,0 +1,217 @@
+{
+  "id": "ep40-seeing-stars",
+  "title": {
+    "en": "Why Do You *See Stars* When You Rub Your Eyes?",
+    "es": "¿Por qué ves *estrellitas* al frotarte los ojos?",
+    "fr": "Pourquoi voit-on des *étoiles* en se frottant les yeux ?",
+    "ja": "目をこすると*光⁠が⁠見⁠え⁠る*⁠の⁠は⁠な⁠ぜ⁠？"
+  },
+  "steps": 3,
+  "stepsFrom": 2,
+  "coverTime": 4.5,
+  "scenes": [
+    {
+      "dur": 5,
+      "caption": {
+        "en": "Rub your closed eyes and you see *sparkles* and swirls — in total darkness.",
+        "es": "Frótate los ojos cerrados y verás *destellos* y remolinos, en plena oscuridad.",
+        "fr": "Frotte tes yeux fermés et tu vois des *étincelles*, même dans le noir complet.",
+        "ja": "目を閉じてこすると、真っ暗なのに*キラキラ*した光が見えます。"
+      },
+      "svg": "<g transform='translate(500 820) scale(1.0)'><path class='d' data-s='0' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='11' d='M -230 0 Q 0 130 230 0'/><path class='d' data-s='0.4' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='8' d='M -150 52 L -170 95 M -75 80 L -85 128 M 0 92 L 0 142 M 75 80 L 85 128 M 150 52 L 170 95'/><path class='d' data-s='0.3' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='9' d='M -220 -120 Q 0 -210 220 -120'/></g><path class='f' data-s='0.5' data-d='0.3' data-o='1' fill='#fbfaf5' opacity='0' d='M 930 1080 L 790 920 Q 760 885 790 860 Q 820 838 850 868 L 940 965 Z'/><path class='d' data-s='0.5' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 930 1080 L 790 920 Q 760 885 790 860 Q 820 838 850 868 L 940 965'/><path class='d' data-s='0.9' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='7' d='M 800 880 Q 815 890 830 878'/><path class='d' data-s='1.1' data-d='0.4' fill='none' stroke='#e63946' stroke-width='8' d='M 715 800 Q 740 770 775 780 M 735 960 Q 765 975 800 955'/><path class='p' data-s='1.3' data-d='0.35' fill='#ffd166' stroke='#1d1d1d' stroke-width='5' d='M 300 520 Q 308.0 552.0 340 560 Q 308.0 568.0 300 600 Q 292.0 568.0 260 560 Q 292.0 552.0 300 520 Z'/><path class='p' data-s='1.42' data-d='0.35' fill='#ffd166' stroke='#1d1d1d' stroke-width='5' d='M 450 472 Q 455.6 494.4 478 500 Q 455.6 505.6 450 528 Q 444.4 505.6 422 500 Q 444.4 494.4 450 472 Z'/><path class='p' data-s='1.54' data-d='0.35' fill='#ffd166' stroke='#1d1d1d' stroke-width='5' d='M 600 494 Q 609.2 530.8 646 540 Q 609.2 549.2 600 586 Q 590.8 549.2 554 540 Q 590.8 530.8 600 494 Z'/><path class='p' data-s='1.6600000000000001' data-d='0.35' fill='#ffd166' stroke='#1d1d1d' stroke-width='5' d='M 760 566 Q 766.8 593.2 794 600 Q 766.8 606.8 760 634 Q 753.2 606.8 726 600 Q 753.2 593.2 760 566 Z'/><path class='p' data-s='1.78' data-d='0.35' fill='#ffd166' stroke='#1d1d1d' stroke-width='5' d='M 220 674 Q 225.2 694.8 246 700 Q 225.2 705.2 220 726 Q 214.8 705.2 194 700 Q 214.8 694.8 220 674 Z'/><path class='p' data-s='1.9' data-d='0.35' fill='#ffd166' stroke='#1d1d1d' stroke-width='5' d='M 860 440 Q 866.0 464.0 890 470 Q 866.0 476.0 860 500 Q 854.0 476.0 830 470 Q 854.0 464.0 860 440 Z'/><path class='p' data-s='2.02' data-d='0.35' fill='#ffd166' stroke='#1d1d1d' stroke-width='5' d='M 660 436 Q 664.8 455.2 684 460 Q 664.8 464.8 660 484 Q 655.2 464.8 636 460 Q 655.2 455.2 660 436 Z'/><path class='p' data-s='2.14' data-d='0.35' fill='#ffd166' stroke='#1d1d1d' stroke-width='5' d='M 360 620 Q 364.0 636.0 380 640 Q 364.0 644.0 360 660 Q 356.0 644.0 340 640 Q 356.0 636.0 360 620 Z'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 100,
+          "color": "#e63946",
+          "s": 2.0,
+          "t": {
+            "en": "SPARKLES!",
+            "es": "¡DESTELLOS!",
+            "fr": "ÉTINCELLES !",
+            "ja": "キラキラ！"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 5.5,
+      "caption": {
+        "en": "They have a name: *phosphenes* — seeing light when no light enters the eye.",
+        "es": "Tienen nombre: *fosfenos*. Ves luz sin que entre luz en el ojo.",
+        "fr": "Ça a un nom : les *phosphènes*. Voir de la lumière sans lumière.",
+        "ja": "名前は「*眼内閃光*」。光がないのに*光が見える*現象です。"
+      },
+      "svg": "<circle class='d' data-s='0' data-d='0.8' cx='560' cy='790' r='220' fill='none' stroke='#1d1d1d' stroke-width='10' /><path class='d' data-s='0.4' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 369 680 Q 312 790 369 900'/><ellipse class='d' data-s='0.5' data-d='0.4' cx='398' cy='790' rx='26' ry='78' fill='none' stroke='#1d1d1d' stroke-width='8'/><path class='d' data-s='0.6' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 372 700 L 408 712 M 372 880 L 408 868'/><path class='d' data-s='0.6' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 778 756 C 830 750 870 732 925 722 M 778 824 C 830 830 870 848 925 858'/><path class='d' data-s='0.8' data-d='0.5' fill='none' stroke='#e63946' stroke-width='13' d='M 632 593 A 210 210 0 0 1 632 987'/><circle class='d' data-s='0.9' data-d='0.5' cx='220' cy='560' r='38' fill='none' stroke='#888' stroke-width='9' /><path class='d' data-s='1.1' data-d='0.4' fill='none' stroke='#888' stroke-width='8' d='M 220 500 L 220 480 M 220 620 L 220 640 M 160 560 L 140 560 M 280 560 L 300 560 M 178 518 L 164 504 M 262 602 L 276 616 M 262 518 L 276 504 M 178 602 L 164 616'/><path class='d' data-s='1.6' data-d='0.3' fill='none' stroke='#e63946' stroke-width='13' d='M 150 490 L 290 630'/><path class='p' data-s='2.0' data-d='0.35' fill='#ffd166' stroke='#1d1d1d' stroke-width='5' d='M 690 620 Q 696.0 644.0 720 650 Q 696.0 656.0 690 680 Q 684.0 656.0 660 650 Q 684.0 644.0 690 620 Z'/><path class='p' data-s='2.12' data-d='0.35' fill='#ffd166' stroke='#1d1d1d' stroke-width='5' d='M 740 760 Q 746.0 784.0 770 790 Q 746.0 796.0 740 820 Q 734.0 796.0 710 790 Q 734.0 784.0 740 760 Z'/><path class='p' data-s='2.24' data-d='0.35' fill='#ffd166' stroke='#1d1d1d' stroke-width='5' d='M 690 900 Q 696.0 924.0 720 930 Q 696.0 936.0 690 960 Q 684.0 936.0 660 930 Q 684.0 924.0 690 900 Z'/><path class='p' data-s='2.36' data-d='0.35' fill='#ffd166' stroke='#1d1d1d' stroke-width='5' d='M 600 698 Q 604.4 715.6 622 720 Q 604.4 724.4 600 742 Q 595.6 724.4 578 720 Q 595.6 715.6 600 698 Z'/><path class='p' data-s='2.48' data-d='0.35' fill='#ffd166' stroke='#1d1d1d' stroke-width='5' d='M 610 848 Q 614.4 865.6 632 870 Q 614.4 874.4 610 892 Q 605.6 874.4 588 870 Q 605.6 865.6 610 848 Z'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 96,
+          "color": "#e63946",
+          "s": 2.4,
+          "t": {
+            "en": "PHOSPHENES",
+            "es": "FOSFENOS",
+            "fr": "PHOSPHÈNES",
+            "ja": "眼内閃光（フォスフェン）"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 5,
+      "caption": {
+        "en": "At the back of your eye, the *retina* has cells that react to *light*.",
+        "es": "Al fondo del ojo, la *retina* tiene células que reaccionan a la *luz*.",
+        "fr": "Au fond de l'œil, la *rétine* a des cellules sensibles à la *lumière*.",
+        "ja": "目の奥の*網膜*には、*光*を感じる細胞がびっしり並んでいます。"
+      },
+      "svg": "<circle class='d' data-s='0' data-d='0.8' cx='560' cy='790' r='220' fill='none' stroke='#1d1d1d' stroke-width='10' /><path class='d' data-s='0.4' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 369 680 Q 312 790 369 900'/><ellipse class='d' data-s='0.5' data-d='0.4' cx='398' cy='790' rx='26' ry='78' fill='none' stroke='#1d1d1d' stroke-width='8'/><path class='d' data-s='0.6' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 372 700 L 408 712 M 372 880 L 408 868'/><path class='d' data-s='0.6' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 778 756 C 830 750 870 732 925 722 M 778 824 C 830 830 870 848 925 858'/><path class='d' data-s='0.8' data-d='0.5' fill='none' stroke='#e63946' stroke-width='13' d='M 632 593 A 210 210 0 0 1 632 987'/><circle class='d' data-s='0.9' data-d='0.4' cx='185' cy='790' r='32' fill='none' stroke='#1d1d1d' stroke-width='8' /><path class='d' data-s='1.0' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='7' d='M 185 740 L 185 725 M 185 840 L 185 855 M 145 790 L 140 790'/><path class='d' data-s='1.2' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='6' stroke-dasharray='18 12' d='M 225 760 L 398 742 L 768 790 M 228 790 L 768 790 M 225 820 L 398 838 L 768 790'/><circle class='p' data-s='2.0' data-d='0.3' cx='686' cy='640' r='13' fill='#e63946'/><circle class='p' data-s='2.12' data-d='0.3' cx='738' cy='707' r='13' fill='#e63946'/><circle class='p' data-s='2.24' data-d='0.3' cx='756' cy='790' r='13' fill='#e63946'/><circle class='p' data-s='2.36' data-d='0.3' cx='738' cy='873' r='13' fill='#e63946'/><circle class='p' data-s='2.48' data-d='0.3' cx='686' cy='940' r='13' fill='#e63946'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 100,
+          "color": "#e63946",
+          "s": 1.6,
+          "t": {
+            "en": "RETINA",
+            "es": "RETINA",
+            "fr": "RÉTINE",
+            "ja": "網膜"
+          }
+        }
+      ],
+      "step": 1
+    },
+    {
+      "dur": 5.5,
+      "caption": {
+        "en": "Pressing on the eyeball *squeezes* those cells, so they *fire signals* anyway.",
+        "es": "Al presionar el ojo, esas células se *comprimen* y *envían señales* igual.",
+        "fr": "Appuyer sur l'œil *comprime* ces cellules : elles *envoient des signaux* quand même.",
+        "ja": "眼球を押すとその細胞が*圧迫*され、光がなくても*信号を出します*。"
+      },
+      "svg": "<circle class='d' data-s='0' data-d='0.8' cx='560' cy='790' r='220' fill='none' stroke='#1d1d1d' stroke-width='10' /><path class='d' data-s='0.4' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 369 680 Q 350 790 369 900'/><ellipse class='d' data-s='0.5' data-d='0.4' cx='398' cy='790' rx='26' ry='78' fill='none' stroke='#1d1d1d' stroke-width='8'/><path class='d' data-s='0.6' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 372 700 L 408 712 M 372 880 L 408 868'/><path class='d' data-s='0.6' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 778 756 C 830 750 870 732 925 722 M 778 824 C 830 830 870 848 925 858'/><path class='d' data-s='0.8' data-d='0.5' fill='none' stroke='#e63946' stroke-width='13' d='M 632 593 A 210 210 0 0 1 632 987'/><path class='f' data-s='0.8' data-d='0.2' data-o='1' fill='#fbfaf5' opacity='0' d='M 140 740 L 300 744 Q 352 750 352 790 Q 352 830 300 836 L 140 840 Z'/><path class='d' data-s='0.8' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 140 740 L 300 744 Q 352 750 352 790 Q 352 830 300 836 L 140 840'/><path class='d' data-s='1.2' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='7' d='M 300 760 Q 334 766 334 790 Q 334 814 300 820'/><path class='d' data-s='1.3' data-d='0.4' fill='none' stroke='#e63946' stroke-width='10' d='M 160 680 L 290 680 M 262 656 L 292 680 L 262 704'/><path class='d' data-s='1.4' data-d='0.4' fill='none' stroke='#e63946' stroke-width='10' d='M 160 900 L 290 900 M 262 876 L 292 900 L 262 924'/><path class='d' data-s='1.9' data-d='0.25' fill='none' stroke='#e63946' stroke-width='9' d='M 714 606 L 740 575'/><path class='d' data-s='1.98' data-d='0.25' fill='none' stroke='#e63946' stroke-width='9' d='M 778 689 L 814 672'/><path class='d' data-s='2.06' data-d='0.25' fill='none' stroke='#e63946' stroke-width='9' d='M 800 790 L 840 790'/><path class='d' data-s='2.1399999999999997' data-d='0.25' fill='none' stroke='#e63946' stroke-width='9' d='M 778 891 L 814 908'/><path class='d' data-s='2.2199999999999998' data-d='0.25' fill='none' stroke='#e63946' stroke-width='9' d='M 714 974 L 740 1005'/><path class='p' data-s='2.3' data-d='0.35' fill='#ffd166' stroke='#1d1d1d' stroke-width='5' d='M 700 632 Q 705.6 654.4 728 660 Q 705.6 665.6 700 688 Q 694.4 665.6 672 660 Q 694.4 654.4 700 632 Z'/><path class='p' data-s='2.4499999999999997' data-d='0.35' fill='#ffd166' stroke='#1d1d1d' stroke-width='5' d='M 735 772 Q 740.6 794.4 763 800 Q 740.6 805.6 735 828 Q 729.4 805.6 707 800 Q 729.4 794.4 735 772 Z'/><path class='p' data-s='2.5999999999999996' data-d='0.35' fill='#ffd166' stroke='#1d1d1d' stroke-width='5' d='M 690 897 Q 695.6 919.4 718 925 Q 695.6 930.6 690 953 Q 684.4 930.6 662 925 Q 684.4 919.4 690 897 Z'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 100,
+          "color": "#e63946",
+          "s": 1.8,
+          "t": {
+            "en": "PRESSURE",
+            "es": "PRESIÓN",
+            "fr": "PRESSION",
+            "ja": "押されて反応"
+          }
+        }
+      ],
+      "step": 2
+    },
+    {
+      "dur": 5.5,
+      "caption": {
+        "en": "The signal travels up the *optic nerve*, and your brain reads it as *light*.",
+        "es": "La señal viaja por el *nervio óptico* y tu cerebro la interpreta como *luz*.",
+        "fr": "Le signal passe par le *nerf optique*, et le cerveau le lit comme de la *lumière*.",
+        "ja": "信号は*視神経*から脳へ。脳はそれを「*光*」だと判断します。"
+      },
+      "svg": "<path class='f' data-s='1.6' data-d='0.5' data-o='0.35' fill='#e63946' opacity='0' d='M 715 720 a 62 70 0 1 0 124 0 a 62 70 0 1 0 -124 0 Z'/><path class='d' data-s='0' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 420 760 C 380 640 480 560 580 580 C 640 540 760 560 800 640 C 860 700 850 800 790 830 C 760 880 680 870 640 850 C 580 880 480 870 450 830 C 410 820 400 790 420 760 Z'/><path class='d' data-s='0.6' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='7' d='M 520 640 Q 560 690 520 740 M 620 620 Q 600 680 660 710 M 560 800 Q 620 770 690 800 M 700 640 Q 740 670 720 720'/><path class='d' data-s='0.7' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 720 852 Q 790 905 830 820'/><circle class='d' data-s='0.2' data-d='0.6' cx='250' cy='960' r='78' fill='none' stroke='#1d1d1d' stroke-width='10' /><circle class='p' data-s='0.6' data-d='0.3' cx='250' cy='960' r='30' fill='#1d1d1d'/><path class='d' data-s='0.9' data-d='0.7' fill='none' stroke='#888' stroke-width='10' d='M 330 950 C 450 950 560 860 760 735'/><circle class='p' data-s='1.2' data-d='0.3' cx='366' cy='947' r='12' fill='#e63946'/><circle class='p' data-s='1.3' data-d='0.3' cx='438' cy='927' r='12' fill='#e63946'/><circle class='p' data-s='1.4' data-d='0.3' cx='515' cy='889' r='12' fill='#e63946'/><circle class='p' data-s='1.5' data-d='0.3' cx='602' cy='837' r='12' fill='#e63946'/><circle class='p' data-s='1.6' data-d='0.3' cx='703' cy='771' r='12' fill='#e63946'/><path class='p' data-s='2.0' data-d='0.35' fill='#ffd166' stroke='#1d1d1d' stroke-width='5' d='M 880 568 Q 886.4 593.6 912 600 Q 886.4 606.4 880 632 Q 873.6 606.4 848 600 Q 873.6 593.6 880 568 Z'/><path class='p' data-s='2.12' data-d='0.35' fill='#ffd166' stroke='#1d1d1d' stroke-width='5' d='M 900 744 Q 905.2 764.8 926 770 Q 905.2 775.2 900 796 Q 894.8 775.2 874 770 Q 894.8 764.8 900 744 Z'/><path class='p' data-s='2.24' data-d='0.35' fill='#ffd166' stroke='#1d1d1d' stroke-width='5' d='M 780 464 Q 787.2 492.8 816 500 Q 787.2 507.2 780 536 Q 772.8 507.2 744 500 Q 772.8 492.8 780 464 Z'/><path class='p' data-s='2.36' data-d='0.35' fill='#ffd166' stroke='#1d1d1d' stroke-width='5' d='M 620 456 Q 624.8 475.2 644 480 Q 624.8 484.8 620 504 Q 615.2 484.8 596 480 Q 615.2 475.2 620 456 Z'/><path class='p' data-s='2.48' data-d='0.35' fill='#ffd166' stroke='#1d1d1d' stroke-width='5' d='M 890 878 Q 894.4 895.6 912 900 Q 894.4 904.4 890 922 Q 885.6 904.4 868 900 Q 885.6 895.6 890 878 Z'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 100,
+          "color": "#e63946",
+          "s": 2.2,
+          "t": {
+            "en": "= LIGHT!",
+            "es": "= ¡LUZ!",
+            "fr": "= LUMIÈRE !",
+            "ja": "＝光だ！"
+          }
+        }
+      ],
+      "step": 3
+    },
+    {
+      "dur": 5,
+      "caption": {
+        "en": "Similar sparkles can pop up when you *stand up fast* or after a big *sneeze*.",
+        "es": "Destellos parecidos pueden aparecer al *levantarte rápido* o tras un gran *estornudo*.",
+        "fr": "On peut en voir aussi en se *levant trop vite* ou après un gros *éternuement*.",
+        "ja": "*急に立ち上がった*時や、*くしゃみ*の後にも見えることがあります。"
+      },
+      "svg": "<path class='d' data-s='0' data-d='0.5' fill='none' stroke='#bbb' stroke-width='6' stroke-dasharray='16 14' d='M 540 560 L 540 1080'/><path class='d' data-s='0.1' data-d='0.6' fill='none' stroke='#888' stroke-width='9' d='M 170 870 L 290 870 L 290 1060 M 170 870 L 170 1060 M 170 870 L 170 720'/><circle class='d' data-s='0.3' data-d='0.5' cx='380' cy='650' r='44' fill='none' stroke='#1d1d1d' stroke-width='10' /><path class='d' data-s='0.5' data-d='0.7' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 380 694 L 380 880 M 380 880 L 345 1060 M 380 880 L 415 1060 M 380 740 L 320 830 M 380 740 L 440 830'/><path class='d' data-s='0.9' data-d='0.4' fill='none' stroke='#e63946' stroke-width='10' d='M 225 830 L 225 700 M 200 728 L 225 700 L 250 728'/><path class='p' data-s='1.3' data-d='0.35' fill='#ffd166' stroke='#1d1d1d' stroke-width='5' d='M 300 534 Q 305.2 554.8 326 560 Q 305.2 565.2 300 586 Q 294.8 565.2 274 560 Q 294.8 554.8 300 534 Z'/><path class='p' data-s='1.4000000000000001' data-d='0.35' fill='#ffd166' stroke='#1d1d1d' stroke-width='5' d='M 380 508 Q 386.4 533.6 412 540 Q 386.4 546.4 380 572 Q 373.6 546.4 348 540 Q 373.6 533.6 380 508 Z'/><path class='p' data-s='1.5' data-d='0.35' fill='#ffd166' stroke='#1d1d1d' stroke-width='5' d='M 460 546 Q 464.8 565.2 484 570 Q 464.8 574.8 460 594 Q 455.2 574.8 436 570 Q 455.2 565.2 460 546 Z'/><path class='p' data-s='1.6' data-d='0.35' fill='#ffd166' stroke='#1d1d1d' stroke-width='5' d='M 450 632 Q 453.6 646.4 468 650 Q 453.6 653.6 450 668 Q 446.4 653.6 432 650 Q 446.4 646.4 450 632 Z'/><circle class='d' data-s='1.4' data-d='0.6' cx='740' cy='780' r='90' fill='none' stroke='#1d1d1d' stroke-width='10' /><path class='d' data-s='1.8' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 790 760 Q 815 765 818 790 M 755 755 L 770 745'/><path class='d' data-s='2.0' data-d='0.35' fill='none' stroke='#e63946' stroke-width='8' d='M 830 800 L 900 785 M 832 822 L 915 830 M 825 845 L 890 875'/><path class='d' data-s='1.8' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 720 870 L 720 960 M 700 960 Q 740 1000 780 960'/><path class='p' data-s='2.4' data-d='0.35' fill='#ffd166' stroke='#1d1d1d' stroke-width='5' d='M 660 616 Q 664.8 635.2 684 640 Q 664.8 644.8 660 664 Q 655.2 644.8 636 640 Q 655.2 635.2 660 616 Z'/><path class='p' data-s='2.5' data-d='0.35' fill='#ffd166' stroke='#1d1d1d' stroke-width='5' d='M 740 578 Q 746.4 603.6 772 610 Q 746.4 616.4 740 642 Q 733.6 616.4 708 610 Q 733.6 603.6 740 578 Z'/><path class='p' data-s='2.6' data-d='0.35' fill='#ffd166' stroke='#1d1d1d' stroke-width='5' d='M 820 618 Q 824.4 635.6 842 640 Q 824.4 644.4 820 662 Q 815.6 644.4 798 640 Q 815.6 635.6 820 618 Z'/><path class='p' data-s='2.7' data-d='0.35' fill='#ffd166' stroke='#1d1d1d' stroke-width='5' d='M 680 684 Q 683.2 696.8 696 700 Q 683.2 703.2 680 716 Q 676.8 703.2 664 700 Q 676.8 696.8 680 684 Z'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 92,
+          "color": "#e63946",
+          "s": 2.6,
+          "t": {
+            "en": "SAME SPARKLES",
+            "es": "MISMOS DESTELLOS",
+            "fr": "MÊMES ÉTINCELLES",
+            "ja": "同じキラキラ"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 4.5,
+      "caption": {
+        "en": "So rub *gently*. Pressing hard on your eyes *isn't good* for them.",
+        "es": "Así que frota con *suavidad*. Apretar fuerte los ojos *no es bueno*.",
+        "fr": "Alors frotte *doucement* : appuyer fort sur les yeux, ce *n'est pas bon*.",
+        "ja": "こするなら*やさしく*。強く押すのは*目によくありません*。"
+      },
+      "svg": "<path class='d' data-s='0' data-d='0.5' fill='none' stroke='#bbb' stroke-width='6' stroke-dasharray='16 14' d='M 540 560 L 540 1080'/><g transform='translate(330 860) scale(0.62)'><path class='d' data-s='0.1' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='11' d='M -230 0 Q 0 130 230 0'/><path class='d' data-s='0.5' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='8' d='M -150 52 L -170 95 M -75 80 L -85 128 M 0 92 L 0 142 M 75 80 L 85 128 M 150 52 L 170 95'/><path class='d' data-s='0.4' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='9' d='M -220 -120 Q 0 -210 220 -120'/></g><g transform='translate(750 860) scale(0.62)'><path class='d' data-s='0.1' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='11' d='M -230 0 Q 0 130 230 0'/><path class='d' data-s='0.5' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='8' d='M -150 52 L -170 95 M -75 80 L -85 128 M 0 92 L 0 142 M 75 80 L 85 128 M 150 52 L 170 95'/><path class='d' data-s='0.4' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='9' d='M -220 -120 Q 0 -210 220 -120'/></g><path class='d' data-s='0.6' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='16' d='M 330 600 L 330 760 M 290 715 L 330 765 L 370 715'/><path class='d' data-s='1.3' data-d='0.4' fill='none' stroke='#e63946' stroke-width='13' d='M 230 560 L 430 1020 M 430 560 L 230 1020'/><path class='d' data-s='0.8' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 800 700 A 55 40 0 1 1 760 660 M 742 640 L 764 660 L 738 676'/><path class='d' data-s='1.6' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='14' d='M 680 1000 L 730 1050 L 830 940'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 100,
+          "color": "#e63946",
+          "s": 1.8,
+          "t": {
+            "en": "BE GENTLE",
+            "es": "CON SUAVIDAD",
+            "fr": "EN DOUCEUR",
+            "ja": "やさしく"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 6,
+      "caption": {
+        "en": "Flashes *on their own*, new *floaters* or a *shadow* over your vision? See a doctor *urgently*.",
+        "es": "¿Destellos *sin motivo*, nuevas *moscas volantes* o una *sombra* en la vista? Ve al médico *urgente*.",
+        "fr": "Éclairs *spontanés*, nouveaux *corps flottants* ou *ombre* sur la vue ? Consulte *en urgence*.",
+        "ja": "突然*光が走る*、*飛蚊症*が急増した、視界に*影*が出た時は*すぐ眼科*へ。"
+      },
+      "svg": "<path class='f' data-s='0.9' data-d='0.7' data-o='0.55' fill='#555' opacity='0' d='M 200 560 L 880 560 L 880 720 Q 790 780 700 730 Q 610 690 520 750 Q 420 800 330 740 Q 260 700 200 740 Z'/><path class='d' data-s='0' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 230 560 L 850 560 Q 880 560 880 590 L 880 1010 Q 880 1040 850 1040 L 230 1040 Q 200 1040 200 1010 L 200 590 Q 200 560 230 560 Z'/><path class='d' data-s='1.5' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='6' d='M 300 880 q 20 -30 40 0 t 40 0 t 30 -10'/><path class='d' data-s='1.6' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='6' d='M 600 960 q 15 -25 30 -5 t 35 5'/><circle class='p' data-s='1.7' data-d='0.3' cx='470' cy='930' r='9' fill='#1d1d1d'/><circle class='p' data-s='1.75' data-d='0.3' cx='720' cy='880' r='7' fill='#1d1d1d'/><path class='d' data-s='2.0' data-d='0.35' fill='none' stroke='#e63946' stroke-width='11' d='M 760 800 L 700 880 L 760 880 L 700 970'/><path class='d' data-s='2.2' data-d='0.35' fill='none' stroke='#e63946' stroke-width='11' d='M 380 790 L 330 850 L 380 850 L 340 920'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 92,
+          "color": "#e63946",
+          "s": 2.4,
+          "t": {
+            "en": "SEE A DOCTOR NOW",
+            "es": "VE AL MÉDICO YA",
+            "fr": "CONSULTE VITE",
+            "ja": "すぐ眼科へ"
+          }
+        }
+      ]
+    }
+  ]
+}

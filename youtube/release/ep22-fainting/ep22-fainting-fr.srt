@@ -1,0 +1,51 @@
+1
+00:00:00,250 --> 00:00:01,590
+Quelqu'un fait un malaise ?
+
+2
+00:00:01,590 --> 00:00:02,682
+Voici les bons gestes.
+
+3
+00:00:05,750 --> 00:00:07,756
+1 — Vérifie qu'elle réagit et respire.
+
+4
+00:00:07,756 --> 00:00:09,974
+Appelle-la par son nom et tapote l'épaule.
+
+5
+00:00:11,250 --> 00:00:15,965
+2 — Allonge-la sur le dos et surélève ses jambes d'environ 30 centimètres.
+
+6
+00:00:16,750 --> 00:00:20,555
+3 — Desserre les vêtements, fais circuler l'air frais et reste auprès d'elle.
+
+7
+00:00:20,555 --> 00:00:22,531
+Elle devrait se réveiller en une minute.
+
+8
+00:00:23,230 --> 00:00:25,389
+Au réveil, laisse-la se redresser lentement.
+
+9
+00:00:25,389 --> 00:00:28,627
+Donne à boire ou à manger seulement quand elle est bien réveillée.
+
+10
+00:00:29,330 --> 00:00:32,716
+Ne la redresse pas vite, ne la gifle pas, ne la laisse pas seule.
+
+11
+00:00:32,716 --> 00:00:36,050
+Ne donne jamais à boire ni à manger à une personne inconsciente.
+
+12
+00:00:36,750 --> 00:00:42,894
+Appelle les urgences si elle ne se réveille pas en une minute, ne respire pas, est blessée ou a une douleur à la poitrine.
+
+13
+00:00:43,590 --> 00:00:50,374
+Consulte aussi un médecin après un premier malaise, s'ils se répètent, ou si tu es enceinte ou as un problème cardiaque.

@@ -1,0 +1,39 @@
+1
+00:00:00,250 --> 00:00:01,094
+Cheville foulée ?
+
+2
+00:00:01,094 --> 00:00:03,279
+Voici les premiers secours pour une entorse.
+
+3
+00:00:06,250 --> 00:00:06,788
+Un : repos.
+
+4
+00:00:06,788 --> 00:00:08,746
+Arrête-toi et ne charge pas la cheville.
+
+5
+00:00:12,250 --> 00:00:15,983
+Deux : glace quinze à vingt minutes, toutes les deux à trois heures, dans un linge.
+
+6
+00:00:18,750 --> 00:00:19,667
+Trois : compression.
+
+7
+00:00:19,667 --> 00:00:22,419
+Entoure la cheville d'une bande élastique, sans trop serrer.
+
+8
+00:00:24,750 --> 00:00:28,270
+Quatre : élève le pied au-dessus de la hanche pour réduire le gonflement.
+
+9
+00:00:30,750 --> 00:00:34,947
+Impossible d'appuyer, douleur intense, articulation déformée ou engourdie ?
+
+10
+00:00:34,947 --> 00:00:38,921
+Consulte un médecin, de même si ça ne s'améliore pas en quelques jours.

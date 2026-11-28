@@ -1,0 +1,43 @@
+1
+00:00:00,250 --> 00:00:02,010
+Il fait chaud et tu te sens mal ?
+
+2
+00:00:02,010 --> 00:00:05,690
+Distingue épuisement dû à la chaleur et coup de chaleur, une urgence.
+
+3
+00:00:06,390 --> 00:00:11,894
+Épuisement dû à la chaleur : forte sueur, mal de tête, vertiges, nausées, crampes, faiblesse, grosse soif.
+
+4
+00:00:12,890 --> 00:00:16,261
+1 — Mets la personne au frais, allongée, les pieds légèrement surélevés.
+
+5
+00:00:18,390 --> 00:00:22,443
+2 — Fais-lui boire de l'eau ou une boisson de réhydratation, par petites gorgées.
+
+6
+00:00:23,390 --> 00:00:26,847
+3 — Refroidis la peau : eau fraîche en spray ou à l'éponge, et évente.
+
+7
+00:00:26,847 --> 00:00:28,723
+Du froid aux aisselles ou au cou aide.
+
+8
+00:00:29,420 --> 00:00:31,854
+Heatstroke is an emergency.
+
+9
+00:00:31,854 --> 00:00:39,425
+Call if they're confused, faint, seizing, not sweating, or not better in 30 minutes.
+
+10
+00:00:40,130 --> 00:00:41,957
+En attendant, continue de refroidir.
+
+11
+00:00:41,957 --> 00:00:44,546
+Ne donne pas à boire s'il n'est pas bien conscient.

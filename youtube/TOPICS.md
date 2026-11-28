@@ -1,0 +1,74 @@
+# Sketch Clinic topic backlog
+
+Status: `todo`, `in progress: epNN-slug`, or `done: epNN-slug`.
+
+Covered by ep01-ep20: stroke, heart attack, leg cramps, knuckle cracking, hiccups, eye twitch, brain freeze, head rush, nosebleed, foot asleep, stomach growl, sneeze, frostbite, mouth ulcer, bee sting, choking, heat illness, button battery, ear popping, contagious yawn.
+
+- done: ep21-minor-burn - Minor burn first aid (cool running water 20 min)
+- done: ep22-fainting - Fainting - what to do when someone passes out
+- done: ep24-goosebumps - Why do we get goosebumps?
+- done: ep31-wrinkly-fingers - Why do fingers wrinkle in water?
+- done: ep26-sprained-ankle - Sprained ankle first aid (PRICE / POLICE)
+- done: ep27-sunburn - Sunburn - treat it and when to worry
+- done: ep29-splinter - How to remove a splinter safely
+- done: ep32-motion-sickness - Motion sickness - why it happens and what helps
+- done: ep34-dehydration - Dehydration signs and what to do
+- done: ep28-blisters - Blisters - to pop or not to pop
+- done: ep35-black-eye - Black eye / blow to the eye - when to get checked
+- done: ep33-side-stitch - Why do we get a stitch (side cramp) when running?
+- done: ep30-tick-bite - Tick bite - how to remove it and what to watch
+- todo: Jellyfish sting first aid
+- done: ep47-throat-lump - Why do we get a lump in the throat when sad?
+- done: ep37-concussion - Concussion warning signs
+- todo: Dog bite first aid
+- done: ep25-something-in-eye - Something in your eye - what to do
+- todo: Why do we dream / forget dreams?
+- todo: Food poisoning - fluids and warning signs
+- todo: Why do we get a sore throat? When to see a doctor
+- todo: Cold vs flu vs COVID - differences and red flags
+- done: ep23-severe-bleeding - Severe bleeding - direct pressure
+- done: ep36-seizure - Seizure first aid
+- todo: Low blood sugar signs (hypoglycaemia) and what to do
+- todo: Why do we get goosebumps from music (frisson)?
+- todo: Swimmer's ear
+- todo: Why is your pee dark / what urine colour says
+- todo: Insect in the ear
+- todo: Why do we get sleepy after lunch?
+- done: ep38-eye-floaters - What are the things floating in your eyes? (floaters; red flags for retinal tear)
+- done: ep39-funny-bone - Why does hitting your funny bone feel so weird? (ulnar nerve)
+- done: ep40-seeing-stars - Why do you see stars when you rub your eyes? (phosphenes)
+- done: ep41-recorded-voice - Why does your voice sound weird on recordings? (bone conduction)
+- done: ep42-butterflies - Why do you get butterflies when nervous? (fight-or-flight, gut-brain)
+- done: ep43-spicy-food - What really happens when you eat spicy food? (capsaicin, TRPV1 heat receptors; milk vs water)
+- todo: Why do onions make you cry? (syn-propanethial-S-oxide)
+- todo: Why do you get a headache from ice cream vs. hunger headache?
+- todo: Why do your ears ring after a concert? (tinnitus, noise damage)
+- todo: Why does your nose run in the cold?
+- done: ep46-sun-sneeze - Why do you sneeze when you look at the sun? (photic sneeze reflex - it has a name)
+- todo: Why do you get pins and needles in your hands at night?
+- todo: Why does your mouth water before you vomit?
+- done: ep44-hypnic-jerk - Why do you jerk awake when falling asleep? (hypnic jerk - it has a name)
+- done: ep48-hold-breath - What really happens when you hold your breath?
+- todo: Why do you get déjà vu?
+- todo: Why does your stomach hurt when you laugh too hard?
+- todo: Why do your joints ache before rain? (what science says)
+- todo: Why do you get a "food coma"?
+- todo: What really happens when you don't sleep for a night?
+- todo: Why do you get a cold sore? (HSV-1, triggers)
+- todo: Why do your eyes get puffy in the morning?
+- todo: Why do you shiver when you have a fever?
+- todo: Why do your teeth feel sensitive to cold? (dentin hypersensitivity)
+- done: ep45-neck-cracking - What really happens when you crack your neck/back?
+- todo: Why do you get a dry mouth when nervous?
+- todo: Why do you get a "charley horse" vs. a cramp? (muscle knot myths)
+- todo: Why does asparagus make your pee smell?
+- todo: Why do you get a white spot on your nails? (leukonychia - it has a name)
+- todo: What really happens when you burp?
+- todo: Why does your heart skip a beat? (ectopic beats; red flags)
+- todo: Why do you get a runny nose when you cry?
+- todo: Why do you yawn when you're not tired?
+- todo: Why do your feet smell? (bacteria and sweat)
+- todo: What really happens when you get a bruise? (colour changes)
+- todo: Why do you get a sugar crash?
+- todo: Why do your eyes water when you yawn?
+- todo: Why do you get sleep paralysis? (it has a name)

@@ -1,0 +1,39 @@
+1
+00:00:00,250 --> 00:00:04,069
+Frotte tes yeux fermés et tu vois des étincelles, même dans le noir complet.
+
+2
+00:00:05,250 --> 00:00:06,802
+Ça a un nom : les phosphènes.
+
+3
+00:00:06,802 --> 00:00:08,514
+Voir de la lumière sans lumière.
+
+4
+00:00:10,750 --> 00:00:14,142
+Au fond de l'œil, la rétine a des cellules sensibles à la lumière.
+
+5
+00:00:15,750 --> 00:00:19,441
+Appuyer sur l'œil comprime ces cellules : elles envoient des signaux quand même.
+
+6
+00:00:21,250 --> 00:00:25,175
+Le signal passe par le nerf optique, et le cerveau le lit comme de la lumière.
+
+7
+00:00:26,750 --> 00:00:30,697
+On peut en voir aussi en se levant trop vite ou après un gros éternuement.
+
+8
+00:00:31,750 --> 00:00:35,035
+Alors frotte doucement : appuyer fort sur les yeux, ce n'est pas bon.
+
+9
+00:00:36,250 --> 00:00:39,627
+Éclairs spontanés, nouveaux corps flottants ou ombre sur la vue ?
+
+10
+00:00:39,627 --> 00:00:40,666
+Consulte en urgence.

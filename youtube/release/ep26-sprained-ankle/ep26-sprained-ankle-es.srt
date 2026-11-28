@@ -1,0 +1,47 @@
+1
+00:00:00,250 --> 00:00:01,552
+¿Te torciste el tobillo?
+
+2
+00:00:01,552 --> 00:00:03,450
+Primeros auxilios para un esguince.
+
+3
+00:00:06,250 --> 00:00:06,954
+Uno: reposo.
+
+4
+00:00:06,954 --> 00:00:08,773
+Detente y no apoyes el tobillo.
+
+5
+00:00:08,773 --> 00:00:10,474
+No intentes seguir caminando.
+
+6
+00:00:12,250 --> 00:00:15,786
+Dos: hielo durante quince a veinte minutos, cada dos o tres horas.
+
+7
+00:00:15,786 --> 00:00:16,965
+Envuélvelo en un paño.
+
+8
+00:00:18,750 --> 00:00:19,737
+Tres: compresión.
+
+9
+00:00:19,737 --> 00:00:23,742
+Venda el tobillo con una venda elástica firme, sin apretar demasiado.
+
+10
+00:00:24,750 --> 00:00:29,059
+Cuatro: eleva el pie por encima de la cadera al descansar para bajar la hinchazón.
+
+11
+00:00:30,750 --> 00:00:36,371
+Si no puedes apoyar el pie, o hay dolor intenso, deformidad o entumecimiento, busca atención médica.
+
+12
+00:00:36,371 --> 00:00:38,451
+Y consulta si no mejora en unos días.

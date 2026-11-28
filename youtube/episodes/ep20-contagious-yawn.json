@@ -1,0 +1,281 @@
+{
+ "id": "ep20-contagious-yawn",
+ "title": {
+  "en": "Why Are Yawns *Contagious*?",
+  "es": "¿Por qué se *contagian* los bostezos?",
+  "fr": "Pourquoi le bâillement est *contagieux* ?",
+  "ja": "あくびが*うつる*のはなぜ？"
+ },
+ "coverTime": 4.5,
+ "scenes": [
+  {
+   "dur": 5.5,
+   "caption": {
+    "en": "Someone yawns, and a moment later… *you* do too. That's *contagious yawning*.",
+    "es": "Alguien bosteza y, un momento después… *tú* también. Es el *bostezo contagioso*.",
+    "fr": "Quelqu'un bâille et, un instant après… *toi* aussi. C'est le *bâillement contagieux*.",
+    "ja": "だれかがあくびをすると、すぐ*自分*も…。これが*あくびの伝染*です。"
+   },
+   "svg": "<circle class='d' data-s='0' data-d='0.6' cx='280' cy='720' r='110' fill='none' stroke='#1d1d1d' stroke-width='9'/><path class='d' data-s='0.4' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='7'  d='M 225.0 692.5 q 22.0 13.2 39.6 0 M 295.4 692.5 q 22.0 13.2 39.6 0'/><ellipse class='d' data-s='0.6' data-d='0.4' cx='280' cy='758.5' rx='30.800000000000004' ry='41.8' fill='none' stroke='#1d1d1d' stroke-width='8'/><path class='d' data-s='1.0' data-d='0.5' fill='none' stroke='#e63946' stroke-width='9'  d='M 420 720 L 640 720 M 619 732 L 640 720 L 619 708'/><circle class='d' data-s='1.6' data-d='0.6' cx='800' cy='720' r='110' fill='none' stroke='#1d1d1d' stroke-width='9'/><path class='d' data-s='2.0' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='7'  d='M 745.0 692.5 q 22.0 13.2 39.6 0 M 815.4 692.5 q 22.0 13.2 39.6 0'/><ellipse class='d' data-s='2.2' data-d='0.4' cx='800' cy='758.5' rx='30.800000000000004' ry='41.8' fill='none' stroke='#1d1d1d' stroke-width='8'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 100,
+     "color": "#e63946",
+     "s": 2.4,
+     "t": {
+      "en": "YAWN!",
+      "es": "¡BOSTEZO!",
+      "fr": "BÂILLEMENT !",
+      "ja": "ふわぁ〜"
+     },
+     "maxW": 900
+    }
+   ]
+  },
+  {
+   "dur": 6,
+   "caption": {
+    "en": "Seeing a yawn, hearing one, even *reading* about it can set you off. Yawning yet?",
+    "es": "Ver un bostezo, oírlo o incluso *leer* sobre él puede provocarte uno. ¿Ya bostezaste?",
+    "fr": "Voir, entendre ou même *lire* le mot « bâiller » peut te faire bâiller. Ça y est ?",
+    "ja": "あくびを見る、聞く、あくびについて*読む*だけでも出てしまうことが。もう出ました？"
+   },
+   "svg": "<ellipse class='d' data-s='0' data-d='0.5' cx='240' cy='700' rx='90' ry='50' fill='none' stroke='#1d1d1d' stroke-width='10'/><circle class='p' data-s='0.4' data-d='0.4' cx='240' cy='700' r='24' fill='#1d1d1d'/><path class='d' data-s='0.8' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='8'  d='M 500 660 q -30 40 0 80 M 540 630 q -50 70 0 140 M 580 600 q -70 100 0 200'/><path class='d' data-s='1.4' data-d='0.7' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 720 620 L 840 650 L 960 620 V 800 L 840 830 L 720 800 Z M 840 650 V 830'/>",
+   "texts": [
+    {
+     "x": 240,
+     "y": 860,
+     "size": 48,
+     "color": "#1d1d1d",
+     "s": 0.4,
+     "t": {
+      "en": "SEE",
+      "es": "VER",
+      "fr": "VOIR",
+      "ja": "見る"
+     },
+     "maxW": 260
+    },
+    {
+     "x": 540,
+     "y": 860,
+     "size": 48,
+     "color": "#1d1d1d",
+     "s": 0.9,
+     "t": {
+      "en": "HEAR",
+      "es": "OÍR",
+      "fr": "ENTENDRE",
+      "ja": "聞く"
+     },
+     "maxW": 260
+    },
+    {
+     "x": 840,
+     "y": 900,
+     "size": 48,
+     "color": "#1d1d1d",
+     "s": 1.6,
+     "t": {
+      "en": "READ",
+      "es": "LEER",
+      "fr": "LIRE",
+      "ja": "読む"
+     },
+     "maxW": 260
+    },
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#e63946",
+     "s": 2.4,
+     "t": {
+      "en": "TRIGGERED!",
+      "es": "¡CONTAGIO!",
+      "fr": "DÉCLENCHÉ !",
+      "ja": "うつった！"
+     },
+     "maxW": 900
+    }
+   ]
+  },
+  {
+   "dur": 6.5,
+   "caption": {
+    "en": "It may involve brain networks that help us *mirror* and *connect* with others. Research continues.",
+    "es": "Podría deberse a redes cerebrales que nos ayudan a *imitar* y *conectar* con otros. Aún se investiga.",
+    "fr": "Ce serait lié aux réseaux du cerveau qui nous aident à *imiter* et à *nous relier* aux autres. C'est encore étudié.",
+    "ja": "他人を*まねる*・*共感する*ことに関わる脳のしくみが関係すると考えられています。まだ研究中です。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 400 840 C 300 840 260 760 300 700 C 270 630 330 560 400 580 C 430 520 520 510 560 550 C 610 510 700 530 710 600 C 780 610 800 700 750 750 C 770 820 700 860 650 840 C 620 880 540 880 520 850 C 480 870 430 870 400 840 Z'/><path class='d' data-s='0.9' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='7'  d='M 400 640 q 40 40 0 80 M 520 600 q -30 60 20 100 M 640 640 q -40 50 0 100'/><circle class='p' data-s='1.6' data-d='0.4' cx='470' cy='700' r='18' fill='#e63946'/><circle class='p' data-s='1.8' data-d='0.4' cx='610' cy='720' r='18' fill='#e63946'/><path class='d' data-s='2.0' data-d='0.5' fill='none' stroke='#e63946' stroke-width='7'  d='M 470 700 Q 540 640 610 720'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 84,
+     "color": "#e63946",
+     "s": 2.4,
+     "t": {
+      "en": "MIRROR · CONNECT",
+      "es": "IMITAR · CONECTAR",
+      "fr": "IMITER · RELIER",
+      "ja": "まねる・共感"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 6,
+   "caption": {
+    "en": "Yawns spread *more easily* between family and friends than between strangers.",
+    "es": "Los bostezos se contagian *más* entre familia y amigos que entre desconocidos.",
+    "fr": "Le bâillement se transmet *plus facilement* entre proches qu'entre inconnus.",
+    "ja": "あくびは他人より、家族や友人など*親しい人*どうしのほうがうつりやすいといわれます。"
+   },
+   "svg": "<circle class='d' data-s='0' data-d='0.6' cx='260' cy='720' r='85' fill='none' stroke='#1d1d1d' stroke-width='9'/><path class='d' data-s='0.4' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='7'  d='M 217.5 698.75 q 17.0 10.2 30.599999999999998 0 M 271.9 698.75 q 17.0 10.2 30.599999999999998 0'/><ellipse class='d' data-s='0.6' data-d='0.4' cx='260' cy='749.75' rx='23.8' ry='32.3' fill='none' stroke='#1d1d1d' stroke-width='8'/><circle class='d' data-s='0.6' data-d='0.6' cx='460' cy='720' r='85' fill='none' stroke='#1d1d1d' stroke-width='9'/><path class='d' data-s='1.0' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='7'  d='M 417.5 698.75 q 17.0 10.2 30.599999999999998 0 M 471.9 698.75 q 17.0 10.2 30.599999999999998 0'/><ellipse class='d' data-s='1.2' data-d='0.4' cx='460' cy='749.75' rx='23.8' ry='32.3' fill='none' stroke='#1d1d1d' stroke-width='8'/><path class='d' data-s='1.2' data-d='0.5' fill='none' stroke='#e63946' stroke-width='8'  d='M 360 600 c -20 -40 -70 -20 -50 20 l 50 50 l 50 -50 c 20 -40 -30 -60 -50 -20 Z'/><circle class='d' data-s='1.6' data-d='0.6' cx='820' cy='720' r='85' fill='none' stroke='#1d1d1d' stroke-width='9'/><circle class='p' data-s='2.0' data-d='0.4' cx='794.5' cy='703.0' r='7.6499999999999995' fill='#1d1d1d'/><circle class='p' data-s='2.0' data-d='0.4' cx='845.5' cy='703.0' r='7.6499999999999995' fill='#1d1d1d'/><path class='d' data-s='2.2' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='7'  d='M 790.25 745.5 q 29.749999999999996 25.5 59.49999999999999 0'/><path class='d' data-s='1.9' data-d='0.3' fill='none' stroke='#888' stroke-width='6'  d='M 760 580 q 60 -30 120 0'/>",
+   "texts": [
+    {
+     "x": 360,
+     "y": 880,
+     "size": 48,
+     "color": "#e63946",
+     "s": 1.4,
+     "t": {
+      "en": "CLOSE",
+      "es": "CERCANOS",
+      "fr": "PROCHES",
+      "ja": "親しい"
+     },
+     "maxW": 360
+    },
+    {
+     "x": 820,
+     "y": 880,
+     "size": 44,
+     "color": "#888",
+     "s": 2.0,
+     "t": {
+      "en": "STRANGER",
+      "es": "DESCONOCIDO",
+      "fr": "INCONNU",
+      "ja": "他人"
+     },
+     "maxW": 300
+    },
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 84,
+     "color": "#e63946",
+     "s": 2.4,
+     "t": {
+      "en": "CLOSER = MORE",
+      "es": "MÁS CERCA = MÁS",
+      "fr": "PLUS PROCHE = PLUS",
+      "ja": "親しいほど"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 5.5,
+   "caption": {
+    "en": "Very young children rarely catch yawns. It usually develops around *age 4 or 5*.",
+    "es": "Los niños muy pequeños casi no se contagian. Suele aparecer hacia los *4 o 5 años*.",
+    "fr": "Les tout-petits l'attrapent rarement. Ça apparaît vers *4 ou 5 ans*.",
+    "ja": "小さな子どもにはほとんどうつらず、*4〜5歳*ごろからうつるようになるといわれます。"
+   },
+   "svg": "<circle class='d' data-s='0' data-d='0.6' cx='300' cy='720' r='110' fill='none' stroke='#1d1d1d' stroke-width='9'/><path class='d' data-s='0.4' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='7'  d='M 245.0 692.5 q 22.0 13.2 39.6 0 M 315.4 692.5 q 22.0 13.2 39.6 0'/><ellipse class='d' data-s='0.6' data-d='0.4' cx='300' cy='758.5' rx='30.800000000000004' ry='41.8' fill='none' stroke='#1d1d1d' stroke-width='8'/><circle class='d' data-s='1.0' data-d='0.6' cx='760' cy='780' r='70' fill='none' stroke='#1d1d1d' stroke-width='9'/><circle class='p' data-s='1.4' data-d='0.4' cx='739.0' cy='766.0' r='6.3' fill='#1d1d1d'/><circle class='p' data-s='1.4' data-d='0.4' cx='781.0' cy='766.0' r='6.3' fill='#1d1d1d'/><path class='d' data-s='1.6' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='7'  d='M 735.5 801.0 q 24.5 21.0 49.0 0'/><path class='d' data-s='1.4' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 760 850 V 980 M 760 880 L 700 940 M 760 880 L 820 940'/>",
+   "texts": [
+    {
+     "x": 760,
+     "y": 620,
+     "size": 56,
+     "color": "#e63946",
+     "s": 1.8,
+     "t": {
+      "en": "AGE 4–5",
+      "es": "4–5 AÑOS",
+      "fr": "4–5 ANS",
+      "ja": "4〜5歳"
+     },
+     "maxW": 320
+    },
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 80,
+     "color": "#e63946",
+     "s": 2.3,
+     "t": {
+      "en": "KIDS: LATER",
+      "es": "NIÑOS: MÁS TARDE",
+      "fr": "ENFANTS : PLUS TARD",
+      "ja": "子どもは後から"
+     },
+     "maxW": 920
+    }
+   ],
+   "narration": {
+    "ja": "小さな子どもにはほとんどうつらず、*4から5歳*ごろからうつるようになるといわれます。"
+   }
+  },
+  {
+   "dur": 5.5,
+   "caption": {
+    "en": "Some animals catch yawns too, like chimpanzees, and even dogs from their owners.",
+    "es": "Algunos animales también se contagian, como los chimpancés, e incluso los perros de sus dueños.",
+    "fr": "Certains animaux l'attrapent aussi, comme les chimpanzés, et même les chiens de leur maître.",
+    "ja": "チンパンジーなど一部の動物にもうつり、犬が飼い主からうつることも。"
+   },
+   "svg": "<circle class='d' data-s='0' data-d='0.6' cx='280' cy='720' r='100' fill='none' stroke='#1d1d1d' stroke-width='9'/><path class='d' data-s='0.4' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='7'  d='M 230.0 695.0 q 20.0 12.0 36.0 0 M 294.0 695.0 q 20.0 12.0 36.0 0'/><ellipse class='d' data-s='0.6' data-d='0.4' cx='280' cy='755.0' rx='28.000000000000004' ry='38.0' fill='none' stroke='#1d1d1d' stroke-width='8'/><path class='d' data-s='0.8' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 700 640 C 700 590 760 570 810 590 L 880 560 L 870 640 C 920 670 930 740 880 780 C 840 810 760 810 720 780 C 670 750 670 690 700 640 Z'/><path class='d' data-s='1.2' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 700 640 L 650 580 L 690 700'/><circle class='p' data-s='1.4' data-d='0.4' cx='780' cy='670' r='9' fill='#1d1d1d'/><ellipse class='d' data-s='1.6' data-d='0.4' cx='820' cy='745' rx='30' ry='24' fill='none' stroke='#1d1d1d' stroke-width='7'/><path class='d' data-s='2.0' data-d='0.5' fill='none' stroke='#e63946' stroke-width='9'  d='M 410 720 L 640 720 M 619 732 L 640 720 L 619 708'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 88,
+     "color": "#e63946",
+     "s": 2.4,
+     "t": {
+      "en": "DOGS TOO!",
+      "es": "¡PERROS TAMBIÉN!",
+      "fr": "LES CHIENS AUSSI !",
+      "ja": "犬にも！"
+     },
+     "maxW": 900
+    }
+   ]
+  },
+  {
+   "dur": 5.5,
+   "caption": {
+    "en": "Not catching yawns is *normal* too. It doesn't mean you lack empathy.",
+    "es": "No contagiarse también es *normal*. No significa falta de empatía.",
+    "fr": "Ne pas l'attraper est aussi *normal*. Ça ne veut pas dire manquer d'empathie.",
+    "ja": "あくびがうつらなくても*正常*。共感力がないという意味ではありません。"
+   },
+   "svg": "<circle class='d' data-s='0' data-d='0.6' cx='300' cy='720' r='100' fill='none' stroke='#1d1d1d' stroke-width='9'/><path class='d' data-s='0.4' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='7'  d='M 250.0 695.0 q 20.0 12.0 36.0 0 M 314.0 695.0 q 20.0 12.0 36.0 0'/><ellipse class='d' data-s='0.6' data-d='0.4' cx='300' cy='755.0' rx='28.000000000000004' ry='38.0' fill='none' stroke='#1d1d1d' stroke-width='8'/><circle class='d' data-s='0.8' data-d='0.6' cx='760' cy='720' r='100' fill='none' stroke='#1d1d1d' stroke-width='9'/><circle class='p' data-s='1.2' data-d='0.4' cx='730.0' cy='700.0' r='9.0' fill='#1d1d1d'/><circle class='p' data-s='1.2' data-d='0.4' cx='790.0' cy='700.0' r='9.0' fill='#1d1d1d'/><path class='d' data-s='1.4' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='7'  d='M 725.0 750.0 q 35.0 30.0 70.0 0'/><path class='d' data-s='1.6' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='12'  d='M 700.0 520 L 745.0 565.0 L 830.0 455.0'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 84,
+     "color": "#e63946",
+     "s": 2.2,
+     "t": {
+      "en": "BOTH NORMAL",
+      "es": "AMBOS NORMALES",
+      "fr": "LES DEUX NORMAUX",
+      "ja": "どちらも正常"
+     },
+     "maxW": 920
+    }
+   ]
+  }
+ ]
+}

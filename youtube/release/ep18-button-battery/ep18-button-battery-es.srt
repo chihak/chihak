@@ -1,0 +1,35 @@
+1
+00:00:00,250 --> 00:00:03,372
+¿Un niño tragó una pila de botón, o crees que pudo hacerlo?
+
+2
+00:00:03,372 --> 00:00:04,325
+Es una emergencia.
+
+3
+00:00:05,750 --> 00:00:10,699
+Atascada en el esófago, genera una corriente que puede quemar los tejidos en solo 2 horas.
+
+4
+00:00:12,250 --> 00:00:15,327
+1 — Ve a urgencias de inmediato o llama a emergencias.
+
+5
+00:00:15,327 --> 00:00:17,093
+No esperes a que haya síntomas.
+
+6
+00:00:17,790 --> 00:00:21,950
+2 — No provoques el vómito ni des comida o bebida, salvo indicación médica.
+
+7
+00:00:23,790 --> 00:00:26,969
+3 — Si puedes, lleva el envase de la pila o una pila igual.
+
+8
+00:00:28,790 --> 00:00:32,182
+Señales leves: babeo, tos, dolor al tragar, vómitos… o ninguna.
+
+9
+00:00:34,790 --> 00:00:39,995
+Prevención: guarda pilas y aparatos fuera de su alcance y cierra con cinta las tapas de las pilas.

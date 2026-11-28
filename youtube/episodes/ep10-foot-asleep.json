@@ -1,0 +1,238 @@
+{
+ "id": "ep10-foot-asleep",
+ "title": {
+  "en": "Why Does Your Foot *Fall Asleep*?",
+  "es": "¿Por qué se te *duerme* el pie?",
+  "fr": "Pourquoi le pied *s'endort* ?",
+  "ja": "足が*しびれる*のはなぜ？"
+ },
+ "coverTime": 22.5,
+ "scenes": [
+  {
+   "dur": 5.5,
+   "caption": {
+    "en": "Sat cross-legged and your foot went *numb*, then prickly? Here's what happened.",
+    "es": "¿Cruzaste las piernas y el pie se te *durmió*, y luego hormigueó? Te explico.",
+    "fr": "Jambes croisées, ton pied s'est *engourdi*, puis il picote ? Voici pourquoi.",
+    "ja": "足を組んでいたら*しびれて*ジンジン…。何が起きているの？"
+   },
+   "svg": "<g transform='translate(540 800) scale(1.0) translate(-600 -770)'><path class='d' data-s='0' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='10.0'  d='M 520 480 L 520 830 C 525 875 565 895 625 912 L 790 958 C 850 975 858 1050 795 1060 L 420 1060 C 365 1060 345 1015 357 965 L 380 860 L 395 480'/><path class='d' data-s='0.8' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='7.0'  d='M 800 962 Q 812 975 808 992 M 760 952 Q 772 965 768 982'/></g><path class='d' data-s='1.2' data-d='0.4' fill='none' stroke='#e63946' stroke-width='8'  d='M 640 560 h 50 l -50 50 h 50'/><path class='d' data-s='1.5' data-d='0.4' fill='none' stroke='#e63946' stroke-width='7'  d='M 720 480 h 36 l -36 36 h 36'/><path class='d' data-s='1.8' data-d='0.4' fill='none' stroke='#e63946' stroke-width='6'  d='M 785 440 h 26 l -26 26 h 26'/><path class='d' data-s='2.2' data-d='0.3' fill='none' stroke='#555' stroke-width='6'  d='M 860 930 L 921 895'/><circle class='p' data-s='2.4000000000000004' data-d='0.4' cx='921' cy='895' r='12' fill='#e63946'/><path class='d' data-s='2.4' data-d='0.3' fill='none' stroke='#555' stroke-width='6'  d='M 870 1040 L 939 1052'/><circle class='p' data-s='2.6' data-d='0.4' cx='939' cy='1052' r='12' fill='#e63946'/><path class='d' data-s='2.6' data-d='0.3' fill='none' stroke='#555' stroke-width='6'  d='M 330 960 L 264 936'/><circle class='p' data-s='2.8000000000000003' data-d='0.4' cx='264' cy='936' r='12' fill='#e63946'/><path class='d' data-s='2.8' data-d='0.3' fill='none' stroke='#555' stroke-width='6'  d='M 310 820 L 242 802'/><circle class='p' data-s='3.0' data-d='0.4' cx='242' cy='802' r='12' fill='#e63946'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#e63946",
+     "s": 2.4,
+     "maxW": 900,
+     "t": {
+      "en": "PINS & NEEDLES?",
+      "es": "¿HORMIGUEO?",
+      "fr": "DES FOURMIS ?",
+      "ja": "足のしびれ？"
+     }
+    }
+   ]
+  },
+  {
+   "dur": 6,
+   "caption": {
+    "en": "Sitting or crossing your legs *presses* on a nerve and the vessels that feed it.",
+    "es": "Sentarte o cruzar las piernas *aprieta* un nervio y los vasos que lo nutren.",
+    "fr": "Assis ou jambes croisées, tu *comprimes* un nerf et les vaisseaux qui le nourrissent.",
+    "ja": "座ったり足を組んだりすると、神経とそれを養う血管が*圧迫*されます。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='6'  d='M 160 1110 Q 520 1095 920 1110'/><path class='d' data-s='0' data-d='0.7' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 250 560 V 1100 M 250 860 H 470 M 455 860 V 1100'/><circle class='d' data-s='0.4' data-d='0.5' cx='330' cy='560' r='60' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='0.7' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 330 620 L 330 840 M 330 690 L 420 790'/><path class='d' data-s='0.9' data-d='0.7' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 330 840 L 600 845 L 610 1080 L 680 1085'/><path class='d' data-s='1.3' data-d='0.7' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 330 820 L 640 790 L 740 990 L 800 995'/><circle class='f' data-s='2.0' data-d='0.5' data-o='0.35' cx='600' cy='835' r='60' fill='#e63946' opacity='0'/><circle class='d' data-s='2.0' data-d='0.5' cx='600' cy='835' r='60' fill='none' stroke='#e63946' stroke-width='8'/><path class='d' data-s='2.4' data-d='0.5' fill='none' stroke='#e63946' stroke-width='9'  d='M 600 660 L 600 760 M 587 735 L 600 760 L 613 735'/>",
+   "texts": [
+    {
+     "x": 760,
+     "y": 700,
+     "size": 50,
+     "color": "#e63946",
+     "s": 2.6,
+     "maxW": 300,
+     "t": {
+      "en": "SQUEEZE",
+      "es": "PRESIÓN",
+      "fr": "PRESSION",
+      "ja": "圧迫"
+     }
+    },
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#e63946",
+     "s": 2.9,
+     "maxW": 900,
+     "t": {
+      "en": "NERVE SQUEEZED",
+      "es": "NERVIO APRETADO",
+      "fr": "NERF COMPRIMÉ",
+      "ja": "神経が圧迫"
+     }
+    }
+   ]
+  },
+  {
+   "dur": 5.5,
+   "caption": {
+    "en": "The squeezed nerve can't send *signals* properly, so your foot goes numb.",
+    "es": "El nervio apretado no puede enviar bien sus *señales*, y el pie se adormece.",
+    "fr": "Comprimé, le nerf transmet mal ses *signaux* : le pied s'engourdit.",
+    "ja": "圧迫された神経は*信号*をうまく送れず、足の感覚がなくなります。"
+   },
+   "svg": "<g transform='translate(240 800) scale(0.4) translate(-550 -830)'><path class='d' data-s='0' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='25'  d='M 330 900 C 280 860 290 780 350 760 C 340 700 400 650 460 670 C 490 620 580 620 610 665 C 670 640 740 680 735 740 C 800 760 810 840 760 880 C 780 940 720 990 660 970 C 630 1010 560 1010 530 975 C 490 1010 410 1000 400 950 C 350 960 310 930 330 900 Z'/></g><g transform='translate(810 790) scale(0.55) translate(-600 -770)'><path class='f' data-s='3.0' data-d='0.6' data-o='0.5' d='M 520 480 L 520 830 C 525 875 565 895 625 912 L 790 958 C 850 975 858 1050 795 1060 L 420 1060 C 365 1060 345 1015 357 965 L 380 860 L 395 480 Z' fill='#999' opacity='0' /></g><g transform='translate(810 790) scale(0.55) translate(-600 -770)'><path class='d' data-s='0' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='18.18181818181818'  d='M 520 480 L 520 830 C 525 875 565 895 625 912 L 790 958 C 850 975 858 1050 795 1060 L 420 1060 C 365 1060 345 1015 357 965 L 380 860 L 395 480'/><path class='d' data-s='0.8' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='12.727272727272727'  d='M 800 962 Q 812 975 808 992 M 760 952 Q 772 965 768 982'/></g><path class='d' data-s='0.6' data-d='1.0' fill='none' stroke='#e0a040' stroke-width='14'  d='M 345 800 C 420 770 470 830 540 800 C 610 770 660 830 745 800'/><rect class='p' data-s='1.4' data-d='0.4' x='490' y='690' width='100' height='85' rx='12' fill='#999'/><rect class='p' data-s='1.5' data-d='0.4' x='490' y='825' width='100' height='85' rx='12' fill='#999'/><path class='d' data-s='1.7' data-d='0.5' fill='none' stroke='#e63946' stroke-width='9'  d='M 540 580 L 540 670 M 527 645 L 540 670 L 553 645'/><path class='d' data-s='1.8' data-d='0.5' fill='none' stroke='#e63946' stroke-width='9'  d='M 540 1020 L 540 930 M 553 955 L 540 930 L 527 955'/><circle class='p' data-s='2.0' data-d='0.4' cx='720' cy='797' r='13' fill='#e63946'/><circle class='p' data-s='2.2' data-d='0.4' cx='670' cy='790' r='13' fill='#e63946'/><circle class='p' data-s='2.4' data-d='0.4' cx='620' cy='800' r='13' fill='#e63946'/><path class='d' data-s='2.8' data-d='0.4' fill='none' stroke='#e63946' stroke-width='12'  d='M 380 880 L 460 960 M 460 880 L 380 960'/>",
+   "texts": [
+    {
+     "x": 390,
+     "y": 680,
+     "size": 50,
+     "color": "#c08020",
+     "s": 1.0,
+     "maxW": 260,
+     "t": {
+      "en": "NERVE",
+      "es": "NERVIO",
+      "fr": "NERF",
+      "ja": "神経"
+     }
+    },
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 84,
+     "color": "#e63946",
+     "s": 2.8,
+     "maxW": 900,
+     "t": {
+      "en": "SIGNALS BLOCKED",
+      "es": "SEÑAL BLOQUEADA",
+      "fr": "SIGNAUX BLOQUÉS",
+      "ja": "信号がストップ"
+     }
+    }
+   ]
+  },
+  {
+   "dur": 6,
+   "caption": {
+    "en": "When the pressure is released, the nerve *wakes up*: pins and needles!",
+    "es": "Al quitar la presión, el nervio *despierta*: ¡hormigueo y pinchazos!",
+    "fr": "Quand la pression cesse, le nerf *se réveille* : fourmis et picotements !",
+    "ja": "圧迫がなくなると神経が*目を覚まし*、ジンジン・チクチク！"
+   },
+   "svg": "<g transform='translate(560 790) scale(0.95) translate(-600 -770)'><path class='d' data-s='0' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='10.526315789473685'  d='M 520 480 L 520 830 C 525 875 565 895 625 912 L 790 958 C 850 975 858 1050 795 1060 L 420 1060 C 365 1060 345 1015 357 965 L 380 860 L 395 480'/><path class='d' data-s='0.8' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='7.36842105263158'  d='M 800 962 Q 812 975 808 992 M 760 952 Q 772 965 768 982'/></g><path class='p' data-s='1.00' data-d='0.3' fill='none' stroke='#e63946' stroke-width='8' d='M 880 930 L 918 941'/><path class='p' data-s='1.12' data-d='0.3' fill='none' stroke='#e63946' stroke-width='8' d='M 890 1040 L 923 1062'/><path class='p' data-s='1.24' data-d='0.3' fill='none' stroke='#e63946' stroke-width='8' d='M 830 880 L 870 885'/><path class='p' data-s='1.36' data-d='0.3' fill='none' stroke='#e63946' stroke-width='8' d='M 700 860 L 740 864'/><path class='p' data-s='1.48' data-d='0.3' fill='none' stroke='#e63946' stroke-width='8' d='M 330 950 L 292 964'/><path class='p' data-s='1.60' data-d='0.3' fill='none' stroke='#e63946' stroke-width='8' d='M 320 830 L 280 827'/><path class='p' data-s='1.72' data-d='0.3' fill='none' stroke='#e63946' stroke-width='8' d='M 560 700 L 550 661'/><path class='p' data-s='1.84' data-d='0.3' fill='none' stroke='#e63946' stroke-width='8' d='M 560 580 L 554 540'/><path class='p' data-s='1.96' data-d='0.3' fill='none' stroke='#e63946' stroke-width='8' d='M 330 640 L 298 615'/><path class='d' data-s='2.4' data-d='0.3' fill='none' stroke='#555' stroke-width='6'  d='M 860 860 L 914 815'/><circle class='p' data-s='2.6' data-d='0.4' cx='914' cy='815' r='12' fill='#e63946'/><path class='d' data-s='2.6' data-d='0.3' fill='none' stroke='#555' stroke-width='6'  d='M 880 1010 L 950 1010'/><circle class='p' data-s='2.8000000000000003' data-d='0.4' cx='950' cy='1010' r='12' fill='#e63946'/><path class='d' data-s='2.8' data-d='0.3' fill='none' stroke='#555' stroke-width='6'  d='M 330 900 L 261 888'/><circle class='p' data-s='3.0' data-d='0.4' cx='261' cy='888' r='12' fill='#e63946'/><path class='d' data-s='1.4' data-d='0.4' fill='none' stroke='#e63946' stroke-width='8'  d='M 680 560 L 650 620 L 690 620 L 660 690'/><path class='d' data-s='1.7' data-d='0.4' fill='none' stroke='#e63946' stroke-width='8'  d='M 800 640 L 770 700 L 810 700 L 780 770'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#e63946",
+     "s": 2.2,
+     "maxW": 900,
+     "t": {
+      "en": "PINS & NEEDLES",
+      "es": "HORMIGUEO",
+      "fr": "FOURMILLEMENTS",
+      "ja": "ジンジン・チクチク"
+     }
+    }
+   ]
+  },
+  {
+   "dur": 5.5,
+   "caption": {
+    "en": "It's harmless and usually fades within *minutes*. Gently move or wiggle your foot.",
+    "es": "Es inofensivo y suele pasar en *minutos*. Mueve el pie con suavidad.",
+    "fr": "C'est sans danger et ça passe en *quelques minutes*. Bouge doucement le pied.",
+    "ja": "心配はなく、たいてい*数分*でおさまります。足をやさしく動かして。"
+   },
+   "svg": "<g transform='rotate(-6 450 520)'><g transform='translate(450 800) scale(0.85) translate(-600 -770)'><path class='d' data-s='0' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='11.764705882352942'  d='M 520 480 L 520 830 C 525 875 565 895 625 912 L 790 958 C 850 975 858 1050 795 1060 L 420 1060 C 365 1060 345 1015 357 965 L 380 860 L 395 480'/><path class='d' data-s='0.8' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='8.23529411764706'  d='M 800 962 Q 812 975 808 992 M 760 952 Q 772 965 768 982'/></g></g><g opacity='0.35'><path class='d' data-s='0.6' data-d='0.4' fill='none' stroke='#888' stroke-width='8'  d='M 395 1060 L 760 1060'/></g><path class='d' data-s='1.0' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='7'  d='M 800 820 Q 840 870 800 920 M 840 790 Q 900 870 840 950'/><path class='d' data-s='1.1' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='7'  d='M 210 800 Q 180 860 210 920'/><circle class='d' data-s='1.4' data-d='0.6' cx='780' cy='560' r='90' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='1.9' data-d='0.4' fill='none' stroke='#e63946' stroke-width='10'  d='M 780 560 L 780 495 M 780 560 L 830 560'/><path class='f' data-s='2.1' data-d='0.5' data-o='0.35' d='M 780 560 L 780 478 A 82 82 0 0 1 862 560 Z' fill='#e63946' opacity='0' /><path class='d' data-s='2.6' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='12'  d='M 860 680 L 900 720 L 960 640'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 96,
+     "color": "#e63946",
+     "s": 2.5,
+     "maxW": 900,
+     "t": {
+      "en": "HARMLESS",
+      "es": "INOFENSIVO",
+      "fr": "SANS DANGER",
+      "ja": "心配なし"
+     }
+    }
+   ]
+  },
+  {
+   "dur": 6,
+   "caption": {
+    "en": "See a doctor if numbness comes *without pressure*, lasts long, or comes with *weakness*.",
+    "es": "Consulta al médico si se adormece *sin presión*, dura mucho o hay *debilidad*.",
+    "fr": "Consulte si l'engourdissement vient *sans pression*, dure longtemps ou s'accompagne de *faiblesse*.",
+    "ja": "*圧迫なし*でしびれる、長く続く、*力が入らない*ときは受診を。"
+   },
+   "svg": "<g transform='translate(220 690) scale(0.42) translate(-600 -770)'><path class='d' data-s='0' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='23.80952380952381'  d='M 520 480 L 520 830 C 525 875 565 895 625 912 L 790 958 C 850 975 858 1050 795 1060 L 420 1060 C 365 1060 345 1015 357 965 L 380 860 L 395 480'/><path class='d' data-s='0.8' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='16.666666666666668'  d='M 800 962 Q 812 975 808 992 M 760 952 Q 772 965 768 982'/></g><path class='d' data-s='0.8' data-d='0.5' fill='none' stroke='#e63946' stroke-width='10'  d='M 298 510 q 0 -30 25 -30 q 25 0 25 25 q 0 20 -25 30 v 18'/><circle class='p' data-s='1.2000000000000002' data-d='0.4' cx='323' cy='578' r='7' fill='#e63946'/><path class='d' data-s='0.6' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 480 590 H 600 M 480 800 H 600 M 492 590 C 492 660 540 680 540 695 C 540 710 492 730 492 800 M 588 590 C 588 660 540 680 540 695 C 540 710 588 730 588 800'/><path class='f' data-s='1.3' data-d='0.5' data-o='0.9' d='M 505 795 C 510 760 530 745 540 740 C 550 745 570 760 575 795 Z' fill='#e63946' opacity='0' /><path class='d' data-s='1.4' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 770 640 H 910 V 750 H 770 Z M 910 670 H 930 V 720 H 910'/><path class='f' data-s='2.0' data-d='0.3' data-o='1' d='M 782 652 H 808 V 738 H 782 Z' fill='#e63946' opacity='0' /><circle class='d' data-s='2.4' data-d='0.6' cx='540' cy='1000' r='90' fill='none' stroke='#e63946' stroke-width='10'/><path class='p' data-s='2.9' data-d='0.4' fill='#e63946' d='M 520 940 H 560 V 980 H 600 V 1020 H 560 V 1060 H 520 V 1020 H 480 V 980 H 520 Z'/>",
+   "texts": [
+    {
+     "x": 230,
+     "y": 870,
+     "size": 30,
+     "color": "#1d1d1d",
+     "s": 0.6,
+     "maxW": 290,
+     "t": {
+      "en": "NO PRESSURE",
+      "es": "SIN PRESIÓN",
+      "fr": "SANS PRESSION",
+      "ja": "圧迫なし"
+     }
+    },
+    {
+     "x": 540,
+     "y": 870,
+     "size": 30,
+     "color": "#1d1d1d",
+     "s": 1.2,
+     "maxW": 290,
+     "t": {
+      "en": "LASTS LONG",
+      "es": "DURA MUCHO",
+      "fr": "DURE LONGTEMPS",
+      "ja": "長く続く"
+     }
+    },
+    {
+     "x": 850,
+     "y": 870,
+     "size": 30,
+     "color": "#1d1d1d",
+     "s": 1.8,
+     "maxW": 290,
+     "t": {
+      "en": "WEAKNESS",
+      "es": "DEBILIDAD",
+      "fr": "FAIBLESSE",
+      "ja": "力が入らない"
+     }
+    },
+    {
+     "x": 540,
+     "y": 1205,
+     "size": 96,
+     "color": "#e63946",
+     "s": 3.0,
+     "maxW": 900,
+     "t": {
+      "en": "SEE A DOCTOR",
+      "es": "VE AL MÉDICO",
+      "fr": "VOIS UN MÉDECIN",
+      "ja": "受診しよう"
+     }
+    }
+   ]
+  }
+ ]
+}

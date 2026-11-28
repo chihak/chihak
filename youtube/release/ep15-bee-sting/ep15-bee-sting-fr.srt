@@ -1,0 +1,39 @@
+1
+00:00:00,250 --> 00:00:01,375
+Piqué par une abeille ?
+
+2
+00:00:01,375 --> 00:00:03,429
+Voici quoi faire, et les signes d'urgence.
+
+3
+00:00:05,250 --> 00:00:09,392
+1 — Retire le dard vite : gratte-le de côté avec l'ongle ou le bord d'une carte.
+
+4
+00:00:09,392 --> 00:00:10,221
+Ne le pince pas.
+
+5
+00:00:11,750 --> 00:00:13,585
+2 — Lave la zone à l'eau et au savon.
+
+6
+00:00:16,750 --> 00:00:20,889
+3 — Applique une compresse froide ou de la glace dans un linge au moins 10 minutes.
+
+7
+00:00:22,750 --> 00:00:24,964
+Douleur, rougeur et gonflement sont normaux.
+
+8
+00:00:24,964 --> 00:00:26,675
+Ne gratte pas, ça peut s'infecter.
+
+9
+00:00:28,250 --> 00:00:34,671
+Urgence en cas de difficulté à respirer, gonflement du visage, des lèvres ou de la gorge, malaise ou évanouissement.
+
+10
+00:00:35,370 --> 00:00:40,191
+S'il a un stylo d'adrénaline, utilise-le tout de suite sur la cuisse — et appelle les secours.

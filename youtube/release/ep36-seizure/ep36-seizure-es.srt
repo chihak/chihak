@@ -1,0 +1,31 @@
+1
+00:00:00,250 --> 00:00:01,904
+¿Alguien tiene una convulsión?
+
+2
+00:00:01,904 --> 00:00:03,890
+Mantén la calma y quédate a su lado.
+
+3
+00:00:03,890 --> 00:00:06,095
+La mayoría paran solas en pocos minutos.
+
+4
+00:00:07,250 --> 00:00:14,397
+Protégela: aparta objetos duros o afilados, protege su cabeza con algo blando, afloja lo que apriete el cuello y mira la hora.
+
+5
+00:00:17,250 --> 00:00:19,977
+No la sujetes y nunca le metas nada en la boca.
+
+6
+00:00:19,977 --> 00:00:21,602
+No puede tragarse la lengua.
+
+7
+00:00:26,250 --> 00:00:32,245
+Cuando paren las sacudidas, ponla de lado con cuidado, comprueba que respira y quédate hasta que esté bien despierta.
+
+8
+00:00:36,250 --> 00:00:43,930
+Llama a emergencias si dura más de 5 minutos, es su primera convulsión, empieza otra, se ha herido, le cuesta respirar o pasó en el agua.

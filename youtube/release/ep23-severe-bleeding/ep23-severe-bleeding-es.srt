@@ -1,0 +1,55 @@
+1
+00:00:00,250 --> 00:00:01,366
+¿Sangrado abundante?
+
+2
+00:00:01,366 --> 00:00:02,092
+Actúa rápido.
+
+3
+00:00:02,092 --> 00:00:03,599
+Esto es lo que debes hacer.
+
+4
+00:00:05,750 --> 00:00:09,611
+1 — Llama a emergencias de inmediato, o pide a alguien cercano que llame.
+
+5
+00:00:11,250 --> 00:00:15,169
+2 — Presiona fuerte y sin soltar la herida con un paño limpio o gasa.
+
+6
+00:00:15,169 --> 00:00:15,965
+Usa tus manos.
+
+7
+00:00:16,750 --> 00:00:18,675
+3 — Sigue presionando sin mirar.
+
+8
+00:00:18,675 --> 00:00:21,443
+Si la sangre empapa el paño, añade más encima.
+
+9
+00:00:22,250 --> 00:00:25,582
+Si puedes, haz que se acueste y eleva la extremidad herida.
+
+10
+00:00:25,582 --> 00:00:27,050
+No retires el primer paño.
+
+11
+00:00:27,750 --> 00:00:29,891
+No saques objetos clavados en la herida.
+
+12
+00:00:29,891 --> 00:00:30,908
+Presiona alrededor.
+
+13
+00:00:30,908 --> 00:00:33,531
+Quédate con la persona hasta que llegue la ayuda.
+
+14
+00:00:34,230 --> 00:00:39,947
+Busca atención médica si una herida sangra mucho, sale a chorros o no para tras 10 minutos de presión.

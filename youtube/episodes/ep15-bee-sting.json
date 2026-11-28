@@ -1,0 +1,268 @@
+{
+ "id": "ep15-bee-sting",
+ "title": {
+  "en": "Bee Sting: What to *Do*",
+  "es": "Picadura de abeja: qué *hacer*",
+  "fr": "Piqûre d’abeille : que *faire* ?",
+  "ja": "ハチに刺されたら*どうする*？"
+ },
+ "coverTime": 4.5,
+ "steps": 3,
+ "stepsFrom": 1,
+ "scenes": [
+  {
+   "dur": 5,
+   "caption": {
+    "en": "Stung by a bee? Here's what to do — and the signs that mean *emergency*.",
+    "es": "¿Te picó una abeja? Esto es lo que debes hacer, y las señales de *emergencia*.",
+    "fr": "Piqué par une abeille ? Voici quoi faire, et les signes d'*urgence*.",
+    "ja": "ハチに刺されたら？ 正しい対処と、*救急*が必要なサインを紹介します。"
+   },
+   "svg": "<ellipse class='d' data-s='0.6' data-d='0.4' cx='636.0' cy='608.0' rx='88.0' ry='56.0' fill='none' stroke='#888' stroke-width='7'/><ellipse class='d' data-s='0.7' data-d='0.4' cx='524.0' cy='592.0' rx='80.0' ry='51.2' fill='none' stroke='#888' stroke-width='7'/><ellipse class='p' data-s='0' data-d='0.4' cx='540' cy='720' rx='176.0' ry='112.0' fill='#f4c542'/><ellipse class='d' data-s='0.1' data-d='0.6' cx='540' cy='720' rx='176.0' ry='112.0' fill='none' stroke='#1d1d1d' stroke-width='9'/><path class='d' data-s='0.4' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='16'  d='M 476.0 614.4 q -24.0 105.60000000000001 0 211.20000000000002 M 572.0 608.0 q -24.0 112.0 0 224.0'/><path class='d' data-s='0.8' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='8'  d='M 712.8 720 l 64.0 0'/><circle class='p' data-s='0.9' data-d='0.4' cx='428.0' cy='696.0' r='9' fill='#1d1d1d'/><path class='d' data-s='1.2' data-d='0.6' fill='none' stroke='#888' stroke-width='6' stroke-dasharray='14 12' d='M 160 560 q 60 -60 120 0 q 60 60 120 0'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 110,
+     "color": "#e63946",
+     "s": 1.6,
+     "t": {
+      "en": "BZZZ!",
+      "es": "¡BZZZ!",
+      "fr": "BZZZ !",
+      "ja": "ブーン！"
+     }
+    }
+   ]
+  },
+  {
+   "dur": 6.5,
+   "step": 1,
+   "caption": {
+    "en": "*1* — Get the stinger out *fast*: scrape it sideways with a fingernail or card edge. Don't squeeze it.",
+    "es": "*1* — Saca el aguijón *rápido*: ráspalo de lado con la uña o el borde de una tarjeta. No lo aprietes.",
+    "fr": "*1* — Retire le dard *vite* : gratte-le de côté avec l'ongle ou le bord d'une carte. Ne le pince pas.",
+    "ja": "*1* 針は*すぐに*取る。爪やカードのふちで横にこすり出します。つままないで。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 140 820 C 300 810 420 830 500 800 C 540 770 580 770 620 800 C 700 830 820 810 940 820'/><path class='f' data-s='0.5' data-d='0.5' data-o='0.7' d='M 470 805 C 520 760 600 760 650 805 Z' fill='#f4a3a8' opacity='0'/><path class='d' data-s='0.9' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='7'  d='M 560 785 L 545 680'/><path class='p' data-s='1.0' data-d='0.4' fill='#1d1d1d' d='M 545 690 C 515 680 520 630 545 630 C 570 630 575 680 545 690 Z'/><path class='d' data-s='1.5' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='9'  d='M 300 560 L 480 700 L 520 650 L 340 510 Z'/><path class='d' data-s='2.1' data-d='0.5' fill='none' stroke='#e63946' stroke-width='9'  d='M 380 760 L 720 760 M 699 772 L 720 760 L 699 748'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 90,
+     "color": "#e63946",
+     "s": 2.5,
+     "t": {
+      "en": "SCRAPE IT OUT",
+      "es": "RÁSPALO",
+      "fr": "GRATTE-LE",
+      "ja": "こすり出す"
+     },
+     "maxW": 900
+    }
+   ]
+  },
+  {
+   "dur": 5,
+   "step": 2,
+   "caption": {
+    "en": "*2* — Wash the area with *soap and water*.",
+    "es": "*2* — Lava la zona con *agua y jabón*.",
+    "fr": "*2* — Lave la zone à l'*eau et au savon*.",
+    "ja": "*2* 刺された所を*石けんと水*で洗います。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 280 500 H 510 Q 540 500 540 530 V 580 M 510 580 H 570 M 390 500 V 450 M 350 450 H 430'/><path class='d' data-s='0.8' data-d='0.6' fill='none' stroke='#3a86c8' stroke-width='12'  d='M 540 620 V 760'/><path class='d' data-s='1.0' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 400 870 C 420 790 500 780 540 820 C 580 780 660 790 680 870 M 400 870 C 480 920 600 920 680 870'/><circle class='d' data-s='1.6' data-d='0.3' cx='340' cy='800' r='22' fill='none' stroke='#3a86c8' stroke-width='6'/><circle class='d' data-s='1.72' data-d='0.3' cx='730' cy='780' r='26' fill='none' stroke='#3a86c8' stroke-width='6'/><circle class='d' data-s='1.84' data-d='0.3' cx='320' cy='900' r='16' fill='none' stroke='#3a86c8' stroke-width='6'/><circle class='d' data-s='1.96' data-d='0.3' cx='750' cy='900' r='18' fill='none' stroke='#3a86c8' stroke-width='6'/><circle class='d' data-s='2.08' data-d='0.3' cx='690' cy='700' r='14' fill='none' stroke='#3a86c8' stroke-width='6'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 100,
+     "color": "#e63946",
+     "s": 2.0,
+     "t": {
+      "en": "WASH",
+      "es": "LAVA",
+      "fr": "LAVE",
+      "ja": "洗う"
+     },
+     "maxW": 900
+    }
+   ]
+  },
+  {
+   "dur": 6,
+   "step": 3,
+   "caption": {
+    "en": "*3* — Hold a *cold compress* or ice wrapped in a cloth on it for at least 10 minutes.",
+    "es": "*3* — Pon una *compresa fría* o hielo envuelto en un paño al menos 10 minutos.",
+    "fr": "*3* — Applique une *compresse froide* ou de la glace dans un linge au moins 10 minutes.",
+    "ja": "*3* *冷たいタオル*や布で包んだ氷を、10分以上あてて冷やします。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 140 820 C 300 810 420 830 500 800 C 540 770 580 770 620 800 C 700 830 820 810 940 820'/><path class='f' data-s='0.5' data-d='0.5' data-o='0.7' d='M 470 805 C 520 760 600 760 650 805 Z' fill='#f4a3a8' opacity='0'/><path class='d' data-s='0.8' data-d='0.7' fill='none' stroke='#3a86c8' stroke-width='10'  d='M 380 760 C 380 640 700 640 700 760 Z'/><path class='d' data-s='1.4' data-d='0.5' fill='none' stroke='#3a86c8' stroke-width='7'  d='M 470 690 h 50 v 50 h -50 z M 540 680 h 50 v 50 h -50 z'/><circle class='d' data-s='1.6' data-d='0.7' cx='840' cy='560' r='90' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='2.1' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 810 450 H 870 M 840 450 V 470'/><path class='f' data-s='2.4' data-d='1.0' data-o='0.85' d='M 840 560 L 840 490 A 70 70 0 0 1 901 526 Z' fill='#e63946' opacity='0'/><path class='d' data-s='2.3' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 840 560 L 840 500'/>",
+   "texts": [
+    {
+     "x": 840,
+     "y": 720,
+     "size": 48,
+     "color": "#1d1d1d",
+     "s": 2.0,
+     "t": {
+      "en": "10+ min",
+      "es": "10+ min",
+      "fr": "10+ min",
+      "ja": "10分以上"
+     },
+     "maxW": 300
+    },
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 84,
+     "color": "#e63946",
+     "s": 2.5,
+     "t": {
+      "en": "COLD COMPRESS",
+      "es": "COMPRESA FRÍA",
+      "fr": "COMPRESSE FROIDE",
+      "ja": "冷やす"
+     },
+     "maxW": 920
+    }
+   ]
+  },
+  {
+   "dur": 5.5,
+   "caption": {
+    "en": "Pain, redness and swelling are normal. *Don't scratch* — it can get infected.",
+    "es": "Dolor, enrojecimiento e hinchazón son normales. *No te rasques*: se puede infectar.",
+    "fr": "Douleur, rougeur et gonflement sont normaux. *Ne gratte pas*, ça peut s'infecter.",
+    "ja": "痛み・赤み・腫れはよくある反応。*かかないで*。化膿することがあります。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 140 820 C 300 810 420 830 500 800 C 540 770 580 770 620 800 C 700 830 820 810 940 820'/><path class='f' data-s='0.5' data-d='0.5' data-o='0.7' d='M 470 805 C 520 760 600 760 650 805 Z' fill='#f4a3a8' opacity='0'/><path class='f' data-s='0.6' data-d='0.6' data-o='0.35' d='M 400 806 C 460 720 660 720 720 806 Z' fill='#e63946' opacity='0'/><path class='d' data-s='1.3' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='9'  d='M 520 640 l 20 -60 M 600 640 l 30 -50 M 680 660 l 40 -40'/><path class='d' data-s='1.9' data-d='0.5' fill='none' stroke='#e63946' stroke-width='14'  d='M 528.0 528.0 L 672.0 672.0 M 672.0 528.0 L 528.0 672.0'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 88,
+     "color": "#e63946",
+     "s": 2.4,
+     "t": {
+      "en": "DON'T SCRATCH",
+      "es": "NO RASQUES",
+      "fr": "NE GRATTE PAS",
+      "ja": "かかない"
+     },
+     "maxW": 900
+    }
+   ]
+  },
+  {
+   "dur": 7,
+   "caption": {
+    "en": "*Emergency* if there's trouble *breathing*, swelling of the face, lips or throat, dizziness or fainting.",
+    "es": "*Emergencia* si hay dificultad para *respirar*, hinchazón de cara, labios o garganta, mareo o desmayo.",
+    "fr": "*Urgence* en cas de difficulté à *respirer*, gonflement du visage, des lèvres ou de la gorge, malaise ou évanouissement.",
+    "ja": "*息苦しい*、顔・くちびる・のどの腫れ、めまい、意識が遠のく — これは*救急*です（アナフィラキシー）。"
+   },
+   "svg": "<path class='d' data-s='0.2' data-d='0.6' fill='none' stroke='#3a86c8' stroke-width='9'  d='M 160 620 q 60 -40 120 0 M 160 680 q 60 -40 120 0 M 160 740 q 60 -40 120 0'/><circle class='d' data-s='0.7' data-d='0.5' cx='540' cy='670' r='95' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='f' data-s='1.1' data-d='0.5' data-o='0.9' d='M 490 720 C 500 690 580 690 590 720 C 580 750 500 750 490 720 Z' fill='#e63946' opacity='0'/><path class='d' data-s='1.5' data-d='0.7' fill='none' stroke='#1d1d1d' stroke-width='8'  d='M 840 600 a 60 60 0 1 1 -10 0 a 35 35 0 1 0 5 0'/>",
+   "texts": [
+    {
+     "x": 220,
+     "y": 860,
+     "size": 38,
+     "color": "#1d1d1d",
+     "s": 0.5,
+     "t": {
+      "en": "BREATHING",
+      "es": "RESPIRAR",
+      "fr": "RESPIRER",
+      "ja": "息苦しい"
+     },
+     "maxW": 290
+    },
+    {
+     "x": 540,
+     "y": 860,
+     "size": 34,
+     "color": "#1d1d1d",
+     "s": 1.1,
+     "t": {
+      "en": "FACE · LIPS · THROAT",
+      "es": "CARA · LABIOS · GARGANTA",
+      "fr": "VISAGE · LÈVRES · GORGE",
+      "ja": "顔・唇・のど"
+     },
+     "maxW": 300
+    },
+    {
+     "x": 860,
+     "y": 860,
+     "size": 38,
+     "color": "#1d1d1d",
+     "s": 1.7,
+     "t": {
+      "en": "DIZZY · FAINT",
+      "es": "MAREO · DESMAYO",
+      "fr": "MALAISE",
+      "ja": "めまい・失神"
+     },
+     "maxW": 290
+    },
+    {
+     "x": 540,
+     "y": 1050,
+     "size": 72,
+     "color": "#e63946",
+     "s": 2.3,
+     "t": {
+      "en": "911 · 999 · 112",
+      "es": "112 · 911",
+      "fr": "15 · 112",
+      "ja": "119"
+     },
+     "maxW": 800
+    },
+    {
+     "x": 540,
+     "y": 1205,
+     "size": 96,
+     "color": "#e63946",
+     "s": 2.8,
+     "t": {
+      "en": "CALL NOW",
+      "es": "LLAMA YA",
+      "fr": "APPELLE",
+      "ja": "すぐ119番"
+     },
+     "maxW": 900
+    }
+   ]
+  },
+  {
+   "dur": 6,
+   "caption": {
+    "en": "If they have an *adrenaline auto-injector*, use it right away into the outer thigh — and call for help.",
+    "es": "Si tiene un *autoinyector de adrenalina*, úsalo de inmediato en el muslo — y llama a emergencias.",
+    "fr": "S'il a un *stylo d'adrénaline*, utilise-le tout de suite sur la cuisse — et appelle les secours.",
+    "ja": "*アドレナリン自己注射薬（エピペン®）*があれば、すぐ太ももの外側に。同時に救急要請を。"
+   },
+   "svg": "<path class='d' data-s='0' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 300 1000 C 320 860 340 720 380 600 M 560 1000 C 560 860 560 720 580 600'/><path class='d' data-s='0.8' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10'  d='M 640 520 L 820 840 L 880 806 L 700 486 Z'/><path class='f' data-s='1.4' data-d='0.5' data-o='1' d='M 796 798 L 820 840 L 880 806 L 856 764 Z' fill='#f08c00' opacity='0'/><path class='f' data-s='1.4' data-d='0.5' data-o='1' d='M 640 520 L 700 486 L 730 540 L 670 574 Z' fill='#3a86c8' opacity='0'/><path class='d' data-s='1.9' data-d='0.5' fill='none' stroke='#e63946' stroke-width='9'  d='M 860 680 L 740 760 M 751 739 L 740 760 L 764 758'/>",
+   "texts": [
+    {
+     "x": 540,
+     "y": 1200,
+     "size": 88,
+     "color": "#e63946",
+     "s": 2.4,
+     "t": {
+      "en": "AUTO-INJECTOR",
+      "es": "AUTOINYECTOR",
+      "fr": "AUTO-INJECTEUR",
+      "ja": "自己注射薬"
+     },
+     "maxW": 900
+    }
+   ]
+  }
+ ]
+}
