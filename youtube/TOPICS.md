@@ -48,7 +48,7 @@ Covered by ep01-ep20: stroke, heart attack, leg cramps, knuckle cracking, hiccup
 - todo: Why do you get pins and needles in your hands at night?
 - todo: Why does your mouth water before you vomit?
 - done: ep44-hypnic-jerk - Why do you jerk awake when falling asleep? (hypnic jerk - it has a name)
-- todo: What really happens when you hold your breath?
+- in progress: ep48-hold-breath - What really happens when you hold your breath?
 - todo: Why do you get déjà vu?
 - todo: Why does your stomach hurt when you laugh too hard?
 - todo: Why do your joints ache before rain? (what science says)
