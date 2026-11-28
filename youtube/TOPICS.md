@@ -39,3 +39,36 @@ Covered by ep01-ep20: stroke, heart attack, leg cramps, knuckle cracking, hiccup
 - done: ep40-seeing-stars - Why do you see stars when you rub your eyes? (phosphenes)
 - done: ep41-recorded-voice - Why does your voice sound weird on recordings? (bone conduction)
 - done: ep42-butterflies - Why do you get butterflies when nervous? (fight-or-flight, gut-brain)
+- in progress: ep43-spicy-food - What really happens when you eat spicy food? (capsaicin, TRPV1 heat receptors; milk vs water)
+- todo: Why do onions make you cry? (syn-propanethial-S-oxide)
+- todo: Why do you get a headache from ice cream vs. hunger headache?
+- todo: Why do your ears ring after a concert? (tinnitus, noise damage)
+- todo: Why does your nose run in the cold?
+- todo: Why do you sneeze when you look at the sun? (photic sneeze reflex - it has a name)
+- todo: Why do you get pins and needles in your hands at night?
+- todo: Why does your mouth water before you vomit?
+- todo: Why do you jerk awake when falling asleep? (hypnic jerk - it has a name)
+- todo: What really happens when you hold your breath?
+- todo: Why do you get déjà vu?
+- todo: Why does your stomach hurt when you laugh too hard?
+- todo: Why do your joints ache before rain? (what science says)
+- todo: Why do you get a "food coma"?
+- todo: What really happens when you don't sleep for a night?
+- todo: Why do you get a cold sore? (HSV-1, triggers)
+- todo: Why do your eyes get puffy in the morning?
+- todo: Why do you shiver when you have a fever?
+- todo: Why do your teeth feel sensitive to cold? (dentin hypersensitivity)
+- todo: What really happens when you crack your neck/back?
+- todo: Why do you get a dry mouth when nervous?
+- todo: Why do you get a "charley horse" vs. a cramp? (muscle knot myths)
+- todo: Why does asparagus make your pee smell?
+- todo: Why do you get a white spot on your nails? (leukonychia - it has a name)
+- todo: What really happens when you burp?
+- todo: Why does your heart skip a beat? (ectopic beats; red flags)
+- todo: Why do you get a runny nose when you cry?
+- todo: Why do you yawn when you're not tired?
+- todo: Why do your feet smell? (bacteria and sweat)
+- todo: What really happens when you get a bruise? (colour changes)
+- todo: Why do you get a sugar crash?
+- todo: Why do your eyes water when you yawn?
+- todo: Why do you get sleep paralysis? (it has a name)
