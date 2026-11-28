@@ -3032,5 +3032,69 @@ C'est sans danger, mais un éternuement surprise en conduisant peut être risqu�
 ```
 - Tags: `光くしゃみ反射, ACHOO症候群, 太陽 くしゃみ, まぶしいと くしゃみ, くしゃみ, 体の雑学, 人体の不思議, 健康, 豆知識, sketch clinic`
 
+### ep47-throat-lump — English
+- File: `ep47-throat-lump/ep47-throat-lump-en.mp4`
+- Video language: English
+- Subtitles file: `ep47-throat-lump/ep47-throat-lump-en.srt` (Subtitles → Add language: English → Upload file → With timing)
+- Title: `Why Do You Get a Lump in Your Throat When You Cry? (It Has a Name) #Shorts`
+- Description:
+```
+That lump-in-your-throat feeling when you're about to cry has a name: the globus sensation. Nothing is actually stuck there.
+When you're upset, your nervous system switches into fight-or-flight mode. Scientists think it holds your glottis, the gap between your vocal cords, open to pull in more air, while swallowing needs it to close; muscles pulling both ways may feel like a lump.
+It's usually harmless and fades as you calm down; slow breaths and sips of water can help. See a doctor if it won't go away, or comes with trouble or pain swallowing, weight loss, or a hoarse voice lasting 3 weeks or more.
+Educational only — not medical advice. If you have symptoms, see a healthcare professional.
+
+#globus #lumpinthroat #bodyfacts #health #Shorts
+```
+- Tags: `lump in throat, globus sensation, why do I get a lump in my throat when I cry, throat lump crying, glottis, fight or flight, body facts, why does my body do that, health, sketch clinic`
+
+### ep47-throat-lump — Spanish  *(Phase 2 — only if the user asks)*
+- File: `ep47-throat-lump/ep47-throat-lump-es.mp4`
+- Video language: Spanish
+- Subtitles file: `ep47-throat-lump/ep47-throat-lump-es.srt` (Subtitles → Add language: Spanish → Upload file → With timing)
+- Title: `¿Por qué sientes un nudo en la garganta al llorar? (Tiene nombre) #Shorts`
+- Description:
+```
+Ese nudo en la garganta cuando estás a punto de llorar tiene nombre: sensación de globo o globo faríngeo. En realidad no hay nada atascado.
+Cuando te angustias, tu sistema nervioso entra en modo lucha o huida. Los científicos creen que mantiene abierta la glotis, el espacio entre las cuerdas vocales, para que entre más aire, mientras que al tragar tiene que cerrarse; los músculos tirando en dos sentidos pueden sentirse como un nudo.
+Suele ser inofensivo y se va al calmarte; respirar despacio y beber sorbos de agua puede ayudar. Consulta al médico si no se va, o hay dificultad o dolor al tragar, pérdida de peso o ronquera de más de 3 semanas.
+Solo con fines educativos: no es consejo médico. Si tienes síntomas, consulta a un profesional de la salud.
+
+#nudoenlagarganta #globofaringeo #cuerpohumano #salud #Shorts
+```
+- Tags: `nudo en la garganta, sensación de globo, globo faríngeo, por qué siento un nudo en la garganta al llorar, glotis, lucha o huida, curiosidades del cuerpo, salud, llorar, sketch clinic`
+
+### ep47-throat-lump — French  *(Phase 2 — only if the user asks)*
+- File: `ep47-throat-lump/ep47-throat-lump-fr.mp4`
+- Video language: French
+- Subtitles file: `ep47-throat-lump/ep47-throat-lump-fr.srt` (Subtitles → Add language: French → Upload file → With timing)
+- Title: `Pourquoi a-t-on une boule dans la gorge avant de pleurer ? (Ça a un nom) #Shorts`
+- Description:
+```
+Cette boule dans la gorge quand on va pleurer a un nom : le globus pharyngé. En réalité, rien n'est coincé.
+Quand tu es bouleversé, ton système nerveux passe en mode combat ou fuite. Les scientifiques pensent qu'il garde la glotte, l'espace entre les cordes vocales, ouverte pour faire entrer plus d'air, alors que pour avaler elle doit se fermer ; ces muscles qui tirent dans les deux sens donneraient la sensation de boule.
+C'est en général sans danger et ça passe en se calmant ; respirer lentement et boire un peu d'eau peut aider. Consulte un médecin si ça ne passe pas, ou avec difficulté ou douleur à avaler, perte de poids ou voix enrouée plus de 3 semaines.
+À but éducatif uniquement, ce n'est pas un avis médical. En cas de symptômes, consulte un professionnel de santé.
+
+#bouledanslagorge #globus #corpshumain #santé #Shorts
+```
+- Tags: `boule dans la gorge, globus pharyngé, gorge serrée, pourquoi j'ai une boule dans la gorge quand je pleure, glotte, combat ou fuite, corps humain, santé, pleurer, sketch clinic`
+
+### ep47-throat-lump — Japanese  *(Phase 2 — only if the user asks)*
+- File: `ep47-throat-lump/ep47-throat-lump-ja.mp4`
+- Video language: Japanese
+- Subtitles file: `ep47-throat-lump/ep47-throat-lump-ja.srt` (Subtitles → Add language: Japanese → Upload file → With timing)
+- Title: `泣きそうになると喉がつまるのはなぜ？（名前があります） #Shorts`
+- Description:
+```
+泣きそうなときの喉のつまり感には「ヒステリー球」（咽喉頭異常感症）という名前があります。実際には何もつまっていません。
+つらい気持ちになると神経が闘争・逃走モードに切り替わり、声帯のすき間「声門」が空気を多く取り込むために開くと考えられています。一方、飲み込むときは声門を閉じる必要があり、この綱引きがつまり感の正体だという説です。
+たいていは無害で、落ち着けば消えます。ゆっくり呼吸し、水を少し飲むと楽になります。ずっと治らない、飲み込みにくい・飲み込むと痛い、体重が減る、声がれが3週間以上続く場合は受診を。
+教育目的の情報であり、医療アドバイスではありません。症状がある場合は医療機関を受診してください。
+
+#ヒステリー球 #喉のつまり #体の雑学 #健康 #Shorts
+```
+- Tags: `喉のつまり, ヒステリー球, 咽喉頭異常感症, 泣くと喉が痛い, 声門, 闘争逃走反応, 体の雑学, 健康, なぜ体はこうなる, sketch clinic`
+
 ## Step 3 — Report back
 Send the user: channel URL, and a table of episode → video URL (all Public).
