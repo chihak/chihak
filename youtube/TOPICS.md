@@ -18,7 +18,7 @@ Covered by ep01-ep20: stroke, heart attack, leg cramps, knuckle cracking, hiccup
 - done: ep33-side-stitch - Why do we get a stitch (side cramp) when running?
 - done: ep30-tick-bite - Tick bite - how to remove it and what to watch
 - todo: Jellyfish sting first aid
-- todo: Why do we get a lump in the throat when sad?
+- in progress: ep47-throat-lump — Why do we get a lump in the throat when sad?
 - done: ep37-concussion - Concussion warning signs
 - todo: Dog bite first aid
 - done: ep25-something-in-eye - Something in your eye - what to do
