@@ -1,0 +1,253 @@
+{
+  "id": "ep39-funny-bone",
+  "title": {
+    "en": "Why Does Hitting Your *Funny Bone* Feel So Weird?",
+    "es": "¿Por qué duele tan raro el *hueso de la risa*?",
+    "fr": "Pourquoi un coup au *coude* fait si bizarre ?",
+    "ja": "肘の*ビリッ*の正体は？"
+  },
+  "coverTime": 23.1,
+  "titleSize": {
+    "en": 80,
+    "es": 80,
+    "fr": 84,
+    "ja": 76
+  },
+  "scenes": [
+    {
+      "dur": 5.7,
+      "caption": {
+        "en": "Bump your elbow and *ZAP!* A weird electric tingle shoots down your arm.",
+        "es": "Te golpeas el codo y… *¡zas!* Un cosquilleo eléctrico te recorre el brazo.",
+        "fr": "Un petit coup au coude et… *zap !* Une décharge bizarre file le long du bras.",
+        "ja": "肘をぶつけた瞬間、*ビリビリッ！*と電気が走るような感覚。"
+      },
+      "svg": "<path class='d' data-s='0' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 140 990 L 560 990 L 560 1130'/><path class='d' data-s='0.3' data-d='0.4' fill='none' stroke='#888' stroke-width='6' d='M 160 1030 L 520 1030'/><path class='d' data-s='0.1' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='96' d='M 230 560 L 500 900 L 790 640'/><path class='d' data-s='0.15000000000000002' data-d='0.9' fill='none' stroke='#fbfaf5' stroke-width='76' d='M 230 560 L 500 900 L 790 640'/><circle class='d' data-s='0.8' data-d='0.4' cx='820' cy='600' r='58' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='d' data-s='1.2' data-d='0.4' fill='none' stroke='#e63946' stroke-width='9' d='M 470 980 L 440 1020 M 545 960 L 600 975 M 420 930 L 370 950'/><path class='d' data-s='1.5' data-d='0.5' fill='none' stroke='#f0b400' stroke-width='10' d='M 540 870 L 590 820 L 610 850 L 665 780 L 690 805 L 760 700'/><path class='d' data-s='1.9' data-d='0.4' fill='none' stroke='#e63946' stroke-width='8' d='M 860 520 L 900 480 M 900 600 L 940 600 M 760 520 L 740 480'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1205,
+          "size": 110,
+          "color": "#e63946",
+          "s": 1.6,
+          "t": {
+            "en": "ZAP!",
+            "es": "¡ZAS!",
+            "fr": "ZAP !",
+            "ja": "ビリッ！"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 5,
+      "caption": {
+        "en": "The twist: your “funny bone” *isn't a bone at all*.",
+        "es": "La sorpresa: el “hueso de la risa” *no es un hueso*.",
+        "fr": "Surprise : ce n'est *pas un os du tout*.",
+        "ja": "このビリッの正体は*骨ではない*。"
+      },
+      "svg": "<g transform='translate(-162 -232) scale(1.3)'><path class='d' data-s='0' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 382 715 L 698 715 A 40 40 0 1 1 735 740 A 40 40 0 1 1 698 765 L 382 765 A 40 40 0 1 1 345 740 A 40 40 0 1 1 382 715 Z'/></g><path class='d' data-s='1.2' data-d='0.6' fill='none' stroke='#e63946' stroke-width='16' d='M 300 560 L 780 1020 M 780 560 L 300 1020'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1205,
+          "size": 96,
+          "color": "#e63946",
+          "s": 1.6,
+          "t": {
+            "en": "NOT A BONE!",
+            "es": "¡NO ES UN HUESO!",
+            "fr": "PAS UN OS !",
+            "ja": "骨じゃない！"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 7.0,
+      "caption": {
+        "en": "It's your *ulnar nerve*. At the elbow it sits in a shallow groove, under just *skin and fat*.",
+        "es": "Es el *nervio cubital*. En el codo pasa por un surco poco profundo, cubierto solo por *piel y grasa*.",
+        "fr": "C'est le *nerf ulnaire*. Au coude, il passe dans un creux, juste sous la *peau* et la *graisse*.",
+        "ja": "正体は、ひじを通る*尺骨神経*です。浅い溝で、*皮膚と脂肪*のすぐ下。"
+      },
+      "svg": "<g transform='translate(65 55) scale(0.88)'><path class='d' data-s='0' data-d='0.8' fill='none' stroke='#888' stroke-width='6' d='M 330 460 L 330 760 Q 300 830 330 900 L 360 1130'/><path class='d' data-s='0' data-d='0.8' fill='none' stroke='#888' stroke-width='6' d='M 750 460 L 750 760 Q 780 830 750 900 L 720 1130'/><path class='d' data-s='0.3' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 490 460 L 490 720 Q 480 770 420 780 Q 370 790 375 840 Q 380 880 430 880 L 650 880 Q 700 880 705 840 Q 710 800 660 780 Q 600 770 590 720 L 590 460'/><path class='d' data-s='0.8' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 450 905 L 460 1130 M 530 905 L 520 1130 M 590 905 L 610 1130 M 660 905 L 650 1130'/><path class='d' data-s='1.2' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='22' d='M 440 460 C 440 640 420 740 400 830 C 390 900 420 960 440 1130'/><path class='d' data-s='1.25' data-d='0.8' fill='none' stroke='#f5c542' stroke-width='12' d='M 440 460 C 440 640 420 740 400 830 C 390 900 420 960 440 1130'/><circle class='d' data-s='2.2' data-d='0.5' cx='395' cy='830' r='62' fill='none' stroke='#e63946' stroke-width='8'/></g>",
+      "texts": [
+        {
+          "x": 670,
+          "y": 600,
+          "size": 44,
+          "color": "#1d1d1d",
+          "s": 0.9,
+          "t": {
+            "en": "bone",
+            "es": "hueso",
+            "fr": "os",
+            "ja": "骨"
+          },
+          "weight": 700,
+          "maxW": 120
+        },
+        {
+          "x": 860,
+          "y": 640,
+          "size": 42,
+          "color": "#888",
+          "s": 0.6,
+          "t": {
+            "en": "skin",
+            "es": "piel",
+            "fr": "peau",
+            "ja": "皮膚"
+          },
+          "weight": 700,
+          "maxW": 170
+        },
+        {
+          "x": 540,
+          "y": 1205,
+          "size": 96,
+          "color": "#e63946",
+          "s": 1.8,
+          "t": {
+            "en": "ULNAR NERVE",
+            "es": "NERVIO CUBITAL",
+            "fr": "NERF ULNAIRE",
+            "ja": "尺骨神経"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 5.9,
+      "caption": {
+        "en": "A bump *squeezes the nerve against the bone*, and it fires off a burst of signals.",
+        "es": "Un golpe *aprieta el nervio contra el hueso* y dispara una ráfaga de señales.",
+        "fr": "Un choc *écrase le nerf contre l'os*, qui envoie une salve de signaux.",
+        "ja": "ぶつけると、*神経が骨に挟まれて*、信号が一気に飛び出します。"
+      },
+      "svg": "<g transform='translate(65 55) scale(0.88)'><path class='d' data-s='0' data-d='0.8' fill='none' stroke='#888' stroke-width='6' d='M 330 460 L 330 760 Q 300 830 330 900 L 360 1130'/><path class='d' data-s='0' data-d='0.8' fill='none' stroke='#888' stroke-width='6' d='M 750 460 L 750 760 Q 780 830 750 900 L 720 1130'/><path class='d' data-s='0.3' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 490 460 L 490 720 Q 480 770 420 780 Q 370 790 375 840 Q 380 880 430 880 L 650 880 Q 700 880 705 840 Q 710 800 660 780 Q 600 770 590 720 L 590 460'/><path class='d' data-s='0.8' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 450 905 L 460 1130 M 530 905 L 520 1130 M 590 905 L 610 1130 M 660 905 L 650 1130'/><path class='d' data-s='1.2' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='22' d='M 440 460 C 440 640 420 740 400 830 C 390 900 420 960 440 1130'/><path class='d' data-s='1.25' data-d='0.8' fill='none' stroke='#f5c542' stroke-width='12' d='M 440 460 C 440 640 420 740 400 830 C 390 900 420 960 440 1130'/><path class='d' data-s='1.6' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 150 790 L 285 790 L 285 880 L 150 880 Z'/><path class='f' data-s='1.7' data-d='0.3' data-o='0.35' fill='#888' opacity='0' d='M 150 790 L 285 790 L 285 880 L 150 880 Z'/><path class='d' data-s='2.0' data-d='0.3' fill='none' stroke='#e63946' stroke-width='9' d='M 300 760 L 330 730 M 305 910 L 335 940 M 300 835 L 340 835'/><path class='d' data-s='2.3' data-d='0.5' fill='none' stroke='#e63946' stroke-width='10' d='M 420 900 L 380 950 L 430 980 L 395 1040 L 445 1070'/><path class='d' data-s='2.3' data-d='0.4' fill='none' stroke='#e63946' stroke-width='8' d='M 470 760 L 510 720 M 480 830 L 530 830'/></g>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1205,
+          "size": 96,
+          "color": "#e63946",
+          "s": 2.2,
+          "t": {
+            "en": "NERVE HIT",
+            "es": "NERVIO GOLPEADO",
+            "fr": "NERF HEURTÉ",
+            "ja": "神経を直撃"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 6.4,
+      "caption": {
+        "en": "Your brain feels it where that nerve goes: the *ring* and *little fingers*.",
+        "es": "El cerebro lo siente donde llega ese nervio: el *anular* y el *meñique*.",
+        "fr": "Le cerveau le ressent là où va ce nerf : *annulaire* et *auriculaire*.",
+        "ja": "この神経の行き先が、*薬指と小指*。だからそこまでジーンと響く。"
+      },
+      "svg": "<path class='f' data-s='1.2' data-d='0.6' data-o='0.35' fill='#e63946' opacity='0' d='M 590 600 Q 640 600 640 650 Q 640 600 690 600 Q 740 600 740 650 L 740 870 Q 740 940 660 955 L 640 960 L 590 960 Z'/><path class='d' data-s='0' data-d='1.2' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 340 700 L 340 650 Q 340 600 390 600 Q 440 600 440 650 Q 440 600 490 600 Q 540 600 540 650 Q 540 600 590 600 Q 640 600 640 650 Q 640 600 690 600 Q 740 600 740 650 L 740 870 Q 740 940 660 955 L 640 960 L 640 1080 M 340 700 Q 300 770 320 860 Q 340 940 440 960 L 450 1080'/><path class='d' data-s='0.7' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 440 650 L 440 740 M 540 650 L 540 740 M 640 650 L 640 740'/><path class='d' data-s='0.9' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 322 830 Q 340 780 420 785 L 610 795 Q 655 800 645 835 Q 635 860 590 858 L 430 852'/><path class='d' data-s='1.7' data-d='0.5' fill='none' stroke='#e63946' stroke-width='8' d='M 630 570 L 615 530 L 645 520 L 630 480 M 700 570 L 720 530 L 745 545 L 770 505 M 790 700 L 830 690 L 820 660 L 860 650'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1205,
+          "size": 80,
+          "color": "#e63946",
+          "s": 1.9,
+          "t": {
+            "en": "RING + LITTLE FINGERS",
+            "es": "ANULAR + MEÑIQUE",
+            "fr": "ANNULAIRE + AURICULAIRE",
+            "ja": "薬指＋小指"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 6.9,
+      "caption": {
+        "en": "Why “funny”? One theory: a pun on *humerus*, the arm bone, and *humorous*.",
+        "es": "¿Y lo de “risa”? En inglés hay un juego de palabras: *humerus* (húmero) y *humorous* (gracioso).",
+        "fr": "En anglais, on dit *funny bone* : un jeu de mots entre *humerus* (l'humérus) et *humorous* (drôle).",
+        "ja": "英語名は*funny bone*。上腕骨humerusとhumorousの語呂合わせ説も。"
+      },
+      "svg": "<g transform='translate(-324 -424) scale(1.6)'><path class='d' data-s='0' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='7' d='M 382 715 L 698 715 A 40 40 0 1 1 735 740 A 40 40 0 1 1 698 765 L 382 765 A 40 40 0 1 1 345 740 A 40 40 0 1 1 382 715 Z'/></g><circle class='p' data-s='0.9' data-d='0.3' cx='505' cy='745' r='10' fill='#1d1d1d'/><circle class='p' data-s='0.9' data-d='0.3' cx='575' cy='745' r='10' fill='#1d1d1d'/><path class='d' data-s='1.1' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='7' d='M 500 768 Q 540 792 580 768'/>",
+      "texts": [
+        {
+          "x": 270,
+          "y": 580,
+          "size": 70,
+          "color": "#e63946",
+          "s": 1.3,
+          "t": {
+            "en": "HA!",
+            "es": "¡JA!",
+            "fr": "HA !",
+            "ja": "ハハ！"
+          },
+          "rotate": -15,
+          "maxW": 220
+        },
+        {
+          "x": 810,
+          "y": 600,
+          "size": 70,
+          "color": "#e63946",
+          "s": 1.5,
+          "t": {
+            "en": "HA!",
+            "es": "¡JA!",
+            "fr": "HA !",
+            "ja": "ハハ！"
+          },
+          "rotate": 15,
+          "maxW": 220
+        },
+        {
+          "x": 540,
+          "y": 1205,
+          "size": 80,
+          "color": "#e63946",
+          "s": 1.8,
+          "t": {
+            "en": "HUMERUS ≈ HUMOROUS",
+            "es": "HUMERUS ≈ HUMOROUS",
+            "fr": "HUMERUS ≈ HUMOROUS",
+            "ja": "HUMERUS ≈ HUMOROUS"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 6.4,
+      "caption": {
+        "en": "The zing fades within minutes. If those fingers often *stay numb* or tingle, see a doctor.",
+        "es": "Se pasa en minutos. Si esos dedos se quedan *dormidos* a menudo, consulta al médico.",
+        "fr": "Ça passe en quelques minutes. Si ces doigts restent souvent *engourdis*, consulte un médecin.",
+        "ja": "たいていは、数分でおさまります。*しびれが続く*・*くり返す*なら受診。"
+      },
+      "svg": "<circle class='d' data-s='0' data-d='0.8' cx='330' cy='780' r='170' fill='none' stroke='#1d1d1d' stroke-width='10'/><path class='f' data-s='1.0' data-d='0.6' data-o='0.3' fill='#e63946' opacity='0' d='M 330 780 L 330 610 A 170 170 0 0 1 477 865 Z'/><path class='d' data-s='0.5' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 330 625 L 330 645 M 485 780 L 465 780 M 330 935 L 330 915 M 175 780 L 195 780'/><path class='d' data-s='0.8' data-d='0.4' fill='none' stroke='#e63946' stroke-width='10' d='M 330 780 L 330 670 M 330 780 L 410 820'/><path class='d' data-s='1.6' data-d='0.6' fill='none' stroke='#e63946' stroke-width='10' d='M 620 1000 L 760 760 L 900 1000 Z'/><path class='p' data-s='2.2' data-d='0.3' fill='none' stroke='#e63946' stroke-width='12' d='M 760 840 L 760 920 M 760 960 L 760 962'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1205,
+          "size": 80,
+          "color": "#e63946",
+          "s": 2.0,
+          "t": {
+            "en": "SEE A DOCTOR IF IT LASTS",
+            "es": "AL MÉDICO SI PERSISTE",
+            "fr": "CONSULTE SI ÇA DURE",
+            "ja": "続くなら受診"
+          }
+        }
+      ]
+    }
+  ]
+}

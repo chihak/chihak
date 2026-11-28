@@ -1,0 +1,217 @@
+{
+  "id": "ep41-recorded-voice",
+  "title": {
+    "en": "Why Does Your *Voice* Sound Weird on Recordings?",
+    "es": "¿Por qué tu *voz* suena rara al grabarla?",
+    "fr": "Pourquoi ta *voix* sonne bizarre enregistrée ?",
+    "ja": "録音した*自分の声*が変⁠に⁠聞⁠こ⁠え⁠る⁠の⁠は⁠な⁠ぜ⁠？"
+  },
+  "steps": 2,
+  "stepsFrom": 2,
+  "coverTime": 10.0,
+  "scenes": [
+    {
+      "dur": 5,
+      "caption": {
+        "en": "You hear your voice on a recording and think: *“Is that really me?”*",
+        "es": "Oyes tu voz grabada y piensas: *“¿De verdad soy yo?”*",
+        "fr": "Tu t'entends enregistré et tu te dis : *« C'est vraiment moi ? »*",
+        "ja": "録音した自分の声に「*これが私？*」と驚いたことはありませんか？"
+      },
+      "svg": "<path class='f' data-s='0' data-d='0.3' data-o='1' fill='#fbfaf5' opacity='0' d='M 430 520 L 650 520 Q 690 520 690 560 L 690 1020 Q 690 1060 650 1060 L 430 1060 Q 390 1060 390 1020 L 390 560 Q 390 520 430 520 Z'/><path class='d' data-s='0' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 430 520 L 650 520 Q 690 520 690 560 L 690 1020 Q 690 1060 650 1060 L 430 1060 Q 390 1060 390 1020 L 390 560 Q 390 520 430 520 Z'/><path class='d' data-s='0.5' data-d='0.2' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 510 555 L 570 555'/><circle class='d' data-s='0.6' data-d='0.3' cx='540' cy='1010' r='18' fill='none' stroke='#1d1d1d' stroke-width='7' /><path class='d' data-s='0.8' data-d='0.25' fill='none' stroke='#e63946' stroke-width='12' d='M 428 740 L 428 780'/><path class='d' data-s='0.8600000000000001' data-d='0.25' fill='none' stroke='#e63946' stroke-width='12' d='M 456 715 L 456 805'/><path class='d' data-s='0.92' data-d='0.25' fill='none' stroke='#e63946' stroke-width='12' d='M 484 685 L 484 835'/><path class='d' data-s='0.98' data-d='0.25' fill='none' stroke='#e63946' stroke-width='12' d='M 512 705 L 512 815'/><path class='d' data-s='1.04' data-d='0.25' fill='none' stroke='#e63946' stroke-width='12' d='M 540 670 L 540 850'/><path class='d' data-s='1.1' data-d='0.25' fill='none' stroke='#e63946' stroke-width='12' d='M 568 725 L 568 795'/><path class='d' data-s='1.1600000000000001' data-d='0.25' fill='none' stroke='#e63946' stroke-width='12' d='M 596 695 L 596 825'/><path class='d' data-s='1.22' data-d='0.25' fill='none' stroke='#e63946' stroke-width='12' d='M 624 735 L 624 785'/><path class='d' data-s='1.28' data-d='0.25' fill='none' stroke='#e63946' stroke-width='12' d='M 652 713 L 652 807'/><path class='p' data-s='0.7' data-d='0.3' fill='#1d1d1d' d='M 510 900 L 510 980 L 575 940 Z'/><path class='d' data-s='1.4' data-d='0.5' fill='none' stroke='#888' stroke-width='9' d='M 740 680 Q 790 760 740 840 M 790 640 Q 860 760 790 880'/><path class='d' data-s='1.4' data-d='0.5' fill='none' stroke='#888' stroke-width='9' d='M 340 680 Q 290 760 340 840 M 290 640 Q 220 760 290 880'/><path class='d' data-s='2.0' data-d='0.4' fill='none' stroke='#e63946' stroke-width='10' d='M 800 520 L 840 470 M 860 580 L 920 560 M 280 520 L 240 470 M 220 580 L 160 560'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 100,
+          "color": "#e63946",
+          "s": 2.2,
+          "t": {
+            "en": "IS THAT ME?!",
+            "es": "¿ESE SOY YO?",
+            "fr": "C'EST MOI ?!",
+            "ja": "これが私の声？"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 5.5,
+      "caption": {
+        "en": "When you speak, your voice reaches your ears by *two paths* at once.",
+        "es": "Al hablar, tu voz llega a tus oídos por *dos caminos* a la vez.",
+        "fr": "Quand tu parles, ta voix arrive à tes oreilles par *deux chemins*.",
+        "ja": "話す時、自分の声は*2つのルート*で耳に届いています。"
+      },
+      "svg": "<path class='d' data-s='0' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 640 1060 L 640 985 C 760 960 800 860 795 760 C 790 625 690 545 560 545 C 435 545 360 630 355 735 L 315 815 Q 305 832 325 838 L 352 842 L 352 872 Q 342 885 358 892 L 352 910 Q 352 940 385 945 Q 440 950 455 985 L 455 1060'/><circle class='p' data-s='0.6' data-d='0.3' cx='425' cy='725' r='10' fill='#1d1d1d'/><path class='d' data-s='0.7' data-d='0.2' fill='none' stroke='#1d1d1d' stroke-width='7' d='M 335 880 L 358 878'/><path class='d' data-s='0.6' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 640 735 Q 695 720 697 775 Q 698 830 645 840 M 655 765 Q 675 775 662 800'/><path class='d' data-s='1.0' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='8' stroke-dasharray='20 14' d='M 290 880 C 140 850 150 470 540 470 C 870 470 860 700 712 775'/><path class='d' data-s='1.7' data-d='0.2' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 748 790 L 712 777 L 728 742'/><path class='d' data-s='1.9' data-d='0.6' fill='none' stroke='#e63946' stroke-width='9' d='M 420 935 L 445 900 L 470 930 L 495 880 L 520 905 L 545 850 L 565 870 L 588 812'/><path class='d' data-s='2.3' data-d='0.4' fill='none' stroke='#e63946' stroke-width='7' d='M 590 800 a 8 8 0 1 1 8 -8 a 16 16 0 1 1 -16 16 a 24 24 0 1 1 24 -24'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 100,
+          "color": "#e63946",
+          "s": 2.4,
+          "t": {
+            "en": "2 PATHS",
+            "es": "2 CAMINOS",
+            "fr": "2 CHEMINS",
+            "ja": "2つのルート"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 5.5,
+      "caption": {
+        "en": "*1* — Through the *air*: sound leaves your mouth and travels into your ears.",
+        "es": "*1* — Por el *aire*: el sonido sale de tu boca y entra en tus oídos.",
+        "fr": "*1* — Par l'*air* : le son sort de ta bouche et entre dans tes oreilles.",
+        "ja": "*１*　*空気*を伝わる音。口から出て、外を回って耳に入ります。"
+      },
+      "svg": "<path class='d' data-s='0' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 640 1060 L 640 985 C 760 960 800 860 795 760 C 790 625 690 545 560 545 C 435 545 360 630 355 735 L 315 815 Q 305 832 325 838 L 352 842 L 352 872 Q 342 885 358 892 L 352 910 Q 352 940 385 945 Q 440 950 455 985 L 455 1060'/><circle class='p' data-s='0.6' data-d='0.3' cx='425' cy='725' r='10' fill='#1d1d1d'/><path class='d' data-s='0.7' data-d='0.2' fill='none' stroke='#1d1d1d' stroke-width='7' d='M 335 880 L 358 878'/><path class='d' data-s='0.6' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 640 735 Q 695 720 697 775 Q 698 830 645 840 M 655 765 Q 675 775 662 800'/><path class='d' data-s='0.8' data-d='0.6' fill='none' stroke='#888' stroke-width='8' d='M 300 850 Q 280 885 300 920 M 262 820 Q 230 885 262 950 M 224 790 Q 180 885 224 980'/><path class='d' data-s='1.2' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='8' stroke-dasharray='20 14' d='M 290 880 C 140 850 150 470 540 470 C 870 470 860 700 712 775'/><path class='d' data-s='2.0' data-d='0.2' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 748 790 L 712 777 L 728 742'/><path class='f' data-s='2.1' data-d='0.4' data-o='0.5' fill='#e63946' opacity='0' d='M 640 735 Q 695 720 697 775 Q 698 830 645 840 Z'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 100,
+          "color": "#e63946",
+          "s": 1.8,
+          "t": {
+            "en": "AIR",
+            "es": "AIRE",
+            "fr": "AIR",
+            "ja": "空気"
+          }
+        }
+      ],
+      "step": 1
+    },
+    {
+      "dur": 5.5,
+      "caption": {
+        "en": "*2* — Through your *bones*: vibrations travel through your skull to your inner ear.",
+        "es": "*2* — Por los *huesos*: las vibraciones viajan por el cráneo hasta el oído interno.",
+        "fr": "*2* — Par les *os* : les vibrations traversent le crâne jusqu'à l'oreille interne.",
+        "ja": "*２*　*骨*を伝わる振動。頭の骨から耳の奥へ直接届きます。"
+      },
+      "svg": "<path class='d' data-s='0' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 640 1060 L 640 985 C 760 960 800 860 795 760 C 790 625 690 545 560 545 C 435 545 360 630 355 735 L 315 815 Q 305 832 325 838 L 352 842 L 352 872 Q 342 885 358 892 L 352 910 Q 352 940 385 945 Q 440 950 455 985 L 455 1060'/><circle class='p' data-s='0.6' data-d='0.3' cx='425' cy='725' r='10' fill='#1d1d1d'/><path class='d' data-s='0.7' data-d='0.2' fill='none' stroke='#1d1d1d' stroke-width='7' d='M 335 880 L 358 878'/><path class='d' data-s='0.6' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 640 735 Q 695 720 697 775 Q 698 830 645 840 M 655 765 Q 675 775 662 800'/><path class='d' data-s='0.7' data-d='0.8' fill='none' stroke='#888' stroke-width='8' stroke-dasharray='14 12' d='M 420 800 C 400 660 480 590 570 590 C 680 590 755 660 755 770 C 755 860 710 920 630 935'/><path class='d' data-s='1.3' data-d='0.7' fill='none' stroke='#e63946' stroke-width='10' d='M 420 935 L 445 900 L 470 930 L 495 880 L 520 905 L 545 850 L 565 870 L 588 812'/><path class='d' data-s='1.9' data-d='0.5' fill='none' stroke='#e63946' stroke-width='8' d='M 590 800 a 8 8 0 1 1 8 -8 a 16 16 0 1 1 -16 16 a 24 24 0 1 1 24 -24'/><path class='d' data-s='1.0' data-d='0.4' fill='none' stroke='#e63946' stroke-width='7' d='M 395 975 Q 380 990 395 1005 M 370 965 Q 345 990 370 1015'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 100,
+          "color": "#e63946",
+          "s": 1.8,
+          "t": {
+            "en": "BONE",
+            "es": "HUESO",
+            "fr": "OS",
+            "ja": "骨"
+          }
+        }
+      ],
+      "step": 2
+    },
+    {
+      "dur": 6,
+      "caption": {
+        "en": "Bone conduction carries *low tones* well, so your voice sounds *deeper and fuller* to you.",
+        "es": "Los huesos transmiten bien los *tonos graves*: por eso tu voz te suena *más grave y llena*.",
+        "fr": "Les os transmettent bien les *sons graves* : ta voix te semble *plus grave et plus pleine*.",
+        "ja": "骨伝導は*低い音*を伝えやすいので、自分の声が*低く、厚く*聞こえます。"
+      },
+      "svg": "<path class='d' data-s='0.3' data-d='0.9' fill='none' stroke='#1d1d1d' stroke-width='7' d='M 180 680 L 184 665 L 189 655 L 194 652 L 198 657 L 202 669 L 207 684 L 212 698 L 216 707 L 220 707 L 225 700 L 230 687 L 234 671 L 238 659 L 243 652 L 248 654 L 252 664 L 256 678 L 261 693 L 266 704 L 270 708 L 274 704 L 279 693 L 284 678 L 288 664 L 292 654 L 297 652 L 302 659 L 306 671 L 310 687 L 315 700 L 320 707 L 324 707 L 328 698 L 333 684 L 338 669 L 342 657 L 346 652 L 351 655 L 356 665 L 360 680 L 364 695 L 369 705 L 374 708 L 378 703 L 382 691 L 387 676 L 392 662 L 396 653 L 400 653 L 405 660 L 410 673 L 414 689 L 418 701 L 423 708 L 428 706 L 432 696 L 436 682 L 441 667 L 446 656 L 450 652 L 454 656 L 459 667 L 464 682 L 468 696 L 472 706 L 477 708 L 482 701 L 486 689 L 490 673 L 495 660 L 500 653 L 504 653 L 508 662 L 513 676 L 518 691 L 522 703 L 526 708 L 531 705 L 536 695 L 540 680 L 544 665 L 549 655 L 554 652 L 558 657 L 562 669 L 567 684 L 572 698 L 576 707 L 580 707 L 585 700 L 590 687 L 594 671 L 598 659 L 603 652 L 608 654 L 612 664 L 616 678 L 621 693 L 626 704 L 630 708 L 634 704 L 639 693 L 644 678 L 648 664 L 652 654 L 657 652 L 662 659 L 666 671 L 670 687 L 675 700 L 680 707 L 684 707 L 688 698 L 693 684 L 698 669 L 702 657 L 706 652 L 711 655 L 716 665 L 720 680 L 724 695 L 729 705 L 734 708 L 738 703 L 742 691 L 747 676 L 752 662 L 756 653 L 760 653 L 765 660 L 770 673 L 774 689 L 778 701 L 783 708 L 788 706 L 792 696 L 796 682 L 801 667 L 806 656 L 810 652 L 814 656 L 819 667 L 824 682 L 828 696 L 832 706 L 837 708 L 842 701 L 846 689 L 850 673 L 855 660 L 860 653 L 864 653 L 868 662 L 873 676 L 878 691 L 882 703 L 886 708 L 891 705 L 896 695 L 900 680'/><path class='d' data-s='1.5' data-d='0.9' fill='none' stroke='#e63946' stroke-width='11' d='M 180 940 L 184 931 L 189 921 L 194 912 L 198 904 L 202 895 L 207 887 L 212 880 L 216 873 L 220 867 L 225 861 L 230 856 L 234 852 L 238 849 L 243 847 L 248 845 L 252 845 L 256 845 L 261 847 L 266 849 L 270 852 L 274 856 L 279 861 L 284 867 L 288 873 L 292 880 L 297 887 L 302 895 L 306 904 L 310 912 L 315 921 L 320 931 L 324 940 L 328 949 L 333 959 L 338 968 L 342 976 L 346 985 L 351 993 L 356 1000 L 360 1007 L 364 1013 L 369 1019 L 374 1024 L 378 1028 L 382 1031 L 387 1033 L 392 1035 L 396 1035 L 400 1035 L 405 1033 L 410 1031 L 414 1028 L 418 1024 L 423 1019 L 428 1013 L 432 1007 L 436 1000 L 441 993 L 446 985 L 450 976 L 454 968 L 459 959 L 464 949 L 468 940 L 472 931 L 477 921 L 482 912 L 486 904 L 490 895 L 495 887 L 500 880 L 504 873 L 508 867 L 513 861 L 518 856 L 522 852 L 526 849 L 531 847 L 536 845 L 540 845 L 544 845 L 549 847 L 554 849 L 558 852 L 562 856 L 567 861 L 572 867 L 576 873 L 580 880 L 585 887 L 590 895 L 594 904 L 598 912 L 603 921 L 608 931 L 612 940 L 616 949 L 621 959 L 626 968 L 630 976 L 634 985 L 639 993 L 644 1000 L 648 1007 L 652 1013 L 657 1019 L 662 1024 L 666 1028 L 670 1031 L 675 1033 L 680 1035 L 684 1035 L 688 1035 L 693 1033 L 698 1031 L 702 1028 L 706 1024 L 711 1019 L 716 1013 L 720 1007 L 724 1000 L 729 993 L 734 985 L 738 976 L 742 968 L 747 959 L 752 949 L 756 940 L 760 931 L 765 921 L 770 912 L 774 904 L 778 895 L 783 887 L 788 880 L 792 873 L 796 867 L 801 861 L 806 856 L 810 852 L 814 849 L 819 847 L 824 845 L 828 845 L 832 845 L 837 847 L 842 849 L 846 852 L 850 856 L 855 861 L 860 867 L 864 873 L 868 880 L 873 887 L 878 895 L 882 904 L 886 912 L 891 921 L 896 931 L 900 940'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 590,
+          "size": 58,
+          "color": "#1d1d1d",
+          "s": 0.2,
+          "t": {
+            "en": "AIR",
+            "es": "AIRE",
+            "fr": "AIR",
+            "ja": "空気"
+          }
+        },
+        {
+          "x": 540,
+          "y": 800,
+          "size": 58,
+          "color": "#e63946",
+          "s": 1.3,
+          "t": {
+            "en": "+ BONE = MORE LOW TONES",
+            "es": "+ HUESO = MÁS GRAVES",
+            "fr": "+ OS = PLUS DE GRAVES",
+            "ja": "＋骨＝低音が増える"
+          }
+        },
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 100,
+          "color": "#e63946",
+          "s": 2.4,
+          "t": {
+            "en": "DEEPER",
+            "es": "MÁS GRAVE",
+            "fr": "PLUS GRAVE",
+            "ja": "低く聞こえる"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 5.5,
+      "caption": {
+        "en": "A recording only captures the *air* version — the voice *everyone else* hears.",
+        "es": "Una grabación solo capta la versión del *aire*: la voz que oyen *los demás*.",
+        "fr": "Un enregistrement ne capte que le son *transmis par l'air* : celui qu'entendent *les autres*.",
+        "ja": "録音は*空気*を伝わる声だけ。これが*周りの人*が聞いている声です。"
+      },
+      "svg": "<g transform='translate(300 290) scale(0.75)'><path class='d' data-s='0.4' data-d='1.0' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 640 1060 L 640 985 C 760 960 800 860 795 760 C 790 625 690 545 560 545 C 435 545 360 630 355 735 L 315 815 Q 305 832 325 838 L 352 842 L 352 872 Q 342 885 358 892 L 352 910 Q 352 940 385 945 Q 440 950 455 985 L 455 1060'/><circle class='p' data-s='1.0' data-d='0.3' cx='425' cy='725' r='10' fill='#1d1d1d'/><path class='d' data-s='1.1' data-d='0.2' fill='none' stroke='#1d1d1d' stroke-width='7' d='M 335 880 L 358 878'/><path class='d' data-s='1.0' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 640 735 Q 695 720 697 775 Q 698 830 645 840 M 655 765 Q 675 775 662 800'/><path class='d' data-s='1.6' data-d='0.5' fill='none' stroke='#e63946' stroke-width='10' d='M 420 935 L 445 900 L 470 930 L 495 880 L 520 905 L 545 850 L 565 870 L 588 812'/></g><path class='f' data-s='0' data-d='0.3' data-o='1' fill='#fbfaf5' opacity='0' d='M 190 790 Q 190 740 240 740 Q 290 740 290 790 L 290 880 Q 290 930 240 930 Q 190 930 190 880 Z'/><path class='d' data-s='0' data-d='0.7' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 190 790 Q 190 740 240 740 Q 290 740 290 790 L 290 880 Q 290 930 240 930 Q 190 930 190 880 Z'/><path class='d' data-s='0.5' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='6' d='M 205 790 L 275 790 M 200 830 L 280 830 M 200 870 L 280 870'/><path class='d' data-s='0.4' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 165 860 Q 165 975 240 975 Q 315 975 315 860 M 240 975 L 240 1060 M 180 1065 L 300 1065'/><path class='d' data-s='1.0' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 520 910 Q 500 950 520 990 M 470 890 Q 440 950 470 1010 M 420 870 Q 380 950 420 1030'/><path class='d' data-s='2.2' data-d='0.35' fill='none' stroke='#e63946' stroke-width='13' d='M 640 880 L 740 980 M 740 880 L 640 980'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 92,
+          "color": "#e63946",
+          "s": 2.4,
+          "t": {
+            "en": "WHAT OTHERS HEAR",
+            "es": "LO QUE OYEN LOS DEMÁS",
+            "fr": "CE QU'ILS ENTENDENT",
+            "ja": "みんなが聞く声"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 5.5,
+      "caption": {
+        "en": "So the recording is closer to your *real* voice. With time, you *get used to it*.",
+        "es": "La grabación se parece más a tu voz *real*. Con el tiempo, *te acostumbras*.",
+        "fr": "L'enregistrement est plus proche de ta *vraie* voix. Avec le temps, on *s'y habitue*.",
+        "ja": "録音の声こそ、*本当の声*に近い声。聞くうちに、だんだん*慣れます*。"
+      },
+      "svg": "<path class='f' data-s='0' data-d='0.3' data-o='1' fill='#fbfaf5' opacity='0' d='M 370 540 L 570 540 Q 610 540 610 580 L 610 1020 Q 610 1060 570 1060 L 370 1060 Q 330 1060 330 1020 L 330 580 Q 330 540 370 540 Z'/><path class='d' data-s='0' data-d='0.8' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 370 540 L 570 540 Q 610 540 610 580 L 610 1020 Q 610 1060 570 1060 L 370 1060 Q 330 1060 330 1020 L 330 580 Q 330 540 370 540 Z'/><path class='d' data-s='0.5' data-d='0.2' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 440 575 L 500 575'/><circle class='d' data-s='0.6' data-d='0.3' cx='470' cy='1010' r='18' fill='none' stroke='#1d1d1d' stroke-width='7' /><path class='d' data-s='0.6' data-d='0.25' fill='none' stroke='#1d1d1d' stroke-width='12' d='M 386 735 L 386 785'/><path class='d' data-s='0.6599999999999999' data-d='0.25' fill='none' stroke='#1d1d1d' stroke-width='12' d='M 414 705 L 414 815'/><path class='d' data-s='0.72' data-d='0.25' fill='none' stroke='#1d1d1d' stroke-width='12' d='M 442 680 L 442 840'/><path class='d' data-s='0.78' data-d='0.25' fill='none' stroke='#1d1d1d' stroke-width='12' d='M 470 715 L 470 805'/><path class='d' data-s='0.84' data-d='0.25' fill='none' stroke='#1d1d1d' stroke-width='12' d='M 498 690 L 498 830'/><path class='d' data-s='0.8999999999999999' data-d='0.25' fill='none' stroke='#1d1d1d' stroke-width='12' d='M 526 730 L 526 790'/><path class='d' data-s='0.96' data-d='0.25' fill='none' stroke='#1d1d1d' stroke-width='12' d='M 554 700 L 554 820'/><path class='p' data-s='0.5' data-d='0.3' fill='#1d1d1d' d='M 440 900 L 440 970 L 498 935 Z'/><path class='d' data-s='1.3' data-d='0.5' fill='none' stroke='#e63946' stroke-width='18' d='M 690 800 L 760 880 L 900 700'/><path class='d' data-s='1.9' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='8' d='M 820 1000 A 60 60 0 1 1 880 940 M 862 912 L 880 942 L 905 915'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 100,
+          "color": "#e63946",
+          "s": 2.2,
+          "t": {
+            "en": "THAT'S YOU!",
+            "es": "¡ERES TÚ!",
+            "fr": "C'EST TOI !",
+            "ja": "それが本当の声"
+          }
+        }
+      ]
+    }
+  ]
+}
