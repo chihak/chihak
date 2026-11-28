@@ -1,0 +1,187 @@
+{
+  "id": "ep46-sun-sneeze",
+  "title": {
+    "en": "Why Do You *Sneeze* at the Sun?",
+    "es": "¿Por qué *estornudas* con el sol?",
+    "fr": "Pourquoi on *éternue* au soleil ?",
+    "ja": "太陽を見ると*くしゃみ*が出るのはなぜ？"
+  },
+  "coverTime": 4.3,
+  "scenes": [
+    {
+      "dur": 5,
+      "caption": {
+        "en": "Step out into bright sunshine… and *ACHOO!* Does that happen to you?",
+        "es": "Sales a pleno sol… y *¡ACHÍS!* ¿A ti también te pasa?",
+        "fr": "Tu sors en plein soleil… et *ATCHOUM !* Ça t'arrive aussi ?",
+        "ja": "まぶしい日ざしの下に出たとたん…*ハックション！*そんな経験ありませんか？"
+      },
+      "svg": "<circle class='p' data-s='0' data-d='0.4' cx='780' cy='620' r='100' fill='#ffd166' stroke='#1d1d1d' stroke-width='8'/><path class='d' data-s='0.3' data-d='0.6' fill='none' stroke='#f4a261' stroke-width='12' stroke-linecap='round' d='M 780 470 L 780 420 M 780 770 L 780 820 M 630 620 L 580 620 M 930 620 L 980 620 M 674 514 L 640 480 M 886 514 L 920 480 M 674 726 L 640 760 M 886 726 L 920 760'/><circle class='p' data-s='0.8' data-d='0.3' cx='340' cy='860' r='140' fill='#ffd166' stroke='#1d1d1d' stroke-width='8'/><path class='d' data-s='1.1' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='9' stroke-linecap='round' d='M 270 820 L 310 840 L 270 860 M 410 820 L 370 840 L 410 860'/><ellipse class='p' data-s='1.5' data-d='0.2' cx='350' cy='930' rx='40' ry='30' fill='#1d1d1d'/><path class='d' data-s='1.7' data-d='0.3' fill='none' stroke='#3a86c8' stroke-width='9' stroke-linecap='round' d='M 420 950 L 520 990 M 420 970 L 500 1040 M 410 930 L 530 930'/><path class='d' data-s='0.5' data-d='0.5' fill='none' stroke='#f4a261' stroke-width='7' stroke-dasharray='20 18' d='M 680 680 L 470 800'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 110,
+          "color": "#e63946",
+          "s": 1.7,
+          "t": {
+            "en": "ACHOO!",
+            "es": "¡ACHÍS!",
+            "fr": "ATCHOUM !",
+            "ja": "ハックション！"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 6,
+      "caption": {
+        "en": "It has a name: the *photic sneeze reflex*. Roughly *1 in 4 people* have it.",
+        "es": "Tiene nombre: *reflejo de estornudo fótico*. Lo tiene más o menos *1 de cada 4 personas*.",
+        "fr": "Ça a un nom : le *réflexe photo-sternutatoire*. Environ *1 personne sur 4* l'a.",
+        "ja": "名前があります。「*光くしゃみ反射*」。およそ*4人に1人*が持っているといわれます。"
+      },
+      "svg": "<circle class='p' data-s='0' data-d='0.4' cx='540' cy='600' r='80' fill='#ffd166' stroke='#1d1d1d' stroke-width='8'/><path class='d' data-s='0.3' data-d='0.4' fill='none' stroke='#f4a261' stroke-width='10' stroke-linecap='round' d='M 540 480 L 540 450 M 410 600 L 380 600 M 670 600 L 700 600 M 450 510 L 430 490 M 630 510 L 650 490'/><circle class='p' data-s='0.6' data-d='0.3' cx='210' cy='860' r='70' fill='#fbfaf5' stroke='#1d1d1d' stroke-width='8'/><circle class='p' data-s='0.8' data-d='0.3' cx='430' cy='860' r='70' fill='#fbfaf5' stroke='#1d1d1d' stroke-width='8'/><circle class='p' data-s='1.0' data-d='0.3' cx='650' cy='860' r='70' fill='#fbfaf5' stroke='#1d1d1d' stroke-width='8'/><circle class='p' data-s='1.2' data-d='0.3' cx='870' cy='860' r='70' fill='#ffd166' stroke='#1d1d1d' stroke-width='8'/><path class='d' data-s='1.7' data-d='0.3' fill='none' stroke='#e63946' stroke-width='9' stroke-linecap='round' d='M 955 820 l 40 -20 M 960 870 l 50 0 M 955 920 l 40 20'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 88,
+          "color": "#e63946",
+          "s": 1.8,
+          "t": {
+            "en": "PHOTIC SNEEZE",
+            "es": "ESTORNUDO FÓTICO",
+            "fr": "PHOTO-STERNUTATOIRE",
+            "ja": "光くしゃみ反射"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 5.5,
+      "caption": {
+        "en": "Its playful nickname is *ACHOO syndrome*, and it often *runs in families*.",
+        "es": "Su apodo divertido es *síndrome ACHOO*, y suele *venir de familia*.",
+        "fr": "Son surnom amusant : le *syndrome ACHOO*, et il est souvent *familial*.",
+        "ja": "あだ名は「*ACHOO症候群*」。*家族で受け継がれる*ことが多いのです。"
+      },
+      "svg": "<circle class='p' data-s='0' data-d='0.3' cx='380' cy='580' r='70' fill='#ffd166' stroke='#1d1d1d' stroke-width='8'/><circle class='p' data-s='0.2' data-d='0.3' cx='700' cy='580' r='70' fill='#fbfaf5' stroke='#1d1d1d' stroke-width='8'/><path class='d' data-s='0.5' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 450 580 L 630 580 M 540 580 L 540 720 M 340 720 L 740 720 M 340 720 L 340 800 M 740 720 L 740 800'/><circle class='p' data-s='1.1' data-d='0.3' cx='340' cy='860' r='60' fill='#ffd166' stroke='#1d1d1d' stroke-width='8'/><circle class='p' data-s='1.3' data-d='0.3' cx='740' cy='860' r='60' fill='#ffd166' stroke='#1d1d1d' stroke-width='8'/><path class='d' data-s='1.6' data-d='0.3' fill='none' stroke='#e63946' stroke-width='8' stroke-linecap='round' d='M 440 560 l 30 -15 M 440 600 l 30 15 M 410 840 l 30 -15 M 410 880 l 30 15 M 810 840 l 30 -15 M 810 880 l 30 15'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 90,
+          "color": "#e63946",
+          "s": 1.8,
+          "t": {
+            "en": "RUNS IN FAMILIES",
+            "es": "VIENE DE FAMILIA",
+            "fr": "FAMILIAL",
+            "ja": "家族で遺伝"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 5.5,
+      "caption": {
+        "en": "Bright light hits your eyes, and the *optic nerve* rushes a signal to your *brain*.",
+        "es": "La luz intensa llega a tus ojos y el *nervio óptico* manda una señal al *cerebro*.",
+        "fr": "La lumière vive frappe tes yeux, et le *nerf optique* envoie un signal au *cerveau*.",
+        "ja": "強い光が目に入ると、*視神経*が*脳*へ信号を送ります。"
+      },
+      "svg": "<circle class='p' data-s='0' data-d='0.3' cx='170' cy='520' r='60' fill='#ffd166' stroke='#1d1d1d' stroke-width='7'/><path class='d' data-s='0.2' data-d='0.4' fill='none' stroke='#f4a261' stroke-width='9' stroke-dasharray='18 14' d='M 220 570 L 300 700 M 250 540 L 360 680'/><path class='p' data-s='0.4' data-d='0.4' fill='#fbfaf5' stroke='#1d1d1d' stroke-width='9' d='M 200 800 Q 330 670 460 800 Q 330 930 200 800 Z'/><circle class='p' data-s='0.7' data-d='0.2' cx='330' cy='800' r='55' fill='#3a86c8' stroke='#1d1d1d' stroke-width='6'/><circle class='p' data-s='0.8' data-d='0.2' cx='330' cy='800' r='22' fill='#1d1d1d'/><path class='f' data-s='1.0' data-d='0.4' data-o='0.5' fill='#f6a6b2' opacity='0' d='M 640 760 Q 600 640 700 600 Q 760 540 840 590 Q 930 600 920 700 Q 950 790 860 820 Q 760 860 690 820 Q 630 810 640 760 Z'/><path class='d' data-s='0.9' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 640 760 Q 600 640 700 600 Q 760 540 840 590 Q 930 600 920 700 Q 950 790 860 820 Q 760 860 690 820 Q 630 810 640 760 Z M 720 650 Q 760 690 740 740 M 820 630 Q 800 690 850 740'/><path class='d' data-s='1.5' data-d='0.5' fill='none' stroke='#3a86c8' stroke-width='12' stroke-linecap='round' d='M 470 800 Q 550 790 630 770 M 600 740 L 635 770 L 595 800'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 92,
+          "color": "#e63946",
+          "s": 1.9,
+          "t": {
+            "en": "LIGHT → BRAIN",
+            "es": "LUZ → CEREBRO",
+            "fr": "LUMIÈRE → CERVEAU",
+            "ja": "光 → 脳"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 6.5,
+      "caption": {
+        "en": "Scientists think that signal *spills over* to the nerve that senses your *nose*, so the brain says: *sneeze!*",
+        "es": "Los científicos creen que esa señal *se cruza* con el nervio que siente la *nariz*, y el cerebro dice: *¡estornuda!*",
+        "fr": "Les scientifiques pensent que ce signal *déborde* sur le nerf qui sent ton *nez*, et le cerveau dit : *éternue !*",
+        "ja": "その信号が*鼻*の感覚を伝える神経に*混線*し、脳が「*くしゃみ！*」と命令すると考えられています。"
+      },
+      "svg": "<path class='f' data-s='0.2' data-d='0.4' data-o='0.5' fill='#f6a6b2' opacity='0' d='M 400 660 Q 360 540 460 500 Q 540 440 620 490 Q 720 500 700 600 Q 730 690 640 720 Q 540 760 460 720 Q 390 710 400 660 Z'/><path class='d' data-s='0' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 400 660 Q 360 540 460 500 Q 540 440 620 490 Q 720 500 700 600 Q 730 690 640 720 Q 540 760 460 720 Q 390 710 400 660 Z'/><path class='d' data-s='0.6' data-d='0.5' fill='none' stroke='#3a86c8' stroke-width='12' stroke-linecap='round' d='M 180 960 Q 260 760 470 690'/><path class='d' data-s='1.6' data-d='0.5' fill='none' stroke='#e63946' stroke-width='12' stroke-linecap='round' d='M 610 700 Q 780 760 820 900'/><path class='d' data-s='1.2' data-d='0.3' fill='none' stroke='#ffb703' stroke-width='10' stroke-linecap='round' d='M 540 760 l -25 40 l 30 0 l -25 45'/><path class='d' data-s='2.0' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 800 880 Q 870 980 900 1020 Q 860 1050 800 1030'/><path class='d' data-s='2.4' data-d='0.3' fill='none' stroke='#3a86c8' stroke-width='8' stroke-linecap='round' d='M 930 990 l 60 -20 M 930 1030 l 70 10'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 92,
+          "color": "#e63946",
+          "s": 2.2,
+          "t": {
+            "en": "CROSSED WIRES",
+            "es": "CRUCE DE CABLES",
+            "fr": "FILS CROISÉS",
+            "ja": "神経の混線"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 6,
+      "caption": {
+        "en": "It's *harmless*, but a surprise sneeze while *driving* can be risky. *Sunglasses* help.",
+        "es": "Es *inofensivo*, pero un estornudo repentino al *conducir* puede ser peligroso. Las *gafas de sol* ayudan.",
+        "fr": "C'est *sans danger*, mais un éternuement surprise en *conduisant* peut être risqué. Les *lunettes de soleil* aident.",
+        "ja": "*害はありません*が、*運転中*の急なくしゃみは危険なことも。*サングラス*が役立ちます。"
+      },
+      "svg": "<circle class='d' data-s='0' data-d='0.6' cx='320' cy='800' r='150' fill='none' stroke='#1d1d1d' stroke-width='12'/><circle class='p' data-s='0.4' data-d='0.3' cx='320' cy='800' r='35' fill='#1d1d1d'/><path class='d' data-s='0.5' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='12' d='M 175 790 L 285 800 M 355 800 L 465 790 M 320 835 L 320 950'/><path class='p' data-s='1.3' data-d='0.4' fill='#1d1d1d' stroke='#1d1d1d' stroke-width='6' d='M 600 760 L 730 760 Q 730 860 665 860 Q 600 860 600 760 Z M 790 760 L 920 760 Q 920 860 855 860 Q 790 860 790 760 Z'/><path class='d' data-s='1.6' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='9' d='M 730 775 Q 760 750 790 775 M 600 770 L 570 740 M 920 770 L 950 740'/><path class='d' data-s='1.9' data-d='0.3' fill='none' stroke='#fbfaf5' stroke-width='7' stroke-linecap='round' d='M 630 785 L 660 815 M 820 785 L 850 815'/><circle class='p' data-s='1.1' data-d='0.3' cx='760' cy='580' r='55' fill='#ffd166' stroke='#1d1d1d' stroke-width='6'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 96,
+          "color": "#2a9d8f",
+          "s": 2.0,
+          "t": {
+            "en": "SUNGLASSES",
+            "es": "GAFAS DE SOL",
+            "fr": "LUNETTES",
+            "ja": "サングラス"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 6.5,
+      "caption": {
+        "en": "See a doctor if light *hurts your eyes*, or comes with a *severe headache*, *eye pain* or *blurry vision*.",
+        "es": "Consulta al médico si la luz te *duele en los ojos* o viene con *dolor de cabeza fuerte*, *dolor ocular* o *visión borrosa*.",
+        "fr": "Consulte un médecin si la lumière te *fait mal aux yeux*, ou avec un *mal de tête intense*, une *douleur à l'œil* ou une *vision floue*.",
+        "ja": "光で*目が痛む*、*激しい頭痛*や*目の痛み*、*かすみ目*をともなう場合は受診を。"
+      },
+      "svg": "<path class='p' data-s='1.0' data-d='0.4' fill='#fbfaf5' stroke='#1d1d1d' stroke-width='9' d='M 170 760 Q 320 620 470 760 Q 320 900 170 760 Z'/><circle class='p' data-s='1.2' data-d='0.2' cx='320' cy='760' r='50' fill='#3a86c8' stroke='#1d1d1d' stroke-width='6'/><path class='d' data-s='1.5' data-d='0.4' fill='none' stroke='#e63946' stroke-width='10' stroke-linecap='round' d='M 200 620 l 30 40 M 320 590 l 0 50 M 440 620 l -30 40'/><path class='d' data-s='0' data-d='0.7' fill='none' stroke='#1d1d1d' stroke-width='10' d='M 600 560 L 910 560 L 910 930 L 600 930 Z'/><path class='p' data-s='0.6' data-d='0.4' fill='#e63946' d='M 725 620 L 785 620 L 785 715 L 880 715 L 880 775 L 785 775 L 785 870 L 725 870 L 725 775 L 630 775 L 630 715 L 725 715 Z'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 96,
+          "color": "#e63946",
+          "s": 2.2,
+          "t": {
+            "en": "SEE A DOCTOR",
+            "es": "VE AL MÉDICO",
+            "fr": "CONSULTE",
+            "ja": "受診を"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -2968,5 +2968,69 @@ Craquer doucement de temps en temps est généralement sans danger, mais ne forc
 ```
 - Tags: `首を鳴らす, 首ポキ, 首を鳴らすのは危険, 首が鳴る 理由, 背中を鳴らす, 椎間関節, 背骨, 体の雑学, 健康, sketch clinic`
 
+### ep46-sun-sneeze — English
+- File: `ep46-sun-sneeze/ep46-sun-sneeze-en.mp4`
+- Video language: English
+- Subtitles file: `ep46-sun-sneeze/ep46-sun-sneeze-en.srt` (Subtitles → Add language: English → Upload file → With timing)
+- Title: `Why Do Some People Sneeze at the Sun? (It Has a Name) #Shorts`
+- Description:
+```
+Sneezing when you step into bright sunlight is called the photic sneeze reflex, nicknamed ACHOO syndrome. Roughly 1 in 4 people have it, and it often runs in families.
+Bright light makes the optic nerve fire a signal to the brain; scientists think that signal spills over to the nerve that senses your nose, so the brain triggers a sneeze.
+It's harmless, but a surprise sneeze while driving can be risky, so sunglasses help. See a doctor if light hurts your eyes, or comes with a severe headache, eye pain or blurry vision.
+Educational only — not medical advice. If you have symptoms, see a healthcare professional.
+
+#photicsneeze #sneeze #bodyfacts #health #Shorts
+```
+- Tags: `photic sneeze reflex, ACHOO syndrome, sneeze at the sun, why do I sneeze in sunlight, sun sneeze, sneezing, body facts, why does my body do that, health, sketch clinic`
+
+### ep46-sun-sneeze — Spanish  *(Phase 2 — only if the user asks)*
+- File: `ep46-sun-sneeze/ep46-sun-sneeze-es.mp4`
+- Video language: Spanish
+- Subtitles file: `ep46-sun-sneeze/ep46-sun-sneeze-es.srt` (Subtitles → Add language: Spanish → Upload file → With timing)
+- Title: `¿Por qué algunos estornudan con el sol? (Tiene nombre) #Shorts`
+- Description:
+```
+Estornudar al salir a la luz del sol se llama reflejo de estornudo fótico, apodado síndrome ACHOO. Lo tiene más o menos 1 de cada 4 personas y suele venir de familia.
+La luz intensa hace que el nervio óptico mande una señal al cerebro; los científicos creen que esa señal se cruza con el nervio que siente la nariz, y el cerebro provoca un estornudo.
+Es inofensivo, pero un estornudo repentino al conducir puede ser peligroso: las gafas de sol ayudan. Consulta al médico si la luz te duele en los ojos o viene con dolor de cabeza fuerte, dolor ocular o visión borrosa.
+Solo con fines educativos: no es consejo médico. Si tienes síntomas, consulta a un profesional de la salud.
+
+#estornudo #reflejofotico #cuerpohumano #salud #Shorts
+```
+- Tags: `reflejo de estornudo fótico, síndrome ACHOO, estornudar con el sol, por qué estornudo con la luz, estornudo, curiosidades del cuerpo, cuerpo humano, salud, sol, sketch clinic`
+
+### ep46-sun-sneeze — French  *(Phase 2 — only if the user asks)*
+- File: `ep46-sun-sneeze/ep46-sun-sneeze-fr.mp4`
+- Video language: French
+- Subtitles file: `ep46-sun-sneeze/ep46-sun-sneeze-fr.srt` (Subtitles → Add language: French → Upload file → With timing)
+- Title: `Pourquoi certains éternuent au soleil ? (Ça a un nom) #Shorts`
+- Description:
+```
+Éternuer en sortant en plein soleil s'appelle le réflexe photo-sternutatoire, surnommé syndrome ACHOO. Environ 1 personne sur 4 l'a, et il est souvent familial.
+La lumière vive fait envoyer un signal au cerveau par le nerf optique ; les scientifiques pensent que ce signal déborde sur le nerf qui sent ton nez, et le cerveau déclenche un éternuement.
+C'est sans danger, mais un éternuement surprise en conduisant peut être risqué : les lunettes de soleil aident. Consulte un médecin si la lumière te fait mal aux yeux, ou avec un mal de tête intense, une douleur à l'œil ou une vision floue.
+À but éducatif uniquement, ce n'est pas un avis médical. En cas de symptômes, consulte un professionnel de santé.
+
+#éternuement #soleil #corpshumain #santé #Shorts
+```
+- Tags: `réflexe photo-sternutatoire, syndrome ACHOO, éternuer au soleil, pourquoi j'éternue au soleil, éternuement, corps humain, curiosités du corps, santé, soleil, sketch clinic`
+
+### ep46-sun-sneeze — Japanese  *(Phase 2 — only if the user asks)*
+- File: `ep46-sun-sneeze/ep46-sun-sneeze-ja.mp4`
+- Video language: Japanese
+- Subtitles file: `ep46-sun-sneeze/ep46-sun-sneeze-ja.srt` (Subtitles → Add language: Japanese → Upload file → With timing)
+- Title: `太陽を見るとくしゃみが出るのはなぜ？（名前があります） #Shorts`
+- Description:
+```
+まぶしい日ざしでくしゃみが出るのは「光くしゃみ反射」。あだ名はACHOO症候群で、およそ4人に1人が持ち、家族で受け継がれることが多いといわれます。
+強い光で視神経が脳へ信号を送ると、その信号が鼻の感覚を伝える神経に混線し、脳がくしゃみを起こすと考えられています。
+害はありませんが、運転中の急なくしゃみは危険なことも。サングラスが役立ちます。光で目が痛む、激しい頭痛や目の痛み、かすみ目をともなう場合は受診を。
+教育目的の情報であり、医療アドバイスではありません。症状がある場合は医療機関を受診してください。
+
+#光くしゃみ反射 #くしゃみ #体の雑学 #健康 #Shorts
+```
+- Tags: `光くしゃみ反射, ACHOO症候群, 太陽 くしゃみ, まぶしいと くしゃみ, くしゃみ, 体の雑学, 人体の不思議, 健康, 豆知識, sketch clinic`
+
 ## Step 3 — Report back
 Send the user: channel URL, and a table of episode → video URL (all Public).
