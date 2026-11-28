@@ -1,0 +1,187 @@
+{
+  "id": "ep45-neck-cracking",
+  "title": {
+    "en": "What Really Happens When You *Crack Your Neck*?",
+    "es": "¿Qué pasa de verdad al *crujirte el cuello*?",
+    "fr": "Que se passe-t-il quand on fait *craquer son cou* ?",
+    "ja": "*首をボキッ*と鳴らすと何が起きる？"
+  },
+  "coverTime": 4.5,
+  "scenes": [
+    {
+      "dur": 5,
+      "caption": {
+        "en": "You twist your neck and… *CRACK!* So what's really making that sound?",
+        "es": "Giras el cuello y… *¡CRAC!* ¿Qué produce realmente ese sonido?",
+        "fr": "Tu tournes la tête et… *CRAC !* Mais qu'est-ce qui fait vraiment ce bruit ?",
+        "ja": "首をひねると…*ボキッ！*この音の正体は何でしょう？"
+      },
+      "svg": "<path class='d' data-s='0' data-d='0.7' fill='none' stroke='#1d1d1d' stroke-width='10' stroke-linecap='round' d='M 250 1010 Q 280 870 470 845 L 470 755 M 610 755 L 610 845 Q 800 870 830 1010'/><circle class='p' data-s='0.4' data-d='0.3' cx='540' cy='650' r='110' fill='#ffd166' stroke='#1d1d1d' stroke-width='8'/><circle class='p' data-s='0.8' data-d='0.2' cx='500' cy='630' r='10' fill='#1d1d1d' stroke='#1d1d1d' stroke-width='2'/><circle class='p' data-s='0.85' data-d='0.2' cx='580' cy='630' r='10' fill='#1d1d1d' stroke='#1d1d1d' stroke-width='2'/><path class='d' data-s='0.9' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='7' stroke-linecap='round' d='M 500 690 Q 540 715 580 690'/><path class='d' data-s='1.0' data-d='0.5' fill='none' stroke='#3a86c8' stroke-width='9' stroke-linecap='round' d='M 360 500 Q 540 400 720 500 M 680 455 L 722 502 L 665 520'/><path class='d' data-s='1.5' data-d='0.3' fill='none' stroke='#e63946' stroke-width='9' stroke-linecap='round' d='M 650 780 L 730 755 M 660 810 L 750 815 M 645 840 L 720 875 M 430 780 L 350 755 M 420 810 L 330 815 M 435 840 L 360 875'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 110,
+          "color": "#e63946",
+          "s": 1.6,
+          "t": {
+            "en": "CRACK!",
+            "es": "¡CRAC!",
+            "fr": "CRAC !",
+            "ja": "ボキッ！"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 6,
+      "caption": {
+        "en": "It's not bones snapping back into place. It comes from tiny *facet joints* between your vertebrae.",
+        "es": "No son huesos volviendo a su sitio. Viene de pequeñas *articulaciones facetarias* entre tus vértebras.",
+        "fr": "Ce ne sont pas des os qui se remettent en place. Ça vient de petites *articulations facettaires* entre tes vertèbres.",
+        "ja": "骨がもとの位置に戻る音ではありません。背骨の間にある小さな*椎間関節*から鳴っています。"
+      },
+      "svg": "<path class='p' data-s='0.1' data-d='0.3' fill='#fbfaf5' stroke='#1d1d1d' stroke-width='8' d='M 450 480 L 630 480 Q 650 480 650 500 L 650 540 Q 650 560 630 560 L 450 560 Q 430 560 430 540 L 430 500 Q 430 480 450 480 Z'/><path class='p' data-s='0.25' data-d='0.3' fill='#fbfaf5' stroke='#1d1d1d' stroke-width='8' d='M 450 590 L 630 590 Q 650 590 650 610 L 650 650 Q 650 670 630 670 L 450 670 Q 430 670 430 650 L 430 610 Q 430 590 450 590 Z'/><path class='p' data-s='0.4' data-d='0.3' fill='#fbfaf5' stroke='#1d1d1d' stroke-width='8' d='M 450 700 L 630 700 Q 650 700 650 720 L 650 760 Q 650 780 630 780 L 450 780 Q 430 780 430 760 L 430 720 Q 430 700 450 700 Z'/><path class='p' data-s='0.5499999999999999' data-d='0.3' fill='#fbfaf5' stroke='#1d1d1d' stroke-width='8' d='M 450 810 L 630 810 Q 650 810 650 830 L 650 870 Q 650 890 630 890 L 450 890 Q 430 890 430 870 L 430 830 Q 430 810 450 810 Z'/><path class='p' data-s='0.7' data-d='0.3' fill='#fbfaf5' stroke='#1d1d1d' stroke-width='8' d='M 450 920 L 630 920 Q 650 920 650 940 L 650 980 Q 650 1000 630 1000 L 450 1000 Q 430 1000 430 980 L 430 940 Q 430 920 450 920 Z'/><path class='f' data-s='0.9' data-d='0.3' data-o='0.6' fill='#3a86c8' opacity='0' d='M 440 563 L 640 563 L 640 587 L 440 587 Z'/><path class='f' data-s='1.0' data-d='0.3' data-o='0.6' fill='#3a86c8' opacity='0' d='M 440 673 L 640 673 L 640 697 L 440 697 Z'/><path class='f' data-s='1.1' data-d='0.3' data-o='0.6' fill='#3a86c8' opacity='0' d='M 440 783 L 640 783 L 640 807 L 440 807 Z'/><path class='f' data-s='1.2000000000000002' data-d='0.3' data-o='0.6' fill='#3a86c8' opacity='0' d='M 440 893 L 640 893 L 640 917 L 440 917 Z'/><path class='d' data-s='1.3' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='7' stroke-linecap='round' d='M 650 530 L 715 567 M 650 620 L 715 583'/><circle class='p' data-s='1.6' data-d='0.2' cx='730' cy='575' r='22' fill='#e63946' stroke='#1d1d1d' stroke-width='6'/><path class='d' data-s='1.4000000000000001' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='7' stroke-linecap='round' d='M 650 640 L 715 677 M 650 730 L 715 693'/><circle class='p' data-s='1.7000000000000002' data-d='0.2' cx='730' cy='685' r='22' fill='#e63946' stroke='#1d1d1d' stroke-width='6'/><path class='d' data-s='1.5' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='7' stroke-linecap='round' d='M 650 750 L 715 787 M 650 840 L 715 803'/><circle class='p' data-s='1.8' data-d='0.2' cx='730' cy='795' r='22' fill='#e63946' stroke='#1d1d1d' stroke-width='6'/><path class='d' data-s='1.6' data-d='0.3' fill='none' stroke='#1d1d1d' stroke-width='7' stroke-linecap='round' d='M 650 860 L 715 897 M 650 950 L 715 913'/><circle class='p' data-s='1.9000000000000001' data-d='0.2' cx='730' cy='905' r='22' fill='#e63946' stroke='#1d1d1d' stroke-width='6'/><path class='d' data-s='2.1' data-d='0.4' fill='none' stroke='#3a86c8' stroke-width='9' stroke-linecap='round' d='M 900 740 L 790 740 M 830 705 L 788 740 L 830 775'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 90,
+          "color": "#e63946",
+          "s": 2.0,
+          "t": {
+            "en": "FACET JOINTS",
+            "es": "ARTICULACIONES",
+            "fr": "FACETTES",
+            "ja": "椎間関節"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 6,
+      "caption": {
+        "en": "Each joint holds *fluid*. Stretch it, the pressure drops, and a *gas bubble* forms. Pop!",
+        "es": "Cada articulación tiene *líquido*. Al estirarla, baja la presión y se forma una *burbuja de gas*. ¡Crac!",
+        "fr": "Chaque articulation contient du *liquide*. Quand on l'étire, la pression chute et une *bulle de gaz* se forme. Crac !",
+        "ja": "関節の中は*液体*で満たされています。引き伸ばすと圧力が下がり、*気泡*ができてポキッ！"
+      },
+      "svg": "<path class='f' data-s='0.5' data-d='0.4' data-o='0.4' fill='#3a86c8' opacity='0' d='M 360 690 Q 540 640 720 690 Q 790 775 720 860 Q 540 910 360 860 Q 290 775 360 690 Z'/><path class='p' data-s='0' data-d='0.3' fill='#fbfaf5' stroke='#1d1d1d' stroke-width='8' d='M 390 480 L 390 690 Q 540 745 690 690 L 690 480'/><path class='p' data-s='0.2' data-d='0.3' fill='#fbfaf5' stroke='#1d1d1d' stroke-width='8' d='M 390 1060 L 390 860 Q 540 805 690 860 L 690 1060'/><path class='d' data-s='0.6' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='7' stroke-linecap='round' d='M 370 685 Q 300 775 370 865 M 710 685 Q 780 775 710 865'/><path class='d' data-s='1.0' data-d='0.4' fill='none' stroke='#3a86c8' stroke-width='10' stroke-linecap='round' d='M 220 720 L 220 520 M 180 565 L 220 518 L 260 565 M 860 830 L 860 1030 M 820 985 L 860 1032 L 900 985'/><circle class='p' data-s='1.6' data-d='0.3' cx='540' cy='775' r='38' fill='#fbfaf5' stroke='#3a86c8' stroke-width='7'/><circle class='p' data-s='1.8' data-d='0.2' cx='465' cy='770' r='14' fill='#fbfaf5' stroke='#3a86c8' stroke-width='5'/><circle class='p' data-s='1.85' data-d='0.2' cx='615' cy='785' r='12' fill='#fbfaf5' stroke='#3a86c8' stroke-width='5'/><path class='d' data-s='2.2' data-d='0.3' fill='none' stroke='#e63946' stroke-width='8' stroke-linecap='round' d='M 540 700 L 540 660 M 470 715 L 445 685 M 610 715 L 635 685'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 96,
+          "color": "#e63946",
+          "s": 2.2,
+          "t": {
+            "en": "GAS BUBBLE",
+            "es": "BURBUJA DE GAS",
+            "fr": "BULLE DE GAZ",
+            "ja": "気泡"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 5.5,
+      "caption": {
+        "en": "That's why you can't crack it again right away: the gas needs time to *dissolve back*.",
+        "es": "Por eso no puedes volver a crujirlo enseguida: el gas necesita tiempo para *disolverse*.",
+        "fr": "C'est pour ça qu'on ne peut pas recommencer tout de suite : le gaz doit d'abord *se redissoudre*.",
+        "ja": "すぐにもう一度鳴らせないのは、ガスが再び*溶け込む*まで時間がかかるからです。"
+      },
+      "svg": "<circle class='p' data-s='0.1' data-d='0.4' cx='600' cy='750' r='190' fill='#fbfaf5' stroke='#1d1d1d' stroke-width='8'/><path class='d' data-s='0.5' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='8' stroke-linecap='round' d='M 690 750 L 715 750 M 540 900 L 540 925 M 390 750 L 365 750 M 540 600 L 540 575'/><path class='d' data-s='0.8' data-d='0.5' fill='none' stroke='#1d1d1d' stroke-width='10' stroke-linecap='round' d='M 600 750 L 600 615 M 600 750 L 690 800'/><circle class='p' data-s='1.2' data-d='0.3' cx='250' cy='580' r='34' fill='#fbfaf5' stroke='#3a86c8' stroke-width='7'/><circle class='p' data-s='1.4' data-d='0.3' cx='220' cy='730' r='22' fill='#fbfaf5' stroke='#3a86c8' stroke-width='6'/><circle class='p' data-s='1.6' data-d='0.3' cx='260' cy='860' r='12' fill='#fbfaf5' stroke='#3a86c8' stroke-width='5'/><circle class='p' data-s='1.8' data-d='0.3' cx='230' cy='950' r='6' fill='#fbfaf5' stroke='#3a86c8' stroke-width='4'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 96,
+          "color": "#e63946",
+          "s": 2.0,
+          "t": {
+            "en": "WAIT…",
+            "es": "ESPERA…",
+            "fr": "PATIENCE…",
+            "ja": "しばらく待つ"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 5.5,
+      "caption": {
+        "en": "That feeling of relief? Scientists think it's mostly the *stretch* easing tight muscles.",
+        "es": "¿Esa sensación de alivio? Los científicos creen que es sobre todo el *estiramiento*, que relaja los músculos tensos.",
+        "fr": "Et ce soulagement ? Les scientifiques pensent que c'est surtout l'*étirement* qui détend les muscles.",
+        "ja": "スッキリ感は？主に*ストレッチ*でこわばった筋肉がゆるむためだと考えられています。"
+      },
+      "svg": "<path class='d' data-s='0' data-d='0.7' fill='none' stroke='#1d1d1d' stroke-width='10' stroke-linecap='round' d='M 250 1010 Q 280 870 470 845 L 470 755 M 610 755 L 610 845 Q 800 870 830 1010'/><circle class='p' data-s='0.4' data-d='0.3' cx='510' cy='645' r='108' fill='#ffd166' stroke='#1d1d1d' stroke-width='8'/><path class='d' data-s='0.8' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='7' stroke-linecap='round' d='M 455 630 Q 472 648 490 630 M 530 630 Q 547 648 565 630 M 470 690 Q 510 718 550 690'/><path class='d' data-s='1.1' data-d='0.6' fill='none' stroke='#2a9d8f' stroke-width='16' stroke-linecap='round' d='M 605 730 Q 650 785 625 840 Q 660 880 730 875'/><path class='d' data-s='1.6' data-d='0.5' fill='none' stroke='#3a86c8' stroke-width='9' stroke-linecap='round' d='M 650 490 Q 560 430 450 470 M 490 430 L 448 470 L 495 498'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 96,
+          "color": "#2a9d8f",
+          "s": 2.0,
+          "t": {
+            "en": "STRETCH",
+            "es": "ESTIRAMIENTO",
+            "fr": "ÉTIREMENT",
+            "ja": "ストレッチ"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 6.5,
+      "caption": {
+        "en": "Gentle, occasional cracking is usually *harmless*. But never *force or jerk* your neck. Rarely, that can injure an artery.",
+        "es": "Crujirlo de vez en cuando y con suavidad suele ser *inofensivo*. Pero no *fuerces* el cuello: rara vez puede dañar una arteria.",
+        "fr": "Craquer doucement de temps en temps est généralement *sans danger*. Mais ne *force* jamais ton cou : rarement, ça peut léser une artère.",
+        "ja": "たまにやさしく鳴らす程度なら、ふつうは*無害*です。でも首を*強くひねる*のはやめましょう。まれに動脈を傷つけることがあります。"
+      },
+      "svg": "<path class='d' data-s='0.2' data-d='0.7' fill='none' stroke='#2a9d8f' stroke-width='34' stroke-linecap='round' d='M 160 770 L 260 870 L 430 620'/><path class='f' data-s='1.3' data-d='0.4' data-o='1' fill='#ffd166' opacity='0' d='M 740 580 L 920 900 L 560 900 Z'/><path class='d' data-s='1.0' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='10' stroke-linecap='round' d='M 740 580 L 920 900 L 560 900 Z'/><path class='d' data-s='1.7' data-d='0.3' fill='none' stroke='#e63946' stroke-width='22' stroke-linecap='round' d='M 740 680 L 740 800'/><circle class='p' data-s='1.9' data-d='0.2' cx='740' cy='850' r='14' fill='#e63946' stroke='#e63946' stroke-width='2'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 96,
+          "color": "#e63946",
+          "s": 2.2,
+          "t": {
+            "en": "BE GENTLE",
+            "es": "CON SUAVIDAD",
+            "fr": "DOUCEMENT",
+            "ja": "やさしく"
+          }
+        }
+      ]
+    },
+    {
+      "dur": 7,
+      "caption": {
+        "en": "Get *emergency help* if a neck crack is followed by a *sudden severe headache*, *dizziness*, *trouble seeing or speaking*, or *weakness*.",
+        "es": "Pide *ayuda urgente* si tras crujir el cuello aparece un *dolor de cabeza fuerte y repentino*, *mareo*, *problemas para ver o hablar*, o *debilidad*.",
+        "fr": "Appelle les *secours* si un craquement du cou est suivi d'un *mal de tête soudain et intense*, de *vertiges*, de *troubles de la vue ou de la parole*, ou d'une *faiblesse*.",
+        "ja": "首を鳴らした後に*突然の激しい頭痛*、*めまい*、*見えにくい・話しにくい*、*力が入らない*などがあれば、すぐに*救急*へ。"
+      },
+      "svg": "<path class='d' data-s='0' data-d='0.6' fill='none' stroke='#1d1d1d' stroke-width='10' stroke-linecap='round' d='M 190 540 L 420 540 L 420 1000 L 190 1000 Z M 190 610 L 420 610 M 190 930 L 420 930'/><path class='p' data-s='0.6' data-d='0.4' fill='#e63946' stroke='#e63946' stroke-width='2' d='M 280 680 L 330 680 L 330 745 L 395 745 L 395 795 L 330 795 L 330 860 L 280 860 L 280 795 L 215 795 L 215 745 L 280 745 Z'/><circle class='p' data-s='1.0' data-d='0.3' cx='740' cy='770' r='110' fill='#ffd166' stroke='#1d1d1d' stroke-width='8'/><path class='d' data-s='1.3' data-d='0.4' fill='none' stroke='#1d1d1d' stroke-width='7' stroke-linecap='round' d='M 700 750 m -14 -14 l 28 28 m 0 -28 l -28 28 M 780 750 m -14 -14 l 28 28 m 0 -28 l -28 28 M 705 820 Q 740 800 775 820'/><path class='d' data-s='1.6' data-d='0.5' fill='none' stroke='#3a86c8' stroke-width='7' stroke-linecap='round' d='M 740 610 Q 700 590 720 560 Q 750 540 770 570 Q 780 600 750 600'/><path class='d' data-s='1.9' data-d='0.3' fill='none' stroke='#e63946' stroke-width='8' stroke-linecap='round' d='M 630 600 l 20 -45 l 15 35 l 20 -45 M 820 600 l 20 -45 l 15 35 l 20 -45'/>",
+      "texts": [
+        {
+          "x": 540,
+          "y": 1200,
+          "size": 96,
+          "color": "#e63946",
+          "s": 2.2,
+          "t": {
+            "en": "GET HELP",
+            "es": "PIDE AYUDA",
+            "fr": "SECOURS",
+            "ja": "すぐ救急へ"
+          }
+        }
+      ]
+    }
+  ]
+}

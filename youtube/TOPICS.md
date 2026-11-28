@@ -58,7 +58,7 @@ Covered by ep01-ep20: stroke, heart attack, leg cramps, knuckle cracking, hiccup
 - todo: Why do your eyes get puffy in the morning?
 - todo: Why do you shiver when you have a fever?
 - todo: Why do your teeth feel sensitive to cold? (dentin hypersensitivity)
-- in progress: ep45-neck-cracking - What really happens when you crack your neck/back?
+- done: ep45-neck-cracking - What really happens when you crack your neck/back?
 - todo: Why do you get a dry mouth when nervous?
 - todo: Why do you get a "charley horse" vs. a cramp? (muscle knot myths)
 - todo: Why does asparagus make your pee smell?

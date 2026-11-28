@@ -2904,5 +2904,69 @@ C'est sans danger. Moins de caféine l'après-midi et un coucher régulier peuve
 ```
 - Tags: `ジャーキング, 入眠時ミオクローヌス, 寝る時 ビクッ, 寝る瞬間 びくっとする, 落ちる感覚, 睡眠, 体の雑学, 健康, 睡眠の豆知識, sketch clinic`
 
+### ep45-neck-cracking — English
+- File: `ep45-neck-cracking/ep45-neck-cracking-en.mp4`
+- Video language: English
+- Subtitles file: `ep45-neck-cracking/ep45-neck-cracking-en.srt` (Subtitles → Add language: English → Upload file → With timing)
+- Title: `What Really Happens When You Crack Your Neck? #Shorts`
+- Description:
+```
+That crack isn't bones snapping back into place. It comes from the small facet joints between your vertebrae, which are filled with fluid.
+When you stretch the joint, the pressure drops and a gas bubble forms with a pop. That's why you can't crack it again right away. Scientists think the relief comes mostly from the stretch easing tight muscles.
+Gentle, occasional cracking is usually harmless, but never force or jerk your neck: rarely, that can injure an artery in the neck. Get emergency help if a neck crack is followed by a sudden severe headache, dizziness, trouble seeing or speaking, or weakness. See a doctor if cracking comes with pain, swelling or stiffness that doesn't go away.
+Educational only — not medical advice. If you have symptoms, see a healthcare professional.
+
+#neckcracking #spine #bodyfacts #health #Shorts
+```
+- Tags: `neck cracking, crack your neck, is cracking your neck bad, why does my neck crack, back cracking, facet joints, joint popping, body facts, health, sketch clinic`
+
+### ep45-neck-cracking — Spanish  *(Phase 2 — only if the user asks)*
+- File: `ep45-neck-cracking/ep45-neck-cracking-es.mp4`
+- Video language: Spanish
+- Subtitles file: `ep45-neck-cracking/ep45-neck-cracking-es.srt` (Subtitles → Add language: Spanish → Upload file → With timing)
+- Title: `¿Qué pasa de verdad al crujirte el cuello? #Shorts`
+- Description:
+```
+Ese crujido no son huesos volviendo a su sitio. Viene de las pequeñas articulaciones facetarias entre tus vértebras, llenas de líquido.
+Al estirar la articulación, baja la presión y se forma una burbuja de gas con un crac. Por eso no puedes volver a crujirlo enseguida. Los científicos creen que el alivio viene sobre todo del estiramiento, que relaja los músculos tensos.
+Crujirlo de vez en cuando y con suavidad suele ser inofensivo, pero nunca fuerces ni sacudas el cuello: rara vez puede dañar una arteria. Pide ayuda urgente si después aparece un dolor de cabeza fuerte y repentino, mareo, problemas para ver o hablar, o debilidad. Consulta al médico si el crujido viene con dolor, hinchazón o rigidez que no se va.
+Solo con fines educativos: no es consejo médico. Si tienes síntomas, consulta a un profesional de la salud.
+
+#cuello #columna #cuerpohumano #salud #Shorts
+```
+- Tags: `crujir el cuello, tronar el cuello, es malo crujirse el cuello, por qué me cruje el cuello, crujir la espalda, articulaciones facetarias, columna vertebral, curiosidades del cuerpo, salud, sketch clinic`
+
+### ep45-neck-cracking — French  *(Phase 2 — only if the user asks)*
+- File: `ep45-neck-cracking/ep45-neck-cracking-fr.mp4`
+- Video language: French
+- Subtitles file: `ep45-neck-cracking/ep45-neck-cracking-fr.srt` (Subtitles → Add language: French → Upload file → With timing)
+- Title: `Que se passe-t-il vraiment quand on fait craquer son cou ? #Shorts`
+- Description:
+```
+Ce craquement, ce ne sont pas des os qui se remettent en place. Il vient des petites articulations facettaires entre tes vertèbres, remplies de liquide.
+Quand on étire l'articulation, la pression chute et une bulle de gaz se forme avec un crac. C'est pour ça qu'on ne peut pas recommencer tout de suite. Les scientifiques pensent que le soulagement vient surtout de l'étirement qui détend les muscles.
+Craquer doucement de temps en temps est généralement sans danger, mais ne force jamais ton cou : rarement, ça peut léser une artère du cou. Appelle les secours si ça est suivi d'un mal de tête soudain et intense, de vertiges, de troubles de la vue ou de la parole, ou d'une faiblesse. Consulte un médecin si le craquement s'accompagne d'une douleur, d'un gonflement ou d'une raideur qui persiste.
+À but éducatif uniquement, ce n'est pas un avis médical. En cas de symptômes, consulte un professionnel de santé.
+
+#cou #colonne #corpshumain #santé #Shorts
+```
+- Tags: `craquer le cou, faire craquer son cou, est-ce dangereux de craquer son cou, pourquoi mon cou craque, craquer le dos, articulations facettaires, colonne vertébrale, corps humain, santé, sketch clinic`
+
+### ep45-neck-cracking — Japanese  *(Phase 2 — only if the user asks)*
+- File: `ep45-neck-cracking/ep45-neck-cracking-ja.mp4`
+- Video language: Japanese
+- Subtitles file: `ep45-neck-cracking/ep45-neck-cracking-ja.srt` (Subtitles → Add language: Japanese → Upload file → With timing)
+- Title: `首をボキッと鳴らすと本当は何が起きる？ #Shorts`
+- Description:
+```
+あの音は、骨がもとの位置に戻る音ではありません。背骨の間にある小さな「椎間関節」から鳴っていて、関節の中は液体で満たされています。
+関節を引き伸ばすと圧力が下がり、気泡ができてポキッと鳴ります。すぐにもう一度鳴らせないのはこのため。スッキリ感は、主にストレッチで筋肉がゆるむためだと考えられています。
+たまにやさしく鳴らす程度なら、ふつうは無害です。でも首を強くひねるのはやめましょう。まれに首の動脈を傷つけることがあります。鳴らした後に突然の激しい頭痛、めまい、見えにくい・話しにくい、力が入らないなどがあれば、すぐに救急へ。痛みや腫れ、こわばりが続く場合も受診を。
+教育目的の情報であり、医療アドバイスではありません。症状がある場合は医療機関を受診してください。
+
+#首ポキ #背骨 #体の雑学 #健康 #Shorts
+```
+- Tags: `首を鳴らす, 首ポキ, 首を鳴らすのは危険, 首が鳴る 理由, 背中を鳴らす, 椎間関節, 背骨, 体の雑学, 健康, sketch clinic`
+
 ## Step 3 — Report back
 Send the user: channel URL, and a table of episode → video URL (all Public).
